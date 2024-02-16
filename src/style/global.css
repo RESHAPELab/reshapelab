@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@200&family=Montserrat:wght@100;200;500;600&display=swap');
+
+/* -----------Body-----------*/
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7B7B7B;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #2C2C2C;
+}
+
+/*-------ERRO, SUCESSO E ATENÇÃO---------*/
+@media (max-width: 768px) {
+    .mensagem {
+        min-width: 90%;
+    }
+}
+
+.mensagem {
+    width: 70%;
+    height: 10%;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+
+.mensagem span {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/*----------- PARA TODOS ----------*/
+.validacao {
+    color: red;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.opcoes {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+}
