@@ -4,7 +4,7 @@ import MembersResource from '../resource/people.js';
 let jsonData;
 
 async function fetchData() {
-    const response = await fetch('reshapelab/papers.bib');
+    const response = await fetch('papers.bib');
     const data = await response.text();
     jsonData = Cite.input(data);
 }
