@@ -44,7 +44,7 @@
             >
                 
             <button @click="inputTerm ? resetSearch() : search" :style="{backgroundColor: primary_color}" class="button search_button" >
-                <img :src="inputTerm ? '/icons/remove.png' : '/icons/search.png'" :alt="inputTerm ? 'Clean' : 'Search'" class="button-icon">
+                <img :src="inputTerm ? 'reshapelab/icons/remove.png' : 'reshapelab/icons/search.png'" :alt="inputTerm ? 'Clean' : 'Search'" class="button-icon">
             </button>
         </div>
 
