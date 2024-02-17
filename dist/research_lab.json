@@ -2,10 +2,10 @@
     "research_lab_name": "Research and Engineering in Software: Human Aspects, Practices, and Education",
     "research_lab_mission": "Our mission is to develop a better world using technology and responsability",
     "laboratory_images": {
-        "small_logo": "/images/logo/logo.png",
-        "large_logo": "/images/logo/logo.png",
-        "image_folder": "/images/background/home_background.png",
-        "people_background": "/images/background/people_background.jpg"
+        "small_logo": "reshapelab/images/logo/logo.png",
+        "large_logo": "reshapelab/images/logo/logo.png",
+        "image_folder": "reshapelab/images/background/home_background.png",
+        "people_background": "reshapelab/images/background/people_background.jpg"
     },
     "color_pallete": {
         "primary_color": "#11334C",
