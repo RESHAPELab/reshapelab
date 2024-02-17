@@ -4,8 +4,8 @@
     "laboratory_images": {
         "small_logo": "/images/logo/logo.png",
         "large_logo": "/images/logo/logo.png",
-        "image_folder": "/images/background/home_background.png",
-        "people_background": "/images/background/people_background.jpg"
+        "image_folder": "reshapelab/images/background/home_background.png",
+        "people_background": "reshapelab/images/background/people_background.jpg"
     },
     "color_pallete": {
         "primary_color": "#11334C",
