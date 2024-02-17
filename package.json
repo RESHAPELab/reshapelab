@@ -1,41 +1,46 @@
 {
-    "name": "research_lab_website",
-    "version": "0.0.0",
-    "private": true,
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview",
-        "test": "npx cypress run",
-        "coverage": "jest --coverage --coveragePath=coverage"
-    },
-    "dependencies": {
-        "@element-plus/icons-vue": "^2.1.0",
-        "@vuelidate/core": "^2.0.2",
-        "@vuelidate/validators": "^2.0.2",
-        "axios": "^1.6.0",
-        "bibtex-parser-js": "^0.0.2",
-        "bootstrap": "^5.3.0-alpha3",
-        "citation-js": "^0.7.4",
-        "date-fns": "^2.30.0",
-        "element-plus": "^2.3.4",
-        "imagesloaded": "^5.0.0",
-        "masonry-layout": "^4.2.2",
-        "vue": "^3.2.47",
-        "vue-router": "^4.1.6",
-        "vuex": "^4.1.0",
-        "webfontloader": "^1.6.28"
-    },
-    "devDependencies": {
-        "@types/vuelidate": "^0.7.17",
-        "@vitejs/plugin-vue": "^4.0.0",
-        "copy-webpack-plugin": "^11.0.0",
-        "cypress": "^13.2.0",
-        "file-loader": "^6.2.0",
-        "prettier": "3.0.3",
-        "unplugin-auto-import": "^0.15.3",
-        "unplugin-element-plus": "^0.7.1",
-        "unplugin-vue-components": "^0.24.1",
-        "vite": "^4.1.4"
-    }
+	"name":"research_lab_website",
+	"version":"0.0.0",
+	"private":true,
+	"scripts":{
+		"dev":"vite",
+		"build":"vite build",
+		"preview":"vite preview",
+		"test":"npx cypress run",
+		"coverage":"jest --coverage --coveragePath=coverage",
+		"predeploy":"npm run build",
+  	        "deploy":"gh-pages -d dist"
+	},
+	"dependencies":
+	{
+		"@element-plus/icons-vue":"^2.1.0",
+		"@vuelidate/core":"^2.0.2",
+		"@vuelidate/validators":"^2.0.2",
+		"axios":"^1.6.0",
+		"bibtex-parser-js":"^0.0.2",
+		"bootstrap":"^5.3.0-alpha3",
+		"citation-js":"^0.7.4",
+		"date-fns":"^2.30.0",
+		"element-plus":"^2.3.4",
+		"imagesloaded":"^5.0.0",
+		"masonry-layout":"^4.2.2",
+		"vue":"^3.2.47",
+		"vue-router":"^4.1.6",
+		"vuex":"^4.1.0",
+		"webfontloader":"^1.6.28"
+	},
+	"devDependencies":
+	{
+		"@types/vuelidate":"^0.7.17",
+		"@vitejs/plugin-vue":"^4.0.0",
+		"copy-webpack-plugin":"^11.0.0",
+		"cypress":"^13.2.0",
+		"file-loader":"^6.2.0",
+		"gh-pages":"^6.1.1",
+		"prettier":"3.0.3",
+		"unplugin-auto-import":"^0.15.3",
+		"unplugin-element-plus":"^0.7.1",
+		"unplugin-vue-components":"^0.24.1",
+		"vite":"^4.1.4"
+	}
 }
