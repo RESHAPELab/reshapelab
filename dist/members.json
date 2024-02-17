@@ -1,0 +1,191 @@
+{
+    "members": [
+        {
+            "first_name": "Daniel",
+            "last_name": "Coutinho",
+            "role": "Visitor",
+            "contacts": {
+                "email": "contact@danieljbc.com",
+                "github": "danieljbc"
+            },
+            "description": "A PhD Student in PUC-Rio (Brazil), currently doing a sandwich doctorate in Northern Arizona University. In my masters degree, I studied design decay (code metrics, smells, and refactoring) by mining open-source repositories. Currently I'm working on mining open-source repositories to study human aspects of software engineering (e.g., toxicity, sentiment, personality, etc.).",
+            "research_keywords": [
+                "Mining Software Repositories",
+                "Design Decay",
+                "Open-Source Development",
+                "Human Aspects of Software Engineering"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/daniel_coutinho/image_with_background.png",
+                "photo_without_background": "/images/people/daniel_coutinho/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Jacob",
+            "last_name": "Penney",
+            "role": "PhD Student",
+            "contacts": {
+              "email": "jacob_penney@nau.edu",
+              "github": "mcauley-penney"
+            },
+            "description": "PhD student researching skill set development with Large Language Models and with a research background in Machine Learning",
+            "research_keywords": [
+              "Large Language Models",
+              "Foundation Models",
+              "Computer Science Pedagogy"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/jacob_penney/image_with_background.png",
+                "photo_without_background": "/images/people/jacob_penney/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "João",
+            "last_name": "Correia",
+            "role": "Visitor",
+            "contacts": {
+                "email": "marques.correia@nau.edu",
+                "github": "correiajoao"
+            },
+        
+            "description": "I am currently Ph.D. Student at Pontifical Catholic University of Rio de Janeiro - PUC-Rio, concurrently enrolled in a sandwich doctorate program at Northern Arizona University - NAU. My research focuses on exploring non-functional requirements and human factors within the realm of open source software.",
+            "research_keywords": [
+                "Non-functional requirements",
+                "Human factors",
+                "Repository mining"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/joao_correia/image_with_background.png",
+                "photo_without_background": "/images/people/joao_correia/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Ana Paula",
+            "last_name": "Steinmacher",
+            "role": "Alumni (PhD)",
+        
+            "contacts": {
+                "email": "Ana.Chaves@nau.edu",
+                "github": "chavesana"
+            },
+        
+            "description": "I am an Assistant Teaching Professor at the Northern Arizona University since August 2022. I have a Master's degree in Computer Sciences from the State University of Maringá - Brazil (2009) and a Ph.D. in Informatics and Computer from the Northern Arizona University - USA (2020). Before joining the NAU, I worked as a Lecturer at the Federal University of Technology - Paraná, Campus Campo Mourão, Brazil for 12 years. I have experience teaching undergraduate courses and advising students in Capstone, research, and extension projects.",
+            "research_keywords": [
+                "Human Computer Interaction",
+                "Chatbot Language Design",
+                "Software Engineering"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/ana_paula_chaves_steinmacher/image_with_background.png",
+                "photo_without_background": "/images/people/ana_paula_chaves_steinmacher/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Fabio",
+            "last_name": "Santos",
+            "role": "Alumni (PhD)",
+        
+            "contacts": {
+                "email": "fabio_santos@nau.edu",
+                "github": "fabiojavamarcos"
+            },
+        
+            "description": "I am a NAU Alumni and worked with Dr Gerosa and Dr Igor to reveal the skills newcomers should have to solve open issues in open source software projects",
+            "research_keywords": [
+                "Software Engineering",
+                "Mining Software Repositories",
+                "Knowledge Modeling"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/fabio_santos/image_with_background.png",
+                "photo_without_background": "/images/people/fabio_santos/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Bianca",
+            "last_name": "Trinkenreich",
+            "role": "Alumni (PhD)",
+            "contacts": {
+                "email": "bianca_trinkenreich@nau.edu",
+                "github": "biancatrink"
+            },
+        
+            "description": "Bianca is an interdisciplinary researcher focused on sustainability within software engineering teams, exploring areas such as Diversity & Inclusion, Technostress, Developer Productivity, and Experience. She specializes in Empirical Software Engineering and has gained significant recognition in her field, serving as the first author of papers published in esteemed venues including ICSE, ESEM, CSCW, IST, TSE, and TOSEM. Her contributions have earned her accolades, such as the Distinguished Paper Award at ICSE Technical Track 2023, the Best Paper Award at ICSE SEIS 2022, and an Honored Mention Award at CSCW 2020, among others. Beyond academia, Bianca is a member of the Steering Committee for the Linux Foundation Software Developer Diversity and Inclusion initiative. With two decades of experience in the IT industry before her research career, Bianca possesses a unique ability to bridge the gap between academia and industry.",
+            "research_keywords": [
+                "Human Factors of Software Engineering",
+                "Computer-Supported Cooperative Work"
+            ],
+            "photos": {
+                "photo_with_background": "/images/people/bianka_trinkenreich/image_with_background.png",
+                "photo_without_background": "/images/people/bianka_trinkenreich/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Igor",
+            "last_name": "Steinmacher",
+            "role": "Assistant Professor",
+            "bibitex_name": "",
+            "photos": {
+                "photo_with_background": "/images/people/igor_steinmacher/image_with_background.png",
+                "photo_without_background": "/images/people/igor_steinmacher/image_without_background.png"
+            },
+            "contacts": {
+                "email": "test@mail.com",
+                "github": ""
+            },
+            "description": "I am an Assistant Professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University. I completed a Ph.D. in Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo in 2015.  Previously, I was a visiting scholar at the University of California, Irvine from July 2013 to January 2014. I am also a member of the Software Engineering and Collaborative Systems Research Group from the University of São Paulo, and the Research Group on Information Systems from the State University of Maringá (UEM). I research the intersections of Software Engineering (SE) and Computer Supported Cooperative Work (CSCW). Currently, I am working on the support of newcomers to Open Source Software development communities and gender bias in Open Source Software, in addition to understanding the impacts of Foundational Models in Education and in Software Development (from a human perspective). I am interested in Open Source Software, Human Aspects of Software Engineering, Empirical Software Engineering, and Mining Software Repository techniques. I am currently general co-chair of ICSME 2024 (come visit Flagstaff), general co-chair of ICPC 2024 (see you in Lisbon), and PC co-chair for SBES 2024 (Curitiba, here we go). Previously, I chaired CHASE 2023, was the PC co-chair of ICSSP/ICGSE 2022, OSS 2022, and SBES-IIER 2022, co-chair of ICSE SCORE 2021, co-chair of MSR FOSS award 2019 and 2020, Associate Chair for ACM CSCW 2021, among others. I was part of several PCs, including ICSE, ICSE-NIER, MSR, CSCW, ICGSE, OSS, and EASE.",
+            "research_keywords": [
+                "Open Source Software", 
+                "Human Aspects of Software Engineering", 
+                "Empirical Software Engineering", 
+                "Mining Software Repository techniques" 
+            ],
+            "projects": [
+                "Diversity in Open Source Software",
+                "Open Science"
+            ],
+            "author_name": ["Igor Steinmacher"]
+        },
+        {
+            "first_name": "Marco Aurélio",
+            "last_name": "Gerosa",
+            "role": "Professor",
+            "photos": {
+                "photo_with_background": "/images/people/marco_gerosa/image_with_background.png",
+                "photo_without_background": "/images/people/marco_gerosa/image_without_background.png"
+            },
+            "contacts": {
+                "email": "test@mail.com",
+                "github": ""
+            },
+            "description": "I am a Professor at the Northern Arizona University (NAU) and a member of the Computer Science Graduate Program at the University of São Paulo (USP), Brazil. A more formal bio can be found on the career page. I research Human Aspects of Software Engineering and Software Engineering Education (see more details on the Research page). Currently, I am working on the analysis and support of open-source software (OSS) development communities and collaborative systems in general. I have been serving on the program committee of important conferences, including ICSE, FSE, MSR, and CSCW. I am one of the general organizers of ICSME 2024 and has been PC Chair/Co-Chair of several events, such as BotSE, IWESEP, SBES, ICGSE, etc.",
+            "research_keywords": [
+                "Empirical Software Engineering",
+                "Software Engineering Education",
+                "Mining Software Repositories",
+                "AI-Assited Software Engineering",
+                "OSS communities",
+                "Software Evolution",
+                "Bots/chatbots",
+                "CSCW"
+            ],
+            "projects": [
+                "Diversity in Open Source Software",
+                "Open Science"
+            ],
+            "author_name": [
+                "Marco Gerosa", 
+                "Marco Aurélio Gerosa", 
+                "Marco Aurelio Gerosa",
+                "Marco A. Gerosa", 
+                "Marco A Gerosa",
+                "Gerosa, Marco Aurélio",
+                "Gerosa, Marco Aurelio",
+                "Gerosa, Marco A.",
+                "Gerosa, Marco A",
+                "Marco Aurélio",
+                "Marco Aurelio"
+            ]
+        }
+    ]
+}
