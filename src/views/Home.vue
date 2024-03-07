@@ -1,7 +1,13 @@
 <template>
     <section>
         <div class="home_background_image" :style="{ backgroundImage: `url(${background_image})` }">
-            <p class = "font_mission"> {{ mission }} </p>
+            <a>
+                <img 
+                    class = "largeLogo" 
+                    :src= "large_logo"
+                    alt = "university_large_logo"
+                >
+            </a>
         </div>
 
         <div class = "title"> <p> News </p> </div>
@@ -58,6 +64,12 @@
     display: flex;
 }
 
+.largeLogo {
+    width: min(80vw, 500px);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .title {
     font-size: min(8vw, 1cm);
     line-height: min(8vw, 1cm);
@@ -110,11 +122,11 @@
 
         data() {
             return {
-                home_page_background_image: "",
                 primary_color: research_lab.color_pallete.primary_color,
                 secundary_color: research_lab.color_pallete.secundary_color,
                 mission: research_lab.research_lab_mission,
                 background_image: research_lab.laboratory_images.image_folder,
+                large_logo: "images/logo/large_logo.png",
                 news: [],
                 
                 masonry: null,
