@@ -8,8 +8,8 @@
         "people_background": "images/background/people_background.jpg"
     },
     "color_pallete": {
-        "primary_color": "#11334C",
-        "secundary_color": "#EF8975",
+        "primary_color": "#005F71",
+        "secundary_color": "#FF7C68",
         "terciary_color": "#252D39",
         "quaternary_color": "#3C485E",
         "black_color": "#000000",

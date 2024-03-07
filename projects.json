@@ -1,36 +1,59 @@
 {
     "projects": [
         {
-            "project_name": "Diversity in Open Source Software",
+            "project_name": "Diversity and Inclusion in Open Source",
             "project_key_words": [
-                "Open Source Software",
-                "Diversity",
-                "Software",
-                "Open Source Software",
-                "Diversity",
-                "Software",
-                "Open Source Software",
-                "Diversity",
-                "Software"
+                "open source",
+                "diversity and inclusion",
+                "software engineering"
             ],
-            "project_description": "Software development is usually a collaborative venture. Open Source Software (OSS) projects are no exception; indeed, by design, the OSS approach can accommodate teams that are more open, geographically distributed, and dynamic than commercial teams. This, we find, leads to OSS teams that are quite diverse. Team diversity, predominantly in offline groups, is known to correlate with team output, mostly with positive effects. How about in OSS? Using GitHub, the largest publicly available collection of OSS projects, we studied how gender and tenure diversity relate to team productivity and turnover. Using regression modeling of GitHub data and the results of a survey, we show that both gender and tenure diversity are positive and significant predictors of productivity. These results can inform decision making on all levels, leading to better outcomes in recruiting and performance. Software development is usually a collaborative venture. Open Source Software (OSS) projects are no exception; indeed, by design, the OSS approach can accommodate teams that are more open, geographically distributed, and dynamic than commercial teams. This, we find, leads to OSS teams that are quite diverse. Team diversity, predominantly in offline groups, is known to correlate with team output, mostly with positive effects. How about in OSS? Using GitHub, the largest publicly available collection of OSS projects, we studied how gender and tenure diversity relate to team productivity and turnover. Using regression modeling of GitHub data and the results of a survey, we show that both gender and tenure diversity are positive and significant predictors of productivity. These results can inform decision making on all levels, leading to better outcomes in recruiting and performance.",
-            "short_project_description": "Software development is usually a collaborative venture. Open Source Software (OSS) projects are no exception; indeed, by design, the OSS approach can accommodate teams that are more open, geographically distributed, and dynamic than commercial teams. This, we find, leads to OSS teams that are quite diverse. Team diversity, predominantly in offline groups, is known to correlate with team output, mostly with positive effects. How about in OSS?",
+            "project_description": "In this research project, we investigate whether and how open source software (OSS) have gender biases tied with minorities, and how to remove any such biases that are found. Minorities are vastly underrepresented among OSS developers. This is a significant concern to OSS communities because it prevents them from receiving the benefits of a larger talent pool and the benefits that ensue from team diversity. Further, the problem feeds upon itself: developers who are from minorities then miss out on the learning and professional growth opportunities that OSS projects provide, and professional opportunities evade minorities when open source contributions are used to make hiring decisions, both of which hold them back from OSS engagement.",
+            "short_project_description": "We are interested in making OSS more inclusive and diverse, by understanding the landscape and proposing interventions.",
             "images": {
-                "small_image": "images/projects/DiversityinOpenSourceSoftware/image_with_background.png"
+                "small_image": "/images/projects/minorities_OSS.png"
             }
         },
         {
-            "project_name": "Open Science",
+            "project_name": "Skill Matching in Software Projects",
             "project_key_words": [
-                "open science",
                 "open source",
-                "science"
+                "newcomers",
+                "onboarding",
+                "skills",
+                "recommendation"
             ],
-            "project_description": "Open science is the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional. It encompasses practices such as publishing open research, campaigning for open access, encouraging scientists to practice open notebook science, and generally making it easier to publish and communicate scientific knowledge. The European-funded project Facilitate Open Science Training for European Research (FOSTER) has developed a set of ten free online courses, or e-learning modules, to help researchers, postgraduate students, librarians and other professionals working in higher education and research to understand the concept of open science and how to put it into practice.",
-            "short_project_description": "Software development is usually a collaborative venture. Open Source Software (OSS) projects are no exception; indeed, by design, the OSS approach can accommodate teams that are more open, geographically distributed, and dynamic than commercial teams. This, we find, leads to OSS teams that are quite diverse. Team diversity, predominantly in offline groups, is known to correlate with team output, mostly with positive effects. How about in OSS?",
+            "project_description": "In this research, we aim to develop applicable principles and methods to scaffold the newcomers' skill acquisition as they onboard into an Open Source Software (OSS) project. This research brings new insights that can improve how newcomers onboard to software projects and to open source communities. This project encompasses different types of empirical studies and devvelopment of tools to help matching skills of tasks and developers.",
+            "short_project_description": "This project aims at creating ways to recommend tasks according to the skills of the contributors.",
             "images": {
-                "small_image": "images/projects/OpenScience/image_with_background.png"
+                "small_image": "/images/projects/Skills_OSS.png"
             }
-        }
+        }, 
+        {
+            "project_name": "Open Source in Education",
+            "project_key_words": [
+                "open source",
+                "education and training",
+                "onboarding",
+                "software engineering",
+                "newcomers"
+            ],
+            "project_description": "We expand knowledge about how to leverage an authentic OSS project as a learning environment and how to engage learners in the activities. As part of this project we use different approaches to support students to learn software engineering concepts and open source process by means of innovative and inclusive approaches, changing the traditional learning experience. This include the use of worked examples, gamification, conversation agents, and large language models. We also explore the impact of using OSS in classroom. This project involves several empirical methods, including lab studies, field studies, observation, experiments, and analysis of documents. We believe that learning on top of OSS helps students to learn on real settings and to build a professional resumé based on OSS contributions",
+            "short_project_description": "We investigate different approaches to leverage Open Source to promote a real world experience to learners.",
+            "images": {
+                "small_image": "/images/projects/OSS_learning.png"
+            }
+        },
+        {
+            "project_name": "Large Language Models in Education",
+            "project_key_words": [
+                "Large Language Models",
+                "education and training"
+            ],
+            "project_description": "In this research line, we aim to understand the new advances in Large Language Models and how we can leverage it to create a better learning experience for students. By means of developing tools on top of existing models, and conducting series of experiements, we aim to provide guidelines and infrastructure that benefit instructors and students durint the teaching-learning process.",
+            "short_project_description": "We are interested in understanding the power of LLMs for learning",
+            "images": {
+                "small_image": "/images/projects/LLM_Learning.png"
+            }
+        } 
     ]
 }

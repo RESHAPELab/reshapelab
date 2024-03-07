@@ -147,6 +147,66 @@
             "author_name": ["Igor Steinmacher"]
         },
         {
+            "first_name": "Igor",
+            "last_name": "Wiese",
+            "role": "Alumni (Postdoc)",
+            "photos": {
+                "photo_with_background": "images/people/igor_wiese/image_with_background.png",
+                "photo_without_background": "images/people/igor_wiese/image_without_background.png"
+            },
+            "contacts": {
+                "email": "igor.wiese@gmail.com",
+                "github": "igorwiese"
+            },
+            "description": "I completed a PhD in Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo in March 2016. I am a Full Professor at the Federal University of Technology - Paraná (UTFPR), Brazil. I was a Visiting Scholar at the University of California, Irvine, from July 2013 to January 2014 and a post-doctoral Scholar at Northern Arizona University (NAU) from July 2019 to February 2021. Most of my research uses AI and Data Science techniques to leverage software engineering tasks.",
+            "research_keywords": [
+                "Human Aspects of Software Engineering",
+                "Mining Software Repositories",
+                "Supporting newcomers to Open Source Software development"
+            ],
+            "author_name": ["Igor Wiese"]
+        },
+        {
+            "first_name": "Marieli",
+            "last_name": "Wessel",
+            "role": "Alumni (PhD)",
+            "photos": {
+                "photo_with_background": "images/people/mairieli_wessel/image_with_background.png",
+                "photo_without_background": "images/people/mairieli_wessel/image_without_background.png"
+            },
+            "contacts": {
+                "email": "mairieli.wessel@ru.nl",
+                "github": "mairieli"
+            },
+            "description": "Mairieli Wessel is an assistant professor at Radboud University, The Netherlands. Upon receiving her Ph.D. in Computer Science from the University of São Paulo (USP), she was awarded the Best Brazilian Ph.D. Thesis on Software Engineering in 2021. Her research interests include software engineering (SE) and computer-supported cooperative work (CSCW). Recent projects include the development of tools and strategies to support open-source software communities and the design of bots and conversational tools.",
+            "research_keywords": [
+                "Human Aspects of Software Engineering",
+                "Empirical Software Engineering",
+                "Mining Software Repositories"
+            ],
+            "author_name": ["Marieli Wessel"]
+        },
+        {
+            "first_name": "Italo",
+            "last_name": "Santo",
+            "role": "PhD Student",
+            "photos": {
+                "photo_with_background": "images/people/italo_santo/image_with_background.png",
+                "photo_without_background": "images/people/italo_santo/image_without_background.png"
+            },
+            "contacts": {
+                "email": "ids37@nau.edu",
+                "github": "italo-07"
+            },
+            "description": "Ítalo is a Doctoral Student in Informatics and Computing at Northern Arizona University, USA. Master in Computer Science and Computational Mathematics, in the research line of Software Engineering and Information Systems, from the Institute of Mathematical and Computer Sciences (ICMC) of the University of São Paulo (USP). He serves as the representative of NAU's College of Engineering, Informatics, and Applied Sciences (CEIAS) in the graduate student government (GSG). He works as a Teaching Assistant at Northern Arizona University, guiding different project teams to guide them through their capstone project, from planning and requirements analysis to the implementation and testing phase of the project.",
+            "research_keywords": [
+                "Open source software",
+                "Gamification in SE",
+                "Empirical software engineering"
+            ],
+            "author_name": ["Italo Santo"]
+        },
+        {
             "first_name": "Marco Aurélio",
             "last_name": "Gerosa",
             "role": "Professor",
