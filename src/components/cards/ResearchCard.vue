@@ -61,9 +61,9 @@ export default  {
 }
 
 .card-image {
-    height: 250px;
+    height: 270px;
     width: auto;
-    background-size: contain;
+    background-size: 100% auto;
     background-position: center;
     background-repeat: no-repeat;
     background-color: #d6d6d6;
@@ -102,19 +102,4 @@ export default  {
     margin-top: -10px;
 }
 
-@media (min-width: 700px) {
-    .card {
-        flex-direction: row;
-        width: min(90vw, 800px);
-        margin-left: 30px;
-        margin-right: 30px;
-        margin-bottom: 20px;
-        align-items: center; 
-        background-color: #d6d6d6;
-    }
-
-    .card-image {
-        width: 300%;
-    }
-}
 </style>

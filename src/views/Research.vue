@@ -152,6 +152,7 @@ export default {
     flex-direction: column;
     align-items: center;
     margin-bottom: 10px;
+    width: min(800px, 90vw);
 }
 
 </style>

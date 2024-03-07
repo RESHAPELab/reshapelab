@@ -5,7 +5,7 @@ const ProjectsResource = {
     getProjects() {
         const projects = data.projects.map(project => ({
             title: project.project_name,
-            description: project.short_project_description,
+            description: project.project_description,
             image: project.images.small_image,
         }));
         

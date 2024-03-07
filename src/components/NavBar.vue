@@ -83,7 +83,7 @@ header {
 
 .topPartNavBar {
     width: 100vw;
-    height: 1.5cm;
+    height: 1.75cm;
     justify-content: right;
     align-items: center;
     display: flex;
@@ -104,8 +104,8 @@ header {
 }
 
 .topBarLogo {
-    height: 0.75cm;
-    margin-right: 1cm;
+    height: 1.5cm;
+    margin-right: 0.5cm;
 }
 
 .buttonTopBar {
