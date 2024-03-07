@@ -1,14 +1,14 @@
 {
-    "research_lab_name": "Research and Engineering in Software: Human Aspects, Practices, and Education",
+    "research_lab_name": "Research in Software: Human Aspects, Practices and Education",
     "research_lab_mission": "Our mission is to develop a better world using technology and responsability",
     "laboratory_images": {
-        "small_logo": "imageslogo/logo.png",
-        "large_logo": "image/logo/logo.png",
+        "logo": "images/logo/logo.png",
+        "large_logo": "images/logo/large_logo.png",
         "image_folder": "images/background/home_background.png",
         "people_background": "images/background/people_background.jpg"
     },
     "color_pallete": {
-        "primary_color": "#005F71",
+        "primary_color": "#002D33",
         "secundary_color": "#FF7C68",
         "terciary_color": "#252D39",
         "quaternary_color": "#3C485E",
