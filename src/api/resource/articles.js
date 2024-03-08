@@ -3,15 +3,15 @@ import MembersResource from '../resource/people.js';
 
 let jsonData;
 
-async function fetchData() {
-    const response = await fetch('papers.bib');
+async function fetchData(bib_route) {
+    const response = await fetch(bib_route);
     const data = await response.text();
     jsonData = Cite.input(data);
 }
 
 const ArticlesResource = {
     async getArticlesByAuthor(names) {
-        await fetchData();
+        await fetchData('../papers.bib');
 
         return jsonData.filter(article => {
             
@@ -27,7 +27,7 @@ const ArticlesResource = {
     },
 
     async getAllArticles() {
-        await fetchData();
+        await fetchData('papers.bib');
 
         return jsonData.sort((a, b) => {
             const yearA = a.issued['date-parts'][0][0];
