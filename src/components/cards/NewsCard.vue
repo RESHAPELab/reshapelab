@@ -10,7 +10,7 @@
         <p class = "date"> {{ date }} </p>
         <p class = "title" > {{ title }} </p>
         
-        <button class = "read_more" :style="{ backgroundColor: primary_color }"> 
+        <button class = "read_more" :style="{ backgroundColor: primary_color }" @click = "goToNews"> 
             <div class = "link-container"> <!-- Add this div -->
                 <div class = "link"> Read About </div>
                 <img src="/icons/arrow_right.png" alt="Read About" class = "read_icon"/>
@@ -41,6 +41,13 @@ export default {
         tag: String,
         image: String,
         description: String,
+        id:String,
+    },
+
+    methods: {
+        goToNews() {
+            this.$router.push(`/news/${this.id}`);
+        }
     }
 }
 

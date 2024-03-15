@@ -21,6 +21,7 @@
                     :date="notice.date"
                     :tag="notice.tag"
                     :image="notice.image"
+                    :id="notice.id"
                     class="grid-item"
                 />
             </div>

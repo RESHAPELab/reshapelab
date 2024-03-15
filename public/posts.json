@@ -1,6 +1,7 @@
 {
     "posts": [
         {
+            "id": "20240301_USES",
             "title": "Collaboration USES/UFAM -- RESHAPE/NAU! ",
             "date": "2024-03-01",
             "person": ["igor steinmacher"],
@@ -9,6 +10,7 @@
             "image": "images/posts/20240301_USES.jpg"
         },
         {
+            "id": "20240301_ICSE",
             "title": "RESHAPE Lab hat trick at ICSE 2024! ",
             "date": "2024-03-01",
             "person": ["bianca trinkenreich", "igor steinmacher", "marco gerosa", "joao felipe pimentel"],
@@ -17,6 +19,7 @@
             "image": "images/posts/20240301_ICSE.jpg"
         },
         {
+            "id": "20240201_BIANCA_AWARD",
             "title": "Bianca Trinkenreich received the 2024 ACM SIGSOFT Distinguished Dissertation Award",
             "date": "2024-02-01",
             "person": ["bianca trinkenreich", "igor steinmacher", "marco gerosa"],

@@ -13,21 +13,24 @@
             </div>
         </div>
 
-        <p class = "normal_title title_keywords"> KEYWORDS </p>
+        <p class = "normal_title"> KEYWORDS </p>
 
         <div> 
             <div class="key_words_container">
-            <KeyWordsCard
-                v-if="project.project_key_words"
-                v-for="(keyword, index) in project.project_key_words"
-                :key=index
-                :keyword=keyword.text
-                :class="{ 'vibrate': keyword.shouldVibrate }"
-            />
+                <KeyWordsCard
+                    v-if="project.project_key_words"
+                    v-for="(keyword, index) in project.project_key_words"
+                    :key=index
+                    :keyword=keyword.text
+                    :class="{ 'vibrate': keyword.shouldVibrate }"
+                />
             </div>
-        </div>
 
-        <p class = "normal_title"> RESEARCHERS </p>
+            <p class = "normal_title"> 
+                RESEARCHERS 
+            </p>
+
+        </div>
 
         <div class = "grid_container"> 
             <ProjectMemberCard
