@@ -18,7 +18,8 @@
             "photos": {
                 "photo_with_background": "images/people/daniel_coutinho/image_with_background.png",
                 "photo_without_background": "images/people/daniel_coutinho/image_without_background.png"
-            }
+            },
+            "author_name": ["Daniel Coutinho"]
         },
         {
             "first_name": "Jacob",
@@ -37,7 +38,8 @@
             "photos": {
                 "photo_with_background": "images/people/jacob_penney/image_with_background.png",
                 "photo_without_background": "images/people/jacob_penney/image_without_background.png"
-            }
+            },
+            "author_name": ["Jacob Penney"]
         },
         {
             "first_name": "João",
@@ -57,7 +59,8 @@
             "photos": {
                 "photo_with_background": "images/people/joao_correia/image_with_background.png",
                 "photo_without_background": "images/people/joao_correia/image_without_background.png"
-            }
+            },
+            "author_name": ["João Correia", "Joao Correia"]
         },
         {
             "first_name": "Ana Paula",
@@ -78,7 +81,8 @@
             "photos": {
                 "photo_with_background": "images/people/ana_paula_chaves_steinmacher/image_with_background.png",
                 "photo_without_background": "images/people/ana_paula_chaves_steinmacher/image_without_background.png"
-            }
+            },
+            "author_name": ["Ana Steinmacher", "Ana Paula Steinmacher", "Paula Steinmacher"]
         },
         {
             "first_name": "Fabio",
@@ -99,7 +103,8 @@
             "photos": {
                 "photo_with_background": "images/people/fabio_santos/image_with_background.png",
                 "photo_without_background": "images/people/fabio_santos/image_without_background.png"
-            }
+            },
+            "author_name": ["Fabio Santos"]
         },
         {
             "first_name": "Bianca",
@@ -118,28 +123,33 @@
             "photos": {
                 "photo_with_background": "images/people/bianka_trinkenreich/image_with_background.png",
                 "photo_without_background": "images/people/bianka_trinkenreich/image_without_background.png"
-            }
+            },
+            "author_name": ["Bianca Trinkenreich"]
         },
         {
             "first_name": "Igor",
             "last_name": "Steinmacher",
             "role": "Assistant Professor",
-            "bibitex_name": "",
+            "contacts": {
+                "email": "Igor.Steinmacher@nau.edu",
+                "github": "igorsteinmacher",
+                "twitter": "@igorsteinmacher" 
+            },
+            "description": "I am an Assistant Professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University. I completed a Ph.D. in Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo in 2015. Previously, I was a visiting scholar at the University of California, Irvine from July 2013 to January 2014. I am also a member of the Software Engineering and Collaborative Systems Research Group from the University of São Paulo, and the Research Group on Information Systems from the State University of Maringá (UEM). I research the intersections of Software Engineering (SE) and Computer Supported Cooperative Work (CSCW). I am intested in diversity and inclusion in Open Source Software development communities, in addition to understanding the impacts of Foundational Models in Education and in Software Development (from a human perspective). I chaired several regional and international events and was part of several PCs, including ICSE, ICSE-NIER, MSR, CSCW, ICGSE, OSS, and EASE.",
+            "research_keywords": [  
+                "Empirical Software Engineering",
+                "Software Engineering Education",
+                "Mining Software Repositories",
+                "AI-Assited Software Engineering",
+                "OSS communities",
+                "Software Evolution",
+                "Bots/chatbots",
+                "CSCW"
+            ],
             "photos": {
                 "photo_with_background": "images/people/igor_steinmacher/image_with_background.png",
                 "photo_without_background": "images/people/igor_steinmacher/image_without_background.png"
             },
-            "contacts": {
-                "email": "test@mail.com",
-                "github": ""
-            },
-            "description": "I am an Assistant Professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University. I completed a Ph.D. in Computer Science at the Institute of Mathematics and Statistics at the University of São Paulo in 2015.  Previously, I was a visiting scholar at the University of California, Irvine from July 2013 to January 2014. I am also a member of the Software Engineering and Collaborative Systems Research Group from the University of São Paulo, and the Research Group on Information Systems from the State University of Maringá (UEM). I research the intersections of Software Engineering (SE) and Computer Supported Cooperative Work (CSCW). Currently, I am working on the support of newcomers to Open Source Software development communities and gender bias in Open Source Software, in addition to understanding the impacts of Foundational Models in Education and in Software Development (from a human perspective). I am interested in Open Source Software, Human Aspects of Software Engineering, Empirical Software Engineering, and Mining Software Repository techniques. I am currently general co-chair of ICSME 2024 (come visit Flagstaff), general co-chair of ICPC 2024 (see you in Lisbon), and PC co-chair for SBES 2024 (Curitiba, here we go). Previously, I chaired CHASE 2023, was the PC co-chair of ICSSP/ICGSE 2022, OSS 2022, and SBES-IIER 2022, co-chair of ICSE SCORE 2021, co-chair of MSR FOSS award 2019 and 2020, Associate Chair for ACM CSCW 2021, among others. I was part of several PCs, including ICSE, ICSE-NIER, MSR, CSCW, ICGSE, OSS, and EASE.",
-            "research_keywords": [
-                "Open Source Software", 
-                "Human Aspects of Software Engineering", 
-                "Empirical Software Engineering", 
-                "Mining Software Repository techniques" 
-            ],
             "projects": [
                 "Diversity in Open Source Software",
                 "Open Science"
@@ -207,19 +217,16 @@
             "author_name": ["Italo Santo"]
         },
         {
-            "first_name": "Marco Aurélio",
+            "first_name": "Marco",
             "last_name": "Gerosa",
             "role": "Professor",
-            "photos": {
-                "photo_with_background": "images/people/marco_gerosa/image_with_background.png",
-                "photo_without_background": "images/people/marco_gerosa/image_without_background.png"
-            },
             "contacts": {
-                "email": "test@mail.com",
-                "github": ""
+                "email": "Marco.Gerosa@nau.edu",
+                "github": "marcogerosa",
+                "twitter": "@gerosa_marco"
             },
-            "description": "I am a Professor at the Northern Arizona University (NAU) and a member of the Computer Science Graduate Program at the University of São Paulo (USP), Brazil. A more formal bio can be found on the career page. I research Human Aspects of Software Engineering and Software Engineering Education (see more details on the Research page). Currently, I am working on the analysis and support of open-source software (OSS) development communities and collaborative systems in general. I have been serving on the program committee of important conferences, including ICSE, FSE, MSR, and CSCW. I am one of the general organizers of ICSME 2024 and has been PC Chair/Co-Chair of several events, such as BotSE, IWESEP, SBES, ICGSE, etc.",
-            "research_keywords": [
+            "description": "I am a Professor at the Northern Arizona University (NAU) and a member of the Computer Science Graduate Program at the University of São Paulo (USP), Brazil. I research Human Aspects of Software Engineering and Software Engineering Education. I have been serving on the program committee of important conferences, including ICSE, FSE, MSR, and CSCW. I am one of the general organizers of ICSME 2024 and have been PC Chair/Co-Chair of several events.",
+            "research_keywords": [  
                 "Empirical Software Engineering",
                 "Software Engineering Education",
                 "Mining Software Repositories",
@@ -229,6 +236,10 @@
                 "Bots/chatbots",
                 "CSCW"
             ],
+            "photos": {
+                "photo_with_background": "images/people/marco_gerosa/image_with_background.png",
+                "photo_without_background": "images/people/marco_gerosa/image_without_background.png"
+            },
             "projects": [
                 "Diversity in Open Source Software",
                 "Open Science"
