@@ -11,8 +11,6 @@ import Researcher from '../views/Researcher.vue';
 import Publications from '../views/Publications.vue';
 import News from '../views/News.vue';
 
-// import Contact from '../views/Contact.vue'
-
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     mode: 'history',
