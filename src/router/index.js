@@ -14,7 +14,6 @@ import News from '../views/News.vue';
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     mode: 'history',
-    base: '/research_lab_website/',
     routes: [
         {
             path: '/',
