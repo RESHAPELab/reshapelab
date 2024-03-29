@@ -1,7 +1,7 @@
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-  publicPath: ' '
+  publicPath: ' ',
   outputDir: 'dist',
   assetsDir: 'assets',
   indexPath: 'index.html',
