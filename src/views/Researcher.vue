@@ -22,8 +22,9 @@
 
             <div class="description_text"> 
                 <p> <strong> CONTACT ME </strong> </p>
-                <p> Email - {{this.contacts.email}} </p>
-                <p> GitHub - {{this.contacts.github}} </p>
+                <div v-for="(value, key) in contacts" :key="key">
+                    <p> {{ capitalizeFirstLetter(key) }} - {{ value }} </p>
+                </div>
             </div>
         </div>
         
@@ -241,6 +242,10 @@ export default  {
 
         changePage(page) {
             this.currentPage = page;
+        },
+
+        capitalizeFirstLetter(string) {
+            return string.charAt(0).toUpperCase() + string.slice(1);
         }
     },
 

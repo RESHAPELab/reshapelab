@@ -12,17 +12,10 @@
         <i>{{ journal }}</i>
         </div>
 
-        <a class = "doi"  :href="url">
-        <strong> DOI </strong> 
+        <a class = "doi" :href="`https://doi.org/${doi}`">
+            <strong> DOI </strong> 
         </a>
 
-        <!--
-        <div class = "buttonBar">
-            <div class = "read_more_button"> 
-                <a class="paperButton" :style="{ backgroundColor: secundary_color }" :href="url" target="_blank"> VIEW PAPER </a>
-            </div>
-        </div>
-        -->
     </div>
 </template>
 
@@ -37,7 +30,7 @@ export default {
     data() {
         return {
             primary_color: research_lab.color_pallete.primary_color,
-            secundary_color: research_lab.color_pallete.secundary_color,
+            secundary_color: research_lab.color_pallete.secundary_color
         };
     },
 
