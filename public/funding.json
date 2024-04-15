@@ -1,0 +1,70 @@
+{
+    "funding": [
+        {
+            "id": "Award Abstract # 1900903",
+            "name": "CHS: Large: Collaborative Research: Gender-Inclusive Open Source through Gender-Inclusive Tools",
+            "initial_date": "Aug 2019",
+            "final_date": "Jul 2023",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1900903",
+            "total_amount": "$528.864,00",
+            "projetcs": [
+                "Diversity and Inclusion in Open Source"
+            ]
+        },
+        {
+            "id": "Award Abstract # 1815503",
+            "name": "CHS: SHF: Small: Collaborative Research: Scaffolding Skill Acquisition to Onboard Open Source Software Ecosystems",
+            "initial_date": "Aug 2018",
+            "final_date": "Jul 2022",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1815503",
+            "total_amount": "$249,941.00",
+            "projetcs": [
+                "Skill Matching in Software Projects"
+            ]
+        },
+        {
+            "id": "Award Abstract # 2303042",
+            "name": "RETTL: Learning Software Engineering by Contributing to Real Projects With Chatbot Assistance",
+            "initial_date": "Jun 2023",
+            "final_date": "Ongoing",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303042",
+            "total_amount": "$561,999.00",
+            "projetcs": [
+                "Open Source in Education"
+            ]
+        },
+        {
+            "id": "Award Abstract # 2247929",
+            "name": "HSI: A Learning Environment for an Open-Source Contribution Model",
+            "initial_date": "Jul 2023",
+            "final_date": "Ongoing",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247929",
+            "total_amount": "$498.616,00",
+            "projetcs": [
+                "Open Source in Education"
+            ]
+        },
+        {
+            "id": "Award Abstract # 2236198",
+            "name": "HSI: Scaffolding Computational Thinking in Introductory Computer Science through a Conversational Agent)",
+            "initial_date": "Jan 2023",
+            "final_date": "Ongoing",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2236198",
+            "total_amount": "$420,872.00",
+            "projetcs": [
+                "Large Language Models in Education"
+            ]
+        },
+        {
+            "id": "Award Abstract # 2303042 ",
+            "name": "RETTL: Learning Software Engineering by Contributing to Real Projects With Chatbot Assistance",
+            "initial_date": "Jun 2023",
+            "final_date": "Ongoing",
+            "access_link": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2303042",
+            "total_amount": "$561,999.00",
+            "projetcs": [
+                "Large Language Models in Education"
+            ]
+        }
+    ]
+}

@@ -1,6 +1,30 @@
 {
     "members": [
         {
+            "first_name": "Caio",
+            "last_name": "Vieira",
+            "role": "Visitor PhD Student",
+            "contacts": {
+                "email": "ciao.barbosa-vieira-da-silva@nau.edu",
+                "github": "guriosam" 
+            },
+            "description": "Hello, o/ My name is Caio, I am a technology enthusiast, geek, otaku, and a soccer fan. My research focuses on analyzing social aspects in developers' discussions on pull requests and their impact on design decay. Additionally, I am pursuing a Ph.D. in Computer Science at PUC-Rio, with a research focus on investigating the relation between social aspects and software quality.  Finally, I am a member of the OPUS research group at PUC-Rio's Software Engineering Laboratory. With over 9 years of industry experience, I have developed a strong expertise in software development, which  encompass back-end development using Python and Java, full-stack development for Android, and proficiency in working with SQL and non-SQL databases like Firebase, PostgreSQL, and MongoDB. Throughout my career, I have engaged in diverse projects, encompassing the following areas: (i) I have contributed to the development of automatic refactoring tools, enhancing the efficiency and maintainability of software systems. (ii) I have designed and implemented various Android applications, leveraging my expertise in mobile development. (iii) I have built data analytic systems using Python, enabling data-driven insights and decision-making. (iv) I have utilized Spring Boot to develop robust back-end solutions, ensuring seamless integration and efficient functionality. ",
+            "research_keywords": [
+                "Social Aspects",
+                "Software Engineering",
+                "Machine Learning"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/caio_vieira/image_with_background.png",
+                "photo_without_background": "images/people/caio_vieira/image_without_background.png"
+            },
+            "author_name": ["Caio Vieira"],
+            "projects": [
+                "Open Source in Education",
+                "Large Language Models in Education"
+            ]
+        },
+        {
             "first_name": "Daniel",
             "last_name": "Coutinho",
             "role": "Visitor",
@@ -19,7 +43,11 @@
                 "photo_with_background": "images/people/daniel_coutinho/image_with_background.png",
                 "photo_without_background": "images/people/daniel_coutinho/image_without_background.png"
             },
-            "author_name": ["Daniel Coutinho"]
+            "author_name": ["Daniel Coutinho"],
+            "projects": [
+                "Open Source in Education",
+                "Large Language Models in Education"
+            ]
         },
         {
             "first_name": "Jacob",
@@ -39,7 +67,11 @@
                 "photo_with_background": "images/people/jacob_penney/image_with_background.png",
                 "photo_without_background": "images/people/jacob_penney/image_without_background.png"
             },
-            "author_name": ["Jacob Penney"]
+            "author_name": ["Jacob Penney"],
+            "projects": [
+                "Skill Matching in Software Projects",
+                "Large Language Models in Education"
+            ]
         },
         {
             "first_name": "João",
@@ -60,7 +92,11 @@
                 "photo_with_background": "images/people/joao_correia/image_with_background.png",
                 "photo_without_background": "images/people/joao_correia/image_without_background.png"
             },
-            "author_name": ["João Correia", "Joao Correia"]
+            "author_name": ["João Correia", "Joao Correia"],
+            "projects": [
+                "Open Source in Education",
+                "Large Language Models in Education"
+            ]
         },
         {
             "first_name": "Ana Paula",
@@ -104,7 +140,10 @@
                 "photo_with_background": "images/people/fabio_santos/image_with_background.png",
                 "photo_without_background": "images/people/fabio_santos/image_without_background.png"
             },
-            "author_name": ["Fabio Santos"]
+            "author_name": ["Fabio Santos"],
+            "projects": [
+                "Skill Matching in Software Projects"
+            ]
         },
         {
             "first_name": "Bianca",
@@ -124,7 +163,10 @@
                 "photo_with_background": "images/people/bianka_trinkenreich/image_with_background.png",
                 "photo_without_background": "images/people/bianka_trinkenreich/image_without_background.png"
             },
-            "author_name": ["Bianca Trinkenreich"]
+            "author_name": ["Bianca Trinkenreich"],
+            "projects": [
+                "Diversity and Inclusion in Open Source"
+            ]
         },
         {
             "first_name": "Igor",
@@ -151,8 +193,10 @@
                 "photo_without_background": "images/people/igor_steinmacher/image_without_background.png"
             },
             "projects": [
-                "Diversity in Open Source Software",
-                "Open Science"
+                "Diversity and Inclusion in Open Source",
+                "Skill Matching in Software Projects",
+                "Open Source in Education",
+                "Large Language Models in Education"
             ],
             "author_name": ["Igor Steinmacher"]
         },
@@ -174,7 +218,11 @@
                 "Mining Software Repositories",
                 "Supporting newcomers to Open Source Software development"
             ],
-            "author_name": ["Igor Wiese"]
+            "author_name": ["Igor Wiese"],
+            "projects": [
+                "Diversity and Inclusion in Open Source",
+                "Skill Matching in Software Projects"
+            ]
         },
         {
             "first_name": "Marieli",
@@ -214,7 +262,12 @@
                 "Gamification in SE",
                 "Empirical software engineering"
             ],
-            "author_name": ["Italo Santo"]
+            "author_name": ["Italo Santo"],
+            "projects": [
+                "Diversity and Inclusion in Open Source",
+                "Skill Matching in Software Projects",
+                "Open Source in Education"
+            ]
         },
         {
             "first_name": "Marco",
@@ -240,10 +293,6 @@
                 "photo_with_background": "images/people/marco_gerosa/image_with_background.png",
                 "photo_without_background": "images/people/marco_gerosa/image_without_background.png"
             },
-            "projects": [
-                "Diversity in Open Source Software",
-                "Open Science"
-            ],
             "author_name": [
                 "Marco Gerosa", 
                 "Marco Aurélio Gerosa", 
@@ -256,6 +305,12 @@
                 "Gerosa, Marco A",
                 "Marco Aurélio",
                 "Marco Aurelio"
+            ],
+            "projects": [
+                "Diversity and Inclusion in Open Source",
+                "Skill Matching in Software Projects",
+                "Open Source in Education",
+                "Large Language Models in Education"
             ]
         }
     ]

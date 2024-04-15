@@ -38,7 +38,7 @@
                 :key="member.email"
                 :first_name="member.firstName"
                 :last_name="member.lastName"
-                :image="member.photos.photo_with_background"
+                :image="'../' + member.photos.photo_with_background"
                 :email="member.contacts.email"
                 :github="member.contacts.github"
                 :role="member.role"
@@ -81,6 +81,7 @@ export default  {
                 .getUsersByProject(this.projectName)
                 .then((data) => {
                     this.members = data;
+                    console.log(data);
                 })
                 .catch((error) => {
                     console.error('An error occurred:', error);
