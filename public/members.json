@@ -25,6 +25,28 @@
             ]
         },
         {
+            "first_name": "Katia Romero",
+            "last_name": "Felizardo",
+            "role": "Post-doc",
+            "contacts": {
+                "email": "katia.scannavino@utfpr.edu.br",
+                "personal_email": "karfelizardo@gmail.com"
+            },
+            "description": "Katia Romero Felizardo was awarded a PhD in Computer Science from the University of São Paulo (ICMC-USP)  in 2012. She then initiated a full-time academic career, carrying out research in the areas of empirical software engineering. The research areas she has focused on are systematic literature review and evidence-based software engineering. She has, to date, published more than 70 research publications, which include 17 journal papers and one book. She has been a PC member at more than ten conferences and workshops and an editorial board member of some of the leading journals in software engineering.",
+            "research_keywords": [
+                "Empirical Software Engineering",
+                "Systematic Literature Review"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/katia_romero/image_with_background.png",
+                "photo_without_background": "images/people/katia_romero/image_without_background.png"
+            },
+            "author_name": ["Katia Romero Felizardo", "Katia Felizardo", "Romero Felizardo", "Katia R. Felizardo"],
+            "projects": [
+                "Large Language Models in Education"
+            ]
+        },
+        {
             "first_name": "Daniel",
             "last_name": "Coutinho",
             "role": "Visitor",
