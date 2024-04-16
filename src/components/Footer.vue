@@ -2,7 +2,7 @@
     <footer id="large_header">
         <nav class="navBar" :style="{ 'background-color': primary_color }">
             <div class="topPartNavBar"> 
-                <img src="images/logo/nau_logo.png" alt="NAU Logo" class = "nau_logo"/>
+                <img src="/images/logo/nau_logo.png" alt="NAU Logo" class = "nau_logo"/>
 
                 <p class = "school name"> School of Informatics, Computing & Cyber Systems — NAU </p>
                 <p class = "address name"> 1295 Knoles Dr, Flagstaff, AZ 86011, United States of America </p>
