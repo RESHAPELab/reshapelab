@@ -1,10 +1,12 @@
 <template>
-    <NavBar></NavBar>
-    <div class="espacamento-header">
-        <RouterView />
+    <div id="app">
+        <NavBar></NavBar>
+        <div class="espacamento-header">
+            <RouterView />
+        </div>
+        <Footer class="footer"></Footer>
+        <MobileMenu class="overlay-menu"></MobileMenu>
     </div>
-    <Footer></Footer>
-    <MobileMenu class="overlay-menu"></MobileMenu>
 </template>
 
 <script>
@@ -26,10 +28,17 @@ export default {
     },
 }
 </script>
+
 <style>
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 
 .espacamento-header {
     margin-top: 2.8cm;
+    flex: 1 0 auto;
 }
 
 .overlay-menu {
@@ -38,6 +47,11 @@ export default {
     top: 0;
     left: 0;
     z-index: 9999;
+}
+
+.footer {
+    margin-top: 30px;
+    flex-shrink: 0;
 }
 
 @media (max-width: 499px) {
@@ -50,4 +64,3 @@ export default {
     }
 }
 </style>
-
