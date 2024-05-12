@@ -1,6 +1,14 @@
 {
     "posts": [
         {
+            "id": "20240101_AIWARE",
+            "title": "RESHAPE Lab paper accepted at AIware Conference 2024",
+            "date": "2024-05-07",
+            "tag": "PAPERS",
+            "description": "<p> 🎉 Exciting News from RESHAPE Lab 🎉 </p><p> We are thrilled to share that our latest paper, 'Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla’s PDF.js Project,' has been accepted for presentation at AIware Conference 2024! </p> <p> 🔍 About the Paper: Our research introduces a conversational agent designed to enhance developer interactions with software projects by integrating project-specific data. Through our study with Mozilla’s PDF.js, the agent has proven to help reduce the reliance on human mentors by providing timely and relevant information, streamlining the development process. </p> <p> 👥 Authors: </p> <ul><li>João Correia, Daniel Coutinho, Caio Barbosa & Alessandro Garcia, PUC-Rio </li><li>Morgan C. Nicholson, University of São Paulo (USP) </li> <li>Marco Castelluccio, Mozilla Corporation </li> <li>Marco Gerosa & Igor Steinmacher, Northern Arizona University </li> </ul> <p> This paper not only pushes the boundaries of AI in software engineering but also offers practical tools to improve productivity and efficiency in development workflows. </p> <p> We look forward to sharing more insights at the upcoming AIware 2024 conference in Porto de Galinhas </p> ",
+            "image": "images/posts/20240101_AIWARE.jpg"
+        },
+        {
             "id": "20240301_USES",
             "title": "Collaboration USES/UFAM -- RESHAPE/NAU! ",
             "date": "2024-03-01",

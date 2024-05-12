@@ -25,7 +25,7 @@
         </div>
 
         <div class = "member_container">
-            <p class = "normal_title"> STUDENTS </p>
+            <p class = "normal_title"> TEAM </p>
 
             <div class = "search_container">
                 <input 
@@ -45,7 +45,7 @@
             <div class = "role_filter_container">
                 <div class="role_filter">
                     <button 
-                        v-for="role in ['Undergraduate', 'Master', 'PhD Student', 'Visitor', 'Alumni']" 
+                        v-for="role in ['Visitor', 'PhD Student', 'Post-doc', 'Alumni']" 
                         :key="role" 
                         @click="filterRole = filterRole === role ? '' : role" 
                         :class="{ active: filterRole === role }" 
