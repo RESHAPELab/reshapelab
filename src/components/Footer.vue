@@ -26,6 +26,7 @@
 
 #large_header {
     flex-shrink: 0;
+    margin-top: 20px;
 }
 
 .navBar {

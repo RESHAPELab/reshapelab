@@ -45,8 +45,23 @@ export default {
                 this.tag = result.tag;
                 this.description = result.description;
                 this.image = "../" + result.image;
+
+                // Apply styles after setting the description
+                this.applyStyles();
             })
-        }
+        },
+
+        applyStyles() {
+        this.$nextTick(() => {
+            const images = this.$el.querySelectorAll('.description img');
+            images.forEach(img => {
+                img.style.display = 'block';
+                img.style.margin = '0 auto';
+                img.style.maxWidth = '80vw';
+                img.style.marginBottom = '20px';
+            });
+        });
+    }
     },
 
     created() {
@@ -106,7 +121,7 @@ export default {
 .imagem {
     margin-top: 20px;
     max-height: 250px;
-    min-height: 240px;
+    max-width: 80vw;
 }
 </style>
 
