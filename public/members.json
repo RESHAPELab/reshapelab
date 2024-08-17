@@ -334,6 +334,156 @@
                 "Open Source in Education",
                 "Large Language Models in Education"
             ]
+        },
+        {
+            "first_name": "Hunter",
+            "last_name": "Beach",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "hmb433@nau.edu",
+                "github": "HunterB433",
+                "twitter": ""
+            },
+            "description": "I am an Undergrad student at NAU going into my Junior year. I'm studying Computer Science, Data Science, and Cyber Security at NAU, expected to finish May 2026, and then hoping to return for a Masters and then a PhD.  I've done a few research projects and personal projects so far, but I'm always looking for more. So far, my main topics of focus have been Website Design, Game Design, and Research into AI, and how we can best use it. I have a love for learning and try to always get all I can out of each day and all experiences! I hope to keep learning more in the future!",
+            "research_keywords": [ 
+                "Large Language Models",
+                "Retrieval Augmented Generation",
+                " Mining Software Repositories",
+                "AI-Assisted Software Engineering",
+                "OSS Communities"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/hunter_beach/image_with_background.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Hilbert",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "pehilbert03@gmail.com",
+                "github": "pehilbert",
+                "twitter": ""
+            },
+            "description": "I am an undergraduate Software Engineering student at Northern Arizona University. I am assisting with the research and development of a large language model for teaching students how to program.",
+            "research_keywords": [  
+                "Software Engineering Education",
+                "AI-Assisted Software Engineering",
+                "Bots/chatbots",
+                "Large Language Models (LLMs)"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Misan",
+            "last_name": "Etchie",
+            "role": "MSc",
+            "contacts": {
+                "email": "mpe45@nau.edu",
+                "github": "MisanEtchie",
+                "twitter": "misan_etchie" 
+            },
+            "description": "Misan is a researcher whose work is driven by his avid love and passion for technology, software engineering, and machine learning. Before joining NAU and the RESHAPE Lab, he spent his free time as a contributor to authoritative tech and cybersecurity publications during his undergraduate studies where he graduated with a BSc in Computer Science. His current research focuses on Large Language Models, Software Engineering, and driving the Inclusion of Newcomers & Minorites in Open Source Software Communities",
+            "research_keywords": [  
+                "Large-Language Models", 
+                "Inclusion in OSS communities"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Pawan",
+            "last_name": "Acharya",
+            "role": "MSc. Thesis Student",
+            "contacts": {
+                "email": "pa577@nau.edu",
+                "github": "pawanacharya1979",
+                "twitter": "raj_acharya65"
+            },
+            "description": "I am a graduate student at Northern Arizona University specializing in Large Language Models (LLMs). My research focuses on the development and application of LLMs to advance natural language processing capabilities and enhance AI-driven solutions.",
+            "research_keywords": [ 
+                "Large Language Models", 
+                "LLM-based Research", 
+                "Natural Language Processing", 
+                "Artificial Intelligence", 
+                "Machine Learning", 
+                "NLP Applications", 
+                "AI in Software Engineering"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Filipe",
+            "last_name": "Verri",
+            "role": "Research Visitor",
+            "contacts": {
+                "email": "verri@ita.br",
+                "github": "verri"
+            },
+            "description": "I hold a BSc (2014) and PhD (2014) in Computer Science from the University of São Paulo. I was a visiting scholar (2016) at Arizona State University. Currently, I am an Assistant Professor at the Aeronautics Institute of Technology in São José dos Campos, São Paulo, Brazil.",
+            "research_keywords": [
+              "Data Science",
+              "Complex Networks",
+              "Machine Learning",
+              "Complex Systems"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Genildo",
+            "last_name": "Junior",
+            "role": "Visiting PhD Student",
+            "contacts": {
+                "email": "genildo.gomes@icomp.ufam.edu.br",
+                "github": "genildojr",
+                "twitter": "@genildogomes21"
+            },
+            "description": "Genildo is a PhD Candidate at the Federal University of Amazonas (UFAM), concurrently enrolled in a sandwich doctorate program at Northern Arizona University - NAU. His interests are actually in Audience experience using technologies for interaction and participation in events, User Experience, Design Thinking, Collaborative Systems, and Software engineering. Finally, I am a member of the USES research group at UFAM's Software Engineering and Usability Laboratory.",
+            "research_keywords": [
+                "User Experience", 
+                "Events", 
+                "Audience Participation", 
+                "Audience Interaction",
+                "CSCW", 
+                "Software engineering"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
+        },
+        {
+            "first_name": "Maria",
+            "last_name": "Meireles",
+            "role": " Visiting PhD Student",
+            "contacts": {
+                "email": "maria.meireles@icomp.ufam.edu.br",
+                "github": "MariaMeireles79",
+                "twitter": "@MariaACMeireles" 
+            },
+            "description": "Maria is a PhD student at the Federal University of Amazonas (UFAM) and is concurrently enrolled in a sandwich doctorate program at Northern Arizona University (NAU). She is currently focused on how companies use Design Thinking, the implementation of Design Thinking within companies, and Design Thinking for requirements elicitation. In the software industry, she works as a software test developer. Finally, I am a member of the USES research group at UFAM's Software Engineering and Usability Laboratory.",
+            "research_keywords": [  
+                "Empirical Software Engineering",
+                "Software Engineering",
+                "Design Thinking",
+                "Requirement Elicitation"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
         }
     ]
 }
