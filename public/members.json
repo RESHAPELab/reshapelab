@@ -484,6 +484,26 @@
                 "photo_with_background": "images/people/user_icon.png",
                 "photo_without_background": "images/people/user_icon.png"
             }
+        },
+        {
+            "first_name": "Karissa",
+            "last_name": "Smallwood",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "kns472@nau.edu",
+                "github": "kkarissa"
+            },
+        
+            "description": "I am a Junior majoring in Software Engineering! I am currently contributing to the Gamified OSS lab studies. Our goal is to help students get more comfortable using GitHub. ",
+            "research_keywords": [ 
+                "Software Engineering Education", 
+                "OSS communities", 
+                "Bots/chatbots"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
         }
     ]
 }

@@ -45,7 +45,7 @@
             <div class = "role_filter_container">
                 <div class="role_filter">
                     <button 
-                        v-for="role in ['Visitor', 'PhD Student', 'Post-doc', 'Alumni']" 
+                        v-for="role in ['Undergraduate', 'Visitor', 'PhD Student', 'Post-doc', 'Alumni']" 
                         :key="role" 
                         @click="filterRole = filterRole === role ? '' : role" 
                         :class="{ active: filterRole === role }" 
