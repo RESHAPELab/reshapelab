@@ -504,6 +504,26 @@
                 "photo_with_background": "images/people/user_icon.png",
                 "photo_without_background": "images/people/user_icon.png"
             }
+        },
+        {
+            "first_name": "Riley",
+            "last_name": "Burke",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "rjb489@nau.edu",
+                "github": "rjb489"
+            },
+
+            "description": "I am a Software Engineering Senior, and I am working with the IUSE team to create an AI Chatbot to assist computer science students with assignments, while also helping them to improve their thought process and avoiding a violation of academic integrity.",
+            "research_keywords": [
+                "Software Engineering Education", 
+                "AI-Assisted Software Engineering", 
+                "Bots/chatbots"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/user_icon.png",
+                "photo_without_background": "images/people/user_icon.png"
+            }
         }
     ]
 }
