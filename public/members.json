@@ -3,7 +3,7 @@
         {
             "first_name": "Caio",
             "last_name": "Vieira",
-            "role": "Visitor PhD Student",
+            "role": "Visiting PhD Student",
             "contacts": {
                 "email": "ciao.barbosa-vieira-da-silva@nau.edu",
                 "github": "guriosam" 
@@ -354,7 +354,7 @@
             ],
             "photos": {
                 "photo_with_background": "images/people/hunter_beach/image_with_background.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_without_background": "images/people/hunter_beach/image_without_background.png"
             }
         },
         {
@@ -393,8 +393,8 @@
                 "Inclusion in OSS communities"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/misan_etchie/image_with_background.png",
+                "photo_without_background": "images/people/misan_etchie/image_without_background.png"
             }
         },
         {
@@ -417,8 +417,8 @@
                 "AI in Software Engineering"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/pawan/image_with_background.png",
+                "photo_without_background": "images/people/pawan/image_without_background.png"
             }
         },
         {
@@ -437,8 +437,8 @@
               "Complex Systems"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/filipe_verri/image_with_background.png",
+                "photo_without_background": "images/people/filipe_verri/image_without_background.png"
             }
         },
         {
@@ -460,8 +460,8 @@
                 "Software engineering"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/genildo/image_with_background.png",
+                "photo_without_background": "images/people/genildo/image_without_background.png"
             }
         },
         {
@@ -481,28 +481,27 @@
                 "Requirement Elicitation"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/maria_meireles/image_with_background.png",
+                "photo_without_background": "images/people/maria_meireles/image_without_background.png"
             }
         },
         {
-            "first_name": "Karissa",
-            "last_name": "Smallwood",
-            "role": "Undergraduate",
+            "first_name": "Pedro",
+            "last_name": "Oliveira",
+            "role": "PhD Student",
             "contacts": {
-                "email": "kns472@nau.edu",
-                "github": "kkarissa"
+                "email": "pro32@nau.edu",
+                "github": "pedrorodriguesarantes"
             },
-        
-            "description": "I am a Junior majoring in Software Engineering! I am currently contributing to the Gamified OSS lab studies. Our goal is to help students get more comfortable using GitHub. ",
+            "description": "I am a first-year Ph.D. student specializing in the fields of MLOps, Software Engineering, and Open Source Software (OSS) governance. Their research centers on investigating the health and governance models of open source software projects, with an emphasis on understanding developer turnover, project sustainability, and process synchronization within complex development ecosystems.",
             "research_keywords": [ 
                 "Software Engineering Education", 
                 "OSS communities", 
                 "Bots/chatbots"
             ],
             "photos": {
-                "photo_with_background": "images/people/user_icon.png",
-                "photo_without_background": "images/people/user_icon.png"
+                "photo_with_background": "images/people/pedro_arantes/image_with_background.png",
+                "photo_without_background": "images/people/pedro_arantes/image_without_background.png"
             }
         }
     ]

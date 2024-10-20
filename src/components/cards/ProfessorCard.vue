@@ -57,7 +57,7 @@ export default {
 }
 
 .card {
-    width: 250px;
+    width: 220px;
     height: 290px;
     display: flex;
     position: relative;
