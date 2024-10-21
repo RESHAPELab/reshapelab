@@ -3,7 +3,7 @@
         {
             "first_name": "Caio",
             "last_name": "Vieira",
-            "role": "Visiting PhD Student",
+            "role": "Visitor PhD Student",
             "contacts": {
                 "email": "ciao.barbosa-vieira-da-silva@nau.edu",
                 "github": "guriosam" 
@@ -444,7 +444,7 @@
         {
             "first_name": "Genildo",
             "last_name": "Junior",
-            "role": "Visiting PhD Student",
+            "role": "Visitor PhD Student",
             "contacts": {
                 "email": "genildo.gomes@icomp.ufam.edu.br",
                 "github": "genildojr",
@@ -467,7 +467,7 @@
         {
             "first_name": "Maria",
             "last_name": "Meireles",
-            "role": " Visiting PhD Student",
+            "role": " Visitor PhD Student",
             "contacts": {
                 "email": "maria.meireles@icomp.ufam.edu.br",
                 "github": "MariaMeireles79",
@@ -503,6 +503,65 @@
                 "photo_with_background": "images/people/pedro_arantes/image_with_background.png",
                 "photo_without_background": "images/people/pedro_arantes/image_without_background.png"
             }
-        }
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "Aiton",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "cna93@nau.edu",
+                "github": "caiton1"
+            },
+            "description": "I am a senior undergraduate who is studying Applied Computer Scinece at NAU. My interests are in backend systems, creating usable platforms for clients and autamoating devlopment processes.",
+            "research_keywords": [ 
+                "Software Engineering Education", 
+                "OSS communities", 
+                "Bots/chatbots"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/connor/image_with_background.png",
+                "photo_without_background": "images/people/connor/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Jadyn",
+            "last_name": "Calhoun",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "jlc2243@nau.edu",
+                "github": "jadynlaila"
+            },
+            "description": "I am a 3rd-year undergrad student studying Computer Science. My passion lies in creating user-friendly web applications and contributing to collaborative projects.",
+            "research_keywords": [ 
+                "Software Engineering Education", 
+                "OSS communities", 
+                "Bots/chatbots"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/jadyn/image_with_background.png",
+                "photo_without_background": "images/people/jadyn/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Karissa",
+            "last_name": "Smallwood",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "kns472@nau.edu",
+                "github": "kkarissa"
+            },
+        
+            "description": "I am a Junior majoring in Software Engineering! I am currently contributing to the Gamified OSS lab studies. Our goal is to help students get more comfortable using GitHub. ",
+            "research_keywords": [ 
+                "Software Engineering Education", 
+                "OSS communities", 
+                "Bots/chatbots"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/karissa/image_with_background.png",
+                "photo_without_background": "images/people/karissa/image_without_background.png"
+            }
+        } 
+          
     ]
 }
