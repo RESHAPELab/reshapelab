@@ -1,6 +1,22 @@
 {
     "posts": [
         {
+            "id": "20241212_OSS",
+            "title": "Do you know what Open Source Software (OSS) is?",
+            "date": "2024-12",
+            "tag": "EVENT",
+            "description": "<p> It's the code that powers the world—freely accessible, community-driven, and built collaboratively. But for beginners, jumping into OSS can feel like being handed the keys to a spaceship without a manual. That’s where RESHAPE Lab comes in! </p> <p> At the Engineering Fest, our team—Karissa Smallwood, Connor Aiton, Pedro Arantes, Italo Santos, and Jadyn Calhoun—showcased our project on gamifying GitHub. </p> <p> The goal? To make open-source onboarding more engaging and beginner-friendly for computer science students. We’ve reimagined the learning process by gamifying the GitHub, where students level up by contributing to real-world projects—unlocking skills, confidence, and maybe even a bit of fun along the way. </p> <p> Curious how it works? Or want to share your own thoughts on making OSS more accessible? Let’s chat! 💬 </p>",
+            "image": "images/posts/20241212_OSS.png"
+        },
+        {
+            "id": "20241212_BOT",
+            "title": "Programming is hard... but can a chatbot help? 🤖",
+            "date": "2024-12",
+            "tag": "EVENT",
+            "description": "<p> At RESHAPE Lab, we’re taking on a big question: Can large language model (LLM)-based chatbots teach programming students the cognitive skills they need to succeed—skills often called 'computational thinking'? </p> <p> Building on research by RESHAPE Lab graduate researcher Jacob Penney, who explored: </p> <p> 1️⃣ Instructor requirements for LLM-based tools in programming education. </p> <p> 2️⃣ Student trust in and sentiments about popular LLM tools for studying. </p> <p> Jacob’s team has now developed a functioning prototype of a chatbot designed specifically to support programming students. 🎉 The chatbot aims to meet both instructor needs and student expectations—making learning programming a little less daunting and a lot more interactive. </p> <p> We’re excited to take the next step: implementing the chatbot for real lab studies with students! 🚀 </p> <p> Curious to learn more? Or have thoughts about LLMs in education? Let’s connect! 💻 </p>",
+            "image": "images/posts/20241212_BOT.png"
+        },
+        {
             "id": "20240101_AIWARE",
             "title": "RESHAPE Lab paper accepted at AIware Conference 2024",
             "date": "2024-05-07",

@@ -561,7 +561,45 @@
                 "photo_with_background": "images/people/karissa/image_with_background.png",
                 "photo_without_background": "images/people/karissa/image_without_background.png"
             }
+        },
+        {
+            "first_name": "Wellynton",
+            "last_name": "Diniz",
+            "role": "Visitor PhD Student",
+            "contacts": {
+                "email": "wjds@cesar.school",
+                "github": "wellyntondiniz" 
+            },
+            "description": "I am a PHd student in Software Engineering at Cesar School. I hold a Master's degree in Accounting and Administration from Fucape Business School and a Bachelor's degree in Systems Analysis and Development, Business Administration, and Law. As a researcher, my work focuses on human aspects in software engineering such as soft skills, hard skills, and skill gaps, as well as natural language processing (NLP) and large language models (LLM).",
+            "research_keywords": [
+                "Human Aspects",
+                "Skill Gap",
+                "Natural Language Processing",
+                "Large Language Models"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/wellynton/image_with_background.png",
+                "photo_without_background": "images/people/wellynton/image_without_background.png"
+            },
+            "author_name": ["Wellynton Diniz"]
+        },
+        {
+            "first_name": "Brenda",
+            "last_name": "Diniz",
+            "role": "Visitor PhD Student",
+            "contacts": {
+                "email": "brenda.benites@sou.ufmt.br",
+                "github": "brendabenites"
+            },
+            "description": "Brenda Diniz is a doctoral student at the Federal University of Mato Grosso (UFMT). Her current research focuses on environmental resources and environmental monitoring, with an emphasis on sustainable strategies for conservation and management of natural resources. In the academic field, Brenda also develops projects aimed at environmental education, with a focus on the development of scientific books aimed at children. Her experience also covers areas such as environmental projects, environmental certification, project management and environmental education.",
+            "photos": {
+                "photo_with_background": "images/people/brenda_diniz/image_with_background.png",
+                "photo_without_background": "images/people/brenda_diniz/image_without_background.png"
+            },
+            "research_keywords": [
+                "Biodiversity", "Environmental Education", "Waste Water Treatment", "Environmental Monitoring"
+            ],
+            "author_name": ["Brenda Diniz"]   
         } 
-          
     ]
 }
