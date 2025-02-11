@@ -9,6 +9,11 @@
                 >
             </a>
         </div>
+        
+        <div class = "mission"> 
+            <h2> About us </h2>
+            <p> The RESHAPE Lab (at Northern Arizona University's School of Informatics, Computing, and Cyber System), is dedicated to exploring the human aspects and educational facets of software engineering. The lab focuses on understanding how individuals interact with software systems and how educational methodologies can enhance software engineering practices. Through interdisciplinary research, the RESHAPE Lab aims to improve software development processes by emphasizing human-centered approaches and effective educational strategies. </p> 
+        </div>
 
         <div class = "title"> <p> News </p> </div>
         
@@ -82,6 +87,18 @@
 
     margin-bottom: 10px;
     margin-top: 20px;
+}
+
+.mission {
+    font-size: 18px;
+    text-align: center; 
+    margin: 20px auto;
+    max-width: 980px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 20px;
 }
 
 .container {
