@@ -1,19 +1,6 @@
 {
     "projects": [
         {
-            "project_name": "Diversity and Inclusion in Open Source",
-            "project_key_words": [
-                "open source",
-                "diversity and inclusion",
-                "software engineering"
-            ],
-            "project_description": "In this research project, we investigate whether and how open source software (OSS) have gender biases tied with minorities, and how to remove any such biases that are found. Minorities are vastly underrepresented among OSS developers. This is a significant concern to OSS communities because it prevents them from receiving the benefits of a larger talent pool and the benefits that ensue from team diversity. Further, the problem feeds upon itself: developers who are from minorities then miss out on the learning and professional growth opportunities that OSS projects provide, and professional opportunities evade minorities when open source contributions are used to make hiring decisions, both of which hold them back from OSS engagement.",
-            "short_project_description": "We are interested in making OSS more inclusive and diverse, by understanding the landscape and proposing interventions.",
-            "images": {
-                "small_image": "images/projects/minorities_OSS.png"
-            }
-        },
-        {
             "project_name": "Skill Matching in Software Projects",
             "project_key_words": [
                 "open source",
