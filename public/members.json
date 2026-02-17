@@ -619,6 +619,66 @@
                 "photo_with_background": "images/people/riley_burke/image_with_background.png",
                 "photo_without_background": "images/people/riley_burke/image_without_background.png"
             }
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "Sliva",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "ajs2583@nau.edu",
+                "github": "ajs2583"
+            },
+        
+            "description": "I am a senior Computer Science student with minors in Cybersecurity and Informatics! I'm particularly drawn to automation, DevOps, and AI research, where I can combine my love for problem-solving with efficient, scalable solutions. ",
+            "research_keywords": [ 
+                "Machine Learning", 
+                "DevOps", 
+                "Artificial Intelligence"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/andrew_sliva/image_with_background.png",
+                "photo_without_background": "images/people/andrew_sliva/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "Verdugo",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "nmv79@nau.edu",
+                "github": "nmv79"
+            },
+        
+            "description": "I am a junior studying Data Science with a minor in Cybersecurity! I am currently contributing to the LLM-Based Chatbots for Self-Regulated Learning project. ",
+            "research_keywords": [ 
+                "Machine Learning", 
+                "Data Science", 
+                "Artificial Intelligence"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/noah_verdugo/image_with_background.png",
+                "photo_without_background": "images/people/noah_verdugo/image_without_background.png"
+            }
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Utzinger",
+            "role": "Undergraduate",
+            "contacts": {
+                "email": "swu3@nau.edu",
+                "github": "coupur"
+            },
+        
+            "description": "I am a senior studying Data Science, and I am currently working on a data science pipeline for monitoring and predicting the development workflow in GitHub. ",
+            "research_keywords": [ 
+                "Machine Learning", 
+                "Data Science", 
+                "Artificial Intelligence"
+            ],
+            "photos": {
+                "photo_with_background": "images/people/sam_utzinger/image_with_background.png",
+                "photo_without_background": "images/people/sam_utzinger/image_without_background.png"
+            }
         }
     ]
 }
