@@ -3,7 +3,7 @@
         {
             "first_name": "Caio",
             "last_name": "Vieira",
-            "role": "Visitor PhD Student",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "ciao.barbosa-vieira-da-silva@nau.edu",
                 "github": "guriosam" 
@@ -27,7 +27,7 @@
         {
             "first_name": "Katia Romero",
             "last_name": "Felizardo",
-            "role": "Post-doc",
+            "role": "Alumni (Post-doc)",
             "contacts": {
                 "email": "katia.scannavino@utfpr.edu.br",
                 "personal_email": "karfelizardo@gmail.com"
@@ -49,7 +49,7 @@
         {
             "first_name": "Daniel",
             "last_name": "Coutinho",
-            "role": "Visitor",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "contact@danieljbc.com",
                 "github": "danieljbc"
@@ -86,8 +86,8 @@
               "Computer Science Pedagogy"
             ],
             "photos": {
-                "photo_with_background": "images/people/jacob_penney/image_with_background.png",
-                "photo_without_background": "images/people/jacob_penney/image_without_background.png"
+                "photo_with_background": "images/people/jacob_penney/DSC_12472.png",
+                "photo_without_background": "images/people/jacob_penney/DSC_1247.png"
             },
             "author_name": ["Jacob Penney"],
             "projects": [
@@ -98,7 +98,7 @@
         {
             "first_name": "João",
             "last_name": "Correia",
-            "role": "Visitor",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "marques.correia@nau.edu",
                 "github": "correiajoao"
@@ -269,7 +269,7 @@
         {
             "first_name": "Italo",
             "last_name": "Santo",
-            "role": "PhD Student",
+            "role": "Alumni (PhD)",
             "photos": {
                 "photo_with_background": "images/people/italo_santo/image_with_background.png",
                 "photo_without_background": "images/people/italo_santo/image_without_background.png"
@@ -338,7 +338,7 @@
         {
             "first_name": "Hunter",
             "last_name": "Beach",
-            "role": "Undergraduate",
+            "role": "Alumni (Undegraduate)",
             "contacts": {
                 "email": "hmb433@nau.edu",
                 "github": "HunterB433",
@@ -360,7 +360,7 @@
         {
             "first_name": "Peter",
             "last_name": "Hilbert",
-            "role": "Undergraduate",
+            "role": "Alumni (Undegraduate)",
             "contacts": {
                 "email": "pehilbert03@gmail.com",
                 "github": "pehilbert",
@@ -400,7 +400,7 @@
         {
             "first_name": "Pawan",
             "last_name": "Acharya",
-            "role": "MSc. Thesis Student",
+            "role": "Alumni (MSc.)",
             "contacts": {
                 "email": "pa577@nau.edu",
                 "github": "pawanacharya1979",
@@ -424,7 +424,7 @@
         {
             "first_name": "Filipe",
             "last_name": "Verri",
-            "role": "Research Visitor",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "verri@ita.br",
                 "github": "verri"
@@ -444,7 +444,7 @@
         {
             "first_name": "Genildo",
             "last_name": "Junior",
-            "role": "Visitor PhD Student",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "genildo.gomes@icomp.ufam.edu.br",
                 "github": "genildojr",
@@ -467,7 +467,7 @@
         {
             "first_name": "Maria",
             "last_name": "Meireles",
-            "role": " Visitor PhD Student",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "maria.meireles@icomp.ufam.edu.br",
                 "github": "MariaMeireles79",
@@ -507,7 +507,7 @@
         {
             "first_name": "Connor",
             "last_name": "Aiton",
-            "role": "Undergraduate",
+            "role": "Alumni (Undegraduate)",
             "contacts": {
                 "email": "cna93@nau.edu",
                 "github": "caiton1"
@@ -526,7 +526,7 @@
         {
             "first_name": "Jadyn",
             "last_name": "Calhoun",
-            "role": "Undergraduate",
+            "role": "Alumni (Undegraduate)",
             "contacts": {
                 "email": "jlc2243@nau.edu",
                 "github": "jadynlaila"
@@ -545,7 +545,7 @@
         {
             "first_name": "Karissa",
             "last_name": "Smallwood",
-            "role": "Undergraduate",
+            "role": "MSc",
             "contacts": {
                 "email": "kns472@nau.edu",
                 "github": "kkarissa"
@@ -565,7 +565,7 @@
         {
             "first_name": "Wellynton",
             "last_name": "Diniz",
-            "role": "Visitor PhD Student",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "wjds@cesar.school",
                 "github": "wellyntondiniz" 
@@ -586,7 +586,7 @@
         {
             "first_name": "Brenda",
             "last_name": "Diniz",
-            "role": "Visitor PhD Student",
+            "role": "Alumni (Visitor)",
             "contacts": {
                 "email": "brenda.benites@sou.ufmt.br",
                 "github": "brendabenites"
@@ -604,7 +604,7 @@
         {
             "first_name": "Riley",
             "last_name": "Burke",
-            "role": "Undergraduate",
+            "role": "Alumni (Undegraduate)",
             "contacts": {
                 "email": "rjb489@nau.edu",
                 "github": "rjb489"
