@@ -5,7 +5,7 @@
         <div class = "published_paper_container">
             <PublishedPaperCard
                 v-for="paper in publishedPapers"
-                :key="paper.doi"
+                :key="paper.DOI || `${paper.title}-${paper.issued['date-parts'][0][0]}`"
                 :title="paper.title"
                 :journal="paper['container-title']"
                 :year="paper.issued['date-parts'][0][0]"

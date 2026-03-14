@@ -100,7 +100,7 @@
         <div class = "published_paper_container">
             <PublishedPaperCard
                 v-for="paper in paginatedPapers"
-                :key="paper.doi"
+                :key="paper.DOI || `${paper.title}-${paper.issued['date-parts'][0][0]}`"
                 :title="paper.title"
                 :journal="paper['container-title']"
                 :year="paper.issued['date-parts'][0][0]"
@@ -197,6 +197,7 @@ export default  {
             currentPage: 1,
             papersPerPage: 6,
             author_name: [],
+            dblpPid: '',
         };
     },
 
@@ -213,6 +214,7 @@ export default  {
                 this.research_keywords = result.research_keywords;
                 this.role = result.role;
                 this.author_name = result.author_name;
+                this.dblpPid = result.dblpPid;
                 
                 this.getPapers();
             })
@@ -223,7 +225,12 @@ export default  {
 
         getPapers() {
             ArticlesResource
-            .getArticlesByAuthor(this.author_name)
+            .getArticlesForMember({
+                firstName: this.first_name,
+                lastName: this.last_name,
+                author_name: this.author_name,
+                dblpPid: this.dblpPid
+            })
             .then((result) => {
                 this.published_papers = result;
             })
