@@ -2,13 +2,30 @@
     <div class = "project_container">
         <p class = "title" :style="{ color: primary_color }"> PUBLICATIONS </p>
 
-        <div class = "published_paper_container">
+        <div class = "search_container">
+            <input 
+                type = "text" 
+                v-model = "inputTerm" 
+                placeholder = "Search by title, author, year, DOI, or venue..." 
+                class = "search_bar"
+            >
+            
+            <button @click="inputTerm ? resetSearch() : search" class="button search_button">
+                <img :src="inputTerm ? '/icons/remove.png' : '/icons/search.png'" :alt="inputTerm ? 'Clean' : 'Search'" class="button-icon">
+            </button>
+        </div>
+
+        <div v-if="!filteredPapers.length" class="empty_state">
+            No publications match the current search.
+        </div>
+
+        <div v-else class = "published_paper_container">
             <PublishedPaperCard
-                v-for="paper in publishedPapers"
-                :key="paper.doi"
+                v-for="paper in filteredPapers"
+                :key="paper.DOI || `${paper.title}-${paper.issued?.['date-parts']?.[0]?.[0] || 'unknown'}`"
                 :title="paper.title"
                 :journal="paper['container-title']"
-                :year="paper.issued['date-parts'][0][0]"
+                :year="paper.issued?.['date-parts']?.[0]?.[0]"
                 :url="paper.URL"
                 :doi="paper.DOI"
                 :authors="paper.author"
@@ -31,7 +48,9 @@ export default {
         return {
             primary_color: research_lab.color_pallete.primary_color,
             secundary_color: research_lab.color_pallete.secundary_color,
-            publishedPapers: []
+            publishedPapers: [],
+            searchTerm: '',
+            inputTerm: ''
         };
     },
   
@@ -45,11 +64,61 @@ export default {
             .catch((error) => {
                 console.error('An error occurred:', error);
             });
+        },
+
+        search() {
+            if (this.inputTerm) {
+                this.searchTerm = this.inputTerm;
+            }
+        },
+
+        resetSearch() {
+            this.inputTerm = '';
+            this.searchTerm = '';
+        },
+
+        getPaperSearchText(paper) {
+            const authors = Array.isArray(paper.author)
+                ? paper.author.map((author) => `${author.given || ''} ${author.family || ''}`.trim()).join(' ')
+                : '';
+            const year = paper.issued?.['date-parts']?.[0]?.[0] || '';
+
+            return [
+                paper.title,
+                paper['container-title'],
+                paper.DOI,
+                paper.URL,
+                authors,
+                `${year}`
+            ]
+                .filter(Boolean)
+                .join(' ')
+                .toLowerCase();
         }
     },
 
     created() {
         this.getAllArticles();
+    },
+
+    watch: {
+        inputTerm(newInputTerm) {
+            this.searchTerm = newInputTerm;
+        }
+    },
+
+    computed: {
+        filteredPapers() {
+            const lowerCaseSearchTerm = this.searchTerm.toLowerCase().trim();
+
+            if (!lowerCaseSearchTerm) {
+                return this.publishedPapers;
+            }
+
+            return this.publishedPapers.filter((paper) => {
+                return this.getPaperSearchText(paper).includes(lowerCaseSearchTerm);
+            });
+        }
     },
 
     components: {
@@ -103,6 +172,48 @@ export default {
     margin-bottom: 10px;
     margin-top: 10px;
     max-width: 825px;
+}
+
+.search_bar {
+    max-width: max(80vw);
+    border-radius: 30px;
+    padding-left: 15px;
+    height: 50px;
+    width: 500px;
+    font-size: 18px;
+    border: 1px solid #6E6E6E;
+}
+
+.button-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.search_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 80vw;
+    margin: 0 auto;
+    position: relative;
+}
+
+.search_button {
+    border: 1px solid #6E6E6E;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 50px;
+    border-radius: 30px 30px 30px 30px;
+    padding: 0;
+    background-color: var(--primary-color)
+}
+
+.empty_state {
+    margin-top: 20px;
+    font-size: 24px;
 }
 
 .title {

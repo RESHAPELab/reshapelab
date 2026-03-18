@@ -8,7 +8,8 @@ const MembersResource = {
             role: member.role,
             photos: member.photos,
             contacts: member.contacts,
-            author_name: member.author_name
+            author_name: member.author_name,
+            dblpPid: member.dblp_pid || ''
         }));
 
         members.sort((a, b) => {
@@ -38,7 +39,8 @@ const MembersResource = {
             role: member.role,
             photos: member.photos,
             contacts: member.contacts,
-            author_name: member.author_name
+            author_name: member.author_name,
+            dblpPid: member.dblp_pid || ''
         }));
 
         members.sort((a, b) => {
@@ -62,7 +64,8 @@ const MembersResource = {
             contacts: member.contacts,
             description: member.description,
             research_keywords: member.research_keywords,
-            highlighted_publications: member.highlighted_publications
+            highlighted_publications: member.highlighted_publications,
+            dblpPid: member.dblp_pid || ''
         } : null;
         
         return Promise.resolve(memberData);
@@ -83,7 +86,8 @@ const MembersResource = {
             description: member.description,
             research_keywords: member.research_keywords,
             highlighted_publications: member.highlighted_publications,
-            author_name: member.author_name
+            author_name: member.author_name,
+            dblpPid: member.dblp_pid || ''
         } : null;
 
         return Promise.resolve(memberData);

@@ -12,8 +12,8 @@
         <i>{{ journal }}</i>
         </div>
 
-        <a class = "doi" :href="`https://doi.org/${doi}`">
-            <strong> DOI </strong> 
+        <a v-if="paperLink" class = "doi" :href="paperLink" target="_blank" rel="noopener noreferrer">
+            <strong> {{ linkLabel }} </strong> 
         </a>
 
     </div>
@@ -44,6 +44,18 @@ export default {
     },
 
     computed: {
+        paperLink() {
+            if (this.doi) {
+                return `https://doi.org/${this.doi}`;
+            }
+
+            return this.url || '';
+        },
+
+        linkLabel() {
+            return this.doi ? 'DOI' : 'Link';
+        },
+
         processedAuthors() {
             if (!this.authors) {
                 return ' ';

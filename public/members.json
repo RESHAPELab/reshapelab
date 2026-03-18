@@ -93,7 +93,8 @@
             "projects": [
                 "Skill Matching in Software Projects",
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "344/0963"
         },
         {
             "first_name": "João",
@@ -140,7 +141,8 @@
                 "photo_with_background": "images/people/ana_paula_chaves_steinmacher/image_with_background.png",
                 "photo_without_background": "images/people/ana_paula_chaves_steinmacher/image_without_background.png"
             },
-            "author_name": ["Ana Steinmacher", "Ana Paula Steinmacher", "Paula Steinmacher"]
+            "author_name": ["Ana Steinmacher", "Ana Paula Steinmacher", "Paula Steinmacher"],
+            "dblp_pid": "33/2472"
         },
         {
             "first_name": "Fabio",
@@ -165,7 +167,8 @@
             "author_name": ["Fabio Santos"],
             "projects": [
                 "Skill Matching in Software Projects"
-            ]
+            ],
+            "dblp_pid": "289/0005"
         },
         {
             "first_name": "Bianca",
@@ -220,7 +223,8 @@
                 "Open Source in Education",
                 "Large Language Models in Education"
             ],
-            "author_name": ["Igor Steinmacher"]
+            "author_name": ["Igor Steinmacher"],
+            "dblp_pid": "70/3474"
         },
         {
             "first_name": "Igor",
@@ -333,7 +337,8 @@
                 "Skill Matching in Software Projects",
                 "Open Source in Education",
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "68/5072"
         },
         {
             "first_name": "Hunter",
@@ -502,7 +507,8 @@
             "photos": {
                 "photo_with_background": "images/people/pedro_arantes/image_with_background.png",
                 "photo_without_background": "images/people/pedro_arantes/image_without_background.png"
-            }
+            },
+            "dblp_pid": "183/4888"
         },
         {
             "first_name": "Connor",
