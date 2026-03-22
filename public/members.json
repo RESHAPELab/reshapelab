@@ -22,7 +22,8 @@
             "projects": [
                 "Open Source in Education",
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "221/1638"
         },
         {
             "first_name": "Katia Romero",
@@ -44,7 +45,8 @@
             "author_name": ["Katia Romero Felizardo", "Katia Felizardo", "Romero Felizardo", "Katia R. Felizardo"],
             "projects": [
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "53/8384"
         },
         {
             "first_name": "Daniel",
@@ -69,7 +71,8 @@
             "projects": [
                 "Open Source in Education",
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "87/1273"
         },
         {
             "first_name": "Jacob",
@@ -119,7 +122,8 @@
             "projects": [
                 "Open Source in Education",
                 "Large Language Models in Education"
-            ]
+            ],
+            "dblp_pid": "221/1636"
         },
         {
             "first_name": "Ana Paula",
@@ -191,7 +195,8 @@
             "author_name": ["Bianca Trinkenreich"],
             "projects": [
                 "Diversity and Inclusion in Open Source"
-            ]
+            ],
+            "dblp_pid": "166/2138"
         },
         {
             "first_name": "Igor",
@@ -248,10 +253,11 @@
             "projects": [
                 "Diversity and Inclusion in Open Source",
                 "Skill Matching in Software Projects"
-            ]
+            ],
+            "dblp_pid": "06/10439"
         },
         {
-            "first_name": "Marieli",
+            "first_name": "Mairieli",
             "last_name": "Wessel",
             "role": "Alumni (PhD)",
             "photos": {
@@ -268,11 +274,12 @@
                 "Empirical Software Engineering",
                 "Mining Software Repositories"
             ],
-            "author_name": ["Marieli Wessel"]
+            "author_name": ["Mairieli Wessel"],
+            "dblp_pid": "205/9369"
         },
         {
             "first_name": "Italo",
-            "last_name": "Santo",
+            "last_name": "Santos",
             "role": "Alumni (PhD)",
             "photos": {
                 "photo_with_background": "images/people/italo_santo/image_with_background.png",
@@ -288,12 +295,13 @@
                 "Gamification in SE",
                 "Empirical software engineering"
             ],
-            "author_name": ["Italo Santo"],
+            "author_name": ["Italo Santos", "Ítalo Santos"],
             "projects": [
                 "Diversity and Inclusion in Open Source",
                 "Skill Matching in Software Projects",
                 "Open Source in Education"
-            ]
+            ],
+            "dblp_pid": "203/0063"
         },
         {
             "first_name": "Marco",
@@ -353,14 +361,16 @@
             "research_keywords": [ 
                 "Large Language Models",
                 "Retrieval Augmented Generation",
-                " Mining Software Repositories",
+                "Mining Software Repositories",
                 "AI-Assisted Software Engineering",
                 "OSS Communities"
             ],
             "photos": {
                 "photo_with_background": "images/people/hunter_beach/image_with_background.png",
                 "photo_without_background": "images/people/hunter_beach/image_without_background.png"
-            }
+            },
+            "author_name": ["Hunter Beach"],
+            "dblp_pid": "410/7532"
         },
         {
             "first_name": "Peter",
@@ -381,7 +391,9 @@
             "photos": {
                 "photo_with_background": "images/people/user_icon.png",
                 "photo_without_background": "images/people/user_icon.png"
-            }
+            },
+            "author_name": ["Peter Hilbert"],
+            "dblp_pid": "410/1459"
         },
         {
             "first_name": "Misan",
@@ -400,7 +412,9 @@
             "photos": {
                 "photo_with_background": "images/people/misan_etchie/image_with_background.png",
                 "photo_without_background": "images/people/misan_etchie/image_without_background.png"
-            }
+            },
+            "author_name": ["Misan Etchie", "Misan Paul Etchie"],
+            "dblp_pid": "410/7084"
         },
         {
             "first_name": "Pawan",
@@ -424,7 +438,9 @@
             "photos": {
                 "photo_with_background": "images/people/pawan/image_with_background.png",
                 "photo_without_background": "images/people/pawan/image_without_background.png"
-            }
+            },
+            "author_name": ["Pawan Acharya"],
+            "dblp_pid": "398/3879"
         },
         {
             "first_name": "Filipe",
@@ -444,7 +460,9 @@
             "photos": {
                 "photo_with_background": "images/people/filipe_verri/image_with_background.png",
                 "photo_without_background": "images/people/filipe_verri/image_without_background.png"
-            }
+            },
+            "author_name": ["Filipe Verri", "Filipe A. N. Verri", "Filipe Alves Neto Verri"],
+            "dblp_pid": "174/2784"
         },
         {
             "first_name": "Genildo",
@@ -467,7 +485,9 @@
             "photos": {
                 "photo_with_background": "images/people/genildo/image_with_background.png",
                 "photo_without_background": "images/people/genildo/image_without_background.png"
-            }
+            },
+            "author_name": ["Genildo Gomes", "Genildo Junior"],
+            "dblp_pid": "283/4200"
         },
         {
             "first_name": "Maria",
@@ -488,7 +508,9 @@
             "photos": {
                 "photo_with_background": "images/people/maria_meireles/image_with_background.png",
                 "photo_without_background": "images/people/maria_meireles/image_without_background.png"
-            }
+            },
+            "author_name": ["Maria Meireles", "Maria A. C. Meireles", "Maria Alcimar Meireles", "Maria Alcimar Costa Meireles"],
+            "dblp_pid": "266/3551"
         },
         {
             "first_name": "Pedro",
@@ -508,7 +530,7 @@
                 "photo_with_background": "images/people/pedro_arantes/image_with_background.png",
                 "photo_without_background": "images/people/pedro_arantes/image_without_background.png"
             },
-            "dblp_pid": "183/4888"
+            "author_name": ["Pedro Oliveira", "Pedro Rodrigues Arantes de Oliveira"]
         },
         {
             "first_name": "Connor",
@@ -527,7 +549,8 @@
             "photos": {
                 "photo_with_background": "images/people/connor/image_with_background.png",
                 "photo_without_background": "images/people/connor/image_without_background.png"
-            }
+            },
+            "author_name": ["Connor Aiton"]
         },
         {
             "first_name": "Jadyn",
@@ -546,7 +569,8 @@
             "photos": {
                 "photo_with_background": "images/people/jadyn/image_with_background.png",
                 "photo_without_background": "images/people/jadyn/image_without_background.png"
-            }
+            },
+            "author_name": ["Jadyn Calhoun"]
         },
         {
             "first_name": "Karissa",
@@ -566,7 +590,8 @@
             "photos": {
                 "photo_with_background": "images/people/karissa/image_with_background.png",
                 "photo_without_background": "images/people/karissa/image_without_background.png"
-            }
+            },
+            "author_name": ["Karissa Smallwood"]
         },
         {
             "first_name": "Wellynton",
@@ -587,7 +612,8 @@
                 "photo_with_background": "images/people/wellynton/image_with_background.png",
                 "photo_without_background": "images/people/wellynton/image_without_background.png"
             },
-            "author_name": ["Wellynton Diniz"]
+            "author_name": ["Wellynton Diniz"],
+            "dblp_pid": "388/4060"
         },
         {
             "first_name": "Brenda",
@@ -605,7 +631,7 @@
             "research_keywords": [
                 "Biodiversity", "Environmental Education", "Waste Water Treatment", "Environmental Monitoring"
             ],
-            "author_name": ["Brenda Diniz"]   
+            "author_name": ["Brenda Diniz"]
         },
         {
             "first_name": "Riley",
@@ -624,7 +650,8 @@
             "photos": {
                 "photo_with_background": "images/people/riley_burke/image_with_background.png",
                 "photo_without_background": "images/people/riley_burke/image_without_background.png"
-            }
+            },
+            "author_name": ["Riley Burke"]
         },
         {
             "first_name": "Andrew",
@@ -634,7 +661,6 @@
                 "email": "ajs2583@nau.edu",
                 "github": "ajs2583"
             },
-        
             "description": "I am a senior Computer Science student with minors in Cybersecurity and Informatics! I'm particularly drawn to automation, DevOps, and AI research, where I can combine my love for problem-solving with efficient, scalable solutions. ",
             "research_keywords": [ 
                 "Machine Learning", 
@@ -644,7 +670,8 @@
             "photos": {
                 "photo_with_background": "images/people/andrew_sliva/image_with_background.png",
                 "photo_without_background": "images/people/andrew_sliva/image_without_background.png"
-            }
+            },
+            "author_name": ["Andrew Sliva"]
         },
         {
             "first_name": "Noah",
@@ -664,7 +691,8 @@
             "photos": {
                 "photo_with_background": "images/people/noah_verdugo/image_with_background.png",
                 "photo_without_background": "images/people/noah_verdugo/image_without_background.png"
-            }
+            },
+            "author_name": ["Noah Verdugo"]
         },
         {
             "first_name": "Sam",
@@ -684,7 +712,8 @@
             "photos": {
                 "photo_with_background": "images/people/sam_utzinger/image_with_background.png",
                 "photo_without_background": "images/people/sam_utzinger/image_without_background.png"
-            }
+            },
+            "author_name": ["Sam Utzinger"]
         }
     ]
 }
