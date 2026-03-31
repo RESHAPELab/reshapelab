@@ -22,13 +22,15 @@
         <div v-else class = "published_paper_container">
             <PublishedPaperCard
                 v-for="paper in filteredPapers"
-                :key="paper.DOI || `${paper.title}-${paper.issued?.['date-parts']?.[0]?.[0] || 'unknown'}`"
+                :key="paper.id"
                 :title="paper.title"
                 :journal="paper['container-title']"
                 :year="paper.issued?.['date-parts']?.[0]?.[0]"
                 :url="paper.URL"
                 :doi="paper.DOI"
                 :authors="paper.author"
+                :clickable="true"
+                @select="openPublication(paper)"
             />
         </div>
     </div>
@@ -75,6 +77,15 @@ export default {
         resetSearch() {
             this.inputTerm = '';
             this.searchTerm = '';
+        },
+
+        openPublication(paper) {
+            this.$router.push({
+                name: 'publication-detail',
+                params: {
+                    publication_id: paper.id
+                }
+            });
         },
 
         getPaperSearchText(paper) {

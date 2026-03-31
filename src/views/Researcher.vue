@@ -100,13 +100,15 @@
         <div class = "published_paper_container">
             <PublishedPaperCard
                 v-for="paper in paginatedPapers"
-                :key="paper.DOI || `${paper.title}-${paper.issued['date-parts'][0][0]}`"
+                :key="paper.id"
                 :title="paper.title"
                 :journal="paper['container-title']"
                 :year="paper.issued['date-parts'][0][0]"
                 :url="paper.URL"
                 :doi="paper.DOI"
                 :authors="paper.author"
+                :clickable="true"
+                @select="openPublication(paper)"
             />
         </div>
 
@@ -249,6 +251,15 @@ export default  {
 
         changePage(page) {
             this.currentPage = page;
+        },
+
+        openPublication(paper) {
+            this.$router.push({
+                name: 'publication-detail',
+                params: {
+                    publication_id: paper.id
+                }
+            });
         },
 
         capitalizeFirstLetter(string) {

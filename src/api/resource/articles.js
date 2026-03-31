@@ -3,6 +3,7 @@ import MembersResource from '../resource/people.js';
 
 const LOCAL_BIB_ROUTE = 'papers.bib';
 const DBLP_BIB_URL = 'https://dblp.org/pid';
+const OPEN_ALEX_WORKS_URL = 'https://api.openalex.org/works';
 const CACHE_PREFIX = 'dblp-bib-cache:';
 const CACHE_TTL_MS = 24 * 60 * 60 * 1000;
 
@@ -63,8 +64,39 @@ async function fetchBibText(bibRoute) {
     return response.text();
 }
 
+async function fetchJson(url) {
+    const response = await fetch(url);
+
+    if (!response.ok) {
+        throw new Error(`Failed to fetch JSON from ${url}`);
+    }
+
+    return response.json();
+}
+
 function parseBibText(bibText) {
     return Cite.input(bibText);
+}
+
+function slugify(value) {
+    return `${value || ''}`
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '');
+}
+
+function getArticleIdentifier(article) {
+    const articleTitle = slugify(article?.title || 'publication');
+    const articleYear = getArticleYear(article) || 'unknown';
+    const firstAuthor = article?.author?.[0]
+        ? slugify(`${article.author[0].given || ''} ${article.author[0].family || ''}`)
+        : 'author';
+
+    return article?.DOI || article?.doi || `${articleTitle}-${articleYear}-${firstAuthor}`;
+}
+
+function getArticleId(article) {
+    return slugify(getArticleIdentifier(article));
 }
 
 function getArticleYear(article) {
@@ -91,11 +123,23 @@ function normalizeAuthors(article) {
 }
 
 function normalizeArticle(article) {
+    const normalizedAuthors = normalizeAuthors(article);
+    const normalizedDoi = article.DOI || article.doi || '';
+
     return {
         ...article,
-        DOI: article.DOI || article.doi || '',
+        id: getArticleId({
+            ...article,
+            DOI: normalizedDoi,
+            author: normalizedAuthors
+        }),
+        DOI: normalizedDoi,
         URL: article.URL || article.url || '',
-        author: normalizeAuthors(article),
+        abstract: article.abstract || '',
+        pdfUrl: article.pdfUrl || '',
+        landingPageUrl: article.landingPageUrl || article.URL || article.url || '',
+        openAlexId: article.openAlexId || '',
+        author: normalizedAuthors,
         'container-title': normalizeContainerTitle(article)
     };
 }
@@ -156,6 +200,53 @@ async function getDblpArticlesByPid(pid) {
     const bibText = await fetchBibText(`${DBLP_BIB_URL}/${pid}.bib`);
     writeCache(pid, bibText);
     return normalizeArticles(parseBibText(bibText));
+}
+
+function reconstructAbstract(abstractInvertedIndex) {
+    if (!abstractInvertedIndex || typeof abstractInvertedIndex !== 'object') {
+        return '';
+    }
+
+    const orderedWords = [];
+
+    Object.entries(abstractInvertedIndex).forEach(([word, positions]) => {
+        positions.forEach((position) => {
+            orderedWords[position] = word;
+        });
+    });
+
+    return orderedWords.filter(Boolean).join(' ');
+}
+
+function normalizeOpenAlexWork(work) {
+    const doi = work?.doi ? work.doi.replace(/^https?:\/\/doi\.org\//i, '') : '';
+
+    return {
+        abstract: reconstructAbstract(work?.abstract_inverted_index),
+        pdfUrl: work?.primary_location?.pdf_url || work?.best_oa_location?.pdf_url || work?.open_access?.oa_url || '',
+        landingPageUrl: work?.primary_location?.landing_page_url || work?.best_oa_location?.landing_page_url || work?.doi || '',
+        openAlexId: work?.id || '',
+        citationCount: work?.cited_by_count || 0,
+        publicationDate: work?.publication_date || '',
+        DOI: doi
+    };
+}
+
+async function getOpenAlexWorkByDoi(doi) {
+    if (!doi) {
+        return null;
+    }
+
+    const normalizedDoi = doi.replace(/^https?:\/\/doi\.org\//i, '');
+    const filterValue = encodeURIComponent(`doi:https://doi.org/${normalizedDoi}`);
+    const response = await fetchJson(`${OPEN_ALEX_WORKS_URL}?filter=${filterValue}`);
+    const work = response?.results?.[0];
+
+    if (!work) {
+        return null;
+    }
+
+    return normalizeOpenAlexWork(work);
 }
 
 const ArticlesResource = {
@@ -224,6 +315,42 @@ const ArticlesResource = {
         }));
 
         return articlesWithAuthors;
+    },
+
+    async getArticleById(articleId, collection = null) {
+        const articles = collection || await this.getAllArticles();
+        return articles.find((article) => article.id === articleId) || null;
+    },
+
+    async getArticleDetailsById(articleId, collection = null) {
+        const article = await this.getArticleById(articleId, collection);
+
+        if (!article) {
+            return null;
+        }
+
+        if (!article.DOI) {
+            return {
+                ...article,
+                hasRemoteDetails: false
+            };
+        }
+
+        try {
+            const remoteDetails = await getOpenAlexWorkByDoi(article.DOI);
+
+            return normalizeArticle({
+                ...article,
+                ...remoteDetails
+            });
+        } catch (error) {
+            console.warn(`Unable to fetch OpenAlex details for DOI ${article.DOI}.`, error);
+
+            return {
+                ...article,
+                hasRemoteDetails: false
+            };
+        }
     }
 };
 

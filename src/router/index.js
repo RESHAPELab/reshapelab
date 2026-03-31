@@ -9,6 +9,7 @@ import Research from '../views/Research.vue';
 import Project from '../views/Project.vue';
 import Researcher from '../views/Researcher.vue';
 import Publications from '../views/Publications.vue';
+import PublicationDetail from '../views/PublicationDetail.vue';
 import News from '../views/News.vue';
 
 const router = createRouter({
@@ -44,6 +45,11 @@ const router = createRouter({
             path: '/publications/',
             name: 'publications',
             component: Publications,
+        },
+        {
+            path: '/publications/:publication_id',
+            name: 'publication-detail',
+            component: PublicationDetail,
         },
         {
             path: '/news/:news_id',
