@@ -35,7 +35,7 @@
                     class = "search_bar"
                 >
                 
-                <button @click="inputTerm ? resetSearch() : search" class="button search_button">
+                <button @click="inputTerm ? resetSearch() : search" class="button search_button" :style="{ backgroundColor: primary_color }">
                     <img :src="inputTerm ? 'icons/remove.png' : 'icons/search.png'" :alt="inputTerm ? 'Clean' : 'Search'" class="button-icon">
                 </button>
             </div>
@@ -293,7 +293,6 @@ export default {
     width: 50px;
     border-radius: 30px 30px 30px 30px;
     padding: 0;
-    background-color: var(--primary-color)
 }
 
 .role_filter {

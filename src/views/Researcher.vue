@@ -522,7 +522,6 @@ export default  {
     width: 50px;
     border-radius: 30px 30px 30px 30px;
     padding: 0;
-    background-color: var(--primary-color)
 }
 
 .botaoPaginacao {
