@@ -11,6 +11,12 @@ import Researcher from '../views/Researcher.vue';
 import Publications from '../views/Publications.vue';
 import PublicationDetail from '../views/PublicationDetail.vue';
 import News from '../views/News.vue';
+import AdminLogin from '../views/admin/AdminLogin.vue';
+import AdminLayout from '../views/admin/AdminLayout.vue';
+import AdminDashboard from '../views/admin/AdminDashboard.vue';
+import AdminNews from '../views/admin/AdminNews.vue';
+import AdminPeople from '../views/admin/AdminPeople.vue';
+import { requireAdminSession } from '../lib/adminAuth';
 
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
@@ -55,10 +61,69 @@ const router = createRouter({
             path: '/news/:news_id',
             name: 'news',
             component: News,
+        },
+        {
+            path: '/admin/login',
+            name: 'admin-login',
+            component: AdminLogin,
+            meta: {
+                hideSiteChrome: true
+            }
+        },
+        {
+            path: '/admin',
+            component: AdminLayout,
+            meta: {
+                requiresAdminAuth: true,
+                hideSiteChrome: true
+            },
+            children: [
+                {
+                    path: '',
+                    name: 'admin-dashboard',
+                    component: AdminDashboard,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                },
+                {
+                    path: 'news',
+                    name: 'admin-news',
+                    component: AdminNews,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                },
+                {
+                    path: 'people',
+                    name: 'admin-people',
+                    component: AdminPeople,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                }
+            ]
         }
     ],
 })
-router.beforeEach((to, from, next) => {
+router.beforeEach(async (to, from, next) => {
+    if (to.meta?.requiresAdminAuth) {
+        const authState = await requireAdminSession();
+
+        if (!authState.ok) {
+            next({
+                name: 'admin-login',
+                query: {
+                    redirect: to.fullPath
+                }
+            });
+            return;
+        }
+    }
+
     window.scrollTo(0, 0)
     next()
 })
