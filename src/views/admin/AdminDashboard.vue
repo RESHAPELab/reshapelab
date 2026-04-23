@@ -1,10 +1,10 @@
 <template>
     <section class="dashboard">
         <div class="hero_card">
-            <p class="eyebrow">Prototype</p>
+            <p class="eyebrow">Portal</p>
             <h1>Admin dashboard</h1>
             <p>
-                This prototype is wired for Supabase-backed content editing. News CRUD is live, and people editing supports bios, contact links, DBLP IDs, and research keywords.
+                Create, Read, Update, or Delete data for the website via Supabase and it will automatically populate on the website.
             </p>
         </div>
 
@@ -17,6 +17,11 @@
             <router-link class="feature_card" to="/admin/people">
                 <h2>Manage people</h2>
                 <p>Update people, research keywords, contacts, and profile metadata.</p>
+            </router-link>
+
+            <router-link class="feature_card" to="/admin/projects">
+                <h2>Manage projects</h2>
+                <p>Edit funding, research areas, people assignments, and related article titles.</p>
             </router-link>
         </div>
     </section>

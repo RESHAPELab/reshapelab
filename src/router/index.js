@@ -6,6 +6,8 @@ import {
 import Home from '../views/Home.vue';
 import People from '../views/People.vue';
 import Research from '../views/Research.vue';
+import Projects from '../views/Projects.vue';
+import ProjectDetail from '../views/ProjectDetail.vue';
 import Project from '../views/Project.vue';
 import Researcher from '../views/Researcher.vue';
 import Publications from '../views/Publications.vue';
@@ -16,6 +18,7 @@ import AdminLayout from '../views/admin/AdminLayout.vue';
 import AdminDashboard from '../views/admin/AdminDashboard.vue';
 import AdminNews from '../views/admin/AdminNews.vue';
 import AdminPeople from '../views/admin/AdminPeople.vue';
+import AdminProjects from '../views/admin/AdminProjects.vue';
 import { requireAdminSession } from '../lib/adminAuth';
 
 const router = createRouter({
@@ -36,6 +39,16 @@ const router = createRouter({
             path: '/research',
             name: 'research',
             component: Research,
+        },
+        {
+            path: '/projects',
+            name: 'projects',
+            component: Projects,
+        },
+        {
+            path: '/projects/:slug',
+            name: 'project-detail',
+            component: ProjectDetail,
         },
         {
             path: '/research/:projectName',
@@ -100,6 +113,15 @@ const router = createRouter({
                     path: 'people',
                     name: 'admin-people',
                     component: AdminPeople,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                },
+                {
+                    path: 'projects',
+                    name: 'admin-projects',
+                    component: AdminProjects,
                     meta: {
                         requiresAdminAuth: true,
                         hideSiteChrome: true

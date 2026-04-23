@@ -54,7 +54,7 @@ import research_lab from '../../public/research_lab.json';
 import ProjectMemberCard from '../components/cards/ProjectMemberCard.vue';
 import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 
-import ProjectsResource from '../api/resource/projects'
+import ResearchAreasResource from '../api/resource/researchAreas'
 import { resolveMemberImageUrl } from '../api/resource/people'
 
 export default  {
@@ -78,8 +78,8 @@ export default  {
 
     methods: {
         getMembers() {
-            ProjectsResource
-                .getUsersByProject(this.projectName)
+            ResearchAreasResource
+                .getUsersByResearchArea(this.projectName)
                 .then((data) => {
                     this.members = data;
                     console.log(data);
@@ -90,8 +90,8 @@ export default  {
         },
 
         getProject() {
-            ProjectsResource
-                .getProjectsByTitle(this.projectName)
+            ResearchAreasResource
+                .getResearchAreaByTitle(this.projectName)
                 .then((data) => {
                     this.project = data[0];
                     this.project.project_key_words = this.project.project_key_words.map(keyword => ({

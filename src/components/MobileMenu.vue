@@ -12,6 +12,7 @@
                 <button class="button-largemenu" @click="navigateTo('/')"> HOME </button>
                 <button class="button-largemenu" @click="navigateTo('/people')"> PEOPLE </button>
                 <button class="button-largemenu" @click="navigateTo('/research')"> RESEARCH </button>
+                <button class="button-largemenu" @click="navigateTo('/projects')"> PROJECTS </button>
                 <button class="button-largemenu" @click="navigateTo('/publications')"> PUBLICATION </button>
             </div>
         </div>

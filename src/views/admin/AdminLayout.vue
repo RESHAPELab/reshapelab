@@ -10,6 +10,7 @@
                 <router-link to="/admin">Overview</router-link>
                 <router-link to="/admin/news">News</router-link>
                 <router-link to="/admin/people">People</router-link>
+                <router-link to="/admin/projects">Projects</router-link>
             </nav>
 
             <button class="sign_out" @click="handleSignOut">Sign out</button>

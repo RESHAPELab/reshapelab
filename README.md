@@ -8,7 +8,8 @@ This repo now includes a Supabase-backed admin portal for:
 1. Admin login at `/admin/login`
 2. News CRUD at `/admin/news`
 3. People CRUD at `/admin/people`
-4. Editing research keywords, DBLP PIDs, and profile metadata for people
+4. Projects CRUD at `/admin/projects`
+5. Editing research keywords, DBLP PIDs, profile metadata, project funding, assigned people, and related article titles
 
 ### Setup
 
@@ -25,6 +26,7 @@ This repo now includes a Supabase-backed admin portal for:
 ### Notes
 
 - The public site still falls back to the local .json files when Supabase is not configured or unavailable.
+- The public `/projects` route now depends on Supabase and no longer falls back to a local JSON file.
 - News images and profile images are still stored as string paths.
 - The current .json and image data can be uploaded to Supabase at anytime (as long as .env is configured) using `npm run import:supabase`
 - Test this project by first using `npm i` then `npm run dev`

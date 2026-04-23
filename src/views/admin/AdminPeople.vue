@@ -14,7 +14,7 @@
             <p v-if="errorMessage" class="status error">{{ errorMessage }}</p>
 
             <label class="search_field">
-                Search people names
+                Search peoples' names
                 <input v-model="searchTerm" placeholder="Search by first or last name...">
             </label>
 
