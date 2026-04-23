@@ -13,9 +13,14 @@
             <p v-if="statusMessage" class="status">{{ statusMessage }}</p>
             <p v-if="errorMessage" class="status error">{{ errorMessage }}</p>
 
+            <label class="search_field">
+                Search news titles
+                <input v-model="searchTerm" placeholder="Search by title...">
+            </label>
+
             <div class="table_like">
                 <button
-                    v-for="item in newsItems"
+                    v-for="item in filteredNewsItems"
                     :key="item.id"
                     class="row_button"
                     @click="selectItem(item)"
@@ -136,6 +141,7 @@ export default {
     data() {
         return {
             newsItems: [],
+            searchTerm: '',
             form: emptyForm(),
             peopleInput: '',
             isCreating: true,
@@ -150,6 +156,18 @@ export default {
     computed: {
         imagePreviewUrl() {
             return resolveNewsImageUrl(this.form.image);
+        },
+
+        filteredNewsItems() {
+            const normalizedSearch = this.searchTerm.trim().toLowerCase();
+
+            if (!normalizedSearch) {
+                return this.newsItems;
+            }
+
+            return this.newsItems.filter((item) => {
+                return `${item.title || ''}`.toLowerCase().includes(normalizedSearch);
+            });
         }
     },
 
@@ -369,6 +387,10 @@ button {
 }
 
 .table_like {
+    margin-top: 18px;
+}
+
+.search_field {
     margin-top: 18px;
 }
 

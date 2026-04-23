@@ -13,9 +13,14 @@
             <p v-if="statusMessage" class="status">{{ statusMessage }}</p>
             <p v-if="errorMessage" class="status error">{{ errorMessage }}</p>
 
+            <label class="search_field">
+                Search people names
+                <input v-model="searchTerm" placeholder="Search by first or last name...">
+            </label>
+
             <div class="table_like">
                 <button
-                    v-for="member in members"
+                    v-for="member in filteredMembers"
                     :key="member.slug"
                     class="row_button"
                     @click="selectMember(member)"
@@ -212,6 +217,7 @@ export default {
     data() {
         return {
             members: [],
+            searchTerm: '',
             form: emptyMember(),
             researchKeywordsInput: '',
             authorNamesInput: '',
@@ -232,6 +238,19 @@ export default {
     },
 
     computed: {
+        filteredMembers() {
+            const normalizedSearch = this.searchTerm.trim().toLowerCase();
+
+            if (!normalizedSearch) {
+                return this.members;
+            }
+
+            return this.members.filter((member) => {
+                const fullName = `${member.firstName || ''} ${member.lastName || ''}`.trim().toLowerCase();
+                return fullName.includes(normalizedSearch);
+            });
+        },
+
         photoPreviewUrls() {
             return {
                 photo_with_background: resolveMemberImageUrl(this.form.photos.photo_with_background),
@@ -521,6 +540,10 @@ button {
     letter-spacing: 0.12em;
     color: #6b7586;
     margin-bottom: 8px;
+}
+
+.search_field {
+    margin-top: 18px;
 }
 
 .upload_inputs,
