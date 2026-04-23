@@ -59,7 +59,7 @@
 
                 <label>
                     Bio / description
-                    <textarea v-model="form.description" rows="6"></textarea>
+                    <textarea v-model="form.description" placeholder="Write using raw text..." rows="6"></textarea>
                 </label>
 
                 <label>
@@ -89,22 +89,88 @@
                     </label>
                 </div>
 
+                <div class="two_col upload_inputs">
+                    <label>
+                        Upload with background
+                        <input
+                            ref="backgroundPhotoInput"
+                            type="file"
+                            accept="image/*"
+                            @change="handlePhotoSelection($event, 'photo_with_background')"
+                        >
+                    </label>
+
+                    <label>
+                        Upload without background
+                        <input
+                            ref="transparentPhotoInput"
+                            type="file"
+                            accept="image/*"
+                            @change="handlePhotoSelection($event, 'photo_without_background')"
+                        >
+                    </label>
+                </div>
+
+                <div class="two_col upload_row">
+                    <div>
+                        <button
+                            type="button"
+                            class="tertiary"
+                            :disabled="!selectedPhotoFiles.photo_with_background || isUploadingPhotos.photo_with_background"
+                            @click="uploadSelectedPhoto('photo_with_background')"
+                        >
+                            {{ isUploadingPhotos.photo_with_background ? 'Uploading...' : 'Upload with background' }}
+                        </button>
+                        <p v-if="selectedPhotoFiles.photo_with_background" class="file_name">{{ selectedPhotoFiles.photo_with_background.name }}</p>
+                    </div>
+
+                    <div>
+                        <button
+                            type="button"
+                            class="tertiary"
+                            :disabled="!selectedPhotoFiles.photo_without_background || isUploadingPhotos.photo_without_background"
+                            @click="uploadSelectedPhoto('photo_without_background')"
+                        >
+                            {{ isUploadingPhotos.photo_without_background ? 'Uploading...' : 'Upload without background' }}
+                        </button>
+                        <p v-if="selectedPhotoFiles.photo_without_background" class="file_name">{{ selectedPhotoFiles.photo_without_background.name }}</p>
+                    </div>
+                </div>
+
+                <p class="help_text">
+                    Uploaded profile images are stored in the Supabase Storage bucket `people-images` and their path is filled in automatically.
+                </p>
+
+                <div class="two_col preview_grid">
+                    <div v-if="photoPreviewUrls.photo_with_background" class="image_preview">
+                        <img :src="photoPreviewUrls.photo_with_background" alt="Photo with background preview">
+                    </div>
+
+                    <div v-if="photoPreviewUrls.photo_without_background" class="image_preview">
+                        <img :src="photoPreviewUrls.photo_without_background" alt="Photo without background preview">
+                    </div>
+                </div>
+
                 <div class="two_col">
                     <label>
                         Photo with background
-                        <input v-model="form.photos.photo_with_background">
+                        <input v-model="form.photos.photo_with_background" placeholder="images/people/member/image_with_background.png or people-images/member/file.png">
                     </label>
 
                     <label>
                         Photo without background
-                        <input v-model="form.photos.photo_without_background">
+                        <input v-model="form.photos.photo_without_background" placeholder="images/people/member/image_without_background.png or people-images/member/file.png">
                     </label>
                 </div>
 
                 <label>
                     DBLP PID
-                    <input v-model="form.dblpPid">
+                    <input v-model="form.dblpPid" placeholder="">
                 </label>
+
+                <p class="help_text">
+                    DBLP.org shows the PID in the URL for any author. For example, Igor's PID would be 70/3474, as his URL is https://dblp.org/pid/70/3474.html.
+                </p>
 
                 <div class="action_row">
                     <button type="submit">{{ isSaving ? 'Saving...' : 'Save' }}</button>
@@ -116,7 +182,7 @@
 </template>
 
 <script>
-import MembersResource from '../../api/resource/people';
+import MembersResource, { resolveMemberImageUrl } from '../../api/resource/people';
 
 function emptyMember() {
     return {
@@ -152,9 +218,26 @@ export default {
             projectsInput: '',
             isCreating: true,
             isSaving: false,
+            isUploadingPhotos: {
+                photo_with_background: false,
+                photo_without_background: false
+            },
+            selectedPhotoFiles: {
+                photo_with_background: null,
+                photo_without_background: null
+            },
             statusMessage: '',
             errorMessage: ''
         };
+    },
+
+    computed: {
+        photoPreviewUrls() {
+            return {
+                photo_with_background: resolveMemberImageUrl(this.form.photos.photo_with_background),
+                photo_without_background: resolveMemberImageUrl(this.form.photos.photo_without_background)
+            };
+        }
     },
 
     async created() {
@@ -163,7 +246,12 @@ export default {
 
     methods: {
         async loadMembers() {
-            this.members = await MembersResource.getAdminMembers();
+            try {
+                this.members = await MembersResource.getAdminMembers();
+            } catch (error) {
+                this.members = [];
+                this.errorMessage = error.message || 'Unable to load people.';
+            }
         },
 
         startCreate() {
@@ -174,6 +262,15 @@ export default {
             this.isCreating = true;
             this.statusMessage = '';
             this.errorMessage = '';
+            this.selectedPhotoFiles = {
+                photo_with_background: null,
+                photo_without_background: null
+            };
+            this.isUploadingPhotos = {
+                photo_with_background: false,
+                photo_without_background: false
+            };
+            this.clearPhotoInputs();
         },
 
         selectMember(member) {
@@ -184,6 +281,82 @@ export default {
             this.isCreating = false;
             this.statusMessage = '';
             this.errorMessage = '';
+            this.selectedPhotoFiles = {
+                photo_with_background: null,
+                photo_without_background: null
+            };
+            this.isUploadingPhotos = {
+                photo_with_background: false,
+                photo_without_background: false
+            };
+            this.clearPhotoInputs();
+        },
+
+        clearPhotoInputs() {
+            if (this.$refs.backgroundPhotoInput) {
+                this.$refs.backgroundPhotoInput.value = '';
+            }
+
+            if (this.$refs.transparentPhotoInput) {
+                this.$refs.transparentPhotoInput.value = '';
+            }
+        },
+
+        handlePhotoSelection(event, photoVariant) {
+            const [file] = event.target.files || [];
+            this.selectedPhotoFiles = {
+                ...this.selectedPhotoFiles,
+                [photoVariant]: file || null
+            };
+        },
+
+        async uploadSelectedPhoto(photoVariant, options = {}) {
+            const selectedFile = this.selectedPhotoFiles[photoVariant];
+
+            if (!selectedFile) {
+                return;
+            }
+
+            if (!this.form.slug?.trim()) {
+                this.errorMessage = 'Add the member slug before uploading an image so the file can be organized correctly.';
+                return;
+            }
+
+            this.isUploadingPhotos = {
+                ...this.isUploadingPhotos,
+                [photoVariant]: true
+            };
+            this.errorMessage = '';
+
+            try {
+                const { filePath } = await MembersResource.uploadMemberImage(selectedFile, this.form.slug, photoVariant);
+                this.form.photos = {
+                    ...this.form.photos,
+                    [photoVariant]: filePath
+                };
+                this.selectedPhotoFiles = {
+                    ...this.selectedPhotoFiles,
+                    [photoVariant]: null
+                };
+
+                const inputRef = photoVariant === 'photo_with_background' ? 'backgroundPhotoInput' : 'transparentPhotoInput';
+
+                if (this.$refs[inputRef]) {
+                    this.$refs[inputRef].value = '';
+                }
+
+                if (!options.preserveStatusMessage) {
+                    this.statusMessage = 'Profile image uploaded. Save the person to attach it permanently.';
+                }
+            } catch (error) {
+                this.errorMessage = error.message || 'Unable to upload the profile image.';
+                throw error;
+            } finally {
+                this.isUploadingPhotos = {
+                    ...this.isUploadingPhotos,
+                    [photoVariant]: false
+                };
+            }
         },
 
         async saveMember() {
@@ -192,6 +365,18 @@ export default {
             this.errorMessage = '';
 
             try {
+                if (this.selectedPhotoFiles.photo_with_background) {
+                    await this.uploadSelectedPhoto('photo_with_background', {
+                        preserveStatusMessage: true
+                    });
+                }
+
+                if (this.selectedPhotoFiles.photo_without_background) {
+                    await this.uploadSelectedPhoto('photo_without_background', {
+                        preserveStatusMessage: true
+                    });
+                }
+
                 const payload = {
                     ...this.form,
                     research_keywords: this.researchKeywordsInput.split(',').map((item) => item.trim()).filter(Boolean),
@@ -244,7 +429,8 @@ export default {
 
 .panel_header,
 .action_row,
-.two_col {
+.two_col,
+.upload_row {
     display: flex;
     gap: 12px;
 }
@@ -296,6 +482,10 @@ button {
     background: #8a2d24;
 }
 
+.tertiary {
+    background: #5f6b80;
+}
+
 .row_button {
     width: 100%;
     display: flex;
@@ -331,6 +521,30 @@ button {
     letter-spacing: 0.12em;
     color: #6b7586;
     margin-bottom: 8px;
+}
+
+.upload_inputs,
+.preview_grid {
+    align-items: flex-start;
+}
+
+.help_text,
+.file_name {
+    color: #6b7586;
+    font-size: 0.95rem;
+}
+
+.image_preview {
+    background: #f5f8fb;
+    border-radius: 18px;
+    padding: 12px;
+}
+
+.image_preview img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: contain;
+    display: block;
 }
 
 @media (max-width: 980px) {

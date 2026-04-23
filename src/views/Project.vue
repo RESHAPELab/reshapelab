@@ -38,7 +38,7 @@
                 :key="member.email"
                 :first_name="member.firstName"
                 :last_name="member.lastName"
-                :image="'../' + member.photos.photo_with_background"
+                :image="resolvePhotoUrl(member.photos.photo_with_background)"
                 :email="member.contacts.email"
                 :github="member.contacts.github"
                 :role="member.role"
@@ -55,6 +55,7 @@ import ProjectMemberCard from '../components/cards/ProjectMemberCard.vue';
 import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 
 import ProjectsResource from '../api/resource/projects'
+import { resolveMemberImageUrl } from '../api/resource/people'
 
 export default  {
     name: 'Project',
@@ -114,6 +115,10 @@ export default  {
                 }, Math.random() * 5000 + 5000); 
             });
         },
+
+        resolvePhotoUrl(imagePath) {
+            return resolveMemberImageUrl(imagePath);
+        }
     },
 
     created() {

@@ -35,7 +35,7 @@
             <form class="editor_form" @submit.prevent="saveItem">
                 <label>
                     ID
-                    <input v-model="form.id" required>
+                    <input v-model="form.id" placeholder="YYYYMMDD_KEYWORD" required>
                 </label>
 
                 <label>
@@ -56,9 +56,39 @@
                 </div>
 
                 <label>
-                    Image path
-                    <input v-model="form.image" placeholder="images/posts/example.png">
+                    Upload image
+                    <input
+                        ref="imageInput"
+                        type="file"
+                        accept="image/*"
+                        @change="handleImageSelection"
+                    >
                 </label>
+
+                <div class="upload_row">
+                    <button
+                        type="button"
+                        class="tertiary"
+                        :disabled="!selectedImageFile || isUploadingImage"
+                        @click="uploadSelectedImage"
+                    >
+                        {{ isUploadingImage ? 'Uploading...' : 'Upload image' }}
+                    </button>
+                    <p v-if="selectedImageFile" class="file_name">{{ selectedImageFile.name }}</p>
+                </div>
+
+                <p class="help_text">
+                    Uploaded images are stored in the Supabase Storage bucket `news-images` and their path is filled in automatically.
+                </p>
+
+                <label>
+                    Image path or URL
+                    <input v-model="form.image" placeholder="news-images/post-id/file.png">
+                </label>
+
+                <div v-if="imagePreviewUrl" class="image_preview">
+                    <img :src="imagePreviewUrl" alt="News image preview">
+                </div>
 
                 <label>
                     People
@@ -67,7 +97,7 @@
 
                 <label>
                     Description HTML
-                    <textarea v-model="form.description" rows="10"></textarea>
+                    <textarea v-model="form.description" placeholder="<p>Start writing using HTML tags...<p>" rows="10"></textarea>
                 </label>
 
                 <label class="checkbox">
@@ -85,7 +115,7 @@
 </template>
 
 <script>
-import NewsResource from '../../api/resource/news';
+import NewsResource, { resolveNewsImageUrl } from '../../api/resource/news';
 
 function emptyForm() {
     return {
@@ -110,9 +140,17 @@ export default {
             peopleInput: '',
             isCreating: true,
             isSaving: false,
+            isUploadingImage: false,
             statusMessage: '',
-            errorMessage: ''
+            errorMessage: '',
+            selectedImageFile: null
         };
+    },
+
+    computed: {
+        imagePreviewUrl() {
+            return resolveNewsImageUrl(this.form.image);
+        }
     },
 
     async created() {
@@ -128,16 +166,66 @@ export default {
             this.form = emptyForm();
             this.peopleInput = '';
             this.isCreating = true;
+            this.isUploadingImage = false;
             this.statusMessage = '';
             this.errorMessage = '';
+            this.selectedImageFile = null;
+
+            if (this.$refs.imageInput) {
+                this.$refs.imageInput.value = '';
+            }
         },
 
         selectItem(item) {
             this.form = { ...item };
             this.peopleInput = (item.person || []).join(', ');
             this.isCreating = false;
+            this.isUploadingImage = false;
             this.statusMessage = '';
             this.errorMessage = '';
+            this.selectedImageFile = null;
+
+            if (this.$refs.imageInput) {
+                this.$refs.imageInput.value = '';
+            }
+        },
+
+        handleImageSelection(event) {
+            const [file] = event.target.files || [];
+            this.selectedImageFile = file || null;
+        },
+
+        async uploadSelectedImage(options = {}) {
+            if (!this.selectedImageFile) {
+                return;
+            }
+
+            if (!this.form.id?.trim()) {
+                this.errorMessage = 'Add the post ID before uploading an image so the file can be organized correctly.';
+                return;
+            }
+
+            this.isUploadingImage = true;
+            this.errorMessage = '';
+
+            try {
+                const { filePath } = await NewsResource.uploadNewsImage(this.selectedImageFile, this.form.id);
+                this.form.image = filePath;
+                this.selectedImageFile = null;
+
+                if (this.$refs.imageInput) {
+                    this.$refs.imageInput.value = '';
+                }
+
+                if (!options.preserveStatusMessage) {
+                    this.statusMessage = 'Image uploaded. Save the news post to attach it permanently.';
+                }
+            } catch (error) {
+                this.errorMessage = error.message || 'Unable to upload the image.';
+                throw error;
+            } finally {
+                this.isUploadingImage = false;
+            }
         },
 
         async saveItem() {
@@ -146,6 +234,12 @@ export default {
             this.errorMessage = '';
 
             try {
+                if (this.selectedImageFile) {
+                    await this.uploadSelectedImage({
+                        preserveStatusMessage: true
+                    });
+                }
+
                 const payload = {
                     ...this.form,
                     person: this.peopleInput
@@ -199,7 +293,8 @@ export default {
 
 .panel_header,
 .action_row,
-.two_col {
+.two_col,
+.upload_row {
     display: flex;
     gap: 12px;
 }
@@ -251,6 +346,15 @@ button {
     background: #8a2d24;
 }
 
+.tertiary {
+    background: #2b6a8b;
+}
+
+.tertiary:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
 .row_button {
     width: 100%;
     display: flex;
@@ -286,6 +390,27 @@ button {
     align-items: center;
 }
 
+.help_text,
+.file_name {
+    margin: 0;
+    color: #586274;
+    font-size: 14px;
+}
+
+.image_preview {
+    border: 1px solid #d6dee8;
+    border-radius: 18px;
+    overflow: hidden;
+    background: #f8fbfd;
+}
+
+.image_preview img {
+    display: block;
+    width: 100%;
+    max-height: 260px;
+    object-fit: cover;
+}
+
 .eyebrow {
     text-transform: uppercase;
     letter-spacing: 0.12em;
@@ -300,6 +425,11 @@ button {
 
     .two_col {
         flex-direction: column;
+    }
+
+    .upload_row {
+        flex-direction: column;
+        align-items: flex-start;
     }
 }
 </style>

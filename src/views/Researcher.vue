@@ -170,7 +170,7 @@ import research_lab from '../../public/research_lab.json';
 import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 import PublishedPaperCard from '../components/cards/PublishedPaperCard.vue';
 
-import MembersResource from '../api/resource/people'
+import MembersResource, { resolveMemberImageUrl } from '../api/resource/people'
 import ArticlesResource from '../api/resource/articles'
 
 export default  {
@@ -208,7 +208,7 @@ export default  {
             MembersResource
             .getFirstMemberByName(this.raw_researcher_name)
             .then((result) => {
-                this.image_without_background = '../' + result.photos.photo_without_background;
+                this.image_without_background = resolveMemberImageUrl(result.photos.photo_without_background);
                 this.description = result.description;
                 this.contacts = result.contacts;
                 this.first_name = result.firstName;

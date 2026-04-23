@@ -2,7 +2,7 @@
     <div class = "card">
         <div class="image-container" v-if="image">
             <p class="tag" :style="{ backgroundColor: secundary_color }"> {{ tag }} </p>
-            <img class="image" :src="image" alt="Profile"/>
+            <img class="image" :src="resolveImageUrl(image)" alt="Profile"/>
         </div>
         
         <p class="tagNoImage" :style="{ backgroundColor: secundary_color }" v-else> {{ tag }} </p>
@@ -21,6 +21,7 @@
 
 <script>
 import research_lab from '/public/research_lab.json'
+import { resolveNewsImageUrl } from '../../api/resource/news';
 
 export default {
     setup() {
@@ -45,6 +46,10 @@ export default {
     },
 
     methods: {
+        resolveImageUrl(image) {
+            return resolveNewsImageUrl(image);
+        },
+
         goToNews() {
             this.$router.push(`/news/${this.id}`);
         }

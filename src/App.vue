@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <NavBar v-if="showSiteChrome"></NavBar>
-        <div class="espacamento-header">
+        <div :class="{ 'espacamento-header': showSiteChrome }">
             <RouterView />
         </div>
         <Footer v-if="showSiteChrome"></Footer>

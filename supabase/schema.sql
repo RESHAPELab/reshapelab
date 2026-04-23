@@ -38,6 +38,14 @@ create table if not exists public.people_profiles (
     updated_at timestamp with time zone not null default timezone('utc', now())
 );
 
+insert into storage.buckets (id, name, public)
+values ('news-images', 'news-images', true)
+on conflict (id) do nothing;
+
+insert into storage.buckets (id, name, public)
+values ('people-images', 'people-images', true)
+on conflict (id) do nothing;
+
 create or replace function public.handle_updated_at()
 returns trigger
 language plpgsql
@@ -62,24 +70,50 @@ alter table public.profiles enable row level security;
 alter table public.news_posts enable row level security;
 alter table public.people_profiles enable row level security;
 
+drop policy if exists "public can read published news" on public.news_posts;
 create policy "public can read published news"
 on public.news_posts
 for select
 using (published = true);
 
+drop policy if exists "public can read active people" on public.people_profiles;
 create policy "public can read active people"
 on public.people_profiles
 for select
 using (is_active = true);
 
+drop policy if exists "admins can read profiles" on public.profiles;
 create policy "admins can read profiles"
 on public.profiles
 for select
 to authenticated
 using (auth.uid() = id);
 
+drop policy if exists "admins can manage news" on public.news_posts;
 create policy "admins can manage news"
 on public.news_posts
+for all
+to authenticated
+using (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+)
+with check (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+	    )
+	);
+
+drop policy if exists "admins can manage people" on public.people_profiles;
+create policy "admins can manage people"
+on public.people_profiles
 for all
 to authenticated
 using (
@@ -99,12 +133,35 @@ with check (
     )
 );
 
-create policy "admins can manage people"
-on public.people_profiles
-for all
+drop policy if exists "public can read news images" on storage.objects;
+create policy "public can read news images"
+on storage.objects
+for select
+using (bucket_id = 'news-images');
+
+drop policy if exists "admins can upload news images" on storage.objects;
+create policy "admins can upload news images"
+on storage.objects
+for insert
+to authenticated
+with check (
+    bucket_id = 'news-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can update news images" on storage.objects;
+create policy "admins can update news images"
+on storage.objects
+for update
 to authenticated
 using (
-    exists (
+    bucket_id = 'news-images'
+    and exists (
         select 1
         from public.profiles
         where profiles.id = auth.uid()
@@ -112,7 +169,83 @@ using (
     )
 )
 with check (
-    exists (
+    bucket_id = 'news-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can delete news images" on storage.objects;
+create policy "admins can delete news images"
+on storage.objects
+for delete
+to authenticated
+using (
+    bucket_id = 'news-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "public can read people images" on storage.objects;
+create policy "public can read people images"
+on storage.objects
+for select
+using (bucket_id = 'people-images');
+
+drop policy if exists "admins can upload people images" on storage.objects;
+create policy "admins can upload people images"
+on storage.objects
+for insert
+to authenticated
+with check (
+    bucket_id = 'people-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can update people images" on storage.objects;
+create policy "admins can update people images"
+on storage.objects
+for update
+to authenticated
+using (
+    bucket_id = 'people-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+)
+with check (
+    bucket_id = 'people-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can delete people images" on storage.objects;
+create policy "admins can delete people images"
+on storage.objects
+for delete
+to authenticated
+using (
+    bucket_id = 'people-images'
+    and exists (
         select 1
         from public.profiles
         where profiles.id = auth.uid()

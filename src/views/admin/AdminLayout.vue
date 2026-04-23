@@ -1,9 +1,9 @@
 <template>
     <section class="admin_layout">
         <aside class="sidebar">
-            <div>
+            <div class="sidebar_top">
                 <p class="brand">RESHAPE Admin</p>
-                <p v-if="profile" class="profile">{{ profile.full_name || profile.email }}</p>
+                <p v-if="profile?.email" class="profile">{{ profile.email }}</p>
             </div>
 
             <nav class="nav">
@@ -53,9 +53,13 @@ export default {
     display: grid;
     grid-template-columns: 260px 1fr;
     background: #edf2f7;
+    align-items: start;
 }
 
 .sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
     background: #1f2a3d;
     color: white;
     padding: 28px 22px;
@@ -63,6 +67,13 @@ export default {
     flex-direction: column;
     justify-content: space-between;
     gap: 24px;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
+.sidebar_top {
+    display: grid;
+    gap: 6px;
 }
 
 .brand {
@@ -73,6 +84,7 @@ export default {
 .profile {
     color: #c7d2e3;
     margin: 0;
+    word-break: break-word;
 }
 
 .nav {
@@ -102,6 +114,7 @@ export default {
 
 .content {
     padding: 28px;
+    min-width: 0;
 }
 
 @media (max-width: 900px) {
@@ -110,6 +123,8 @@ export default {
     }
 
     .sidebar {
+        position: static;
+        height: auto;
         gap: 16px;
     }
 }

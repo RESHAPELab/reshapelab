@@ -6,6 +6,7 @@
         "dev": "vite",
         "build": "vite build",
         "preview": "vite preview",
+        "import:supabase": "node scripts/import-supabase-content.mjs",
         "test": "npx cypress run",
         "coverage": "jest --coverage --coveragePath=coverage"
     },
