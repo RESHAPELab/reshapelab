@@ -8,7 +8,7 @@
         <p class="tagNoImage" :style="{ backgroundColor: secundary_color }" v-else> {{ tag }} </p>
         
         <p class = "date"> {{ date }} </p>
-        <p class = "title" > {{ title }} </p>
+        <p class = "title" > {{ truncatedTitle }} </p>
         
         <button class = "read_more" :style="{ backgroundColor: primary_color }" @click = "goToNews"> 
             <div class = "link-container"> <!-- Add this div -->
@@ -24,6 +24,19 @@ import research_lab from '/public/research_lab.json'
 import { resolveNewsImageUrl } from '../../api/resource/news';
 
 export default {
+    computed: {
+        truncatedTitle() {
+            const maxLength = 50;
+            const normalizedTitle = `${this.title || ''}`.trim();
+
+            if (normalizedTitle.length <= maxLength) {
+                return normalizedTitle;
+            }
+
+            return `${normalizedTitle.slice(0, maxLength).trimEnd()}...`;
+        }
+    },
+
     setup() {
         return
     },
@@ -73,11 +86,13 @@ export default {
 
 .card {
     width: min(300px, 80vw);
-    justify-content: center;
-    align-items: center;
     display: flex;
+    flex-direction: column;
+    align-items: stretch;
     position: relative;
     z-index: 0;
+    gap: 12px;
+    padding-bottom: 12px;
 }
 
 .image {
@@ -89,19 +104,21 @@ export default {
 .date {
     font-size: 20px;
     color: gray;
+    padding: 0 20px;
 }
 
 .title{ 
     font-size: 20px;
-    margin: 0px 20px 10px 20px;
+    padding: 0 20px;
     text-align: justify;
     line-height: 20px;
+    min-height: 40px;
     color: black
 }
 
 .read_more {
     width: 130px;
-    margin-bottom: 10px;
+    margin: 0 20px;
     border-radius: 20px;
     border: none;
 }
@@ -123,17 +140,21 @@ export default {
 
 .image-container {
     position: relative;
+    margin-bottom: 4px;
 }
 
 .tag {
     position: absolute;
     top: 15px;
+    left: 0;
     z-index: 1;
-    padding: 5px;
+    padding: 5px 10px;
 }
 
 .tagNoImage {
-    padding: 5px;
+    padding: 5px 10px;
+    margin: 0 20px;
+    align-self: flex-start;
 }
 
 </style>
