@@ -95,9 +95,26 @@
                     <img :src="imagePreviewUrl" alt="News image preview">
                 </div>
 
-                <label>
+                <label class="people_field">
                     People
-                    <input v-model="peopleInput" placeholder="comma,separated,names">
+                    <input
+                        ref="peopleInput"
+                        v-model="peopleInput"
+                        placeholder="comma,separated,names"
+                        @focus="isPeopleInputFocused = true"
+                        @blur="handlePeopleInputBlur"
+                    >
+                    <div v-if="showPeopleSuggestions" class="suggestions_list">
+                        <button
+                            v-for="person in filteredPeopleSuggestions"
+                            :key="person.slug"
+                            type="button"
+                            class="suggestion_item"
+                            @mousedown.prevent="applyPersonSuggestion(person)"
+                        >
+                            {{ person.firstName }} {{ person.lastName }}
+                        </button>
+                    </div>
                 </label>
 
                 <label>
@@ -121,6 +138,7 @@
 
 <script>
 import NewsResource, { resolveNewsImageUrl } from '../../api/resource/news';
+import MembersResource from '../../api/resource/people';
 
 function emptyForm() {
     return {
@@ -141,10 +159,12 @@ export default {
     data() {
         return {
             newsItems: [],
+            peopleOptions: [],
             searchTerm: '',
             originalId: '',
             form: emptyForm(),
             peopleInput: '',
+            isPeopleInputFocused: false,
             isCreating: true,
             isSaving: false,
             isUploadingImage: false,
@@ -169,11 +189,44 @@ export default {
             return this.newsItems.filter((item) => {
                 return `${item.title || ''}`.toLowerCase().includes(normalizedSearch);
             });
+        },
+
+        currentPeopleSearchTerm() {
+            const segments = this.peopleInput.split(',');
+            return (segments[segments.length - 1] || '').trim().toLowerCase();
+        },
+
+        filteredPeopleSuggestions() {
+            const currentSearch = this.currentPeopleSearchTerm;
+
+            if (!currentSearch) {
+                return [];
+            }
+
+            const alreadySelectedNames = this.peopleInput
+                .split(',')
+                .slice(0, -1)
+                .map((name) => name.trim().toLowerCase())
+                .filter(Boolean);
+
+            return this.peopleOptions
+                .filter((person) => {
+                    const fullName = `${person.firstName || ''} ${person.lastName || ''}`.trim();
+                    const normalizedName = fullName.toLowerCase();
+
+                    return normalizedName.includes(currentSearch) && !alreadySelectedNames.includes(normalizedName);
+                })
+                .slice(0, 6);
+        },
+
+        showPeopleSuggestions() {
+            return this.isPeopleInputFocused && this.filteredPeopleSuggestions.length > 0;
         }
     },
 
     async created() {
         await this.loadNews();
+        await this.loadPeopleOptions();
     },
 
     methods: {
@@ -181,10 +234,15 @@ export default {
             this.newsItems = await NewsResource.getAdminNews();
         },
 
+        async loadPeopleOptions() {
+            this.peopleOptions = await MembersResource.getAdminMembers();
+        },
+
         startCreate() {
             this.form = emptyForm();
             this.originalId = '';
             this.peopleInput = '';
+            this.isPeopleInputFocused = false;
             this.isCreating = true;
             this.isUploadingImage = false;
             this.statusMessage = '';
@@ -200,6 +258,7 @@ export default {
             this.form = { ...item };
             this.originalId = item.id;
             this.peopleInput = (item.person || []).join(', ');
+            this.isPeopleInputFocused = false;
             this.isCreating = false;
             this.isUploadingImage = false;
             this.statusMessage = '';
@@ -214,6 +273,21 @@ export default {
         handleImageSelection(event) {
             const [file] = event.target.files || [];
             this.selectedImageFile = file || null;
+        },
+
+        handlePeopleInputBlur() {
+            window.setTimeout(() => {
+                this.isPeopleInputFocused = false;
+            }, 100);
+        },
+
+        applyPersonSuggestion(person) {
+            const fullName = `${person.firstName || ''} ${person.lastName || ''}`.trim();
+            const segments = this.peopleInput.split(',');
+
+            segments[segments.length - 1] = ` ${fullName}`;
+            this.peopleInput = `${segments.join(',').replace(/^\s+/, '').trim()}, `;
+            this.isPeopleInputFocused = true;
         },
 
         async uploadSelectedImage(options = {}) {
@@ -397,6 +471,41 @@ button {
 
 .search_field {
     margin-top: 18px;
+}
+
+.people_field {
+    position: relative;
+}
+
+.suggestions_list {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    right: 0;
+    background: white;
+    border: 1px solid #c9d3df;
+    border-radius: 14px;
+    box-shadow: 0 16px 36px rgba(31, 42, 61, 0.12);
+    overflow: hidden;
+    z-index: 5;
+}
+
+.suggestion_item {
+    width: 100%;
+    min-height: auto;
+    padding: 12px 14px;
+    border-radius: 0;
+    background: white;
+    color: #1f2a3d;
+    text-align: left;
+}
+
+.suggestion_item + .suggestion_item {
+    border-top: 1px solid #e4e9f0;
+}
+
+.suggestion_item:hover {
+    background: #f5f8fb;
 }
 
 .status {

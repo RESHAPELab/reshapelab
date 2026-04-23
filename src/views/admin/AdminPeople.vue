@@ -68,7 +68,7 @@
                 </label>
 
                 <label>
-                    Research keywords
+                    Research areas
                     <input v-model="researchKeywordsInput" placeholder="comma, separated, keywords">
                 </label>
 
