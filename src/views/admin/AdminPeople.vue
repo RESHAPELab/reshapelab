@@ -53,7 +53,7 @@
                 <div class="two_col">
                     <label>
                         Slug
-                        <input v-model="form.slug" required>
+                        <input :value="derivedSlug" disabled readonly>
                     </label>
 
                     <label>
@@ -211,6 +211,12 @@ function emptyMember() {
     };
 }
 
+function slugifyName(firstName, lastName) {
+    return `${firstName || ''} ${lastName || ''}`
+        .trim()
+        .replace(/\s+/g, '-');
+}
+
 export default {
     name: 'AdminPeople',
 
@@ -218,6 +224,7 @@ export default {
         return {
             members: [],
             searchTerm: '',
+            originalSlug: '',
             form: emptyMember(),
             researchKeywordsInput: '',
             authorNamesInput: '',
@@ -238,6 +245,10 @@ export default {
     },
 
     computed: {
+        derivedSlug() {
+            return slugifyName(this.form.firstName, this.form.lastName);
+        },
+
         filteredMembers() {
             const normalizedSearch = this.searchTerm.trim().toLowerCase();
 
@@ -275,6 +286,8 @@ export default {
 
         startCreate() {
             this.form = emptyMember();
+            this.form.slug = '';
+            this.originalSlug = '';
             this.researchKeywordsInput = '';
             this.authorNamesInput = '';
             this.projectsInput = '';
@@ -294,6 +307,8 @@ export default {
 
         selectMember(member) {
             this.form = JSON.parse(JSON.stringify(member));
+            this.form.slug = slugifyName(member.firstName, member.lastName);
+            this.originalSlug = member.slug;
             this.researchKeywordsInput = (member.research_keywords || []).join(', ');
             this.authorNamesInput = (member.author_name || []).join(', ');
             this.projectsInput = (member.projects || []).join(', ');
@@ -336,7 +351,9 @@ export default {
                 return;
             }
 
-            if (!this.form.slug?.trim()) {
+            const memberSlug = this.derivedSlug.trim();
+
+            if (!memberSlug) {
                 this.errorMessage = 'Add the member slug before uploading an image so the file can be organized correctly.';
                 return;
             }
@@ -348,7 +365,7 @@ export default {
             this.errorMessage = '';
 
             try {
-                const { filePath } = await MembersResource.uploadMemberImage(selectedFile, this.form.slug, photoVariant);
+                const { filePath } = await MembersResource.uploadMemberImage(selectedFile, memberSlug, photoVariant);
                 this.form.photos = {
                     ...this.form.photos,
                     [photoVariant]: filePath
@@ -398,12 +415,15 @@ export default {
 
                 const payload = {
                     ...this.form,
+                    slug: this.derivedSlug,
                     research_keywords: this.researchKeywordsInput.split(',').map((item) => item.trim()).filter(Boolean),
                     author_name: this.authorNamesInput.split(',').map((item) => item.trim()).filter(Boolean),
                     projects: this.projectsInput.split(',').map((item) => item.trim()).filter(Boolean)
                 };
 
-                const savedMember = await MembersResource.upsertMember(payload);
+                const savedMember = this.isCreating
+                    ? await MembersResource.upsertMember(payload)
+                    : await MembersResource.updateMember(this.originalSlug || payload.slug, payload);
                 await this.loadMembers();
                 this.selectMember(savedMember);
                 this.statusMessage = 'Person saved.';
@@ -415,12 +435,14 @@ export default {
         },
 
         async removeMember() {
-            if (!this.form.slug) {
+            const memberSlug = this.form.slug || this.derivedSlug;
+
+            if (!memberSlug) {
                 return;
             }
 
             try {
-                await MembersResource.deleteMember(this.form.slug);
+                await MembersResource.deleteMember(memberSlug);
                 await this.loadMembers();
                 this.startCreate();
                 this.statusMessage = 'Person deleted.';

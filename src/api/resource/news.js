@@ -130,6 +130,19 @@ function mergeNewsItems(localItems, remoteItems) {
     return sortNewsItems(Array.from(mergedItems.values()));
 }
 
+function buildNewsPayload(newsItem) {
+    return {
+        id: newsItem.id,
+        title: newsItem.title,
+        date: newsItem.date,
+        person: newsItem.person || [],
+        tag: newsItem.tag || '',
+        image: normalizeStoredNewsImagePath(newsItem.image),
+        description: newsItem.description || '',
+        published: newsItem.published !== false
+    };
+}
+
 async function getRemoteNews(includeDrafts = false) {
     const query = supabase
         .from('news_posts')
@@ -185,20 +198,32 @@ const NewsResource = {
             throw new Error('Supabase is not configured.');
         }
 
-        const payload = {
-            id: newsItem.id,
-            title: newsItem.title,
-            date: newsItem.date,
-            person: newsItem.person || [],
-            tag: newsItem.tag || '',
-            image: normalizeStoredNewsImagePath(newsItem.image),
-            description: newsItem.description || '',
-            published: newsItem.published !== false
-        };
+        const payload = buildNewsPayload(newsItem);
 
         const { data, error } = await supabase
             .from('news_posts')
             .upsert(payload)
+            .select()
+            .single();
+
+        if (error) {
+            throw error;
+        }
+
+        return normalizeNewsItem(data);
+    },
+
+    async updateNewsItem(originalId, newsItem) {
+        if (!isSupabaseConfigured || !supabase) {
+            throw new Error('Supabase is not configured.');
+        }
+
+        const payload = buildNewsPayload(newsItem);
+
+        const { data, error } = await supabase
+            .from('news_posts')
+            .update(payload)
+            .eq('id', originalId)
             .select()
             .single();
 

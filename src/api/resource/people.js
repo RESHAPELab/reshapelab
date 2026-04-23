@@ -136,6 +136,24 @@ function getLocalMembers() {
     return sortMembers(localData.members.map(normalizeMember));
 }
 
+function buildMemberPayload(member) {
+    return {
+        slug: member.slug || `${member.firstName} ${member.lastName}`.trim().replace(/ /g, '-'),
+        first_name: member.firstName,
+        last_name: member.lastName,
+        role: member.role,
+        description: member.description || '',
+        photos: normalizePhotos(member.photos || {}),
+        contacts: member.contacts || {},
+        research_keywords: member.research_keywords || [],
+        highlighted_publications: member.highlighted_publications || [],
+        author_name: member.author_name || [],
+        dblp_pid: member.dblpPid || '',
+        projects: member.projects || [],
+        is_active: member.is_active !== false
+    };
+}
+
 async function getRemoteMembers() {
     const { data, error } = await supabase
         .from('people_profiles')
@@ -248,25 +266,32 @@ const MembersResource = {
             throw new Error('Supabase is not configured.');
         }
 
-        const payload = {
-            slug: member.slug || `${member.firstName} ${member.lastName}`.trim().replace(/ /g, '-'),
-            first_name: member.firstName,
-            last_name: member.lastName,
-            role: member.role,
-            description: member.description || '',
-            photos: normalizePhotos(member.photos || {}),
-            contacts: member.contacts || {},
-            research_keywords: member.research_keywords || [],
-            highlighted_publications: member.highlighted_publications || [],
-            author_name: member.author_name || [],
-            dblp_pid: member.dblpPid || '',
-            projects: member.projects || [],
-            is_active: member.is_active !== false
-        };
+        const payload = buildMemberPayload(member);
 
         const { data, error } = await supabase
             .from('people_profiles')
             .upsert(payload)
+            .select()
+            .single();
+
+        if (error) {
+            throw error;
+        }
+
+        return normalizeRemoteMember(data);
+    },
+
+    async updateMember(originalSlug, member) {
+        if (!isSupabaseConfigured || !supabase) {
+            throw new Error('Supabase is not configured.');
+        }
+
+        const payload = buildMemberPayload(member);
+
+        const { data, error } = await supabase
+            .from('people_profiles')
+            .update(payload)
+            .eq('slug', originalSlug)
             .select()
             .single();
 

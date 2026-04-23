@@ -142,6 +142,7 @@ export default {
         return {
             newsItems: [],
             searchTerm: '',
+            originalId: '',
             form: emptyForm(),
             peopleInput: '',
             isCreating: true,
@@ -182,6 +183,7 @@ export default {
 
         startCreate() {
             this.form = emptyForm();
+            this.originalId = '';
             this.peopleInput = '';
             this.isCreating = true;
             this.isUploadingImage = false;
@@ -196,6 +198,7 @@ export default {
 
         selectItem(item) {
             this.form = { ...item };
+            this.originalId = item.id;
             this.peopleInput = (item.person || []).join(', ');
             this.isCreating = false;
             this.isUploadingImage = false;
@@ -266,7 +269,9 @@ export default {
                         .filter(Boolean)
                 };
 
-                const savedItem = await NewsResource.upsertNewsItem(payload);
+                const savedItem = this.isCreating
+                    ? await NewsResource.upsertNewsItem(payload)
+                    : await NewsResource.updateNewsItem(this.originalId || this.form.id, payload);
                 await this.loadNews();
                 this.selectItem(savedItem);
                 this.statusMessage = 'News item saved.';
