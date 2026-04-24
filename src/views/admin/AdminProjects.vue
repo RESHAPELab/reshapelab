@@ -51,9 +51,25 @@
                 </div>
 
                 <div class="two_col">
-                    <label>
+                    <label class="suggestion_field">
                         Funding
-                        <input v-model="form.funding" placeholder="NSF Award #1234567">
+                        <input
+                            v-model="form.funding"
+                            placeholder="NSF Award #1234567"
+                            @focus="isFundingInputFocused = true"
+                            @blur="handleSuggestionBlur('funding')"
+                        >
+                        <div v-if="showFundingSuggestions" class="suggestions_list">
+                            <button
+                                v-for="fundingOption in filteredFundingSuggestions"
+                                :key="fundingOption"
+                                type="button"
+                                class="suggestion_item"
+                                @mousedown.prevent="applySuggestion('funding', fundingOption)"
+                            >
+                                {{ fundingOption }}
+                            </button>
+                        </div>
                     </label>
 
                     <label>
@@ -169,6 +185,7 @@
 <script>
 import ProjectsResource, { resolveProjectImageUrl } from '../../api/resource/projects';
 import MembersResource from '../../api/resource/people';
+import FundingResource from '../../api/resource/funding';
 
 function emptyProject() {
     return {
@@ -199,8 +216,10 @@ export default {
             projectKeywordsInput: '',
             researchAreaSuggestions: [],
             peopleSuggestions: [],
+            fundingSuggestions: [],
             isResearchAreasInputFocused: false,
             isPeopleInputFocused: false,
+            isFundingInputFocused: false,
             isCreating: true,
             isSaving: false,
             isUploadingImage: false,
@@ -223,6 +242,10 @@ export default {
         currentPeopleSearchTerm() {
             const segments = this.peopleInput.split(',');
             return (segments[segments.length - 1] || '').trim().toLowerCase();
+        },
+
+        currentFundingSearchTerm() {
+            return `${this.form.funding || ''}`.trim().toLowerCase();
         },
 
         filteredResearchAreaSuggestions() {
@@ -267,12 +290,31 @@ export default {
                 .slice(0, 6);
         },
 
+        filteredFundingSuggestions() {
+            const currentSearch = this.currentFundingSearchTerm;
+
+            if (!currentSearch) {
+                return [];
+            }
+
+            return this.fundingSuggestions
+                .filter((fundingOption) => {
+                    const normalizedFunding = fundingOption.toLowerCase();
+                    return normalizedFunding.includes(currentSearch) && normalizedFunding !== currentSearch;
+                })
+                .slice(0, 6);
+        },
+
         showResearchAreaSuggestions() {
             return this.isResearchAreasInputFocused && this.filteredResearchAreaSuggestions.length > 0;
         },
 
         showPeopleSuggestions() {
             return this.isPeopleInputFocused && this.filteredPeopleSuggestions.length > 0;
+        },
+
+        showFundingSuggestions() {
+            return this.isFundingInputFocused && this.filteredFundingSuggestions.length > 0;
         }
     },
 
@@ -293,8 +335,15 @@ export default {
         },
 
         async loadAutofillData() {
-            const members = await MembersResource.getAdminMembers();
+            const [members, fundingItems] = await Promise.all([
+                MembersResource.getAdminMembers(),
+                FundingResource.getAdminFunding()
+            ]);
             this.peopleSuggestions = members.map((member) => `${member.firstName} ${member.lastName}`);
+            this.fundingSuggestions = fundingItems
+                .map((item) => item.name)
+                .filter(Boolean)
+                .sort((a, b) => a.localeCompare(b));
 
             const keywordSet = new Set();
             members.forEach((member) => {
@@ -312,6 +361,7 @@ export default {
             this.projectKeywordsInput = '';
             this.isResearchAreasInputFocused = false;
             this.isPeopleInputFocused = false;
+            this.isFundingInputFocused = false;
             this.isCreating = true;
             this.isUploadingImage = false;
             this.statusMessage = '';
@@ -331,6 +381,7 @@ export default {
             this.projectKeywordsInput = (project.project_key_words || []).join(', ');
             this.isResearchAreasInputFocused = false;
             this.isPeopleInputFocused = false;
+            this.isFundingInputFocused = false;
             this.isCreating = false;
             this.isUploadingImage = false;
             this.statusMessage = '';
@@ -356,6 +407,11 @@ export default {
 
                 if (fieldName === 'people') {
                     this.isPeopleInputFocused = false;
+                    return;
+                }
+
+                if (fieldName === 'funding') {
+                    this.isFundingInputFocused = false;
                 }
             }, 100);
         },
@@ -377,6 +433,12 @@ export default {
             if (fieldName === 'people') {
                 this.peopleInput = updatedValue;
                 this.isPeopleInputFocused = true;
+                return;
+            }
+
+            if (fieldName === 'funding') {
+                this.form.funding = value;
+                this.isFundingInputFocused = true;
             }
         },
 

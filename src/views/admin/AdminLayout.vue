@@ -11,6 +11,8 @@
                 <router-link to="/admin/news">News</router-link>
                 <router-link to="/admin/people">People</router-link>
                 <router-link to="/admin/projects">Projects</router-link>
+                <router-link to="/admin/funding">Funding</router-link>
+                <router-link to="/admin/research-areas">Research Areas</router-link>
             </nav>
 
             <button class="sign_out" @click="handleSignOut">Sign out</button>

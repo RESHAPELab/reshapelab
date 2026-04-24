@@ -9,6 +9,7 @@ const projectRoot = path.resolve(__dirname, '..');
 const publicDir = path.join(projectRoot, 'public');
 const newsBucket = 'news-images';
 const peopleBucket = 'people-images';
+const researchAreaBucket = 'research-area-images';
 
 function loadEnvFile() {
     const envPath = path.join(projectRoot, '.env');
@@ -262,6 +263,80 @@ async function importPeople(supabase) {
     };
 }
 
+async function importFunding(supabase) {
+    const { funding } = await readJson('public/funding.json');
+
+    const payload = (funding || []).map((item) => ({
+        id: item.id,
+        name: item.name || '',
+        initial_date: item.initial_date || '',
+        final_date: item.final_date || '',
+        access_link: item.access_link || '',
+        total_amount: item.total_amount || '',
+        projects: item.projetcs || item.projects || [],
+        is_active: item.is_active !== false
+    }));
+
+    const { error } = await supabase.from('funding_awards').upsert(payload, {
+        onConflict: 'id'
+    });
+
+    if (error) {
+        throw error;
+    }
+
+    return {
+        fundingImported: payload.length
+    };
+}
+
+async function importResearchAreas(supabase) {
+    const { projects } = await readJson('public/research_areas.json');
+    const uploadCache = new Map();
+
+    const payload = [];
+
+    for (const project of projects || []) {
+        const imagePath = project.images?.small_image || '';
+        let storedImagePath = imagePath;
+
+        if (isLocalAssetPath(imagePath, 'images/projects/')) {
+            const storagePath = imagePath.replace(/^images\/projects\//, '');
+            const uploadedAsset = await uploadAssetIfNeeded(
+                supabase,
+                researchAreaBucket,
+                imagePath,
+                storagePath,
+                uploadCache
+            );
+
+            storedImagePath = `${researchAreaBucket}/${uploadedAsset.storagePath}`;
+        }
+
+        payload.push({
+            slug: `${project.project_name || ''}`.trim().toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, ''),
+            title: project.project_name || '',
+            description: project.project_description || '',
+            image: storedImagePath,
+            project_keywords: project.project_key_words || [],
+            is_active: project.is_active !== false
+        });
+    }
+
+    const { error } = await supabase.from('research_areas').upsert(payload, {
+        onConflict: 'slug'
+    });
+
+    if (error) {
+        throw error;
+    }
+
+    return {
+        researchAreasImported: payload.length,
+        researchAreaImagesUploaded: uploadCache.size
+    };
+}
+
 async function main() {
     await loadEnvFile();
 
@@ -283,12 +358,15 @@ async function main() {
 
     await ensureBucket(supabase, newsBucket);
     await ensureBucket(supabase, peopleBucket);
+    await ensureBucket(supabase, researchAreaBucket);
 
     const newsResult = await importNews(supabase);
     const peopleResult = await importPeople(supabase);
+    const fundingResult = await importFunding(supabase);
+    const researchAreasResult = await importResearchAreas(supabase);
 
     console.log('Supabase import complete.');
-    console.log(JSON.stringify({ ...newsResult, ...peopleResult }, null, 2));
+    console.log(JSON.stringify({ ...newsResult, ...peopleResult, ...fundingResult, ...researchAreasResult }, null, 2));
 }
 
 main().catch((error) => {

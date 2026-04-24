@@ -56,6 +56,7 @@ import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 
 import ResearchAreasResource from '../api/resource/researchAreas'
 import { resolveMemberImageUrl } from '../api/resource/people'
+import { resolveResearchAreaImageUrl } from '../api/resource/researchAreas'
 
 export default  {
     name: 'Project',
@@ -94,6 +95,7 @@ export default  {
                 .getResearchAreaByTitle(this.projectName)
                 .then((data) => {
                     this.project = data[0];
+                    this.project.image = resolveResearchAreaImageUrl(this.project.image);
                     this.project.project_key_words = this.project.project_key_words.map(keyword => ({
                         text: keyword,
                         shouldVibrate: false,

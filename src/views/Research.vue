@@ -16,7 +16,7 @@
                     :key="project.title"
                     :title="project.title"
                     :description="project.description"
-                    :image="project.image"
+                    :image="resolveImage(project.image)"
                 />
             </div>
         </div>
@@ -28,6 +28,7 @@ import ResearchCard from '../components/cards/ResearchCard.vue';
 import research_lab from '/public/research_lab.json';
 
 import ResearchAreasResource from '../api/resource/researchAreas'
+import { resolveResearchAreaImageUrl } from '../api/resource/researchAreas';
 
 export default {
     name: 'Research',
@@ -55,6 +56,10 @@ export default {
             .catch((error) => {
                 console.error('An error occurred:', error);
             });
+        },
+
+        resolveImage(imagePath) {
+            return resolveResearchAreaImageUrl(imagePath);
         },
     },
 

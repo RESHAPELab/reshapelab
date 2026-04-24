@@ -6,6 +6,7 @@ import {
 import Home from '../views/Home.vue';
 import People from '../views/People.vue';
 import Research from '../views/Research.vue';
+import Funding from '../views/Funding.vue';
 import Projects from '../views/Projects.vue';
 import ProjectDetail from '../views/ProjectDetail.vue';
 import Project from '../views/Project.vue';
@@ -19,6 +20,8 @@ import AdminDashboard from '../views/admin/AdminDashboard.vue';
 import AdminNews from '../views/admin/AdminNews.vue';
 import AdminPeople from '../views/admin/AdminPeople.vue';
 import AdminProjects from '../views/admin/AdminProjects.vue';
+import AdminFunding from '../views/admin/AdminFunding.vue';
+import AdminResearchAreas from '../views/admin/AdminResearchAreas.vue';
 import { requireAdminSession } from '../lib/adminAuth';
 
 const router = createRouter({
@@ -39,6 +42,11 @@ const router = createRouter({
             path: '/research',
             name: 'research',
             component: Research,
+        },
+        {
+            path: '/funding',
+            name: 'funding',
+            component: Funding,
         },
         {
             path: '/projects',
@@ -122,6 +130,24 @@ const router = createRouter({
                     path: 'projects',
                     name: 'admin-projects',
                     component: AdminProjects,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                },
+                {
+                    path: 'funding',
+                    name: 'admin-funding',
+                    component: AdminFunding,
+                    meta: {
+                        requiresAdminAuth: true,
+                        hideSiteChrome: true
+                    }
+                },
+                {
+                    path: 'research-areas',
+                    name: 'admin-research-areas',
+                    component: AdminResearchAreas,
                     meta: {
                         requiresAdminAuth: true,
                         hideSiteChrome: true

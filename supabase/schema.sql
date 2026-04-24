@@ -54,6 +54,30 @@ create table if not exists public.projects (
     updated_at timestamp with time zone not null default timezone('utc', now())
 );
 
+create table if not exists public.funding_awards (
+    id text primary key,
+    name text not null,
+    initial_date text not null default '',
+    final_date text not null default '',
+    access_link text not null default '',
+    total_amount text not null default '',
+    projects text[] not null default '{}',
+    is_active boolean not null default true,
+    created_at timestamp with time zone not null default timezone('utc', now()),
+    updated_at timestamp with time zone not null default timezone('utc', now())
+);
+
+create table if not exists public.research_areas (
+    slug text primary key,
+    title text not null,
+    description text not null default '',
+    image text not null default '',
+    project_keywords text[] not null default '{}',
+    is_active boolean not null default true,
+    created_at timestamp with time zone not null default timezone('utc', now()),
+    updated_at timestamp with time zone not null default timezone('utc', now())
+);
+
 insert into storage.buckets (id, name, public)
 values ('news-images', 'news-images', true)
 on conflict (id) do nothing;
@@ -64,6 +88,10 @@ on conflict (id) do nothing;
 
 insert into storage.buckets (id, name, public)
 values ('project-images', 'project-images', true)
+on conflict (id) do nothing;
+
+insert into storage.buckets (id, name, public)
+values ('research-area-images', 'research-area-images', true)
 on conflict (id) do nothing;
 
 create or replace function public.handle_updated_at()
@@ -91,10 +119,22 @@ create trigger set_projects_updated_at
 before update on public.projects
 for each row execute function public.handle_updated_at();
 
+drop trigger if exists set_funding_awards_updated_at on public.funding_awards;
+create trigger set_funding_awards_updated_at
+before update on public.funding_awards
+for each row execute function public.handle_updated_at();
+
+drop trigger if exists set_research_areas_updated_at on public.research_areas;
+create trigger set_research_areas_updated_at
+before update on public.research_areas
+for each row execute function public.handle_updated_at();
+
 alter table public.profiles enable row level security;
 alter table public.news_posts enable row level security;
 alter table public.people_profiles enable row level security;
 alter table public.projects enable row level security;
+alter table public.funding_awards enable row level security;
+alter table public.research_areas enable row level security;
 
 drop policy if exists "public can read published news" on public.news_posts;
 create policy "public can read published news"
@@ -108,8 +148,21 @@ on public.people_profiles
 for select
 using (is_active = true);
 
+drop policy if exists "public can read active projects" on public.projects;
 create policy "public can read active projects"
 on public.projects
+for select
+using (is_active = true);
+
+drop policy if exists "public can read active funding" on public.funding_awards;
+create policy "public can read active funding"
+on public.funding_awards
+for select
+using (is_active = true);
+
+drop policy if exists "public can read active research areas" on public.research_areas;
+create policy "public can read active research areas"
+on public.research_areas
 for select
 using (is_active = true);
 
@@ -164,8 +217,53 @@ with check (
     )
 );
 
+drop policy if exists "admins can manage projects" on public.projects;
 create policy "admins can manage projects"
 on public.projects
+for all
+to authenticated
+using (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+)
+with check (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can manage funding" on public.funding_awards;
+create policy "admins can manage funding"
+on public.funding_awards
+for all
+to authenticated
+using (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+)
+with check (
+    exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can manage research areas" on public.research_areas;
+create policy "admins can manage research areas"
+on public.research_areas
 for all
 to authenticated
 using (
@@ -257,6 +355,12 @@ on storage.objects
 for select
 using (bucket_id = 'project-images');
 
+drop policy if exists "public can read research area images" on storage.objects;
+create policy "public can read research area images"
+on storage.objects
+for select
+using (bucket_id = 'research-area-images');
+
 drop policy if exists "admins can upload people images" on storage.objects;
 create policy "admins can upload people images"
 on storage.objects
@@ -279,6 +383,21 @@ for insert
 to authenticated
 with check (
     bucket_id = 'project-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can upload research area images" on storage.objects;
+create policy "admins can upload research area images"
+on storage.objects
+for insert
+to authenticated
+with check (
+    bucket_id = 'research-area-images'
     and exists (
         select 1
         from public.profiles
@@ -335,6 +454,30 @@ with check (
     )
 );
 
+drop policy if exists "admins can update research area images" on storage.objects;
+create policy "admins can update research area images"
+on storage.objects
+for update
+to authenticated
+using (
+    bucket_id = 'research-area-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+)
+with check (
+    bucket_id = 'research-area-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
 drop policy if exists "admins can delete people images" on storage.objects;
 create policy "admins can delete people images"
 on storage.objects
@@ -357,6 +500,21 @@ for delete
 to authenticated
 using (
     bucket_id = 'project-images'
+    and exists (
+        select 1
+        from public.profiles
+        where profiles.id = auth.uid()
+        and profiles.is_admin = true
+    )
+);
+
+drop policy if exists "admins can delete research area images" on storage.objects;
+create policy "admins can delete research area images"
+on storage.objects
+for delete
+to authenticated
+using (
+    bucket_id = 'research-area-images'
     and exists (
         select 1
         from public.profiles

@@ -4,7 +4,7 @@
             <p class="eyebrow">Portal</p>
             <h1>Admin dashboard</h1>
             <p>
-                Create, Read, Update, or Delete data for the website via Supabase and it will automatically populate on the website.
+                Create, Read, Update, or Delete data for the website via Supabase. It will automatically populate on the website.
             </p>
         </div>
 
@@ -22,6 +22,16 @@
             <router-link class="feature_card" to="/admin/projects">
                 <h2>Manage projects</h2>
                 <p>Edit funding, research areas, people assignments, and related article titles.</p>
+            </router-link>
+
+            <router-link class="feature_card" to="/admin/funding">
+                <h2>Manage funding</h2>
+                <p>Create and maintain awards, dates, links, amounts, and connected projects.</p>
+            </router-link>
+
+            <router-link class="feature_card" to="/admin/research-areas">
+                <h2>Manage research areas</h2>
+                <p>Update research area descriptions, keywords, and uploaded images.</p>
             </router-link>
         </div>
     </section>
