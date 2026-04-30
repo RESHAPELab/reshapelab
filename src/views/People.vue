@@ -15,7 +15,7 @@
                 <ProfessorCard
                 v-for="member in professors"
                 :key="member.email"
-                :image="member.photos.photo_with_background"
+                :image="resolvePhotoUrl(member.photos.photo_with_background)"
                 :first_name="member.firstName"
                 :last_name="member.lastName"
                 :email="member.contacts.email"
@@ -35,7 +35,7 @@
                     class = "search_bar"
                 >
                 
-                <button @click="inputTerm ? resetSearch() : search" class="button search_button">
+                <button @click="inputTerm ? resetSearch() : search" class="button search_button" :style="{ backgroundColor: primary_color }">
                     <img :src="inputTerm ? 'icons/remove.png' : 'icons/search.png'" :alt="inputTerm ? 'Clean' : 'Search'" class="button-icon">
                 </button>
             </div>
@@ -61,7 +61,7 @@
                 <StudentCard
                 v-for="member in filteredStudents"
                 :key="member.email"
-                :image="member.photos.photo_with_background"
+                :image="resolvePhotoUrl(member.photos.photo_with_background)"
                 :first_name="member.firstName"
                 :last_name="member.lastName"
                 :email="member.contacts.email"
@@ -78,7 +78,7 @@ import ProfessorCard from '../components/cards/ProfessorCard.vue';
 import StudentCard from '../components/cards/StudentCard.vue';
 
 import research_lab from '/public/research_lab.json';
-import MembersResource from '../api/resource/people'
+import MembersResource, { resolveMemberImageUrl } from '../api/resource/people'
 
 export default {
     name: 'People',
@@ -136,6 +136,10 @@ export default {
         resetSearch() {
             this.inputTerm = '';
             this.searchTerm = '';
+        },
+
+        resolvePhotoUrl(imagePath) {
+            return resolveMemberImageUrl(imagePath);
         }
     },
 
@@ -293,7 +297,6 @@ export default {
     width: 50px;
     border-radius: 30px 30px 30px 30px;
     padding: 0;
-    background-color: var(--primary-color)
 }
 
 .role_filter {

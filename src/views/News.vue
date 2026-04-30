@@ -17,7 +17,7 @@
 
 import NavBar from '../components/NavBar.vue';
 import research_lab from '../../public/research_lab.json';
-import NewsResource from '../api/resource/news';
+import NewsResource, { resolveNewsImageUrl } from '../api/resource/news';
 
 export default {
     name: 'News',
@@ -44,7 +44,7 @@ export default {
                 this.person = result.person;
                 this.tag = result.tag;
                 this.description = result.description;
-                this.image = "../" + result.image;
+                this.image = resolveNewsImageUrl(result.image);
 
                 // Apply styles after setting the description
                 this.applyStyles();

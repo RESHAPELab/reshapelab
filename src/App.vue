@@ -1,11 +1,11 @@
 <template>
     <div id="app">
-        <NavBar></NavBar>
-        <div class="espacamento-header">
+        <NavBar v-if="showSiteChrome"></NavBar>
+        <div :class="{ 'espacamento-header': showSiteChrome }">
             <RouterView />
         </div>
-        <Footer></Footer>
-        <MobileMenu class="overlay-menu"></MobileMenu>
+        <Footer v-if="showSiteChrome"></Footer>
+        <MobileMenu v-if="showSiteChrome" class="overlay-menu"></MobileMenu>
     </div>
 </template>
 
@@ -21,6 +21,11 @@ export default {
         RouterView,
         MobileMenu,
         Footer,
+    },
+    computed: {
+        showSiteChrome() {
+            return !this.$route.meta?.hideSiteChrome;
+        }
     },
     methods: {},
     onBeforeRouteUpdate() {

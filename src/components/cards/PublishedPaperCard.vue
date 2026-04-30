@@ -1,5 +1,13 @@
 <template>
-    <div class = "card">
+    <div
+        class = "card"
+        :class="{ interactive: clickable }"
+        :role="clickable ? 'button' : undefined"
+        :tabindex="clickable ? 0 : undefined"
+        @click="handleSelect"
+        @keydown.enter.prevent="handleSelect"
+        @keydown.space.prevent="handleSelect"
+    >
         <div class = "text title"> 
         <strong> {{ title }} </strong>
         </div>
@@ -12,7 +20,11 @@
         <i>{{ journal }}</i>
         </div>
 
-        <a v-if="paperLink" class = "doi" :href="paperLink" target="_blank" rel="noopener noreferrer">
+        <div v-if="year" class = "text year">
+            {{ year }}
+        </div>
+
+        <a v-if="paperLink" class = "doi" :href="paperLink" target="_blank" rel="noopener noreferrer" @click.stop>
             <strong> {{ linkLabel }} </strong> 
         </a>
 
@@ -23,6 +35,8 @@
 import research_lab from '/public/research_lab.json';
 
 export default {
+    emits: ['select'],
+
     setup() {
         return
     },
@@ -41,6 +55,18 @@ export default {
         url: String,
         doi: String,
         authors: Array,
+        clickable: {
+            type: Boolean,
+            default: false
+        }
+    },
+
+    methods: {
+        handleSelect() {
+            if (this.clickable) {
+                this.$emit('select');
+            }
+        }
     },
 
     computed: {
@@ -88,6 +114,18 @@ export default {
     width: min(800px, 80vw);
     border: 0px;
     box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}
+
+.card.interactive {
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card.interactive:hover,
+.card.interactive:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.18);
+    outline: none;
 }
 
 .text {

@@ -38,7 +38,7 @@
                 :key="member.email"
                 :first_name="member.firstName"
                 :last_name="member.lastName"
-                :image="'../' + member.photos.photo_with_background"
+                :image="resolvePhotoUrl(member.photos.photo_with_background)"
                 :email="member.contacts.email"
                 :github="member.contacts.github"
                 :role="member.role"
@@ -54,7 +54,9 @@ import research_lab from '../../public/research_lab.json';
 import ProjectMemberCard from '../components/cards/ProjectMemberCard.vue';
 import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 
-import ProjectsResource from '../api/resource/projects'
+import ResearchAreasResource from '../api/resource/researchAreas'
+import { resolveMemberImageUrl } from '../api/resource/people'
+import { resolveResearchAreaImageUrl } from '../api/resource/researchAreas'
 
 export default  {
     name: 'Project',
@@ -77,8 +79,8 @@ export default  {
 
     methods: {
         getMembers() {
-            ProjectsResource
-                .getUsersByProject(this.projectName)
+            ResearchAreasResource
+                .getUsersByResearchArea(this.projectName)
                 .then((data) => {
                     this.members = data;
                     console.log(data);
@@ -89,10 +91,11 @@ export default  {
         },
 
         getProject() {
-            ProjectsResource
-                .getProjectsByTitle(this.projectName)
+            ResearchAreasResource
+                .getResearchAreaByTitle(this.projectName)
                 .then((data) => {
                     this.project = data[0];
+                    this.project.image = resolveResearchAreaImageUrl(this.project.image);
                     this.project.project_key_words = this.project.project_key_words.map(keyword => ({
                         text: keyword,
                         shouldVibrate: false,
@@ -114,6 +117,10 @@ export default  {
                 }, Math.random() * 5000 + 5000); 
             });
         },
+
+        resolvePhotoUrl(imagePath) {
+            return resolveMemberImageUrl(imagePath);
+        }
     },
 
     created() {

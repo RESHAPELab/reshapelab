@@ -100,13 +100,15 @@
         <div class = "published_paper_container">
             <PublishedPaperCard
                 v-for="paper in paginatedPapers"
-                :key="paper.DOI || `${paper.title}-${paper.issued['date-parts'][0][0]}`"
+                :key="paper.id"
                 :title="paper.title"
                 :journal="paper['container-title']"
                 :year="paper.issued['date-parts'][0][0]"
                 :url="paper.URL"
                 :doi="paper.DOI"
                 :authors="paper.author"
+                :clickable="true"
+                @select="openPublication(paper)"
             />
         </div>
 
@@ -168,7 +170,7 @@ import research_lab from '../../public/research_lab.json';
 import KeyWordsCard from '../components/cards/KeyWordsCard.vue';
 import PublishedPaperCard from '../components/cards/PublishedPaperCard.vue';
 
-import MembersResource from '../api/resource/people'
+import MembersResource, { resolveMemberImageUrl } from '../api/resource/people'
 import ArticlesResource from '../api/resource/articles'
 
 export default  {
@@ -206,7 +208,7 @@ export default  {
             MembersResource
             .getFirstMemberByName(this.raw_researcher_name)
             .then((result) => {
-                this.image_without_background = '../' + result.photos.photo_without_background;
+                this.image_without_background = resolveMemberImageUrl(result.photos.photo_without_background);
                 this.description = result.description;
                 this.contacts = result.contacts;
                 this.first_name = result.firstName;
@@ -249,6 +251,15 @@ export default  {
 
         changePage(page) {
             this.currentPage = page;
+        },
+
+        openPublication(paper) {
+            this.$router.push({
+                name: 'publication-detail',
+                params: {
+                    publication_id: paper.id
+                }
+            });
         },
 
         capitalizeFirstLetter(string) {
@@ -511,7 +522,6 @@ export default  {
     width: 50px;
     border-radius: 30px 30px 30px 30px;
     padding: 0;
-    background-color: var(--primary-color)
 }
 
 .botaoPaginacao {

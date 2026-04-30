@@ -1,4 +1,3 @@
-# Logs
 logs
 *.log
 npm-debug.log*
@@ -13,8 +12,10 @@ dist
 dist-ssr
 coverage
 *.local
+.env
+.env.*
+!.env.example
 
-# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea

@@ -36,6 +36,22 @@
                 </router-link>
 
                 <router-link
+                    to="/funding"
+                    class="buttonTopBar"
+                    @click="menuShow"
+                >
+                    FUNDING
+                </router-link>
+
+                <router-link
+                    to="/projects"
+                    class="buttonTopBar"
+                    @click="menuShow"
+                >
+                    PROJECTS
+                </router-link>
+
+                <router-link
                     to="/publications"
                     class="buttonTopBar"
                     @click="menuShow"
