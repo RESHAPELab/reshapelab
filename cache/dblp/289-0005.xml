@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<dblpperson name="Fabio Santos" pid="289/0005" n="25">
+<person key="homepages/289/0005" mdate="2021-04-06">
+<author pid="289/0005">Fabio Santos</author>
+</person>
+<r><inproceedings key="conf/sigsoft/GanduVKMGST26" mdate="2026-07-21">
+<author orcid="0009-0006-6516-661X" pid="441/2060">Sahithya Gandu</author>
+<author orcid="0009-0001-1984-9704" pid="441/1944">Anurag Vemula</author>
+<author orcid="0009-0002-3020-8438" pid="441/2069">Satyanarayanachowdary Kadiyala</author>
+<author pid="311/2997">Marcia Moraes</author>
+<author orcid="0000-0001-6000-9646" pid="244/6021-1">Sudipto Ghosh 0001</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<title>How Do Students Perceive Their Teammates? A Qualitative Study of Peer Evaluation in SE Course Projects.</title>
+<pages>1112-1122</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3805781</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#GanduVKMGST26</url>
+</inproceedings>
+</r>
+<r><article key="journals/scp/AracenaLSSG25" mdate="2025-08-09">
+<author orcid="0009-0005-1517-8076" pid="366/5660">Gabriel Aracena</author>
+<author pid="366/4318">Kyle Luster</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Applying large language models to issue classification: Revisiting with extended data and new models.</title>
+<pages>103333</pages>
+<year>2025</year>
+<volume>246</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2025.103333</ee>
+<url>db/journals/scp/scp246.html#AracenaLSSG25</url>
+<stream>streams/journals/scp</stream>
+</article>
+</r>
+<r><inproceedings key="conf/esem/BharadwajST25" mdate="2026-02-03">
+<author pid="426/0552">Sarthak Bharadwaj</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00016</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#BharadwajST25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/LoufekST25" mdate="2026-02-03">
+<author pid="426/0360">Spencer Baloga Loufek</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Beyond the Job Posting: What Hiring Managers Seek in Entry-Level Software Engineering Candidates.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00055</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#LoufekST25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/MolisonMMSA25" mdate="2026-02-25">
+<author pid="414/7545">Alfred Santa Molison</author>
+<author pid="311/2997">Marcia Moraes</author>
+<author pid="246/8024">Glaucia Melo 0001</author>
+<author pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0002-7557-9091" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<title>Is LLM-Generated Code More Maintainable &#38; Reliable Than Human-Written Code?</title>
+<pages>151-162</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00036</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#MolisonMMSA25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/HannanRRS25" mdate="2026-02-03">
+<author pid="420/4219">Md Abdul Hannan</author>
+<author pid="285/3927">Mohammad Habibullah Rakib</author>
+<author pid="314/1465">Khondaker Masfiq Reza</author>
+<author pid="289/0005">Fabio Santos</author>
+<title>Contribution History as a Key Feature in OSS Task Recommendation: An LLM-Based Empirical Study.</title>
+<pages>365-371</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00070</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#HannanRRS25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlbse/CarterCVAUFJJPSGS25" mdate="2026-04-21">
+<author orcid="0009-0008-9126-8163" pid="398/4252">Benjamin C. Carter</author>
+<author pid="398/3539">Jonathan Rivas Contreras</author>
+<author pid="398/4204">Carlos A. Llanes Villegas</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author pid="398/4739">Jack Utzerath</author>
+<author pid="398/4645">Adonijah O. Farner</author>
+<author pid="398/5024">Hunter Jenkins</author>
+<author pid="207/1848">Dylan Johnson</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="289/0005">Fabio Santos</author>
+<title>SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub.</title>
+<pages>9-12</pages>
+<year>2025</year>
+<booktitle>NLBSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/NLBSE66842.2025.00007</ee>
+<crossref>conf/nlbse/2025</crossref>
+<url>db/conf/nlbse/nlbse2025.html#CarterCVAUFJJPSGS25</url>
+<stream>streams/conf/nlbse</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-15922" mdate="2025-02-26">
+<author pid="398/4252">Benjamin C. Carter</author>
+<author pid="398/3539">Jonathan Rivas Contreras</author>
+<author pid="398/4204">Carlos A. Llanes Villegas</author>
+<author pid="398/3879">Pawan Acharya</author>
+<author pid="398/4739">Jack Utzerath</author>
+<author pid="398/4645">Adonijah O. Farner</author>
+<author pid="398/5024">Hunter Jenkins</author>
+<author pid="207/1848">Dylan Johnson</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="289/0005">Fabio Santos</author>
+<title>SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.15922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.15922</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-15922</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2506-00128" mdate="2025-07-06">
+<author pid="366/5660">Gabriel Aracena</author>
+<author pid="366/4318">Kyle Luster</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Applying Large Language Models to Issue Classification: Revisiting with Extended Data and New Models.</title>
+<year>2025</year>
+<month>June</month>
+<volume>abs/2506.00128</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2506.00128</ee>
+<url>db/journals/corr/corr2506.html#abs-2506-00128</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2508-00700" mdate="2025-09-12">
+<author pid="414/7545">Alfred Santa Molison</author>
+<author pid="311/2997">Marcia Moraes</author>
+<author pid="246/8024">Glaucia Melo 0001</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<title>Is LLM-Generated Code More Maintainable &#38; Reliable than Human-Written Code?</title>
+<year>2025</year>
+<month>August</month>
+<volume>abs/2508.00700</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2508.00700</ee>
+<url>db/journals/corr/corr2508.html#abs-2508-00700</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tosem/TrinkenreichSS24" mdate="2025-11-02">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0002-1038-5050" pid="08/7091">Klaas-Jan Stol</author>
+<title>Predicting Attrition among Software Professionals: Antecedents and Consequences of Burnout and Engagement.</title>
+<pages>218:1-218:45</pages>
+<year>2024</year>
+<month>November</month>
+<volume>33</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3691629</ee>
+<ee>https://www.wikidata.org/entity/Q130850060</ee>
+<url>db/journals/tosem/tosem33.html#TrinkenreichSS24</url>
+<stream>streams/journals/tosem</stream>
+</article>
+</r>
+<r><inproceedings key="conf/nlbse/AracenaLSSG24" mdate="2025-01-19">
+<author orcid="0009-0005-1517-8076" pid="366/5660">Gabriel Aracena</author>
+<author orcid="0009-0002-5517-9987" pid="366/4318">Kyle Luster</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Applying Large Language Models to Issue Classification.</title>
+<pages>57-60</pages>
+<year>2024</year>
+<booktitle>NLBSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3643787.3648043</ee>
+<ee>https://www.wikidata.org/entity/Q130803331</ee>
+<crossref>conf/nlbse/2024</crossref>
+<url>db/conf/nlbse/nlbse2024.html#AracenaLSSG24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2401-04637" mdate="2024-01-24">
+<author pid="366/5660">Gabriel Aracena</author>
+<author pid="366/4318">Kyle Luster</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Applying Large Language Models API to Issue Classification Problem.</title>
+<year>2024</year>
+<volume>abs/2401.04637</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.04637</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-04637</url>
+</article>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/Santos23" mdate="2023-08-28">
+<author pid="289/0005">Fabio Santos</author>
+<title>Supporting the Task-driven Skill Identification in Open Source Project Issue Tracking Systems.</title>
+<pages>54-58</pages>
+<year>2023</year>
+<month>January</month>
+<volume>48</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/3573074.3573088</ee>
+<ee>https://www.wikidata.org/entity/Q119957712</ee>
+<url>db/journals/sigsoft/sigsoft48.html#Santos23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Santos23" mdate="2025-01-19">
+<author pid="289/0005">Fabio Santos</author>
+<title>Skill Recommendation for New Contributors in Open-Source Software.</title>
+<pages>311-313</pages>
+<year>2023</year>
+<booktitle>ICSE Companion</booktitle>
+<ee>https://doi.org/10.1109/ICSE-Companion58688.2023.00084</ee>
+<ee>https://www.wikidata.org/entity/Q130844687</ee>
+<crossref>conf/icse/2023c</crossref>
+<url>db/conf/icse/icse2023c.html#Santos23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/VargovichSPGS23" mdate="2023-07-19">
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>GiveMeLabeledIssues: An Open Source Issue Recommendation System.</title>
+<pages>402-406</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00061</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#VargovichSPGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosPPWSG23" mdate="2023-07-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills.</title>
+<pages>611-623</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00087</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#SantosPPWSG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-13418" mdate="2023-04-13">
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>GiveMeLabeledIssues: An Open Source Issue Recommendation System.</title>
+<year>2023</year>
+<volume>abs/2303.13418</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.13418</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-13418</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article key="journals/access/SantosM22" mdate="2022-05-18">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="15/6002">Carlos E. Mello</author>
+<title>Matching Network of Ontologies: A Random Walk and Frequent Itemsets Approach.</title>
+<pages>44638-44659</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3164067</ee>
+<url>db/journals/access/access10.html#SantosM22</url>
+</article>
+</r>
+<r><inproceedings key="conf/esem/SantosTPWSSG22" mdate="2025-01-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How to Choose a Task? Mismatches in Perspectives of Newcomers and Existing Contributors.</title>
+<pages>114-124</pages>
+<year>2022</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3544902.3546236</ee>
+<ee>https://www.wikidata.org/entity/Q130837901</ee>
+<crossref>conf/esem/2022</crossref>
+<url>db/conf/esem/esem2022.html#SantosTPWSSG22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-08143" mdate="2022-11-23">
+<author pid="289/0005">Fabio Santos</author>
+<title>Supporting the Task-driven Skill Identification in Open Source Project Issue Tracking Systems.</title>
+<year>2022</year>
+<volume>abs/2211.08143</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.08143</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-08143</url>
+</article>
+</r>
+<r><inproceedings key="conf/msr/SantosWTSSG21" mdate="2021-07-02">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Tasks.</title>
+<pages>346-257</pages>
+<year>2021</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR52588.2021.00047</ee>
+<crossref>conf/msr/2021</crossref>
+<url>db/conf/msr/msr2021.html#SantosWTSSG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12653" mdate="2021-04-06">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Task.</title>
+<year>2021</year>
+<volume>abs/2103.12653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12653</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12653</url>
+</article>
+</r>
+<coauthors n="35" nc="2">
+<co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
+<co c="0"><na f="a/Aracena:Gabriel" pid="366/5660">Gabriel Aracena</na></co>
+<co c="0"><na f="a/Assun=ccedil==atilde=o:Wesley_K=_G=" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</na></co>
+<co c="0"><na f="b/Bharadwaj:Sarthak" pid="426/0552">Sarthak Bharadwaj</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="c/Carter:Benjamin_C=" pid="398/4252">Benjamin C. Carter</na></co>
+<co c="0"><na f="c/Contreras:Jonathan_Rivas" pid="398/3539">Jonathan Rivas Contreras</na></co>
+<co c="0"><na f="f/Farner:Adonijah_O=" pid="398/4645">Adonijah O. Farner</na></co>
+<co c="0"><na f="g/Gandu:Sahithya" pid="441/2060">Sahithya Gandu</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Ghosh_0001:Sudipto" pid="244/6021-1">Sudipto Ghosh 0001</na></co>
+<co c="1"><na f="h/Hannan:Md_Abdul" pid="420/4219">Md Abdul Hannan</na></co>
+<co c="0"><na f="j/Jenkins:Hunter" pid="398/5024">Hunter Jenkins</na></co>
+<co c="0"><na f="j/Johnson:Dylan" pid="207/1848">Dylan Johnson</na></co>
+<co c="0"><na f="k/Kadiyala:Satyanarayanachowdary" pid="441/2069">Satyanarayanachowdary Kadiyala</na></co>
+<co c="0"><na f="l/Loufek:Spencer_Baloga" pid="426/0360">Spencer Baloga Loufek</na></co>
+<co c="0"><na f="l/Luster:Kyle" pid="366/4318">Kyle Luster</na></co>
+<co c="-1" n="2"><na f="m/Mello:Carlos_Eduardo_Ribeiro_de" pid="15/6002">Carlos Eduardo Ribeiro de Mello</na><na>Carlos E. Mello</na></co>
+<co c="0"><na f="m/Molison:Alfred_Santa" pid="414/7545">Alfred Santa Molison</na></co>
+<co c="0"><na f="m/Moraes:Marcia" pid="311/2997">Marcia Moraes</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="p/Pimentel:Jo=atilde=o_Felipe" pid="161/7127">Jo&#227;o Felipe Pimentel</na></co>
+<co c="1"><na f="r/Rakib:Mohammad_Habibullah" pid="285/3927">Mohammad Habibullah Rakib</na></co>
+<co c="1"><na f="r/Reza:Khondaker_Masfiq" pid="314/1465">Khondaker Masfiq Reza</na></co>
+<co c="0" n="2"><na f="s/Santos:Glaucia_Melo_dos" pid="246/8024">Glaucia Melo dos Santos</na><na>Glaucia Melo 0001</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Stol:Klaas=Jan" pid="08/7091">Klaas-Jan Stol</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="u/Utzerath:Jack" pid="398/4739">Jack Utzerath</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Vemula:Anurag" pid="441/1944">Anurag Vemula</na></co>
+<co c="0"><na f="v/Villegas:Carlos_A=_Llanes" pid="398/4204">Carlos A. Llanes Villegas</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

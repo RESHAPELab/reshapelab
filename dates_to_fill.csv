@@ -1,0 +1,36 @@
+slug,name,role,group,dblp_pid,started,ended,still_needed
+marco-gerosa,Marco Gerosa,Professor · co-director,faculty,68/5072,,,started
+igor-steinmacher,Igor Steinmacher,Associate Professor · co-director,faculty,70/3474,,,started
+morgan-nicholson,Morgan Nicholson,PhD student,phd,380/0840,2025,,dblp_pid
+pedro-oliveira,Pedro Oliveira,PhD student,phd,,2024,,dblp_pid
+misan-etchie,Misan Etchie,MS student,ms,410/7084,2024,2026,started
+karissa-smallwood,Karissa Smallwood,MS student,ms,,2024,,dblp_pid + started
+andrew-sliva,Andrew Sliva,Undergraduate researcher,undergrad,,2024,2026,dblp_pid + started
+sam-utzinger,Sam Utzinger,Undergraduate researcher,undergrad,,2025,2026,dblp_pid + started
+noah-verdugo,Noah Verdugo,Undergraduate researcher,undergrad,,2026,,dblp_pid + started
+pawan-acharya,Pawan Acharya,MS alumnus,alumni,398/3879,2024,2026,started + ended
+connor-aiton,Connor Aiton,Undergraduate alumnus,alumni,,2024,2025,dblp_pid + started + ended
+hunter-beach,Hunter Beach,Undergraduate alumnus,alumni,410/7532,2024,2025,started + ended
+riley-burke,Riley Burke,Undergraduate alumnus,alumni,,2023,2025,dblp_pid + started + ended
+jadyn-calhoun,Jadyn Calhoun,Undergraduate alumnus,alumni,,2024,2025,dblp_pid + started + ended
+joao-correia,Jo�o Correia,Visiting researcher,alumni,221/1636,2024,2026,started + ended
+daniel-coutinho,Daniel Coutinho,Visiting researcher,alumni,87/1273,2024,2026,started + ended
+wellynton-diniz,Wellynton Diniz,Visiting researcher,alumni,388/4060,2024,2026,started + ended
+brenda-diniz,Brenda Diniz,Visiting researcher,alumni,,0,0,dblp_pid + started + ended
+katia-romero-felizardo,Katia Romero Felizardo,Postdoctoral alumnus,alumni,53/8384,2024,2025,started + ended
+peter-hilbert,Peter Hilbert,Undergraduate alumnus,alumni,410/1459,2024,2026,started + ended
+genildo-junior,Genildo Junior,Visiting researcher,alumni,283/4200,2024,2026,started + ended
+ana-claudia-maciel,Ana Claudia Maciel,PhD alumna,alumni,137/0603,2019,2026,dblp_pid + started
+patricia-matsubara,Patricia Matsubara,PhD alumna,alumni,249/1704,2018,2022,dblp_pid + started
+maria-meireles,Maria Meireles,Visiting researcher,alumni,266/3551,2024,2026,started + ended
+fabio-santos,Fabio Santos,PhD alumnus,alumni,289/0005,2018,2024,started
+italo-santos,Italo Santos,PhD alumnus,alumni,203/0063,2019,2024,started
+williamson-silva,Williamson Silva,PhD alumnus,alumni,166/2228,2019,2020,dblp_pid + started
+jefferson-silva,Jefferson Silva,PhD alumnus,alumni,208/6922,2015,2019,dblp_pid + started
+ana-paula-steinmacher,Ana Paula Steinmacher,PhD alumnus,alumni,33/2472,,,started + ended
+simone-tonhao,Simone de França Tonhão,PhD alumna,alumni,282/5234,2018,2023,dblp_pid + started
+bianca-trinkenreich,Bianca Trinkenreich,PhD alumnus,alumni,166/2138,2019,2023,started
+filipe-verri,Filipe Verri,Visiting researcher,alumni,174/2784,2025,2025,started + ended
+caio-vieira,Caio Vieira,Visiting researcher,alumni,221/1638,2024,2026,started + ended
+mairieli-wessel,Mairieli Wessel,PhD alumnus,alumni,205/9369,2017,2022,started
+igor-wiese,Igor Wiese,Postdoctoral alumnus,alumni,06/10439,2019,2022,started + ended

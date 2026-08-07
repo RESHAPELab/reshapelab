@@ -1,0 +1,2180 @@
+<?xml version="1.0"?>
+<dblpperson name="Igor Scaliante Wiese" pid="06/10439" n="123">
+<person key="homepages/06/10439" mdate="2025-01-10">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="06/10439">Igor Wiese</author>
+<url>https://orcid.org/0000-0001-9943-5570</url>
+<url>https://www.wikidata.org/entity/Q130835920</url>
+</person>
+<r><article key="journals/jss/RochaWPSRSN26" mdate="2026-06-25">
+<author pid="425/9898">Jo&#227;o Vitor Souza Rocha</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0002-1737-8240" pid="26/693">Marco Aur&#233;lio Graciotto Silva</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-5451-3109" pid="201/2424">Walter Takashi Nakamura</author>
+<title>Investigating the potential of using worked examples to help resolve issues in a GitHub project.</title>
+<year>2026</year>
+<pages>112810</pages>
+<volume>236</volume>
+<journal>J. Syst. Softw.</journal>
+<ee type="oa">https://doi.org/10.1016/j.jss.2026.112810</ee>
+<url>db/journals/jss/jss236.html#RochaWPSRSN26</url>
+<stream>streams/journals/jss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/agent/DavilaW26" mdate="2026-06-25">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<title>Toward Author-Guided Review: An Agentic Architecture for Reflective Code Review.</title>
+<pages>83-87</pages>
+<year>2026</year>
+<booktitle>AGENT@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786167.3788428</ee>
+<crossref>conf/agent/2026</crossref>
+<url>db/conf/agent/agent2026.html#DavilaW26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2605-06817" mdate="2026-06-08">
+<author pid="398/3707">Camila A. Paiva</author>
+<author pid="398/4277">Raquel Maximino</author>
+<author pid="398/4870">Frederico Paiva</author>
+<author pid="398/5046">Rafael Accetta Vieira</author>
+<author pid="398/4898">Nicole Espanha</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<title>Analyzing the Adoption of Database Management Systems Throughout the History of Open Source Projects.</title>
+<year>2026</year>
+<month>May</month>
+<volume>abs/2605.06817</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2605.06817</ee>
+<url>db/journals/corr/corr2605.html#abs-2605-06817</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2605-15124" mdate="2026-06-11">
+<author pid="303/9809">Karoline Romero</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="437/7838">Renato Balancieiri</author>
+<author pid="59/394">Gislaine C. L. Leal</author>
+<author pid="182/3295">Guilherme Corredato Guerino</author>
+<title>Usable but Conventional: An Empirical Study on the UX of AI-Generated Interface Prototypes.</title>
+<year>2026</year>
+<month>May</month>
+<volume>abs/2605.15124</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2605.15124</ee>
+<url>db/journals/corr/corr2605.html#abs-2605-15124</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-19216" mdate="2026-07-08">
+<author pid="385/1554">Jonan Richards</author>
+<author pid="440/1731">Bruno Alves de Oliveira</author>
+<author pid="440/1814">Iury Oliveira</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>No Two Developers Think Alike: How Problem-Solving Styles and Experience Shape Needs in Conversational Interaction with Copilot.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.19216</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.19216</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-19216</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ese/DavilaNW25" mdate="2025-02-14">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<title>A fine-grained taxonomy of code review feedback in TypeScript projects.</title>
+<pages>53</pages>
+<year>2025</year>
+<month>March</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s10664-024-10604-y</ee>
+<url>db/journals/ese/ese30.html#DavilaNW25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><article key="journals/ese/PaivaMPVEPWGSMB25" mdate="2025-03-07">
+<author pid="398/3707">Camila A. Paiva</author>
+<author pid="398/4277">Raquel Maximino</author>
+<author pid="398/4870">Frederico Paiva</author>
+<author pid="398/5046">Rafael Accetta Vieira</author>
+<author pid="398/4898">Nicole Espanha</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<title>Analyzing the adoption of database management systems throughout the history of open source projects.</title>
+<pages>71</pages>
+<year>2025</year>
+<month>June</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-025-10627-z</ee>
+<url>db/journals/ese/ese30.html#PaivaMPVEPWGSMB25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ciarp/GebaraWWC25" mdate="2026-07-03">
+<author pid="416/1946">Munif Gebara</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-4704-7346" pid="79/3646">Hua-Liang Wei</author>
+<author orcid="0000-0002-0630-3171" pid="116/0909">Yandre M. G. Costa</author>
+<title>Source Code Minimaps at Scale: Feature-Oriented Analysis of 100 Projects.</title>
+<booktitle>CIARP</booktitle>
+<year>2025</year>
+<pages>349-363</pages>
+<crossref>conf/ciarp/2025-1</crossref>
+<ee>https://doi.org/10.1007/978-3-032-23161-1_25</ee>
+<url>db/conf/ciarp/ciarp2025-1.html#GebaraWWC25</url>
+<stream>streams/conf/ciarp</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/etra/WieseBR0GSS25" mdate="2025-06-11">
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0009-0002-0996-6541" pid="405/9216">Jasmine Boyer</author>
+<author orcid="0009-0009-5249-6646" pid="405/9011">Ethan Rasgorshek</author>
+<author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-5178-7160" pid="08/3315">Bonita Sharif</author>
+<title>How Developers Make Decisions When Choosing Issues and Reviewing Code: An Eye Tracking GitHub Study.</title>
+<pages>2:1-2:7</pages>
+<year>2025</year>
+<booktitle>ETRA</booktitle>
+<ee>https://doi.org/10.1145/3715669.3723108</ee>
+<crossref>conf/etra/2025</crossref>
+<url>db/conf/etra/etra2025.html#WieseBR0GSS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/FernandesRWCFPBFR25" mdate="2026-03-24">
+<author orcid="0000-0001-9090-2232" pid="207/7225">Leo Fernandes</author>
+<author pid="425/9898">Jo&#227;o Vitor Souza Rocha</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="381/9611">Ismael Trindade Fraga</author>
+<author pid="426/0255">Renato Torres Pinto</author>
+<author pid="125/1899">Erick A. Barboza</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Case Study: Applying Fuzzing to REST APIs in a Large-Scale Industrial Setting.</title>
+<pages>45-50</pages>
+<year>2025</year>
+<booktitle>ISSREW</booktitle>
+<ee>https://doi.org/10.1109/ISSREW67781.2025.00044</ee>
+<crossref>conf/issre/2025w</crossref>
+<url>db/conf/issre/issre2025w.html#FernandesRWCFPBFR25</url>
+<stream>streams/conf/issre</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/issre/WieseSSFISFPBFR25" mdate="2026-03-24">
+<author pid="06/10439">Igor Wiese</author>
+<author pid="426/0161">George da Silva B. Souza</author>
+<author pid="249/1749">Jairo Souza</author>
+<author orcid="0000-0001-9090-2232" pid="207/7225">Leo Fernandes</author>
+<author pid="425/9859">Maria Eduarda T. S. Ikeda</author>
+<author pid="381/9497">Daniel Oliveira dos Santos</author>
+<author pid="381/9611">Ismael Trindade Fraga</author>
+<author pid="426/0255">Renato Torres Pinto</author>
+<author pid="125/1899">Erick A. Barboza</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>AI-Driven Reliability Through Anomaly Detection System in Industry 4.0.</title>
+<pages>63-68</pages>
+<year>2025</year>
+<booktitle>ISSREW</booktitle>
+<ee>https://doi.org/10.1109/ISSREW67781.2025.00047</ee>
+<crossref>conf/issre/2025w</crossref>
+<url>db/conf/issre/issre2025w.html#WieseSSFISFPBFR25</url>
+<stream>streams/conf/issre</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwssip/GebaraWC25" mdate="2025-11-15">
+<author orcid="0009-0007-4773-5468" pid="416/1946">Munif Gebara</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-0630-3171" pid="116/0909">Yandre M. G. Costa</author>
+<title>Software Feature Detection using Source Code Minimaps as Visual Signatures.</title>
+<pages>1-5</pages>
+<year>2025</year>
+<booktitle>IWSSIP</booktitle>
+<ee>https://doi.org/10.1109/IWSSIP66997.2025.11151888</ee>
+<crossref>conf/iwssip/2025</crossref>
+<url>db/conf/iwssip/iwssip2025.html#GebaraWC25</url>
+<stream>streams/conf/iwssip</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MacielWWS25" mdate="2025-11-04">
+<author pid="419/1158">Ana Maciel</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Investigating the Impact of GitHub Discussions on Maintainers' Workload and Community Dynamics.</title>
+<pages>37-47</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.9630</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MacielWWS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MedeirosCWS25" mdate="2025-11-04">
+<author pid="357/5482">Andressa S. S. Medeiros</author>
+<author pid="84/1707">Thelma Elita Colanzi</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="70/3474">Igor Fabio Steinmacher</author>
+<title>O uso de exemplos trabalhados para facilitar a contribui&#231;&#227;o de novatos em projetos de software livre.</title>
+<pages>459-469</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.10703</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MedeirosCWS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/BarbosaRPWNSS25" mdate="2025-06-06">
+<author pid="406/7642">Tafnes Silva Barbosa</author>
+<author pid="406/7630">Luis Henrique da S. Resende</author>
+<author pid="406/7851">Iuri Almeida Pereira</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="72/10660">Thiago Fran&#231;a Naves</author>
+<author pid="82/137">Telma Woerle de Lima Soares</author>
+<author pid="64/2671">Anderson da Silva Soares</author>
+<title>Enhancing NeRFs for High-Quality Indoor Video Generation: A Study on Parameterization and Recording Methods.</title>
+<pages>429-438</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025.246527</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#BarbosaRPWNSS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/SouzaCWNSSB25" mdate="2026-01-02">
+<author orcid="0009-0004-2738-358X" pid="421/5279">Victor Roza Souza</author>
+<author orcid="0009-0006-3801-6288" pid="421/4079">Djonathan Caua Fritzen Christ</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-3152-1197" pid="72/10660">Thiago Fran&#231;a Naves</author>
+<author orcid="0000-0002-4927-2221" pid="82/137">Telma Woerle de Lima Soares</author>
+<author orcid="0000-0002-2967-6077" pid="64/2671">Anderson da Silva Soares</author>
+<author orcid="0000-0003-1857-8989" pid="184/8165">Luciana de Oliveira Berretta</author>
+<title>Automated Synthetic Data for Computer Vision: Blender-COCO Pipeline Enhancing Yolov8.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI67909.2025.11223399</ee>
+<crossref>conf/sibgrapi/2025</crossref>
+<url>db/conf/sibgrapi/sibgrapi2025.html#SouzaCWNSSB25</url>
+<stream>streams/conf/sibgrapi</stream>
+</inproceedings>
+</r>
+<r><article key="journals/ese/GuerraGFWLGM24" mdate="2025-02-27">
+<author pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="309/6617">Everaldo Gomes</author>
+<author orcid="0000-0003-4696-6954" pid="08/9681">Jeferson Ferreira</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="210/6400">Phyllipe Lima</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<title>How do annotations affect Java code readability?</title>
+<pages>62</pages>
+<year>2024</year>
+<month>May</month>
+<volume>29</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-024-10460-w</ee>
+<url>db/journals/ese/ese29.html#GuerraGFWLGM24</url>
+</article>
+</r>
+<r><article key="journals/infsof/MelegatiWGCAMPW24" mdate="2026-02-01">
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="90/2230">Rafael Chanin</author>
+<author orcid="0000-0002-6405-1750" pid="179/8621">Abdullah Aldaeej</author>
+<author pid="80/5814">Tommi Mikkonen</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<author pid="99/2479-1">Xiaofeng Wang 0001</author>
+<title>Product managers in software startups: A grounded theory.</title>
+<pages>107516</pages>
+<year>2024</year>
+<volume>174</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2024.107516</ee>
+<url>db/journals/infsof/infsof174.html#MelegatiWGCAMPW24</url>
+</article>
+</r>
+<r><article key="journals/software/DavilaMW24" mdate="2024-12-22">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author orcid="0000-0002-0612-5790" pid="06/10439">Igor Wiese</author>
+<title>Tales From the Trenches: Expectations and Challenges From Practice for Code Review in the Generative AI Era.</title>
+<pages>38-45</pages>
+<year>2024</year>
+<month>November - December</month>
+<volume>41</volume>
+<journal>IEEE Softw.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/MS.2024.3428439</ee>
+<url>db/journals/software/software41.html#DavilaMW24</url>
+<stream>streams/journals/software</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/DavilaWSSKFN24" mdate="2025-01-19">
+<author orcid="0000-0002-5034-6806" pid="287/9970">Nicole Davila</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0009-0006-8475-1566" pid="376/8203">Lucas Lucio da Silva</author>
+<author orcid="0000-0002-0176-4366" pid="234/1114">Andre Kawamoto</author>
+<author orcid="0009-0004-6477-5320" pid="376/7997">Gilson Jose Peres Favaro</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<title>An Industry Case Study on Adoption of AI-based Programming Assistants.</title>
+<pages>92-102</pages>
+<year>2024</year>
+<booktitle>ICSE-SEIP</booktitle>
+<ee>https://doi.org/10.1145/3639477.3643648</ee>
+<ee>https://www.wikidata.org/entity/Q130852587</ee>
+<crossref>conf/icse/2024seip</crossref>
+<url>db/conf/icse/seip2024.html#DavilaWSSKFN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse-chase/MelegatiNCSW24" mdate="2025-01-19">
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author orcid="0000-0002-0080-8822" pid="229/5526">Nicolas Nascimento</author>
+<author orcid="0000-0002-6293-7419" pid="90/2230">Rafael Chanin</author>
+<author orcid="0000-0001-6962-3706" pid="34/2428">Afonso Sales</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<title>Exploring potential implications of intelligent tools for human aspects of software engineering.</title>
+<pages>121-132</pages>
+<year>2024</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3641822.3641877</ee>
+<ee>https://ieeexplore.ieee.org/document/10556450</ee>
+<ee>https://www.wikidata.org/entity/Q130835921</ee>
+<crossref>conf/icse-chase/2024</crossref>
+<url>db/conf/icse-chase/chase2024.html#MelegatiNCSW24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/PinhoCCWA24" mdate="2024-10-22">
+<author pid="388/4232">Giniele Pinho</author>
+<author pid="388/4984">Aguiar Jeov&#225; Ca&#231;ula</author>
+<author pid="261/8410">Lucas Costa</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="148/4956">Allysson Allex Ara&#250;jo</author>
+<title>Challenges and Solutions of Free and Open Source Software Documentation: A Systematic Mapping Study.</title>
+<pages>114-125</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3307</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#PinhoCCWA24</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-17417" mdate="2024-06-05">
+<author pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="309/6617">Everaldo Gomes</author>
+<author pid="08/9681">Jeferson Ferreira</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="210/6400">Phyllipe Lima</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="37/5038">Paulo Meirelles</author>
+<title>How do annotations affect Java code readability?</title>
+<year>2024</year>
+<volume>abs/2404.17417</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.17417</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-17417</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2406-09725" mdate="2025-12-25">
+<author pid="248/4379">Aline de Campos</author>
+<author pid="236/5533">Jorge Melegati</author>
+<author pid="229/5526">Nicolas Nascimento</author>
+<author pid="90/2230">Rafael Chanin</author>
+<author orcid="0000-0001-6962-3706" pid="34/2428">Afonso Sales</author>
+<author pid="06/10439">Igor Wiese</author>
+<title>Some things never change: how far generative AI can really change software engineering practice.</title>
+<year>2024</year>
+<volume>abs/2406.09725</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2406.09725</ee>
+<url>db/journals/corr/corr2406.html#abs-2406-09725</url>
+</article>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><article key="journals/rbie/JuniorAFCW23" mdate="2024-02-10">
+<author orcid="0000-0002-8877-2931" pid="23/7677">Paulo Afonso Parreira J&#250;nior</author>
+<author orcid="0000-0002-4848-9453" pid="264/8886">J&#250;lio C&#233;sar Alves</author>
+<author orcid="0000-0001-7894-9740" pid="32/6218">Andr&#233; Pimenta Freire</author>
+<author orcid="0000-0002-9903-7414" pid="42/7676">Heitor Augustus Xavier Costa</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<title>Sobre o Ensino de Software Livre na Gradua&#231;&#227;o: Estrat&#233;gias e Li&#231;&#245;es Aprendidas.</title>
+<pages>1200-1224</pages>
+<year>2023</year>
+<volume>31</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<ee type="oa">https://doi.org/10.5753/rbie.2023.3576</ee>
+<url>db/journals/rbie/rbie31.html#JuniorAFCW23</url>
+</article>
+</r>
+<r><article key="journals/smr/FontaoCWSD23" mdate="2025-04-01">
+<author orcid="0000-0002-2988-9646" pid="168/6211">Awdren L. Font&#227;o</author>
+<author orcid="0000-0002-2025-1638" pid="44/9055">Sergio Cleger-Tamayo</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="27/11253">Arilo Claudio Dias-Neto</author>
+<title>A Developer Relations (DevRel) model to govern developers in Software Ecosystems.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>J. Softw. Evol. Process.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1002/smr.2389</ee>
+<url>db/journals/smr/smr35.html#FontaoCWSD23</url>
+</article>
+</r>
+<r><article key="journals/tosem/VenturiniCPGW23" mdate="2023-07-21">
+<author orcid="0000-0003-2704-2094" pid="337/9463">Daniel Venturini</author>
+<author orcid="0000-0002-5494-685X" pid="16/3966">Filipe Roseiro C&#244;go</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<title>I Depended on You and You Broke Me: An Empirical Study of Manifesting Breaking Changes in Client Packages.</title>
+<pages>94:1-94:26</pages>
+<year>2023</year>
+<month>July</month>
+<volume>32</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3576037</ee>
+<url>db/journals/tosem/tosem32.html#VenturiniCPGW23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/SantosPWSSG23" mdate="2023-07-20">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<pages>1-12</pages>
+<year>2023</year>
+<booktitle>ICSE (SEIS)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIS58686.2023.00007</ee>
+<crossref>conf/icse/2023seis</crossref>
+<url>db/conf/icse/seis2023.html#SantosPWSSG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosPPWSG23" mdate="2023-07-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills.</title>
+<pages>611-623</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00087</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#SantosPPWSG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/FronchettiSWTGS23" mdate="2024-05-31">
+<author orcid="0000-0003-2104-6676" pid="241/4795">Felipe Fronchetti</author>
+<author orcid="0000-0003-2017-7842" pid="153/5343">David C. Shepherd</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Do CONTRIBUTING Files Provide Information about OSS Newcomers' Onboarding Barriers?</title>
+<pages>16-28</pages>
+<year>2023</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3611643.3616288</ee>
+<crossref>conf/sigsoft/2023</crossref>
+<url>db/conf/sigsoft/fse2023.html#FronchettiSWTGS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-04563" mdate="2025-05-26">
+<author pid="337/9463">Daniel Venturini</author>
+<author pid="16/3966">Filipe Roseiro C&#244;go</author>
+<author pid="71/5097">Ivanilton Polato</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>I depended on you and you broke me: An empirical study of manifesting breaking changes in client packages.</title>
+<year>2023</year>
+<volume>abs/2301.04563</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.04563</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-04563</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-10912" mdate="2023-01-31">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<year>2023</year>
+<volume>abs/2301.10912</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.10912</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-10912</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article key="journals/ese/WesselSWSG22" mdate="2024-02-05">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author orcid="0000-0002-1418-0095" pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Quality gatekeepers: investigating the effects of code review bots on pull request activities.</title>
+<pages>108</pages>
+<year>2022</year>
+<volume>27</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s10664-022-10130-9</ee>
+<ee>https://www.wikidata.org/entity/Q121986398</ee>
+<url>db/journals/ese/ese27.html#WesselSWSG22</url>
+</article>
+</r>
+<r><article key="journals/jserd/KameiW0F00S22" mdate="2023-06-02">
+<author orcid="0000-0002-5572-2049" pid="144/4703">Fernando Kamei</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
+<author orcid="0000-0003-4548-7601" pid="148/1325">Waldemar Ferreira</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author orcid="0000-0002-2849-1273" pid="18/6809">Renata Souza 0002</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<title>Assessing the Credibility of Grey Literature - A Study with Brazilian Software Engineering Researchers.</title>
+<pages>9:1-9:20</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2022.1897</ee>
+<url>db/journals/jserd/jserd10.html#KameiW0F00S22</url>
+</article>
+</r>
+<r><article key="journals/tosem/TrinkenreichWSG22" mdate="2023-08-28">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Women's Participation in Open Source Software: A Survey of the Literature.</title>
+<pages>81:1-81:37</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3510460</ee>
+<ee>https://www.wikidata.org/entity/Q113771157</ee>
+<url>db/journals/tosem/tosem31.html#TrinkenreichWSG22</url>
+</article>
+</r>
+<r><article key="journals/tse/TrinkenreichGWC22" mdate="2023-08-28">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Pots of Gold at the End of the Rainbow: What is Success for Open Source Contributors?</title>
+<pages>3940-3953</pages>
+<year>2022</year>
+<volume>48</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSE.2021.3108032</ee>
+<ee>https://www.wikidata.org/entity/Q114982710</ee>
+<url>db/journals/tse/tse48.html#TrinkenreichGWC22</url>
+</article>
+</r>
+<r><article key="journals/vlc/FronchettiRHLSJ22" mdate="2025-05-31">
+<author orcid="0000-0003-2104-6676" pid="241/4795">Felipe Fronchetti</author>
+<author orcid="0000-0001-5600-2978" pid="169/6956">Nico Ritschel</author>
+<author pid="18/1889">Reid Holmes</author>
+<author orcid="0000-0002-0724-699X" pid="311/8422">Linxi Li</author>
+<author orcid="0000-0002-1196-1646" pid="23/6244">Mauricio Soto</author>
+<author pid="11/4735">Raoul Jetley</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-2017-7842" pid="153/5343">David C. Shepherd</author>
+<title>Language impact on productivity for industrial end users: A case study from Programmable Logic Controllers.</title>
+<pages>101087</pages>
+<year>2022</year>
+<volume>69</volume>
+<journal>J. Comput. Lang.</journal>
+<ee>https://doi.org/10.1016/j.cola.2021.101087</ee>
+<url>db/journals/vlc/vlc69.html#FronchettiRHLSJ22</url>
+</article>
+</r>
+<r><inproceedings key="conf/ease/Melegati0W022" mdate="2025-02-27">
+<author pid="236/5533">Jorge Melegati</author>
+<author pid="65/1205">Eduardo Guerra 0001</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="99/2479-1">Xiaofeng Wang 0001</author>
+<title>Generated abstracts: evaluating automatic text summarization for blog posts in gray literature studies.</title>
+<pages>282-287</pages>
+<year>2022</year>
+<booktitle>EASE</booktitle>
+<ee>https://doi.org/10.1145/3530019.3535308</ee>
+<crossref>conf/ease/2022</crossref>
+<url>db/conf/ease/ease2022.html#Melegati0W022</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/SantosTPWSSG22" mdate="2025-01-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How to Choose a Task? Mismatches in Perspectives of Newcomers and Existing Contributors.</title>
+<pages>114-124</pages>
+<year>2022</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3544902.3546236</ee>
+<ee>https://www.wikidata.org/entity/Q130837901</ee>
+<crossref>conf/esem/2022</crossref>
+<url>db/conf/esem/esem2022.html#SantosTPWSSG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WesselAWCSGS22" mdate="2025-01-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="241/5936">Ahmad Abdellatif</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="05/5996">Emad Shihab</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Bots for Pull Requests: The Good, the Bad, and the Promising.</title>
+<pages>274-286</pages>
+<year>2022</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3510003.3512765</ee>
+<ee>https://ieeexplore.ieee.org/document/9793907</ee>
+<ee>https://www.wikidata.org/entity/Q131121407</ee>
+<crossref>conf/icse/2022</crossref>
+<url>db/conf/icse/icse2022.html#WesselAWCSGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SouzaWSR22" mdate="2026-07-02">
+<author pid="329/3885">Hugo Henrique Fumero de Souza</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<title>A characterization study of testing contributors and their contributions in open source projects.</title>
+<pages>95-105</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555244</ee>
+<ee>https://www.wikidata.org/entity/Q131122629</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#SouzaWSR22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SoupinskiASWBCF22" mdate="2025-01-19">
+<author pid="329/3717">Felipe Soupinski</author>
+<author pid="183/4888">Pedro Arantes</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="119/0140">Hudson Borges</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>&#34;We are dying!&#34; On Death Signals of Software Ecosystems.</title>
+<pages>363-369</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555264</ee>
+<ee>https://www.wikidata.org/entity/Q130890701</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#SoupinskiASWBCF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/OliveiraRBGWF22" mdate="2023-01-23">
+<author pid="338/4852">Naelson Oliveira</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="21/824">Rodrigo Bonif&#225;cio</author>
+<author pid="10/3240">Rohit Gheyi</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<title>Lint-Based Warnings in Python Code: Frequency, Awareness and Refactoring.</title>
+<pages>208-218</pages>
+<year>2022</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM55253.2022.00030</ee>
+<crossref>conf/scam/2022</crossref>
+<url>db/conf/scam/scam2022.html#OliveiraRBGWF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/SantosWSSG22" mdate="2022-07-26">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Hits and Misses: Newcomers' ability to identify Skills needed for OSS tasks.</title>
+<pages>174-183</pages>
+<year>2022</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER53432.2022.00032</ee>
+<crossref>conf/wcre/2022</crossref>
+<url>db/conf/wcre/saner2022.html#SantosWSSG22</url>
+</inproceedings>
+</r>
+<r><data key="data/10/AnonymousMWGCAMPW22" mdate="2024-08-31">
+<author pid="a/anonymous">anonymous</author>
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-5555-3487" pid="65/1205">Eduardo Guerra 0001</author>
+<author orcid="0000-0002-6293-7419" pid="90/2230">Rafael Chanin</author>
+<author orcid="0000-0002-6405-1750" pid="179/8621">Abdullah Aldaeej</author>
+<author orcid="0000-0002-8540-9918" pid="80/5814">Tommi Mikkonen</author>
+<author orcid="0000-0003-3351-4916" pid="39/5605">Rafael Prikladnicki</author>
+<author orcid="0000-0001-8424-419X" pid="99/2479-1">Xiaofeng Wang 0001</author>
+<title>Supplemental package for a study on product managers in software startups.</title>
+<year>2022</year>
+<ee type="oa">https://doi.org/10.5281/zenodo.10070156</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.7034251" type="versionOf"></rel>
+</data>
+</r>
+<r><article key="journals/ese/MoraesPWSP21" mdate="2022-10-02">
+<author pid="243/2614">Jo&#227;o Pedro Moraes</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="150/4160">Filipe Saraiva</author>
+<author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>From one to hundreds: multi-licensing in the JavaScript ecosystem.</title>
+<pages>39</pages>
+<year>2021</year>
+<volume>26</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-020-09936-2</ee>
+<ee>https://www.wikidata.org/entity/Q111935863</ee>
+<url>db/journals/ese/ese26.html#MoraesPWSP21</url>
+</article>
+</r>
+<r><article key="journals/infsof/KameiWLPNFRPCPS21" mdate="2025-03-03">
+<author orcid="0000-0002-5572-2049" pid="144/4703">Fernando Kamei</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-0286-2056" pid="65/10587">Crescencio Lima</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0003-1981-0997" pid="26/2724">Vilmar Nepomuceno</author>
+<author pid="148/1325">Waldemar Ferreira</author>
+<author orcid="0000-0002-4293-4261" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="246/5627">Carolline Pena</author>
+<author orcid="0000-0002-9035-654X" pid="144/8274">Bruno Cartaxo</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<title>Grey Literature in Software Engineering: A critical review.</title>
+<pages>106609</pages>
+<year>2021</year>
+<volume>138</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2021.106609</ee>
+<ee>https://www.wikidata.org/entity/Q113315910</ee>
+<url>db/journals/infsof/infsof138.html#KameiWLPNFRPCPS21</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/WesselWSG21" mdate="2023-08-28">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Don't Disturb Me: Challenges of Interacting with Software Bots on Open Source Software Projects.</title>
+<pages>301:1-301:21</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3476042</ee>
+<ee>https://www.wikidata.org/entity/Q114370980</ee>
+<url>db/journals/pacmhci/pacmhci5.html#WesselWSG21</url>
+</article>
+</r>
+<r><article key="journals/sensors/MarquesMNFWGZRC21" mdate="2023-08-28">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author orcid="0000-0001-5451-3109" pid="201/2424">Walter Takashi Nakamura</author>
+<author orcid="0000-0003-2895-1054" pid="135/0908">Bruna Moraes Ferreira</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno F. Gadelha</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana Martinez Zaina</author>
+<author orcid="0000-0002-1370-7123" pid="84/6534">David F. Redmiles</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Understanding UX Better: A New Technique to Go beyond Emotion Assessment.</title>
+<pages>7183</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/s21217183</ee>
+<ee>https://www.wikidata.org/entity/Q114026672</ee>
+<url>db/journals/sensors/sensors21.html#MarquesMNFWGZRC21</url>
+</article>
+</r>
+<r><article key="journals/tse/MeloWd21" mdate="2021-12-15">
+<author orcid="0000-0001-5468-7889" pid="207/7147">Luis Melo</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-1323-8769" pid="16/608">Marcelo d'Amorim</author>
+<title>Using Docker to Assist Q&#38;A Forum Users.</title>
+<pages>2563-2574</pages>
+<year>2021</year>
+<volume>47</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>11</number>
+<ee>https://doi.org/10.1109/TSE.2019.2956919</ee>
+<url>db/journals/tse/tse47.html#MeloWd21</url>
+</article>
+</r>
+<r><inproceedings key="conf/conversations/AlvesWCS21" mdate="2024-09-09">
+<author pid="319/2663">Luiz Philipe Serrano Alves</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>How to Find My Task? Chatbot to Assist Newcomers in Choosing Tasks in OSS Projects.</title>
+<pages>90-107</pages>
+<year>2021</year>
+<booktitle>CONVERSATIONS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-94890-0_6</ee>
+<crossref>conf/conversations/2021</crossref>
+<url>db/conf/conversations/conversations2021.html#AlvesWCS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/Kamei0W0S21" mdate="2021-10-08">
+<author pid="144/4703">Fernando Kamei</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>What Evidence We Would Miss If We Do Not Use Grey Literature?</title>
+<pages>24:1-24:11</pages>
+<year>2021</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3475716.3475777</ee>
+<crossref>conf/esem/2021</crossref>
+<url>db/conf/esem/esem2021.html#Kamei0W0S21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/DiasMCSW021" mdate="2022-12-07">
+<author pid="294/1196">Edson Dias</author>
+<author orcid="0000-0002-8923-2814" pid="37/5038">Paulo Meirelles</author>
+<author orcid="0000-0002-6389-3630" pid="f/FCFilho">Fernando Castor</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>What Makes a Great Maintainer of Open Source Projects?</title>
+<pages>982-994</pages>
+<year>2021</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE43902.2021.00093</ee>
+<crossref>conf/icse/2021</crossref>
+<url>db/conf/icse/icse2021.html#DiasMCSW021</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GerosaWTLRTSS21" mdate="2025-01-19">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="284/0775">Georg Link</author>
+<author orcid="0000-0002-1442-6761" pid="r/GregorioRobles">Gregorio Robles</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source.</title>
+<pages>1046-1058</pages>
+<year>2021</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE43902.2021.00098</ee>
+<ee>https://www.wikidata.org/entity/Q130266799</ee>
+<crossref>conf/icse/2021</crossref>
+<url>db/conf/icse/icse2021.html#GerosaWTLRTSS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsob/FariasWS21" mdate="2022-01-03">
+<author orcid="0000-0002-9145-4774" pid="234/1781">Victor Farias</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<title>Power Relations Within an Open Source Software Ecosystem.</title>
+<pages>187-193</pages>
+<year>2021</year>
+<booktitle>ICSOB</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-91983-2_14</ee>
+<crossref>conf/icsob/2021</crossref>
+<url>db/conf/icsob/icsob2021.html#FariasWS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosWTSSG21" mdate="2021-07-02">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Tasks.</title>
+<pages>346-257</pages>
+<year>2021</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR52588.2021.00047</ee>
+<crossref>conf/msr/2021</crossref>
+<url>db/conf/msr/msr2021.html#SantosWTSSG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/BarrosHWS21" mdate="2025-01-19">
+<author pid="282/5264">Daniel D. R. Barros</author>
+<author pid="147/5757">Fl&#225;vio E. A. Horita</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="303/3490">Kanan Silva</author>
+<title>A Mining Software Repository Extended Cookbook: Lessons learned from a literature review.</title>
+<pages>1-10</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474627</ee>
+<ee>https://www.wikidata.org/entity/Q130884730</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#BarrosHWS21</url>
+</inproceedings>
+</r>
+<r><data key="data/10/MelegatiGWW21" mdate="2024-10-01">
+<author orcid="0000-0003-1303-4173" pid="236/5533">Jorge Melegati</author>
+<author orcid="0000-0001-5555-3487" pid="65/1205">Eduardo Guerra 0001</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0001-8424-419X" pid="99/2479-1">Xiaofeng Wang 0001</author>
+<title>A case study on automatic summarization for gray literature.</title>
+<year>2021</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.5110880</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version 1" uri="https://doi.org/10.5281/zenodo.5110879" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-10291" mdate="2022-10-02">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="284/0775">Georg Link</author>
+<author pid="r/GregorioRobles">Gregorio Robles</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source.</title>
+<year>2021</year>
+<volume>abs/2101.10291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.10291</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-10291</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12653" mdate="2021-04-06">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Task.</title>
+<year>2021</year>
+<volume>abs/2103.12653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12653</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12653</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-13547" mdate="2021-08-25">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Quality Gatekeepers: Investigating the Effects ofCode Review Bots on Pull Request Activities.</title>
+<year>2021</year>
+<volume>abs/2103.13547</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13547</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13547</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-13950" mdate="2021-08-25">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Don't Disturb Me: Challenges of Interacting with SoftwareBots on Open Source Software Projects.</title>
+<year>2021</year>
+<volume>abs/2103.13950</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13950</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13950</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-12542" mdate="2021-10-14">
+<author pid="193/1150">Yorah Bosse</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="26/693">Marco Aur&#233;lio Graciotto Silva</author>
+<author pid="70/9554">Nelson Lago</author>
+<author pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</author>
+<author orcid="0000-0002-1370-7123" pid="84/6534">David F. Redmiles</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Catalogs of C and Python Antipatterns by CS1 Students.</title>
+<year>2021</year>
+<volume>abs/2104.12542</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.12542</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-12542</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-13435" mdate="2021-05-04">
+<author pid="144/4703">Fernando Kamei</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="65/10587">Crescencio Lima</author>
+<author pid="71/5097">Ivanilton Polato</author>
+<author pid="26/2724">Vilmar Nepomuceno</author>
+<author pid="148/1325">Waldemar Ferreira</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="246/5627">Carolline Pena</author>
+<author pid="144/8274">Bruno Cartaxo</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>Grey Literature in Software Engineering: A Critical Review.</title>
+<year>2021</year>
+<volume>abs/2104.13435</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.13435</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-13435</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08777" mdate="2021-05-31">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Women's Participation in Open Source Software: A Survey of the Literature.</title>
+<year>2021</year>
+<volume>abs/2105.08777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08777</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08777</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08789" mdate="2021-05-31">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>The Pot of Gold at the End of the Rainbow: What is Success for Open Source Contributors?</title>
+<year>2021</year>
+<volume>abs/2105.08789</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08789</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08789</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2107-05792" mdate="2021-07-20">
+<author pid="144/4703">Fernando Kamei</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>What Evidence We Would Miss If We Do Not Use Grey Literature?</title>
+<year>2021</year>
+<volume>abs/2107.05792</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2107.05792</ee>
+<url>db/journals/corr/corr2107.html#abs-2107-05792</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-04095" mdate="2021-10-21">
+<author pid="282/5264">Daniel D. R. Barros</author>
+<author pid="147/5757">Fl&#225;vio E. A. Horita</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="303/3490">Kanan Silva</author>
+<title>A Mining Software Repository Extended Cookbook: Lessons learned from a literature review.</title>
+<year>2021</year>
+<volume>abs/2110.04095</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.04095</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-04095</url>
+</article>
+</r>
+<r><article key="journals/jss/SilvaWGTGS20" mdate="2025-01-19">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Google summer of code: Student motivations and contributions.</title>
+<year>2020</year>
+<volume>162</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2019.110487</ee>
+<ee>https://www.wikidata.org/entity/Q126645656</ee>
+<url>db/journals/jss/jss162.html#SilvaWGTGS20</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/TrinkenreichGWS20" mdate="2025-01-19">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Hidden Figures: Roles and Pathways of Successful OSS Contributors.</title>
+<pages>180:1-180:22</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3415251</ee>
+<ee>https://www.wikidata.org/entity/Q130866303</ee>
+<url>db/journals/pacmhci/pacmhci4.html#TrinkenreichGWS20</url>
+</article>
+</r>
+<r><article key="journals/software/WiesePP20" mdate="2025-01-19">
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0001-7598-2799" pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>Naming the Pain in Developing Scientific Software.</title>
+<pages>75-82</pages>
+<year>2020</year>
+<volume>37</volume>
+<journal>IEEE Softw.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/MS.2019.2899838</ee>
+<ee>https://www.wikidata.org/entity/Q128240519</ee>
+<url>db/journals/software/software37.html#WiesePP20</url>
+</article>
+</r>
+<r><inproceedings key="conf/icgse/FontaoCWSD20" mdate="2025-04-01">
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author orcid="0000-0002-2025-1638" pid="44/9055">Sergio Cleger-Tamayo</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="27/11253">Arilo Claudio Dias-Neto</author>
+<title>On value creation in developer relations (DevRel): a practitioners' perspective.</title>
+<pages>33-42</pages>
+<year>2020</year>
+<booktitle>ICGSE</booktitle>
+<ee>https://doi.org/10.1145/3372787.3390440</ee>
+<crossref>conf/icgse/2020</crossref>
+<url>db/conf/icgse/icgse2020.html#FontaoCWSD20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/WesselSWSG20" mdate="2020-11-10">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Effects of Adopting Code Review Bots on Pull Requests to OSS Projects.</title>
+<pages>1-11</pages>
+<year>2020</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME46990.2020.00011</ee>
+<crossref>conf/icsm/2020</crossref>
+<url>db/conf/icsm/icsme2020.html#WesselSWSG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CondinaMFSFWV20" mdate="2022-08-18">
+<author pid="282/5238">Vinicius Condina</author>
+<author pid="282/5538">Paulo Malcher</author>
+<author pid="234/1781">Victor Farias</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="117/5583">Davi Viana</author>
+<title>An Exploratory Study on Developers Opinions about Influence in Open Source Software Ecosystems.</title>
+<pages>137-146</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422404</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#CondinaMFSFWV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/KameiW0RS20" mdate="2022-08-18">
+<author orcid="0000-0002-5572-2049" pid="144/4703">Fernando Kamei</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community.</title>
+<pages>183-192</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422442</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#KameiW0RS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MassanoriCWF20" mdate="2025-01-19">
+<author pid="282/4775">Daniel Massanori</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>Death of a Software Ecosystem: a Developer Relations (DevRel) perspective.</title>
+<pages>399-404</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422445</ee>
+<ee>https://www.wikidata.org/entity/Q131118993</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#MassanoriCWF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/WesselSWSG20" mdate="2022-08-18">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>What to Expect from Code Review Bots on GitHub?: A Survey with OSS Maintainers.</title>
+<pages>457-462</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422459</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#WesselSWSG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SilvaWGTGS20" mdate="2022-01-13">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>A theory of the engagement in open source projects via summer of code programs.</title>
+<pages>421-431</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409724</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#SilvaWGTGS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/Bertoncello0WS20" mdate="2020-04-16">
+<author pid="262/9432">Marcus Vinicius Bertoncello</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Pull Requests or Commits? Which Method Should We Use to Study Contributors' Behavior?</title>
+<pages>592-601</pages>
+<year>2020</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER48275.2020.9054855</ee>
+<crossref>conf/wcre/2020</crossref>
+<url>db/conf/wcre/saner2020.html#Bertoncello0WS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2002-00770" mdate="2020-02-10">
+<author pid="249/1750">Fabio Pacheco</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="144/8274">Bruno Cartaxo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>Analyzing the evolution and diversity of SBES Program Committee.</title>
+<year>2020</year>
+<volume>abs/2002.00770</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2002.00770</ee>
+<url>db/journals/corr/corr2002.html#abs-2002-00770</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2009-05926" mdate="2021-01-28">
+<author pid="144/4703">Fernando Kamei</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<title>On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community.</title>
+<year>2020</year>
+<volume>abs/2009.05926</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2009.05926</ee>
+<url>db/journals/corr/corr2009.html#abs-2009-05926</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-05016" mdate="2021-01-02">
+<author pid="243/2614">Jo&#227;o Pedro Moraes</author>
+<author pid="71/5097">Ivanilton Polato</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="150/4160">Filipe Saraiva</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>From One to Hundreds: Multi-Licensing in the JavaScript Ecosystem.</title>
+<year>2020</year>
+<volume>abs/2012.05016</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.05016</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-05016</url>
+</article>
+</r>
+<r><article key="journals/isys/VianaWSF19" mdate="2024-03-22">
+<author pid="117/5583">Davi Viana</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="32/6218">Andr&#233; Pimenta Freire</author>
+<title>Editorial Vol.12, No 4.</title>
+<pages>1-5</pages>
+<year>2019</year>
+<volume>12</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.5753/isys.2019.778</ee>
+<url>db/journals/isys/isys12.html#VianaWSF19</url>
+</article>
+</r>
+<r><article key="journals/software/FariasWS19" mdate="2021-04-09">
+<author pid="234/1781">Victor Farias</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<title>What Characterizes an Influencer in Software Ecosystems?</title>
+<pages>42-47</pages>
+<year>2019</year>
+<volume>36</volume>
+<journal>IEEE Softw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MS.2018.2874325</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2018.2874325</ee>
+<url>db/journals/software/software36.html#FariasWS19</url>
+</article>
+</r>
+<r><article key="journals/sqj/WieseKSORTG19" mdate="2023-10-22">
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="149/2939">Rodrigo Takashi Kuroda</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Pieces of contextual information suitable for predicting co-changes? An empirical study.</title>
+<pages>1481-1503</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>Softw. Qual. J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11219-019-09456-3</ee>
+<ee>https://www.wikidata.org/entity/Q122927216</ee>
+<url>db/journals/sqj/sqj27.html#WieseKSORTG19</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/WesselSWG19" mdate="2019-10-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests.</title>
+<pages>38-42</pages>
+<year>2019</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE.2019.00018</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3338689</ee>
+<crossref>conf/icse/2019botse</crossref>
+<url>db/conf/icse/botse2019.html#WesselSWG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oss/FronchettiW0S19" mdate="2025-03-03">
+<author orcid="0000-0003-2104-6676" pid="241/4795">Felipe Fronchetti</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>What Attracts Newcomers to Onboard on OSS Projects? TL;DR: Popularity.</title>
+<pages>91-103</pages>
+<year>2019</year>
+<booktitle>OSS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-20883-7_9</ee>
+<crossref>conf/oss/2019</crossref>
+<url>db/conf/oss/oss2019.html#FronchettiW0S19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/PachecoWSC019" mdate="2025-03-03">
+<author pid="249/1750">Fabio Pacheco</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-9035-654X" pid="144/8274">Bruno Cartaxo</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<title>How Open is the SBES PC Community?</title>
+<pages>7-11</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350780</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#PachecoWSC019</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MarquesMNWZC19" mdate="2025-04-01">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="201/2424">Walter Takashi Nakamura</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana A. M. Zaina</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>UX-Tips: A UX evaluation technique to support the identification of software application problems.</title>
+<pages>224-233</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350783</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#MarquesMNWZC19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/vem/2019" mdate="2024-11-27">
+<editor pid="f/FCFilho">Fernando Castor</editor>
+<editor pid="06/10439">Igor Scaliante Wiese</editor>
+<title>VII Workshop on Software Visualization, Evolution and Maintenance, VEM 2019, Salvador, Bahia, Brazil, September 25, 2019.</title>
+<booktitle>VEM</booktitle>
+<publisher>Sociedade Brasileira de Computa&#231;&#227;o</publisher>
+<year>2019</year>
+<ee type="oa">https://doi.org/10.5753/vem.2019</ee>
+<url>db/conf/vem/vem2019.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-05798" mdate="2020-01-30">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Google Summer of Code: Student Motivations and Contributions.</title>
+<year>2019</year>
+<volume>abs/1910.05798</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.05798</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-05798</url>
+</article>
+</r>
+<r><article key="journals/jbcs/NeiraSW18" mdate="2023-05-01">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>Characterizing the hyperspecialists in the context of crowdsourcing software development.</title>
+<pages>17:1-17:16</pages>
+<year>2018</year>
+<volume>24</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-018-0082-2</ee>
+<url>db/journals/jbcs/jbcs24.html#NeiraSW18</url>
+</article>
+</r>
+<r><article key="journals/jserd/FontaoAWEQSD18" mdate="2025-01-19">
+<author orcid="0000-0002-2988-9646" pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author pid="205/9102">Bruno &#193;bia</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="226/7737">Bernardo Est&#225;cio</author>
+<author pid="235/9345">Marcelo Quinta</author>
+<author orcid="0000-0003-4749-2551" pid="57/7989">Rodrigo Pereira dos Santos</author>
+<author pid="27/11253">Arilo Claudio Dias-Neto</author>
+<title>Supporting governance of mobile application developers from mining and analyzing technical questions in stack overflow.</title>
+<pages>8</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.1186/s40411-018-0052-6</ee>
+<ee>https://www.wikidata.org/entity/Q129400283</ee>
+<url>db/journals/jserd/jserd6.html#FontaoAWEQSD18</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/WesselSSWPCG18" mdate="2024-09-09">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="234/4562">Bruno Mendes de Souza</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects.</title>
+<pages>182:1-182:19</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3274451</ee>
+<url>db/journals/pacmhci/pacmhci2.html#WesselSSWPCG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Steinmacher0WG18" mdate="2021-08-10">
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Almost there: a study on quasi-contributors in open source software projects.</title>
+<pages>256-266</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180208</ee>
+<ee>https://ieeexplore.ieee.org/document/8453084</ee>
+<ee>https://www.wikidata.org/entity/Q83804234</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#Steinmacher0WG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AnicheTSW0SG18" mdate="2021-10-14">
+<author pid="61/9679">Maur&#237;cio Finavaro Aniche</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How modern news aggregators help development communities shape and share knowledge.</title>
+<pages>499-510</pages>
+<year>2018</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3180155.3180180</ee>
+<ee>https://ieeexplore.ieee.org/document/8453116</ee>
+<crossref>conf/icse/2018</crossref>
+<url>db/conf/icse/icse2018.html#AnicheTSW0SG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/Meloca0BMPWG18" mdate="2022-10-02">
+<author pid="209/6562">R&#244;mulo Manciola Meloca</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="223/4695">Leonardo Baiser</author>
+<author pid="223/4414">Marco Mattos</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<title>Understanding the usage, impact, and adoption of non-OSI approved licenses.</title>
+<pages>270-280</pages>
+<year>2018</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3196398.3196427</ee>
+<ee>https://ieeexplore.ieee.org/document/8595210</ee>
+<crossref>conf/msr/2018</crossref>
+<url>db/conf/msr/msr2018.html#Meloca0BMPWG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcre/0001WD18" mdate="2023-03-24">
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="193/4220">Luiz Felipe Dias</author>
+<title>How do scientists develop scientific software? An external replication.</title>
+<pages>582-591</pages>
+<year>2018</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER.2018.8330263</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SANER.2018.8330263</ee>
+<crossref>conf/wcre/2018</crossref>
+<url>db/conf/wcre/saner2018.html#0001WD18</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/WieseRSKOTG17" mdate="2021-10-14">
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="149/2939">Rodrigo Takashi Kuroda</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Using contextual information to predict co-changes.</title>
+<pages>220-235</pages>
+<year>2017</year>
+<volume>128</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2016.07.016</ee>
+<url>db/journals/jss/jss128.html#WieseRSKOTG17</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/SilvaWGSG17" mdate="2023-03-24">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="70/3474">Igor Fabio Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
+<pages>69-79</pages>
+<year>2017</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME.2017.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSME.2017.81</ee>
+<crossref>conf/icsm/2017</crossref>
+<url>db/conf/icsm/icsme2017.html#SilvaWGSG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/WesselAOGW17" mdate="2019-10-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="61/9679">Mauricio Finavaro Aniche</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>Tweaking Association Rules to Optimize Software Change Recommendations.</title>
+<pages>94-103</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131163</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#WesselAOGW17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaWSG17" mdate="2020-01-30">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Students' Engagement in Open Source Projects: An Analysis of Google Summer of Code.</title>
+<pages>224-233</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131156</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#SilvaWSG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/MacedoDW17" mdate="2022-01-27">
+<author pid="246/8069">Charles Mendes de Macedo</author>
+<author pid="30/6146">Karina Valdivia Delgado</author>
+<author pid="06/10439">Igor Wiese</author>
+<title>Detec&#231;&#227;o autom&#225;tica de falhas em software JavaScript: Uma revis&#227;o sistem&#225;tica da literatura.</title>
+<pages>412-419</pages>
+<year>2017</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2017.6070</ee>
+<crossref>conf/sbsi/2017</crossref>
+<url>db/conf/sbsi/sbsi2017.html#MacedoDW17</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Wiese16" mdate="2018-07-19">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>Predicting co-changes of software artifacts based on contextual information (Predi&#231;&#227;o de mudan&#231;as conjuntas de artefatos de software com base em informa&#231;&#245;es contextuais).</title>
+<year>2016</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/45/45134/tde-02122016-140016/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-02122016-140016</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:teses.usp.br:tde-02122016-140016</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-02122016-140016)</note>
+</phdthesis>
+</r>
+<r><inproceedings key="conf/icsm/WieseSSTG16" mdate="2023-03-24">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="172/2958">Jos&#233; Teodoro da Silva</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Who is Who in the Mailing List? Comparing Six Disambiguation Heuristics to Identify Multiple Addresses of a Participant.</title>
+<pages>345-355</pages>
+<year>2016</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME.2016.13</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSME.2016.13</ee>
+<crossref>conf/icsm/2016</crossref>
+<url>db/conf/icsm/icsme2016.html#WieseSSTG16</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/FalessiCRSFWBQT15" mdate="2021-08-21">
+<author pid="89/536">Davide Falessi</author>
+<author pid="150/3264">Zadia Codabux</author>
+<author pid="07/9106">Guoping Rong</author>
+<author pid="26/3341">Ioannis Stamelos</author>
+<author pid="148/1325">Waldemar Ferreira</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="258/1537">Emanoel Francisco Sp&#243;sito Barreiros</author>
+<author pid="150/8937">Christian Quesada-L&#243;pez</author>
+<author pid="17/10438">Periklis Tsirakidis</author>
+<title>Trends in empirical research: the report on the 2014 Doctoral Symposium on Empirical Software Engineering.</title>
+<pages>30-35</pages>
+<year>2015</year>
+<volume>40</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/2815021.2815034</ee>
+<url>db/journals/sigsoft/sigsoft40.html#FalessiCRSFWBQT15</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/SatinWR15" mdate="2021-10-14">
+<author pid="173/9223">Ricardo F. P. Satin</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<title>An exploratory study about the cross-project defect prediction: Impact of using different classification algorithms and a measure of performance in building predictive models.</title>
+<pages>1-12</pages>
+<year>2015</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI.2015.7360033</ee>
+<crossref>conf/clei/2015</crossref>
+<url>db/conf/clei/clei2015.html#SatinWR15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oss/WieseKROG15" mdate="2021-10-14">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="149/2939">Rodrigo Takashi Kuroda</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>An Empirical Study of the Relation Between Strong Change Coupling and Defects Using History and Social Metrics in the Apache Aries Project.</title>
+<pages>3-12</pages>
+<year>2015</year>
+<booktitle>OSS</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-319-17837-0_1</ee>
+<ee>https://www.wikidata.org/entity/Q58051413</ee>
+<crossref>conf/oss/2015</crossref>
+<url>db/conf/oss/oss2015.html#WieseKROG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/WieseRSKOG15" mdate="2023-03-24">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="149/2939">Rodrigo Takashi Kuroda</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Predicting Change Propagation from Repository Information.</title>
+<pages>100-109</pages>
+<year>2015</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2015.21</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2015.21</ee>
+<ee>https://www.wikidata.org/entity/Q58051432</ee>
+<crossref>conf/sbes/2015</crossref>
+<url>db/conf/sbes/sbes2015.html#WieseRSKOG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SteinmacherWCG15" mdate="2023-03-24">
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Increasing the Self-Efficacy of Newcomers to Open Source Software Projects.</title>
+<pages>160-169</pages>
+<year>2015</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2015.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2015.10</ee>
+<ee>https://www.wikidata.org/entity/Q58051429</ee>
+<crossref>conf/sbes/2015</crossref>
+<url>db/conf/sbes/sbes2015.html#SteinmacherWCG15</url>
+</inproceedings>
+</r>
+<r><article key="journals/eceasst/WieseJRSG14" mdate="2020-08-25">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="143/4904">Douglas Nassif Junior</author>
+<author pid="121/2210">Reginaldo R&#233;</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Comparing communication and development networks for predicting file change proneness: An exploratory study considering process and social metrics.</title>
+<year>2014</year>
+<volume>65</volume>
+<journal>Electron. Commun. Eur. Assoc. Softw. Sci. Technol.</journal>
+<ee type="oa">https://doi.org/10.14279/tuj.eceasst.0.905</ee>
+<url>db/journals/eceasst/eceasst65.html#WieseJRSG14</url>
+</article>
+</r>
+<r><inproceedings key="conf/criwg/WieseKJROG14" mdate="2021-10-14">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="149/2939">Rodrigo Takashi Kuroda</author>
+<author pid="143/4904">Douglas Nassif Roma Junior</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Using Structural Holes Metrics from Communication Networks to Predict Change Dependencies.</title>
+<pages>294-310</pages>
+<year>2014</year>
+<booktitle>CRIWG</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-10166-8_27</ee>
+<ee>https://www.wikidata.org/entity/Q58051454</ee>
+<crossref>conf/criwg/2014</crossref>
+<url>db/conf/criwg/criwg2014.html#WieseKJROG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SteinmacherWCGR14" mdate="2020-10-25">
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="84/6534">David F. Redmiles</author>
+<title>The hard life of open source software project newcomers.</title>
+<pages>72-78</pages>
+<year>2014</year>
+<booktitle>CHASE</booktitle>
+<ee>https://doi.org/10.1145/2593702.2593704</ee>
+<ee>https://www.wikidata.org/entity/Q83804747</ee>
+<crossref>conf/icse/2014chase</crossref>
+<url>db/conf/icse/chase2014.html#SteinmacherWCGR14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/promise/WieseCRSG14" mdate="2021-10-14">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="16/3966">Filipe Roseiro C&#244;go</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Social metrics included in prediction models on software engineering: a mapping study.</title>
+<pages>72-81</pages>
+<year>2014</year>
+<booktitle>PROMISE</booktitle>
+<ee>https://doi.org/10.1145/2639490.2639505</ee>
+<ee>https://www.wikidata.org/entity/Q58051450</ee>
+<crossref>conf/promise/2014</crossref>
+<url>db/conf/promise/promise2014.html#WieseCRSG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SteinmacherWCG13" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Why do newcomers abandon open source software projects?</title>
+<pages>25-32</pages>
+<year>2013</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE.2013.6614728</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CHASE.2013.6614728</ee>
+<ee>https://www.wikidata.org/entity/Q58051477</ee>
+<crossref>conf/icse/2013chase</crossref>
+<url>db/conf/icse/chase2013.html#SteinmacherWCG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpse/OlivaSWG13" mdate="2018-11-14">
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>What can commit metadata tell us about design degradation?</title>
+<pages>18-27</pages>
+<year>2013</year>
+<booktitle>IWPSE</booktitle>
+<ee>https://doi.org/10.1145/2501543.2501547</ee>
+<ee>https://www.wikidata.org/entity/Q58051470</ee>
+<crossref>conf/iwpse/2013</crossref>
+<url>db/conf/iwpse/iwpse2013.html#OlivaSWG13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icgse/SilvaGWRS12" mdate="2023-03-23">
+<author pid="172/2958">Jos&#233; Teodoro da Silva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-6452-3466" pid="121/2210">Reginaldo R&#233;</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>An Extensible Service for Experts Recommendation on Distributed Software Development Projects.</title>
+<pages>18-21</pages>
+<year>2012</year>
+<booktitle>ICGSE Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICGSEW.2012.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICGSEW.2012.9</ee>
+<ee>https://www.wikidata.org/entity/Q58051487</ee>
+<crossref>conf/icgse/2012w</crossref>
+<url>db/conf/icgse/icgsew2012.html#SilvaGWRS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SteinmacherWG12" mdate="2023-03-23">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Recommending mentors to software project newcomers.</title>
+<pages>63-67</pages>
+<year>2012</year>
+<booktitle>RSSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/RSSE.2012.6233413</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/RSSE.2012.6233413</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2666734</ee>
+<ee>https://www.wikidata.org/entity/Q58051516</ee>
+<crossref>conf/icse/2012rsse</crossref>
+<url>db/conf/icse/rsse2012.html#SteinmacherWG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsc/SteinmacherWCG12" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Newcomers Withdrawal in Open Source Software Projects: Analysis of Hadoop Common Project.</title>
+<pages>65-74</pages>
+<year>2012</year>
+<booktitle>SBSC</booktitle>
+<ee>https://doi.org/10.1109/SBSC.2012.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBSC.2012.16</ee>
+<ee>https://www.wikidata.org/entity/Q58051507</ee>
+<crossref>conf/sbsc/2012</crossref>
+<url>db/conf/sbsc/sbsc2012.html#SteinmacherWCG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsc/SchwerzLWSGF12" mdate="2023-03-24">
+<author orcid="0000-0002-8328-7144" pid="91/1993">Andr&#233; Lu&#237;s Schwerz</author>
+<author pid="123/7839">Rafael Liberato</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0001-9607-2014" pid="69/279">Jo&#227;o Eduardo Ferreira</author>
+<title>Prediction of Developer Participation in Issues of Open Source Projects.</title>
+<pages>109-114</pages>
+<year>2012</year>
+<booktitle>SBSC</booktitle>
+<ee>https://doi.org/10.1109/SBSC.2012.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBSC.2012.27</ee>
+<ee>https://www.wikidata.org/entity/Q58051510</ee>
+<crossref>conf/sbsc/2012</crossref>
+<url>db/conf/sbsc/sbsc2012.html#SchwerzLWSGF12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icgse/WieseH06" mdate="2023-03-23">
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<title>IMART: An Interoperability Model for Artifacts of Distributed Software Development Environments.</title>
+<pages>255-256</pages>
+<year>2006</year>
+<booktitle>ICGSE</booktitle>
+<ee>https://doi.org/10.1109/ICGSE.2006.261247</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICGSE.2006.261247</ee>
+<crossref>conf/icgse/2006</crossref>
+<url>db/conf/icgse/icgse2006.html#WieseH06</url>
+</inproceedings>
+</r>
+<coauthors n="184" nc="3">
+<co c="0"><na f="a/Abdellatif:Ahmad" pid="241/5936">Ahmad Abdellatif</na></co>
+<co c="0"><na f="=/=Aacute=bia:Bruno" pid="205/9102">Bruno &#193;bia</na></co>
+<co c="0"><na f="a/Aldaeej:Abdullah" pid="179/8621">Abdullah Aldaeej</na></co>
+<co c="0"><na f="a/Alves:J=uacute=lio_C=eacute=sar" pid="264/8886">J&#250;lio C&#233;sar Alves</na></co>
+<co c="0"><na f="a/Alves:Luiz_Philipe_Serrano" pid="319/2663">Luiz Philipe Serrano Alves</na></co>
+<co c="0" n="2"><na f="a/Aniche:Mauricio_Finavaro" pid="61/9679">Mauricio Finavaro Aniche</na><na>Maur&#237;cio Finavaro Aniche</na></co>
+<co c="0"><na f="a/anonymous:" pid="a/anonymous">anonymous</na></co>
+<co c="0"><na f="a/Arantes:Pedro" pid="183/4888">Pedro Arantes</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Allysson_Allex" pid="148/4956">Allysson Allex Ara&#250;jo</na></co>
+<co c="0"><na f="b/Baiser:Leonardo" pid="223/4695">Leonardo Baiser</na></co>
+<co c="0"><na f="b/Balancieiri:Renato" pid="437/7838">Renato Balancieiri</na></co>
+<co c="1"><na f="b/Barbosa:Tafnes_Silva" pid="406/7642">Tafnes Silva Barbosa</na></co>
+<co c="0"><na f="b/Barboza:Erick_A=" pid="125/1899">Erick A. Barboza</na></co>
+<co c="0"><na f="b/Barreiros:Emanoel_Francisco_Sp=oacute=sito" pid="258/1537">Emanoel Francisco Sp&#243;sito Barreiros</na></co>
+<co c="0"><na f="b/Barros:Daniel_D=_R=" pid="282/5264">Daniel D. R. Barros</na></co>
+<co c="1"><na f="b/Berretta:Luciana_de_Oliveira" pid="184/8165">Luciana de Oliveira Berretta</na></co>
+<co c="0"><na f="b/Bertoncello:Marcus_Vinicius" pid="262/9432">Marcus Vinicius Bertoncello</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Rodrigo" pid="21/824">Rodrigo Bonif&#225;cio</na></co>
+<co c="0"><na f="b/Borges:Hudson" pid="119/0140">Hudson Borges</na></co>
+<co c="0"><na f="b/Bosse:Yorah" pid="193/1150">Yorah Bosse</na></co>
+<co c="0"><na f="b/Boyer:Jasmine" pid="405/9216">Jasmine Boyer</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa" pid="84/2055">Vanessa Braganholo</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Le=ocirc=nidas_de_Oliveira" pid="22/6910">Le&#244;nidas de Oliveira Brand&#227;o</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="c/Ca=ccedil=ula:Aguiar_Jeov=aacute=" pid="388/4984">Aguiar Jeov&#225; Ca&#231;ula</na></co>
+<co c="0"><na f="c/Cafeo:Bruno_B=_P=" pid="46/10082">Bruno B. P. Cafeo</na></co>
+<co c="0"><na f="c/Campos:Aline_de" pid="248/4379">Aline de Campos</na></co>
+<co c="0"><na f="c/Cartaxo:Bruno" pid="144/8274">Bruno Cartaxo</na></co>
+<co c="0"><na f="c/Chanin:Rafael" pid="90/2230">Rafael Chanin</na></co>
+<co c="0"><na f="c/Chaves:Ana_Paula" pid="33/2472">Ana Paula Chaves</na></co>
+<co c="1"><na f="c/Christ:Djonathan_Caua_Fritzen" pid="421/4079">Djonathan Caua Fritzen Christ</na></co>
+<co c="0"><na f="c/Cleger=Tamayo:Sergio" pid="44/9055">Sergio Cleger-Tamayo</na></co>
+<co c="0"><na f="c/Codabux:Zadia" pid="150/3264">Zadia Codabux</na></co>
+<co c="0"><na f="c/C=ocirc=go:Filipe_Roseiro" pid="16/3966">Filipe Roseiro C&#244;go</na></co>
+<co c="0"><na f="c/Colanzi:Thelma_Elita" pid="84/1707">Thelma Elita Colanzi</na></co>
+<co c="0"><na f="c/Condina:Vinicius" pid="282/5238">Vinicius Condina</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="c/Correia:Jo=atilde=o_Lucas" pid="221/1636">Jo&#227;o Lucas Correia</na></co>
+<co c="0" n="2"><na f="c/Costa:Heitor_A=_X=" pid="42/7676">Heitor A. X. Costa</na><na>Heitor Augustus Xavier Costa</na></co>
+<co c="0"><na f="c/Costa:Lucas" pid="261/8410">Lucas Costa</na></co>
+<co c="0"><na f="c/Costa:Yandre_M=_G=" pid="116/0909">Yandre M. G. Costa</na></co>
+<co c="0"><na f="d/d=Amorim:Marcelo" pid="16/608">Marcelo d'Amorim</na></co>
+<co c="0"><na f="d/Davila:Nicole" pid="287/9970">Nicole Davila</na></co>
+<co c="2"><na f="d/Delgado:Karina_Valdivia" pid="30/6146">Karina Valdivia Delgado</na></co>
+<co c="0"><na f="d/Dias:Edson" pid="294/1196">Edson Dias</na></co>
+<co c="0"><na f="d/Dias:Luiz_Felipe" pid="193/4220">Luiz Felipe Dias</na></co>
+<co c="0"><na f="d/Dias=Neto:Arilo_Claudio" pid="27/11253">Arilo Claudio Dias-Neto</na></co>
+<co c="0"><na f="e/Espanha:Nicole" pid="398/4898">Nicole Espanha</na></co>
+<co c="0"><na f="e/Est=aacute=cio:Bernardo" pid="226/7737">Bernardo Est&#225;cio</na></co>
+<co c="0"><na f="f/Falessi:Davide" pid="89/536">Davide Falessi</na></co>
+<co c="0"><na f="f/Farias:Victor" pid="234/1781">Victor Farias</na></co>
+<co c="0"><na f="f/Favaro:Gilson_Jose_Peres" pid="376/7997">Gilson Jose Peres Favaro</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Leonardo" pid="207/7225">Leonardo Fernandes</na><na>Leo Fernandes</na></co>
+<co c="0" n="2"><na f="f/Ferreira:Bruna" pid="135/0908">Bruna Ferreira</na><na>Bruna Moraes Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Jeferson" pid="08/9681">Jeferson Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Jo=atilde=o_Eduardo" pid="69/279">Jo&#227;o Eduardo Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Waldemar" pid="148/1325">Waldemar Ferreira</na></co>
+<co c="0" n="2"><na f="f/Filho:Fernando_Castor" pid="f/FCFilho">Fernando Castor Filho</na><na>Fernando Castor</na></co>
+<co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
+<co c="0"><na f="f/Fraga:Ismael_Trindade" pid="381/9611">Ismael Trindade Fraga</na></co>
+<co c="0"><na f="f/Freire:Andr=eacute=_Pimenta" pid="32/6218">Andr&#233; Pimenta Freire</na></co>
+<co c="0"><na f="f/Fronchetti:Felipe" pid="241/4795">Felipe Fronchetti</na></co>
+<co c="0" n="2"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na><na>Bruno F. Gadelha</na></co>
+<co c="0"><na f="g/Gebara:Munif" pid="416/1946">Munif Gebara</na></co>
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gheyi:Rohit" pid="10/3240">Rohit Gheyi</na></co>
+<co c="0"><na f="g/Gomes:Everaldo" pid="309/6617">Everaldo Gomes</na></co>
+<co c="0"><na f="g/Guerino:Guilherme_Corredato" pid="182/3295">Guilherme Corredato Guerino</na></co>
+<co c="0"><na f="g/Guerra_0001:Eduardo" pid="65/1205">Eduardo Guerra 0001</na></co>
+<co c="0"><na f="g/Guizani:Mariam" pid="277/8977">Mariam Guizani</na></co>
+<co c="0"><na f="h/Holmes:Reid" pid="18/1889">Reid Holmes</na></co>
+<co c="0"><na f="h/Horita:Fl=aacute=vio_E=_A=" pid="147/5757">Fl&#225;vio E. A. Horita</na></co>
+<co c="0" n="2"><na f="h/Huzita:Elisa_H=_M=" pid="37/17">Elisa H. M. Huzita</na><na>Elisa Hatsue Moriya Huzita</na></co>
+<co c="0"><na f="i/Ikeda:Maria_Eduarda_T=_S=" pid="425/9859">Maria Eduarda T. S. Ikeda</na></co>
+<co c="0" n="2"><na f="j/Jetley:Raoul_Praful" pid="11/4735">Raoul Praful Jetley</na><na>Raoul Jetley</na></co>
+<co c="0" n="2"><na f="j/Junior:Douglas_Nassif" pid="143/4904">Douglas Nassif Junior</na><na>Douglas Nassif Roma Junior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Paulo_Afonso_Parreira" pid="23/7677">Paulo Afonso Parreira J&#250;nior</na></co>
+<co c="0"><na f="k/Kamei:Fernando" pid="144/4703">Fernando Kamei</na></co>
+<co c="0"><na f="k/Kawamoto:Andre" pid="234/1114">Andre Kawamoto</na></co>
+<co c="0"><na f="k/Kon:Fabio" pid="k/FabioKon">Fabio Kon</na></co>
+<co c="0"><na f="k/Kuroda:Rodrigo_Takashi" pid="149/2939">Rodrigo Takashi Kuroda</na></co>
+<co c="0"><na f="l/Lago:Nelson" pid="70/9554">Nelson Lago</na></co>
+<co c="0"><na f="l/Leal:Gislaine_C=_L=" pid="59/394">Gislaine C. L. Leal</na></co>
+<co c="0"><na f="l/Li:Linxi" pid="311/8422">Linxi Li</na></co>
+<co c="0"><na f="l/Liberato:Rafael" pid="123/7839">Rafael Liberato</na></co>
+<co c="0"><na f="l/Lima:Phyllipe" pid="210/6400">Phyllipe Lima</na></co>
+<co c="0"><na f="l/Link:Georg" pid="284/0775">Georg Link</na></co>
+<co c="2"><na f="m/Macedo:Charles_Mendes_de" pid="246/8069">Charles Mendes de Macedo</na></co>
+<co c="0"><na f="m/Maciel:Ana" pid="419/1158">Ana Maciel</na></co>
+<co c="0"><na f="m/Malcher:Paulo" pid="282/5538">Paulo Malcher</na></co>
+<co c="0"><na f="m/Marques:Leonardo_C=" pid="229/5358">Leonardo C. Marques</na></co>
+<co c="0"><na f="m/Massanori:Daniel" pid="282/4775">Daniel Massanori</na></co>
+<co c="0" n="2"><na f="m/Matsubara:Patr=iacute=cia" pid="249/1704">Patr&#237;cia Matsubara</na><na>Patr&#237;cia Gomes Fernandes Matsubara</na></co>
+<co c="0"><na f="m/Mattos:Marco" pid="223/4414">Marco Mattos</na></co>
+<co c="0"><na f="m/Maximino:Raquel" pid="398/4277">Raquel Maximino</na></co>
+<co c="0"><na f="m/Medeiros:Andressa_S=_S=" pid="357/5482">Andressa S. S. Medeiros</na></co>
+<co c="0"><na f="m/Meirelles:Paulo" pid="37/5038">Paulo Meirelles</na></co>
+<co c="0"><na f="m/Melegati:Jorge" pid="236/5533">Jorge Melegati</na></co>
+<co c="0"><na f="m/Melo:Luis" pid="207/7147">Luis Melo</na></co>
+<co c="0"><na f="m/Meloca:R=ocirc=mulo_Manciola" pid="209/6562">R&#244;mulo Manciola Meloca</na></co>
+<co c="0"><na f="m/Mikkonen:Tommi" pid="80/5814">Tommi Mikkonen</na></co>
+<co c="0"><na f="m/Moraes:Jo=atilde=o_Pedro" pid="243/2614">Jo&#227;o Pedro Moraes</na></co>
+<co c="0"><na f="m/Murta_0001:Leonardo" pid="25/3645">Leonardo Murta 0001</na></co>
+<co c="0"><na f="n/Nakamura:Walter_Takashi" pid="201/2424">Walter Takashi Nakamura</na></co>
+<co c="0"><na f="n/Nascimento:Nicolas" pid="229/5526">Nicolas Nascimento</na></co>
+<co c="1" n="2"><na f="n/Naves:Thiago_F=" pid="72/10660">Thiago F. Naves</na><na>Thiago Fran&#231;a Naves</na></co>
+<co c="0"><na f="n/Neira:Anderson_Bergamini_de" pid="232/8599">Anderson Bergamini de Neira</na></co>
+<co c="0"><na f="n/Nepomuceno:Vilmar" pid="26/2724">Vilmar Nepomuceno</na></co>
+<co c="0" n="2"><na f="n/Neto:Baldoino_Fonseca_dos_Santos" pid="22/7095">Baldoino Fonseca dos Santos Neto</na><na>Baldoino Fonseca</na></co>
+<co c="0" n="2"><na f="n/Neto:Crescencio_Rodrigues_Lima" pid="65/10587">Crescencio Rodrigues Lima Neto</na><na>Crescencio Lima</na></co>
+<co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Oliva:Gustavo_Ansaldi" pid="97/10540">Gustavo Ansaldi Oliva</na></co>
+<co c="0"><na f="o/Oliveira:Bruno_Alves_de" pid="440/1731">Bruno Alves de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Iury" pid="440/1814">Iury Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Naelson" pid="338/4852">Naelson Oliveira</na></co>
+<co c="0"><na f="p/Pacheco:Fabio" pid="249/1750">Fabio Pacheco</na></co>
+<co c="0"><na f="p/Paiva:Camila_A=" pid="398/3707">Camila A. Paiva</na></co>
+<co c="0"><na f="p/Paiva:Frederico" pid="398/4870">Frederico Paiva</na></co>
+<co c="0"><na f="p/Pena:Carolline" pid="246/5627">Carolline Pena</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="1"><na f="p/Pereira:Iuri_Almeida" pid="406/7851">Iuri Almeida Pereira</na></co>
+<co c="0"><na f="p/Pimentel:Jo=atilde=o_Felipe" pid="161/7127">Jo&#227;o Felipe Pimentel</na></co>
+<co c="0"><na f="p/Pinho:Giniele" pid="388/4232">Giniele Pinho</na></co>
+<co c="0"><na f="p/Pinto_0001:Gustavo" pid="36/11116-1">Gustavo Pinto 0001</na></co>
+<co c="0"><na f="p/Pinto:Renato_Torres" pid="426/0255">Renato Torres Pinto</na></co>
+<co c="0"><na f="p/Polato:Ivanilton" pid="71/5097">Ivanilton Polato</na></co>
+<co c="0"><na f="p/Prikladnicki:Rafael" pid="39/5605">Rafael Prikladnicki</na></co>
+<co c="0"><na f="q/Quesada=L=oacute=pez:Christian" pid="150/8937">Christian Quesada-L&#243;pez</na></co>
+<co c="0"><na f="q/Quinta:Marcelo" pid="235/9345">Marcelo Quinta</na></co>
+<co c="0"><na f="r/Rasgorshek:Ethan" pid="405/9011">Ethan Rasgorshek</na></co>
+<co c="0"><na f="r/R=eacute=:Reginaldo" pid="121/2210">Reginaldo R&#233;</na></co>
+<co c="0"><na f="r/Redmiles:David_F=" pid="84/6534">David F. Redmiles</na></co>
+<co c="1"><na f="r/Resende:Luis_Henrique_da_S=" pid="406/7630">Luis Henrique da S. Resende</na></co>
+<co c="0"><na f="r/Ribeiro_0001:M=aacute=rcio" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</na></co>
+<co c="0"><na f="r/Richards:Jonan" pid="385/1554">Jonan Richards</na></co>
+<co c="0"><na f="r/Ritschel:Nico" pid="169/6956">Nico Ritschel</na></co>
+<co c="0"><na f="r/Robles:Gregorio" pid="r/GregorioRobles">Gregorio Robles</na></co>
+<co c="0"><na f="r/Rocha:Jo=atilde=o_Vitor_Souza" pid="425/9898">Jo&#227;o Vitor Souza Rocha</na></co>
+<co c="0"><na f="r/Romero:Karoline" pid="303/9809">Karoline Romero</na></co>
+<co c="0"><na f="r/Rong:Guoping" pid="07/9106">Guoping Rong</na></co>
+<co c="0"><na f="s/Sales:Afonso" pid="34/2428">Afonso Sales</na></co>
+<co c="0"><na f="s/Santos:Daniel_Oliveira_dos" pid="381/9497">Daniel Oliveira dos Santos</na></co>
+<co c="0"><na f="s/Santos:Fabio" pid="289/0005">Fabio Santos</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0" n="2"><na f="s/Saraiva:Filipe_de_Oliveira" pid="150/4160">Filipe de Oliveira Saraiva</na><na>Filipe Saraiva</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Satin:Ricardo_F=_P=" pid="173/9223">Ricardo F. P. Satin</na></co>
+<co c="0"><na f="s/Schwerz:Andr=eacute=_Lu=iacute=s" pid="91/1993">Andr&#233; Lu&#237;s Schwerz</na></co>
+<co c="0"><na f="s/Serebrenik:Alexander" pid="s/AlexanderSerebrenik">Alexander Serebrenik</na></co>
+<co c="0"><na f="s/Sharif:Bonita" pid="08/3315">Bonita Sharif</na></co>
+<co c="0"><na f="s/Shepherd:David_C=" pid="153/5343">David C. Shepherd</na></co>
+<co c="0"><na f="s/Shihab:Emad" pid="05/5996">Emad Shihab</na></co>
+<co c="0"><na f="s/Silva:Jefferson_De_Oliveira" pid="208/6922">Jefferson De Oliveira Silva</na></co>
+<co c="0"><na f="s/Silva:Jos=eacute=_Teodoro_da" pid="172/2958">Jos&#233; Teodoro da Silva</na></co>
+<co c="0"><na f="s/Silva:Kanan" pid="303/3490">Kanan Silva</na></co>
+<co c="0"><na f="s/Silva:Lucas_Lucio_da" pid="376/8203">Lucas Lucio da Silva</na></co>
+<co c="0"><na f="s/Silva:Marco_Aur=eacute=lio_Graciotto" pid="26/693">Marco Aur&#233;lio Graciotto Silva</na></co>
+<co c="1"><na f="s/Soares:Anderson_da_Silva" pid="64/2671">Anderson da Silva Soares</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="1"><na f="s/Soares:Telma_Woerle_de_Lima" pid="82/137">Telma Woerle de Lima Soares</na></co>
+<co c="0"><na f="s/Soto:Mauricio" pid="23/6244">Mauricio Soto</na></co>
+<co c="0"><na f="s/Soupinski:Felipe" pid="329/3717">Felipe Soupinski</na></co>
+<co c="0"><na f="s/Souza:Bruno_Mendes_de" pid="234/4562">Bruno Mendes de Souza</na></co>
+<co c="0"><na f="s/Souza:George_da_Silva_B=" pid="426/0161">George da Silva B. Souza</na></co>
+<co c="0"><na f="s/Souza:Hugo_Henrique_Fumero_de" pid="329/3885">Hugo Henrique Fumero de Souza</na></co>
+<co c="0"><na f="s/Souza:Jairo" pid="249/1749">Jairo Souza</na></co>
+<co c="0" n="2"><na f="s/Souza:Renata_M=_C=_R=_de" pid="18/6809">Renata M. C. R. de Souza</na><na>Renata Souza 0002</na></co>
+<co c="1"><na f="s/Souza:Victor_Roza" pid="421/5279">Victor Roza Souza</na></co>
+<co c="0"><na f="s/Stamelos:Ioannis" pid="26/3341">Ioannis Stamelos</na></co>
+<co c="0" n="2"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na><na>Igor Fabio Steinmacher</na></co>
+<co c="0"><na f="s/Storey:Margaret=Anne_D=" pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="t/Tsirakidis:Periklis" pid="17/10438">Periklis Tsirakidis</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Venturini:Daniel" pid="337/9463">Daniel Venturini</na></co>
+<co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
+<co c="0"><na f="v/Vieira:Rafael_Accetta" pid="398/5046">Rafael Accetta Vieira</na></co>
+<co c="0"><na f="w/Wang_0001:Xiaofeng" pid="99/2479-1">Xiaofeng Wang 0001</na></co>
+<co c="0"><na f="w/Wei:Hua=Liang" pid="79/3646">Hua-Liang Wei</na></co>
+<co c="0" n="2"><na f="w/Wessel:Mairieli_Santos" pid="205/9369">Mairieli Santos Wessel</na><na>Mairieli Wessel</na></co>
+<co c="0" n="2"><na f="z/Zaina:Luciana_A=_M=" pid="71/8694">Luciana A. M. Zaina</na><na>Luciana Martinez Zaina</na></co>
+</coauthors>
+</dblpperson>
+

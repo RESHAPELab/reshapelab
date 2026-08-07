@@ -1,0 +1,1 @@
+I am a Software Engineering Senior, and I am working with the IUSE team to create an AI Chatbot to assist computer science students with assignments, while also helping them to improve their thought process and avoiding a violation of academic integrity.

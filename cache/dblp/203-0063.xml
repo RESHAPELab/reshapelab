@@ -1,0 +1,903 @@
+<?xml version="1.0"?>
+<dblpperson name="&#205;talo Santos" pid="203/0063" n="55">
+<person key="homepages/203/0063" mdate="2019-06-19">
+<author pid="203/0063">&#205;talo Santos</author>
+</person>
+<r><inproceedings key="conf/botse-ws/SantosMS26" mdate="2026-06-25">
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton Vanut Cordeiro de Magalh&#227;es</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<title>Reconsidering Conversational Norms in LLM Chatbots for Sustainable AI.</title>
+<pages>8-12</pages>
+<year>2026</year>
+<booktitle>BoatSE@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786161.3788457</ee>
+<crossref>conf/botse-ws/2026</crossref>
+<url>db/conf/botse-ws/boatse-ws2026.html#SantosMS26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse-seet/CasseeRSSS26" mdate="2026-07-21">
+<author orcid="0000-0002-6511-918X" pid="211/7643">Nathan Cassee</author>
+<author orcid="0009-0006-8990-4074" pid="440/7805">Sankarsh Ravi</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1418-0095" pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<title>What barriers do students experience when trying to contribute to Open Source Software projects?</title>
+<pages>151-161</pages>
+<year>2026</year>
+<booktitle>SEET@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786580.3786971</ee>
+<crossref>conf/icse-seet/2026</crossref>
+<url>db/conf/icse-seet/seet2026.html#CasseeRSSS26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sessos/BarrosFCSKN26" mdate="2026-08-03">
+<author orcid="0009-0000-9086-992X" pid="441/7581">Talles Netto Barros</author>
+<author orcid="0000-0003-3740-7560" pid="60/6123">Rafael Z. Frantz</author>
+<author pid="17/8995">Tom&#225;s Cern&#253;</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-3647-8511" pid="55/391">Mohamad Kassab</author>
+<author orcid="0000-0003-2190-5477" pid="151/3182">Valdemar Vicente Graciano Neto</author>
+<title>Trusted Execution Environments in Systems-of-Systems: A Systematic Mapping Study.</title>
+<pages>33-40</pages>
+<year>2026</year>
+<booktitle>SESoS</booktitle>
+<ee>https://doi.org/10.1145/3786163.3788452</ee>
+<crossref>conf/sessos/2026</crossref>
+<url>db/conf/sessos/sesos2026.html#BarrosFCSKN26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SantosSBDMW26" mdate="2026-07-21">
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-5125-0294" pid="59/10579">Mariana P. Bento</author>
+<author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
+<author orcid="0009-0005-3051-7232" pid="441/2048">Cleyton Magalh&#227;es</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>LLM Use, Cheating, and Academic Integrity in Software Engineering Education.</title>
+<pages>1134-1144</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3805790</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#SantosSBDMW26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/MagalhaesSASS26" mdate="2026-07-26">
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0002-1802-9819" pid="338/9113">Bimpe Ayoola</author>
+<author orcid="0009-0004-8228-7558" pid="342/2785">Brody Stuart-Verner</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<title>Team Diversity Promotes Software Fairness: An Experiment on Fairness-Aware Requirements Prioritization.</title>
+<pages>1667-1678</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3805545</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#MagalhaesSASS26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/SantosSBMW26" mdate="2026-06-25">
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-8589-2850" pid="73/1559">Maria Teresa Baldassarre</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>An Investigation on How AI-Generated Responses Affect Software Engineering Surveys.</title>
+<pages>25-32</pages>
+<year>2026</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786149.3788304</ee>
+<crossref>conf/wsese/2026</crossref>
+<url>db/conf/wsese/wsese2026.html#SantosSBMW26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-12406" mdate="2026-06-09">
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="338/9113">Bimpe Ayoola</author>
+<author pid="342/2785">Brody Stuart-Verner</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>Team Diversity Promotes Software Fairness: An Experiment on Fairness-Aware Requirements Prioritization.</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.12406</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.12406</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-12406</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-17060" mdate="2026-04-13">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="59/10579">Mariana P. Bento</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>LLM Use, Cheating, and Academic Integrity in Software Engineering Education.</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.17060</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.17060</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-17060</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2604-04689" mdate="2026-05-07">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="159/6043">Ann Barcomb</author>
+<author pid="119/0498">Sherlock A. Licorish</author>
+<author pid="342/2785">Brody Stuart-Verner</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>Teaching Empathy in Software Engineering Education in the Age of Artificial Intelligence.</title>
+<year>2026</year>
+<month>April</month>
+<volume>abs/2604.04689</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2604.04689</ee>
+<url>db/journals/corr/corr2604.html#abs-2604-04689</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-05114" mdate="2026-07-05">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>How Software Engineering Students Use LLMs to Write Research Papers: An Experience Report.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.05114</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.05114</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-05114</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-07830" mdate="2026-07-05">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Academic Integrity and Emotional Responses to Inappropriate LLM Use in Software Engineering Education.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.07830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.07830</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-07830</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-07831" mdate="2026-07-05">
+<author pid="439/6039">Rodolfo Gil-Pereira</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="439/7884">Cleyton Magalahes</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>SLRMentor: An LLM-Based Tool Supporting Learning of SLR in Software Engineering.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.07831</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.07831</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-07831</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2607-12326" mdate="2026-08-07">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="442/8740">Mauricio Rodrigues</author>
+<author pid="441/2048">Cleyton Magalh&#227;es</author>
+<title>How Many Interviews Are Enough in a Software Engineering Study? Preliminary Findings on Sample Size and Saturation.</title>
+<year>2026</year>
+<month>July</month>
+<volume>abs/2607.12326</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2607.12326</ee>
+<url>db/journals/corr/corr2607.html#abs-2607-12326</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/infsof/SantosFSG25" mdate="2024-10-22">
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Software solutions for newcomers' onboarding in software projects: A systematic literature review.</title>
+<pages>107568</pages>
+<year>2025</year>
+<volume>177</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2024.107568</ee>
+<url>db/journals/infsof/infsof177.html#SantosFSG25</url>
+<stream>streams/journals/infsof</stream>
+</article>
+</r>
+<r><inproceedings key="conf/aiware/SantosMS25" mdate="2026-02-22">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Model-Assisted and Human-Guided: Perceptions and Practices of Software Professionals Using LLMs for Coding.</title>
+<booktitle>AIware</booktitle>
+<year>2025</year>
+<pages>105-112</pages>
+<crossref>conf/aiware/2025</crossref>
+<ee>https://doi.org/10.1109/AIware69974.2025.00019</ee>
+<url>db/conf/aiware/aiware2025.html#SantosMS25</url>
+<stream>streams/conf/aiware</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/SantosSSM25" mdate="2025-09-06">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="54/6297">Robson Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<title>Diversity in Software Engineering Education: Exploring Motivations, Influences, and Role Models Among Undergraduate Students.</title>
+<pages>253-263</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00032</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#SantosSSM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/SantosFSSG25" mdate="2025-06-23">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Ossdoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software.</title>
+<pages>325-335</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00041</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#SantosFSSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse-chase/SantosFSG25" mdate="2025-06-30">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers.</title>
+<pages>93-95</pages>
+<year>2025</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE66643.2025.00019</ee>
+<crossref>conf/icse-chase/2025</crossref>
+<url>db/conf/icse-chase/chase2025.html#SantosFSG25</url>
+<stream>streams/conf/icse-chase</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/saner/SantosSSM25" mdate="2025-09-06">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="54/6297">Robson Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<title>Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups.</title>
+<pages>786-796</pages>
+<year>2025</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER64311.2025.00080</ee>
+<crossref>conf/saner/2025</crossref>
+<url>db/conf/saner/saner2025.html#SantosSSM25</url>
+<stream>streams/conf/saner</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/MagalhaesSSS25" mdate="2026-05-07">
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="342/2785">Brody Stuart-Verner</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems.</title>
+<pages>78-88</pages>
+<year>2025</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM67354.2025.00015</ee>
+<crossref>conf/scam/2025</crossref>
+<url>db/conf/scam/scam2025.html#MagalhaesSSS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SantosFTGSG25" mdate="2025-08-09">
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-5661-4392" pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Exploring the Untapped: Student Perceptions and Participation in OSS.</title>
+<pages>859-870</pages>
+<year>2025</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3696630.3727243</ee>
+<crossref>conf/sigsoft/2025c</crossref>
+<url>db/conf/sigsoft/fse2025c.html#SantosFTGSG25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07763" mdate="2025-03-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07763</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07763</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07763</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07986" mdate="2025-03-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>OSSDoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07986</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07986</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07986</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-17051" mdate="2025-05-23">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="405/7368">Bianca Trinkereinch</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Exploring the Untapped: Student Perceptions and Participation in OSS.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.17051</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.17051</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-17051</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2508-00198" mdate="2026-02-25">
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="342/2785">Brody Stuart-Verner</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems.</title>
+<year>2025</year>
+<month>August</month>
+<volume>abs/2508.00198</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2508.00198</ee>
+<url>db/journals/corr/corr2508.html#abs-2508-00198</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2510-09058" mdate="2026-02-25">
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Model-Assisted and Human-Guided: Perceptions and Practices of Software Professionals Using LLMs for Coding.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.09058</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.09058</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-09058</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-14673" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>Reconsidering Conversational Norms in LLM Chatbots for Sustainable AI.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.14673</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.14673</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-14673</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-17455" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>An Investigation on How AI-Generated Responses Affect SoftwareEngineering Surveys.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.17455</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.17455</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-17455</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icst/NevesCSMSS24" mdate="2026-02-25">
+<author pid="372/3870">Lucas Neves</author>
+<author pid="372/4033">Oscar Campos</author>
+<author pid="54/6297">Robson Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="128/2872">Ronnie Edson de Souza Santos</author>
+<title>Elevating Software Quality in Agile Environments: The Role of Testing Professionals in Unit Testing.</title>
+<pages>293-296</pages>
+<year>2024</year>
+<booktitle>ICSTW</booktitle>
+<ee>https://doi.org/10.1109/ICSTW60967.2024.00058</ee>
+<crossref>conf/icst/2024w</crossref>
+<url>db/conf/icst/icst2024w.html#NevesCSMSS24</url>
+<stream>streams/conf/icst</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/SantosSMS24" mdate="2025-09-06">
+<author pid="54/6297">Robson Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<title>Are We Testing or Being Tested? Exploring the Practical Applications of Large Language Models in Software Testing.</title>
+<pages>353-360</pages>
+<year>2024</year>
+<booktitle>ICST</booktitle>
+<ee>https://doi.org/10.1109/ICST60714.2024.00039</ee>
+<crossref>conf/icst/2024</crossref>
+<url>db/conf/icst/icst2024.html#SantosSMS24</url>
+<stream>streams/conf/icst</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/SantosFGS24" mdate="2024-10-22">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Game Elements to Engage Students Learning the Open Source Software Contribution Process.</title>
+<pages>59-70</pages>
+<year>2024</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VL/HCC60511.2024.00017</ee>
+<crossref>conf/vl/2024</crossref>
+<url>db/conf/vl/vlhcc2024.html#SantosFGS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/Santos24" mdate="2024-10-22">
+<author pid="203/0063">&#205;talo Santos</author>
+<title>Empowering Diversity: Leveraging Cognitive Styles to Support Newcomers in Open Source Projects.</title>
+<pages>380-381</pages>
+<year>2024</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VL/HCC60511.2024.00056</ee>
+<crossref>conf/vl/2024</crossref>
+<url>db/conf/vl/vlhcc2024.html#Santos24</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sessos/2024" mdate="2025-07-27">
+<editor pid="51/9989">Pablo Oliveira Antonino</editor>
+<editor pid="32/5432">Doo-Hwan Bae</editor>
+<editor pid="03/3919">Antonia Bertolino</editor>
+<editor pid="06/4305">Francesca Lonetti</editor>
+<editor pid="203/0063">&#205;talo Santos</editor>
+<title>Proceedings of the 12th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems, SESoS 2024, Lisbon, Portugal, 14 April 2024</title>
+<booktitle>SESoS</booktitle>
+<publisher>ACM</publisher>
+<year>2024</year>
+<isbn>979-8-4007-0557-1</isbn>
+<ee>https://doi.org/10.1145/3643655</ee>
+<url>db/conf/sessos/sesos2024.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2403-13220" mdate="2026-02-25">
+<author pid="372/3870">Lucas Neves</author>
+<author pid="372/4033">Oscar Campos</author>
+<author pid="54/6297">Robson Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie Edson de Souza Santos</author>
+<title>Elevating Software Quality in Agile Environments: The Role of Testing Professionals in Unit Testing.</title>
+<year>2024</year>
+<volume>abs/2403.13220</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2403.13220</ee>
+<url>db/journals/corr/corr2403.html#abs-2403-13220</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-04674" mdate="2024-08-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Game Elements to Engage Students Learning the Open Source Software Contribution Process.</title>
+<year>2024</year>
+<volume>abs/2407.04674</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.04674</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-04674</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-15989" mdate="2024-09-28">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Software Solutions for Newcomers' Onboarding in Software Projects: A Systematic Literature Review.</title>
+<year>2024</year>
+<volume>abs/2408.15989</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.15989</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-15989</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-12378" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="54/6297">Robson Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<title>Diversity in Software Engineering Education: Exploring Motivations, Influences, and Role Models Among Undergraduate Students.</title>
+<year>2024</year>
+<volume>abs/2412.12378</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.12378</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-12378</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-15500" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="54/6297">Robson Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<title>Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups.</title>
+<year>2024</year>
+<volume>abs/2412.15500</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.15500</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-15500</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/SantosPWSSG23" mdate="2023-07-20">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<pages>1-12</pages>
+<year>2023</year>
+<booktitle>ICSE (SEIS)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIS58686.2023.00007</ee>
+<crossref>conf/icse/2023seis</crossref>
+<url>db/conf/icse/seis2023.html#SantosPWSSG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-10912" mdate="2023-01-31">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<year>2023</year>
+<volume>abs/2301.10912</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.10912</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-10912</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2312-04860" mdate="2026-02-25">
+<author pid="54/6297">Robson Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie Edson de Souza Santos</author>
+<title>Are We Testing or Being Tested? Exploring the Practical Applications of Large Language Models in Software Testing.</title>
+<year>2023</year>
+<volume>abs/2312.04860</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.04860</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-04860</url>
+</article>
+</r>
+<r><article key="journals/jserd/MeloSSS22" mdate="2023-06-02">
+<author orcid="0000-0001-5934-2564" pid="117/5522">Silvana M. Melo</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-1560-2704" pid="96/5652">Paulo S. L. Souza</author>
+<author orcid="0000-0001-9007-9821" pid="35/1622">Simone R. S. Souza</author>
+<title>A survey on the practices of software testing: a look into Brazilian companies.</title>
+<pages>11:1-11:15</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2022.786</ee>
+<url>db/journals/jserd/jserd10.html#MeloSSS22</url>
+</article>
+</r>
+<r><article key="journals/sbcjis/PinheiroCSB22" mdate="2025-01-19">
+<author orcid="0000-0002-5693-0499" pid="360/0867">Francisco Victor da Silva Pinheiro</author>
+<author orcid="0000-0003-2233-7109" pid="93/10788">Emanuel Ferreira Coutinho</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-5879-5067" pid="09/5610">Carla I. M. Bezerra</author>
+<title>A Tool for Supporting the Teaching and Modeling of Software Ecosystems Using SSN Notation.</title>
+<pages>192-204</pages>
+<year>2022</year>
+<month>September</month>
+<volume>13</volume>
+<journal>J. Interact. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jis.2022.2602</ee>
+<ee>https://www.wikidata.org/entity/Q114725481</ee>
+<url>db/journals/sbcjis/sbcjis13.html#PinheiroCSB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/wcre/SantosWSSG22" mdate="2022-07-26">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Hits and Misses: Newcomers' ability to identify Skills needed for OSS tasks.</title>
+<pages>174-183</pages>
+<year>2022</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER53432.2022.00032</ee>
+<crossref>conf/wcre/2022</crossref>
+<url>db/conf/wcre/saner2022.html#SantosWSSG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/SantosFS20" mdate="2021-07-06">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="296/2291">J&#250;lio C&#233;sar C. Filho</author>
+<author pid="35/1622">Simone R. S. Souza</author>
+<title>A survey on the practices of mobile application testing.</title>
+<pages>232-241</pages>
+<year>2020</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI52000.2020.00034</ee>
+<crossref>conf/clei/2020</crossref>
+<url>db/conf/clei/clei2020.html#SantosFS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icst/SantosMSS20" mdate="2023-09-30">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="117/5522">Silvana Morita Melo</author>
+<author orcid="0000-0002-1560-2704" pid="96/5652">Paulo Sergio Lopes de Souza</author>
+<author pid="35/1622">Simone R. S. Souza</author>
+<title>Towards a unified catalog of attributes to guide industry in software testing technique selection.</title>
+<pages>398-407</pages>
+<year>2020</year>
+<booktitle>ICST Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICSTW50294.2020.00071</ee>
+<crossref>conf/icst/2020w</crossref>
+<url>db/conf/icst/icstw2020.html#SantosMSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sast/SantosFMSDS20" mdate="2023-09-30">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="277/0410">Andre B. P. Furlanetti</author>
+<author pid="117/5522">Silvana M. Melo</author>
+<author orcid="0000-0002-1560-2704" pid="96/5652">Paulo Sergio Lopes de Souza</author>
+<author pid="84/3153">M&#225;rcio E. Delamaro</author>
+<author pid="35/1622">Simone R. S. Souza</author>
+<title>Contributions to improve the combined selection of concurrent software testing techniques.</title>
+<pages>69-78</pages>
+<year>2020</year>
+<booktitle>SAST</booktitle>
+<ee>https://doi.org/10.1145/3425174.3425214</ee>
+<crossref>conf/sast/2020</crossref>
+<url>db/conf/sast/sast2020.html#SantosFMSDS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosCS20" mdate="2025-01-19">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="93/10788">Emanuel F. Coutinho</author>
+<author pid="35/1622">Simone R. S. Souza</author>
+<title>Software testing ecosystems insights and research opportunities.</title>
+<pages>421-426</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422458</ee>
+<ee>https://www.wikidata.org/entity/Q130887280</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#SantosCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/PaschoalSMCS20" mdate="2023-11-12">
+<author orcid="0000-0003-1076-9174" pid="192/1103">Leo Natan Paschoal</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-1194-4176" pid="223/6561">Allan Mori</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="35/1622">Simone R. S. Souza</author>
+<title>What are the differences between group and individual modeling when learning BPMN?</title>
+<pages>26:1-26:8</pages>
+<year>2020</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3411564.3411635</ee>
+<crossref>conf/sbsi/2020</crossref>
+<url>db/conf/sbsi/sbsi2020.html#PaschoalSMCS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/AndradeSJJSD19" mdate="2024-01-16">
+<author pid="243/1679">Stev&#227;o Andrade</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="243/1659">Claudinei Brito Junior</author>
+<author pid="233/2517">Misael Costa J&#250;nior</author>
+<author orcid="0000-0001-9007-9821" pid="35/1622">Simone do R&#243;cio Senger de Souza</author>
+<author pid="84/3153">M&#225;rcio E. Delamaro</author>
+<title>On applying metamorphic testing: an empirical study on academic search engines.</title>
+<pages>9-16</pages>
+<year>2019</year>
+<booktitle>MET@ICSE</booktitle>
+<ee>https://doi.org/10.1109/MET.2019.00010</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3340656</ee>
+<crossref>conf/icse/2019met</crossref>
+<url>db/conf/icse/met2019.html#AndradeSJJSD19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CoutinhoSMB19" mdate="2025-01-19">
+<author pid="93/10788">Emanuel F. Coutinho</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="01/4697">Leonardo O. Moreira 0001</author>
+<author pid="09/5610">Carla I. M. Bezerra</author>
+<title>A Report on the Teaching of Software Ecosystems in Software Engineering Discipline.</title>
+<pages>130-139</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3351302</ee>
+<ee>https://www.wikidata.org/entity/Q130889560</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#CoutinhoSMB19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosMSS19" mdate="2023-09-30">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="117/5522">Silvana M. Melo</author>
+<author orcid="0000-0002-1560-2704" pid="96/5652">Paulo Sergio Lopes de Souza</author>
+<author orcid="0000-0001-9007-9821" pid="35/1622">Simone R. S. Souza</author>
+<title>Testing Techniques Selection: A Systematic Mapping Study.</title>
+<pages>347-356</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3352571</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#SantosMSS19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/CoutinhoSB17" mdate="2025-07-27">
+<author pid="93/10788">Emanuel Ferreira Coutinho</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="09/5610">Carla Ilane Moreira Bezerra</author>
+<title>A Software Ecosystem for a Virtual Learning Environment: SOLAR SECO.</title>
+<pages>41-47</pages>
+<year>2017</year>
+<booktitle>SESoS/WDES</booktitle>
+<ee>https://doi.org/10.1109/JSOS.2017.2</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/JSOS.2017.2</ee>
+<crossref>conf/icse/2017jsos</crossref>
+<url>db/conf/icse/jsos2017.html#CoutinhoSB17</url>
+</inproceedings>
+</r>
+<coauthors n="58" nc="1">
+<co c="0"><na f="a/Andrade:Stev=atilde=o" pid="243/1679">Stev&#227;o Andrade</na></co>
+<co c="0"><na f="a/Antonino:Pablo_Oliveira" pid="51/9989">Pablo Oliveira Antonino</na></co>
+<co c="0"><na f="a/Ayoola:Bimpe" pid="338/9113">Bimpe Ayoola</na></co>
+<co c="0"><na f="b/Bae:Doo=Hwan" pid="32/5432">Doo-Hwan Bae</na></co>
+<co c="0"><na f="b/Baldassarre:Maria_Teresa" pid="73/1559">Maria Teresa Baldassarre</na></co>
+<co c="0"><na f="b/Barcomb:Ann" pid="159/6043">Ann Barcomb</na></co>
+<co c="0"><na f="b/Barros:Talles_Netto" pid="441/7581">Talles Netto Barros</na></co>
+<co c="0"><na f="b/Bento:Mariana_P=" pid="59/10579">Mariana P. Bento</na></co>
+<co c="0"><na f="b/Bertolino:Antonia" pid="03/3919">Antonia Bertolino</na></co>
+<co c="0" n="2"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na><na>Carla Ilane Moreira Bezerra</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="c/Campos:Oscar" pid="372/4033">Oscar Campos</na></co>
+<co c="0"><na f="c/Cassee:Nathan" pid="211/7643">Nathan Cassee</na></co>
+<co c="0"><na f="c/Cern=yacute=:Tom=aacute=s" pid="17/8995">Tom&#225;s Cern&#253;</na></co>
+<co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
+<co c="0" n="2"><na f="c/Coutinho:Emanuel_Ferreira" pid="93/10788">Emanuel Ferreira Coutinho</na><na>Emanuel F. Coutinho</na></co>
+<co c="0" n="2"><na f="d/Delamaro:M=aacute=rcio_Eduardo" pid="84/3153">M&#225;rcio Eduardo Delamaro</na><na>M&#225;rcio E. Delamaro</na></co>
+<co c="0"><na f="d/Destefanis:Giuseppe" pid="30/11498">Giuseppe Destefanis</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="f/Filho:J=uacute=lio_C=eacute=sar_C=" pid="296/2291">J&#250;lio C&#233;sar C. Filho</na></co>
+<co c="0"><na f="f/Frantz:Rafael_Z=" pid="60/6123">Rafael Z. Frantz</na></co>
+<co c="0"><na f="f/Furlanetti:Andre_B=_P=" pid="277/0410">Andre B. P. Furlanetti</na></co>
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gil=Pereira:Rodolfo" pid="439/6039">Rodolfo Gil-Pereira</na></co>
+<co c="0"><na f="j/Junior:Claudinei_Brito" pid="243/1659">Claudinei Brito Junior</na></co>
+<co c="0"><na f="j/J=uacute=nior:Misael_Costa" pid="233/2517">Misael Costa J&#250;nior</na></co>
+<co c="0"><na f="k/Kassab:Mohamad" pid="55/391">Mohamad Kassab</na></co>
+<co c="0"><na f="l/Licorish:Sherlock_A=" pid="119/0498">Sherlock A. Licorish</na></co>
+<co c="0"><na f="l/Lonetti:Francesca" pid="06/4305">Francesca Lonetti</na></co>
+<co c="0"><na f="m/Magalahes:Cleyton" pid="439/7884">Cleyton Magalahes</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Cleyton" pid="441/2048">Cleyton Magalh&#227;es</na></co>
+<co c="0" n="2"><na f="m/Magalh=atilde=es:Cleyton_V=_C=_de" pid="128/2725">Cleyton V. C. de Magalh&#227;es</na><na>Cleyton Vanut Cordeiro de Magalh&#227;es</na></co>
+<co c="0" n="2"><na f="m/Melo:Silvana_M=" pid="117/5522">Silvana M. Melo</na><na>Silvana Morita Melo</na></co>
+<co c="0"><na f="m/Moreira_0001:Leonardo_O=" pid="01/4697">Leonardo O. Moreira 0001</na></co>
+<co c="0"><na f="m/Mori:Allan" pid="223/6561">Allan Mori</na></co>
+<co c="0"><na f="n/Neto:Valdemar_Vicente_Graciano" pid="151/3182">Valdemar Vicente Graciano Neto</na></co>
+<co c="0"><na f="n/Neves:Lucas" pid="372/3870">Lucas Neves</na></co>
+<co c="0"><na f="p/Paschoal:Leo_Natan" pid="192/1103">Leo Natan Paschoal</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="p/Pimentel:Jo=atilde=o_Felipe" pid="161/7127">Jo&#227;o Felipe Pimentel</na></co>
+<co c="0"><na f="p/Pinheiro:Francisco_Victor_da_Silva" pid="360/0867">Francisco Victor da Silva Pinheiro</na></co>
+<co c="0"><na f="r/Ravi:Sankarsh" pid="440/7805">Sankarsh Ravi</na></co>
+<co c="0"><na f="r/Rodrigues:Mauricio" pid="442/8740">Mauricio Rodrigues</na></co>
+<co c="0"><na f="s/Santos:Fabio" pid="289/0005">Fabio Santos</na></co>
+<co c="0"><na f="s/Santos:Robson" pid="54/6297">Robson Santos</na></co>
+<co c="0" n="3"><na f="s/Santos:Ronnie_E=_S=" pid="128/2872">Ronnie E. S. Santos</na><na>Ronnie Edson de Souza Santos</na><na>Ronnie de Souza Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Serebrenik:Alexander" pid="s/AlexanderSerebrenik">Alexander Serebrenik</na></co>
+<co c="0" n="2"><na f="s/Souza:Paulo_Sergio_Lopes_de" pid="96/5652">Paulo Sergio Lopes de Souza</na><na>Paulo S. L. Souza</na></co>
+<co c="0" n="2"><na f="s/Souza:Simone_do_R=oacute=cio_Senger_de" pid="35/1622">Simone do R&#243;cio Senger de Souza</na><na>Simone R. S. Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Stuart=Verner:Brody" pid="342/2785">Brody Stuart-Verner</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="t/Trinkereinch:Bianca" pid="405/7368">Bianca Trinkereinch</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0" n="2"><na f="w/Wessel:Mairieli_Santos" pid="205/9369">Mairieli Santos Wessel</na><na>Mairieli Wessel</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

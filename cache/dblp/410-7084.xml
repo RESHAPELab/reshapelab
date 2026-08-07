@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<dblpperson name="Misan Paul Etchie" pid="410/7084" n="3">
+<person key="homepages/410/7084" mdate="2025-07-14">
+<author pid="410/7084">Misan Paul Etchie</author>
+</person>
+<r><inproceedings key="conf/sigsoft/AcharyaCPOEDGGS26" mdate="2026-07-21">
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0000-0002-6048-1788" pid="32/2405">Pedro Oliveira</author>
+<author orcid="0009-0003-3920-4246" pid="410/7084">Misan Paul Etchie</author>
+<author orcid="0000-0002-5125-0566" pid="201/9199">Jared Duval</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Shh! Don't Tell Them I Use GenAI: Exploring How Participants Use Generative AI in Hackathons.</title>
+<pages>1842-1850</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3806711</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#AcharyaCPOEDGGS26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-07544" mdate="2026-07-05">
+<author pid="410/7084">Misan Paul Etchie</author>
+<author pid="439/7394">Taiwo Olutosin</author>
+<title>AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.07544</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.07544</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-07544</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/botse-ws/EtchieBFS25" mdate="2025-07-14">
+<author pid="410/7084">Misan Paul Etchie</author>
+<author pid="410/7532">Hunter Beach</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Towards a Dataset to Assess Conversational Agent's Efficacy in Mentoring Newcomer Developers.</title>
+<pages>48-52</pages>
+<year>2025</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE67031.2025.00018</ee>
+<crossref>conf/botse-ws/2025</crossref>
+<url>db/conf/botse-ws/botse-ws2025.html#EtchieBFS25</url>
+<stream>streams/conf/botse-ws</stream>
+</inproceedings>
+</r>
+<coauthors n="11" nc="1">
+<co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
+<co c="0"><na f="b/Beach:Hunter" pid="410/7532">Hunter Beach</na></co>
+<co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
+<co c="0"><na f="d/Duval:Jared" pid="201/9199">Jared Duval</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="o/Oliveira:Pedro" pid="32/2405">Pedro Oliveira</na></co>
+<co c="-1"><na f="o/Olutosin:Taiwo" pid="439/7394">Taiwo Olutosin</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+</coauthors>
+</dblpperson>
+

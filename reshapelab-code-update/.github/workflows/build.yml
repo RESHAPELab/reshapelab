@@ -1,0 +1,109 @@
+name: Build and deploy
+
+# ---------------------------------------------------------------------------
+# During the transition this deploys from the `static-site` branch, so `main`
+# stays exactly as it is and Vercel keeps serving the old site at
+# www.reshapelab.site. Nothing public changes until DNS moves.
+#
+# After cutover: change DEPLOY_BRANCH to `main`, merge, and delete the Vercel
+# project. Nothing else needs editing.
+#
+# Publishing source must be Settings -> Pages -> Source -> GitHub Actions.
+# Commits pushed by a workflow using GITHUB_TOKEN cannot trigger a branch
+# build, so the monthly DBLP refresh has to deploy from inside this same run.
+# ---------------------------------------------------------------------------
+
+env:
+  DEPLOY_BRANCH: static-site
+  SITE_URL: https://www.reshapelab.site
+
+on:
+  push:
+    branches: [static-site, main]
+  pull_request:
+  schedule:
+    - cron: "0 6 1 * *"   # 06:00 UTC on the 1st — refresh DBLP
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # commit regenerated HTML and the DBLP cache
+  pages: write      # deploy
+  id-token: write   # deploy-pages uses OIDC
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      deployable: ${{ steps.decide.outputs.deployable }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      # Only the deploy branch publishes. Everything else builds as a check,
+      # so a bad CSV fails the PR instead of the live site.
+      - id: decide
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "deployable=false" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.ref_name }}" = "${{ env.DEPLOY_BRANCH }}" ]; then
+            echo "deployable=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "deployable=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Scheduled runs refetch DBLP; ordinary pushes reuse the committed cache
+      # so a CSV edit rebuilds in seconds without hitting dblp.org.
+      - name: Generate the site
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python scripts/build_site.py --refresh-dblp
+          else
+            python scripts/build_site.py
+          fi
+
+      - name: Commit regenerated files
+        if: steps.decide.outputs.deployable == 'true'
+        run: |
+          git config user.name "reshape-bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "chore: rebuild site from data/ and DBLP"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+
+      - name: Stage the publishable files
+        run: |
+          mkdir -p _site
+          cp -r assets people projects news publications data _site/
+          cp ./*.html sitemap.xml robots.txt pub_index.csv _site/
+          [ -f CNAME ] && cp CNAME _site/ || true
+          touch _site/.nojekyll
+          du -sh _site
+
+      - uses: actions/configure-pages@v6
+        if: steps.decide.outputs.deployable == 'true'
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.deployable == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v5

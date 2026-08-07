@@ -1,0 +1,589 @@
+<?xml version="1.0"?>
+<dblpperson name="Ana Paula Chaves" pid="33/2472" n="35">
+<person key="homepages/33/2472" mdate="2025-02-05">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="33/2472">Ana Paula Chaves Steinmacher</author>
+<note type="affiliation">Northern Arizona University, Flagstaff, AZ, USA</note>
+<url>https://orcid.org/0000-0002-2307-3099</url>
+<url>https://www.wikidata.org/entity/Q130850817</url>
+<url>https://scholar.google.com/citations?user=mwtBVQsAAAAJ</url>
+</person>
+<r><inproceedings key="conf/iceis/MarianoCV25" mdate="2025-05-02">
+<author pid="366/7021">Pamella Augusta de Lima Mariano</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="135/0795">Natasha M. Costa Valentim</author>
+<title>Development and Preliminary Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots.</title>
+<pages>544-551</pages>
+<year>2025</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0013289200003929</ee>
+<crossref>conf/iceis/2025-2</crossref>
+<url>db/conf/iceis/iceis2025-2.html#MarianoCV25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/interact/MarianoCV25" mdate="2025-10-14">
+<author pid="366/7021">Pamella Augusta de Lima Mariano</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0002-6027-3452" pid="135/0795">Natasha M. Costa Valentim</author>
+<title>Expert Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots.</title>
+<pages>277-285</pages>
+<year>2025</year>
+<booktitle>INTERACT (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04999-5_16</ee>
+<crossref>conf/interact/2025-1</crossref>
+<url>db/conf/interact/interact2025-1.html#MarianoCV25</url>
+<stream>streams/conf/interact</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/RibeiroANMMFCG25" mdate="2025-06-06">
+<author pid="150/8954">Danilo Monteiro Ribeiro</author>
+<author pid="391/0966">Celeste Azul</author>
+<author pid="390/9634">Vitor Negromonte</author>
+<author pid="390/9828">Felipe Vasconcelos Melo</author>
+<author pid="390/9136">Gabriel Walisson Matias</author>
+<author pid="391/0275">Adna Farias</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="46/3866">Kiev Gama</author>
+<title>A Mapping Review to Understand Web and Mobile Apps Accessibility for Adults with Autism.</title>
+<pages>349-358</pages>
+<year>2025</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2025.246487</ee>
+<crossref>conf/sbsi/2025</crossref>
+<url>db/conf/sbsi/sbsi2025.html#RibeiroANMMFCG25</url>
+</inproceedings>
+</r>
+<r><article key="journals/sbcjis/MarianoSGCV24" mdate="2025-05-02">
+<author pid="366/7021">Pamella Augusta de Lima Mariano</author>
+<author orcid="0000-0002-7932-2592" pid="366/7512">Ana Carolina Rossi De Souza</author>
+<author orcid="0000-0002-4979-5831" pid="182/3295">Guilherme Corredato Guerino</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0002-6027-3452" pid="135/0795">Natasha M. Costa Valentim</author>
+<title>A Systematic Mapping Study about Technologies for Hedonic Aspects Evaluation in Text-based Chatbots.</title>
+<pages>875-896</pages>
+<year>2024</year>
+<volume>15</volume>
+<journal>J. Interact. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jis.2024.4350</ee>
+<url>db/journals/sbcjis/sbcjis15.html#MarianoSGCV24</url>
+<stream>streams/journals/sbcjis</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ihc/RibeiroMNMFACG24" mdate="2025-01-08">
+<author orcid="0000-0001-7393-729X" pid="150/8954">Danilo Monteiro Ribeiro</author>
+<author orcid="0009-0000-1003-9417" pid="390/9828">Felipe Vasconcelos Melo</author>
+<author orcid="0009-0003-0602-5583" pid="390/9634">Vitor Negromonte</author>
+<author orcid="0009-0001-4156-6284" pid="390/9136">Gabriel Walisson Matias</author>
+<author orcid="0009-0007-8979-9961" pid="391/0275">Adna Farias</author>
+<author orcid="0009-0005-6204-7108" pid="391/0966">Celeste Azul</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0003-1508-6196" pid="46/3866">Kiev Gama</author>
+<title>A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps.</title>
+<pages>49</pages>
+<year>2024</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3702038.3702088</ee>
+<crossref>conf/ihc/2024</crossref>
+<url>db/conf/ihc/ihc2024.html#RibeiroMNMFACG24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/re/GamaCRDD24" mdate="2025-03-03">
+<author pid="46/3866">Kiev Gama</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0001-7393-729X" pid="150/8954">Danilo Monteiro Ribeiro</author>
+<author pid="334/9012">Kezia Devathasan</author>
+<author pid="d/DanielaEDamian">Daniela E. Damian</author>
+<title>How Much Do You Know About Your Users? A Study of Developer Awareness About Diverse Users.</title>
+<pages>110-118</pages>
+<year>2024</year>
+<booktitle>RE Workshops</booktitle>
+<ee>https://doi.org/10.1109/REW61692.2024.00021</ee>
+<crossref>conf/re/2024w</crossref>
+<url>db/conf/re/re2024w.html#GamaCRDD24</url>
+<stream>streams/conf/re</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2410-14033" mdate="2024-11-25">
+<author pid="150/8954">Danilo Monteiro Ribeiro</author>
+<author pid="390/9828">Felipe Vasconcelos Melo</author>
+<author pid="390/9634">Vitor Negromonte</author>
+<author pid="390/9136">Gabriel Walisson Matias</author>
+<author pid="391/0275">Adna Farias</author>
+<author pid="391/0966">Celeste Azul</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="46/3866">Kiev Gama</author>
+<title>A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps.</title>
+<year>2024</year>
+<volume>abs/2410.14033</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2410.14033</ee>
+<url>db/journals/corr/corr2410.html#abs-2410-14033</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/chi/SinCCCLMPVBBCJL23" mdate="2025-01-19">
+<author orcid="0000-0001-6288-7303" pid="239/9793">Jaisie Sin</author>
+<author orcid="0000-0002-0365-8057" pid="84/7371">Heloisa Candello</author>
+<author orcid="0000-0002-9237-1057" pid="225/3501">Leigh Clark</author>
+<author orcid="0000-0002-8595-8132" pid="49/7687">Benjamin R. Cowan</author>
+<author orcid="0000-0002-7990-9035" pid="138/6563">Minha Lee</author>
+<author orcid="0000-0002-0635-9124" pid="49/5750">Cosmin Munteanu</author>
+<author orcid="0000-0003-3814-7174" pid="134/5719">Martin Porcheron</author>
+<author orcid="0000-0001-6940-3818" pid="161/3234">Sarah Theres V&#246;lkel</author>
+<author orcid="0000-0003-4894-4070" pid="26/7246">Stacy M. Branham</author>
+<author orcid="0000-0003-3790-5834" pid="25/8737">Robin N. Brewer</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0001-6649-1242" pid="246/6244">Razan Jaber</author>
+<author orcid="0000-0001-8110-4239" pid="32/7982">Amanda Lazar</author>
+<title>[email protected]: Inclusive Design of CUIs Across Modalities and Mobilities.</title>
+<pages>341:1-341:5</pages>
+<year>2023</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3544549.3573820</ee>
+<ee>https://www.wikidata.org/entity/Q130850819</ee>
+<crossref>conf/chi/2023a</crossref>
+<url>db/conf/chi/chi2023a.html#SinCCCLMPVBBCJL23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/SouzaMG0V23" mdate="2025-05-02">
+<author orcid="0000-0002-7932-2592" pid="366/7512">Ana Carolina Rossi De Souza</author>
+<author orcid="0009-0006-9919-3448" pid="366/7021">Pamella Augusta de Lima Mariano</author>
+<author orcid="0000-0002-4979-5831" pid="182/3295">Guilherme Corredato Guerino</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0002-6027-3452" pid="135/0795">Natasha Malveira Costa Valentim</author>
+<title>Technologies for Hedonic Aspects Evaluation in Text-based Chatbots: A Systematic Mapping Study.</title>
+<pages>62:1-62:11</pages>
+<year>2023</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3638067.3638089</ee>
+<crossref>conf/ihc/2023</crossref>
+<url>db/conf/ihc/ihc2023.html#SouzaMG0V23</url>
+</inproceedings>
+</r>
+<r><article key="journals/tochi/ChavesEHDG22" mdate="2025-01-19">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0002-3751-2865" pid="166/7274">Jesse Egbert</author>
+<author pid="89/10624">Toby Hocking</author>
+<author pid="249/8744">Eck Doerry</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Chatbots Language Design: The Influence of Language Variation on User Experience with Tourist Assistant Chatbots.</title>
+<pages>13:1-13:38</pages>
+<year>2022</year>
+<volume>29</volume>
+<journal>ACM Trans. Comput. Hum. Interact.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/3487193</ee>
+<ee>https://www.wikidata.org/entity/Q126372091</ee>
+<url>db/journals/tochi/tochi29.html#ChavesEHDG22</url>
+</article>
+</r>
+<r><article key="journals/ijhci/ChavesG21" mdate="2024-09-09">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How Should My Chatbot Interact? A Survey on Social Characteristics in Human-Chatbot Interaction Design.</title>
+<pages>729-758</pages>
+<year>2021</year>
+<volume>37</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1080/10447318.2020.1841438</ee>
+<url>db/journals/ijhci/ijhci37.html#ChavesG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/conversations/AlvesWCS21" mdate="2024-09-09">
+<author pid="319/2663">Luiz Philipe Serrano Alves</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>How to Find My Task? Chatbot to Assist Newcomers in Choosing Tasks in OSS Projects.</title>
+<pages>90-107</pages>
+<year>2021</year>
+<booktitle>CONVERSATIONS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-94890-0_6</ee>
+<crossref>conf/conversations/2021</crossref>
+<url>db/conf/conversations/conversations2021.html#AlvesWCS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/conversations/ChavesG21" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>The Impact of Chatbot Linguistic Register on User Perceptions: A Replication Study.</title>
+<pages>143-159</pages>
+<year>2021</year>
+<booktitle>CONVERSATIONS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-94890-0_9</ee>
+<crossref>conf/conversations/2021</crossref>
+<url>db/conf/conversations/conversations2021.html#ChavesG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-11089" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="166/7274">Jesse Egbert</author>
+<author pid="89/10624">Toby Hocking</author>
+<author pid="249/8744">Eck Doerry</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Chatbots language design: the influence of language variation on user experience.</title>
+<year>2021</year>
+<volume>abs/2101.11089</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.11089</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-11089</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2104-14699" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Why should we care about register? Reflections on chatbot language design.</title>
+<year>2021</year>
+<volume>abs/2104.14699</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2104.14699</ee>
+<url>db/journals/corr/corr2104.html#abs-2104-14699</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/Chaves20" mdate="2024-09-09">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<title>Should my Chatbot be Register-Specific? Designing Appropriate Utterances for Tourism.</title>
+<pages>1-11</pages>
+<year>2020</year>
+<booktitle>CHI Extended Abstracts</booktitle>
+<ee>https://doi.org/10.1145/3334480.3375033</ee>
+<crossref>conf/chi/2020a</crossref>
+<url>db/conf/chi/chi2020a.html#Chaves20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hai/ChavesDEG19" mdate="2024-10-06">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="249/8744">Eck Doerry</author>
+<author orcid="0000-0002-3751-2865" pid="166/7274">Jesse Egbert</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>It's How You Say It: Identifying Appropriate Register for Chatbot Language Design.</title>
+<pages>102-109</pages>
+<year>2019</year>
+<booktitle>HAI</booktitle>
+<ee>https://doi.org/10.1145/3349537.3351901</ee>
+<crossref>conf/hai/2019</crossref>
+<url>db/conf/hai/hai2019.html#ChavesDEG19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1904-02743" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How should my chatbot interact? A survey on human-chatbot interaction design.</title>
+<year>2019</year>
+<volume>abs/1904.02743</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1904.02743</ee>
+<url>db/journals/corr/corr1904.html#abs-1904-02743</url>
+</article>
+</r>
+<r><article key="journals/csur/SantanaCGKM17" mdate="2024-09-09">
+<author orcid="0000-0002-6217-540X" pid="126/6828">Eduardo Felipe Zambom Santana</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0003-3888-7340" pid="k/FabioKon">Fabio Kon</author>
+<author orcid="0000-0001-9830-8588" pid="53/726">Dejan S. Milojicic</author>
+<title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture.</title>
+<pages>78:1-78:37</pages>
+<year>2018</year>
+<volume>50</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1145/3124391</ee>
+<ee>https://www.wikidata.org/entity/Q111288237</ee>
+<url>db/journals/csur/csur50.html#SantanaCGKM17</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/WesselSSWPCG18" mdate="2024-09-09">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="234/4562">Bruno Mendes de Souza</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects.</title>
+<pages>182:1-182:19</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3274451</ee>
+<url>db/journals/pacmhci/pacmhci2.html#WesselSSWPCG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/chi/ChavesG18" mdate="2024-09-09">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Single or Multiple Conversational Agents?: An Interactional Coherence Comparison.</title>
+<pages>191</pages>
+<year>2018</year>
+<booktitle>CHI</booktitle>
+<ee>https://doi.org/10.1145/3173574.3173765</ee>
+<crossref>conf/chi/2018</crossref>
+<url>db/conf/chi/chi2018.html#ChavesG18</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/SantanaCGKM16" mdate="2024-09-09">
+<author pid="126/6828">Eduardo Felipe Zambom Santana</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="k/FabioKon">Fabio Kon</author>
+<author pid="53/726">Dejan S. Milojicic</author>
+<title>Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture.</title>
+<year>2016</year>
+<volume>abs/1609.08089</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.08089</ee>
+<url>db/journals/corr/corr1609.html#SantanaCGKM16</url>
+</article>
+</r>
+<r><article key="journals/jintseq/MarquesC15" mdate="2024-09-09">
+<author pid="27/10590">Diego Marques</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<title>Fibonacci s-Cullen and s-Woodall Numbers.</title>
+<pages>15.1.4</pages>
+<year>2015</year>
+<volume>18</volume>
+<journal>J. Integer Seq.</journal>
+<number>1</number>
+<ee type="oa">https://cs.uwaterloo.ca/journals/JIS/VOL18/Marques/marques14.html</ee>
+<url>db/journals/jintseq/jintseq18.html#MarquesC15</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/SteinmacherCCG14" mdate="2024-09-09">
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Preliminary Empirical Identification of Barriers Faced by Newcomers to Open Source Software Projects.</title>
+<pages>51-60</pages>
+<year>2014</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2014.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2014.9</ee>
+<ee>https://www.wikidata.org/entity/Q58051448</ee>
+<crossref>conf/sbes/2014</crossref>
+<url>db/conf/sbes/sbes2014.html#SteinmacherCCG14</url>
+</inproceedings>
+</r>
+<r><article key="journals/cscw/SteinmacherCG13" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Awareness Support in Distributed Software Development: A Systematic Review and Mapping of the Literature.</title>
+<pages>113-158</pages>
+<year>2013</year>
+<volume>22</volume>
+<journal>Comput. Support. Cooperative Work.</journal>
+<number>2-3</number>
+<ee>https://doi.org/10.1007/s10606-012-9164-4</ee>
+<ee>https://www.wikidata.org/entity/Q58051463</ee>
+<url>db/journals/cscw/cscw22.html#SteinmacherCG13</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/SteinmacherWCG13" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Why do newcomers abandon open source software projects?</title>
+<pages>25-32</pages>
+<year>2013</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE.2013.6614728</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/CHASE.2013.6614728</ee>
+<ee>https://www.wikidata.org/entity/Q58051477</ee>
+<crossref>conf/icse/2013chase</crossref>
+<url>db/conf/icse/chase2013.html#SteinmacherWCG13</url>
+</inproceedings>
+</r>
+<r><article key="journals/jucs/LealCHD12" mdate="2024-09-09">
+<author pid="59/394">Gislaine Camila Lapasini Leal</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<author pid="84/3153">M&#225;rcio Eduardo Delamaro</author>
+<title>An Integrated Approach of Software Development and Test Processes to Distributed Teams.</title>
+<pages>2686-2705</pages>
+<year>2012</year>
+<volume>18</volume>
+<journal>J. Univers. Comput. Sci.</journal>
+<number>19</number>
+<ee type="oa">https://doi.org/10.3217/jucs-018-19-2686</ee>
+<url>db/journals/jucs/jucs18.html#LealCHD12</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbsc/SteinmacherWCG12" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Newcomers Withdrawal in Open Source Software Projects: Analysis of Hadoop Common Project.</title>
+<pages>65-74</pages>
+<year>2012</year>
+<booktitle>SBSC</booktitle>
+<ee>https://doi.org/10.1109/SBSC.2012.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBSC.2012.16</ee>
+<ee>https://www.wikidata.org/entity/Q58051507</ee>
+<crossref>conf/sbsc/2012</crossref>
+<url>db/conf/sbsc/sbsc2012.html#SteinmacherWCG12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsc/NishiCS12" mdate="2024-09-09">
+<author pid="123/7873">Marcelo Koti Nishi</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>A Collective Intelligence Based System for Visualizing Problems in Public Roads.</title>
+<pages>94-98</pages>
+<year>2012</year>
+<booktitle>SBSC</booktitle>
+<ee>https://doi.org/10.1109/SBSC.2012.26</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBSC.2012.26</ee>
+<crossref>conf/sbsc/2012</crossref>
+<url>db/conf/sbsc/sbsc2012.html#NishiCS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/VieiraSTTFHCS12" mdate="2024-09-09">
+<author pid="17/535">Vaninha Vieira</author>
+<author pid="23/6139">Ana Carolina Salgado</author>
+<author pid="99/8925">Patr&#237;cia C. A. R. Tedesco</author>
+<author pid="31/4518">Val&#233;ria Ces&#225;rio Times</author>
+<author pid="31/2870">Carlos Ferraz</author>
+<author pid="37/17">Elisa H. M. Huzita</author>
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>The UbiBus Project: Using Context and Ubiquitous Computing to build Advanced Public Transportation Systems to Support Bus Passengers.</title>
+<pages>507-512</pages>
+<year>2012</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2012.14435</ee>
+<crossref>conf/sbsi/2012</crossref>
+<url>db/conf/sbsi/sbsi2012.html#VieiraSTTFHCS12</url>
+</inproceedings>
+</r>
+<r><article key="journals/cleiej/ChavesSLHB11" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="59/394">Gislaine Camila Lapasini Leal</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<author pid="15/10759">Alberto B. Bias&#227;o</author>
+<title>OntoDiSENv1: an Ontology to Support Global Software Development.</title>
+<year>2011</year>
+<volume>14</volume>
+<journal>CLEI Electron. J.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.19153/cleiej.14.2.2</ee>
+<url>db/journals/cleiej/cleiej14.html#ChavesSLHB11</url>
+</article>
+</r>
+<r><inproceedings key="conf/criwg/VivianHLS11" mdate="2021-05-19">
+<author pid="11/10271">Rafael Leonardo Vivian</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<author orcid="0000-0001-8599-0776" pid="59/394">Gislaine Camila Lapasini Leal</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves Steinmacher</author>
+<title>Context-Awareness on Software Artifacts in Distributed Software Development: A Systematic Review.</title>
+<pages>30-44</pages>
+<year>2011</year>
+<booktitle>CRIWG</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-23801-7_3</ee>
+<crossref>conf/criwg/2011</crossref>
+<url>db/conf/criwg/criwg2011.html#VivianHLS11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/SteinmacherCG10" mdate="2024-09-09">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Awareness Support in Global Software Development: A Systematic Review Based on the 3C Collaboration Model.</title>
+<pages>185-201</pages>
+<year>2010</year>
+<booktitle>CRIWG</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15714-1_15</ee>
+<ee>https://www.wikidata.org/entity/Q58051550</ee>
+<crossref>conf/criwg/2010</crossref>
+<url>db/conf/criwg/criwg2010.html#SteinmacherCG10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/ChavesHVS10" mdate="2024-09-09">
+<author pid="33/2472">Ana Paula Chaves</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<author pid="17/535">Vaninha Vieira</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>A Context Conceptual Model for a Distributed Software Development Environment.</title>
+<pages>437-442</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#ChavesHVS10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sccc/ChavesLH08" mdate="2024-09-09">
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author orcid="0000-0001-8599-0776" pid="59/394">Gislaine Camila Lapasini Leal</author>
+<author pid="37/17">Elisa Hatsue Moriya Huzita</author>
+<title>An Experimental Study of the FIB Framework Driven by the PDCA Cycle.</title>
+<pages>23-31</pages>
+<year>2008</year>
+<booktitle>SCCC</booktitle>
+<ee>https://doi.org/10.1109/SCCC.2008.10</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SCCC.2008.10</ee>
+<crossref>conf/sccc/2008</crossref>
+<url>db/conf/sccc/sccc2008.html#ChavesLH08</url>
+</inproceedings>
+</r>
+<coauthors n="51" nc="1">
+<co c="0"><na f="a/Alves:Luiz_Philipe_Serrano" pid="319/2663">Luiz Philipe Serrano Alves</na></co>
+<co c="0"><na f="a/Azul:Celeste" pid="391/0966">Celeste Azul</na></co>
+<co c="0"><na f="b/Bias=atilde=o:Alberto_B=" pid="15/10759">Alberto B. Bias&#227;o</na></co>
+<co c="0"><na f="b/Branham:Stacy_M=" pid="26/7246">Stacy M. Branham</na></co>
+<co c="0" n="2"><na f="b/Brewer:Robin" pid="25/8737">Robin Brewer</na><na>Robin N. Brewer</na></co>
+<co c="0"><na f="c/Candello:Heloisa" pid="84/7371">Heloisa Candello</na></co>
+<co c="0"><na f="c/Clark:Leigh" pid="225/3501">Leigh Clark</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="c/Cowan:Benjamin_R=" pid="49/7687">Benjamin R. Cowan</na></co>
+<co c="0"><na f="d/Damian:Daniela_E=" pid="d/DanielaEDamian">Daniela E. Damian</na></co>
+<co c="0"><na f="d/Delamaro:M=aacute=rcio_Eduardo" pid="84/3153">M&#225;rcio Eduardo Delamaro</na></co>
+<co c="0"><na f="d/Devathasan:Kezia" pid="334/9012">Kezia Devathasan</na></co>
+<co c="0"><na f="d/Doerry:Eck" pid="249/8744">Eck Doerry</na></co>
+<co c="0"><na f="e/Egbert:Jesse" pid="166/7274">Jesse Egbert</na></co>
+<co c="0"><na f="f/Farias:Adna" pid="391/0275">Adna Farias</na></co>
+<co c="0" n="2"><na f="f/Ferraz:Carlos_A=_G=" pid="31/2870">Carlos A. G. Ferraz</na><na>Carlos Ferraz</na></co>
+<co c="0"><na f="g/Gama:Kiev" pid="46/3866">Kiev Gama</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Guerino:Guilherme_Corredato" pid="182/3295">Guilherme Corredato Guerino</na></co>
+<co c="0"><na f="h/Hocking:Toby" pid="89/10624">Toby Hocking</na></co>
+<co c="0" n="2"><na f="h/Huzita:Elisa_H=_M=" pid="37/17">Elisa H. M. Huzita</na><na>Elisa Hatsue Moriya Huzita</na></co>
+<co c="0"><na f="j/Jaber:Razan" pid="246/6244">Razan Jaber</na></co>
+<co c="0"><na f="k/Kon:Fabio" pid="k/FabioKon">Fabio Kon</na></co>
+<co c="0"><na f="l/Lazar:Amanda" pid="32/7982">Amanda Lazar</na></co>
+<co c="0" n="2"><na f="l/Leal:Gislaine_C=_L=" pid="59/394">Gislaine C. L. Leal</na><na>Gislaine Camila Lapasini Leal</na></co>
+<co c="0"><na f="l/Lee:Minha" pid="138/6563">Minha Lee</na></co>
+<co c="0"><na f="m/Mariano:Pamella_Augusta_de_Lima" pid="366/7021">Pamella Augusta de Lima Mariano</na></co>
+<co c="-1"><na f="m/Marques:Diego" pid="27/10590">Diego Marques</na></co>
+<co c="0"><na f="m/Matias:Gabriel_Walisson" pid="390/9136">Gabriel Walisson Matias</na></co>
+<co c="0"><na f="m/Melo:Felipe_Vasconcelos" pid="390/9828">Felipe Vasconcelos Melo</na></co>
+<co c="0"><na f="m/Milojicic:Dejan_S=" pid="53/726">Dejan S. Milojicic</na></co>
+<co c="0"><na f="m/Munteanu:Cosmin" pid="49/5750">Cosmin Munteanu</na></co>
+<co c="0"><na f="n/Negromonte:Vitor" pid="390/9634">Vitor Negromonte</na></co>
+<co c="0"><na f="n/Nishi:Marcelo_Koti" pid="123/7873">Marcelo Koti Nishi</na></co>
+<co c="0"><na f="p/Polato:Ivanilton" pid="71/5097">Ivanilton Polato</na></co>
+<co c="0"><na f="p/Porcheron:Martin" pid="134/5719">Martin Porcheron</na></co>
+<co c="0"><na f="r/Ribeiro:Danilo_Monteiro" pid="150/8954">Danilo Monteiro Ribeiro</na></co>
+<co c="0"><na f="s/Salgado:Ana_Carolina" pid="23/6139">Ana Carolina Salgado</na></co>
+<co c="0"><na f="s/Santana:Eduardo_Felipe_Zambom" pid="126/6828">Eduardo Felipe Zambom Santana</na></co>
+<co c="0"><na f="s/Sin:Jaisie" pid="239/9793">Jaisie Sin</na></co>
+<co c="0"><na f="s/Souza:Ana_Carolina_Rossi_De" pid="366/7512">Ana Carolina Rossi De Souza</na></co>
+<co c="0"><na f="s/Souza:Bruno_Mendes_de" pid="234/4562">Bruno Mendes de Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Tedesco:Patr=iacute=cia_C=_A=_R=" pid="99/8925">Patr&#237;cia C. A. R. Tedesco</na></co>
+<co c="0"><na f="t/Times:Val=eacute=ria_Ces=aacute=rio" pid="31/4518">Val&#233;ria Ces&#225;rio Times</na></co>
+<co c="0" n="2"><na f="v/Valentim:Natasha_M=_Costa" pid="135/0795">Natasha M. Costa Valentim</na><na>Natasha Malveira Costa Valentim</na></co>
+<co c="0"><na f="v/Vieira:Vaninha" pid="17/535">Vaninha Vieira</na></co>
+<co c="0"><na f="v/Vivian:Rafael_Leonardo" pid="11/10271">Rafael Leonardo Vivian</na></co>
+<co c="0"><na f="v/V=ouml=lkel:Sarah_Theres" pid="161/3234">Sarah Theres V&#246;lkel</na></co>
+<co c="0"><na f="w/Wessel:Mairieli_Santos" pid="205/9369">Mairieli Santos Wessel</na></co>
+<co c="0"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<dblpperson name="Peter Hilbert" pid="410/1459" n="2">
+<person key="homepages/410/1459" mdate="2025-07-09">
+<author pid="410/1459">Peter Hilbert</author>
+</person>
+<r><inproceedings key="conf/comped/PenneyAHPSSG25" mdate="2026-02-01">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0009-0003-6797-7510" pid="410/1459">Peter Hilbert</author>
+<author orcid="0000-0001-9297-5873" pid="291/5027">Priyanka Parekh</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Understanding Programming Students' Help-Seeking Preferences in the Era of Generative AI.</title>
+<pages>15-21</pages>
+<year>2025</year>
+<booktitle>CompEd (1)</booktitle>
+<ee>https://doi.org/10.1145/3736181.3747165</ee>
+<crossref>conf/comped/2025-1</crossref>
+<url>db/conf/comped/comped2025-1.html#PenneyAHPSSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cui/PenneyAHPSSG25" mdate="2025-08-09">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0009-0003-6797-7510" pid="410/1459">Peter Hilbert</author>
+<author orcid="0000-0001-9297-5873" pid="291/5027">Priyanka Parekh</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Outcomes, Perceptions, and Interaction Strategies of Novice Programmers Studying with ChatGPT.</title>
+<pages>73:1-73:15</pages>
+<year>2025</year>
+<booktitle>CUI</booktitle>
+<ee>https://doi.org/10.1145/3719160.3736625</ee>
+<crossref>conf/cui/2025</crossref>
+<url>db/conf/cui/cui2025.html#PenneyAHPSSG25</url>
+</inproceedings>
+</r>
+<coauthors n="6" nc="1">
+<co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="p/Parekh:Priyanka" pid="291/5027">Priyanka Parekh</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+</coauthors>
+</dblpperson>
+

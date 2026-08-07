@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<dblpperson name="Maria A. C. Meireles" pid="266/3551" n="17">
+<person key="homepages/266/3551" mdate="2025-01-10">
+<author pid="266/3551">Maria A. C. Meireles</author>
+<author pid="266/3551">Maria Alcimar Meireles</author>
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<note type="affiliation">Federal University of Amazonas, Manaus, Brazil</note>
+<url>https://dl.acm.org/profile/99659093162</url>
+<url>https://orcid.org/0000-0002-7191-0226</url>
+<url>https://www.wikidata.org/entity/Q130843053</url>
+</person>
+<r><article key="journals/jss/SouzaRMLCMC25" mdate="2025-04-01">
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha de Souza</author>
+<author orcid="0009-0003-7775-8549" pid="393/0933">Eriky Rodrigues</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria A. C. Meireles</author>
+<author pid="55/7524">Tanara Lauschner</author>
+<author orcid="0000-0003-2970-2084" pid="48/91">Leandro S. G. Carvalho</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Techniques for eliciting IoT requirements: Sensorina Map and Mind IoT.</title>
+<pages>112323</pages>
+<year>2025</year>
+<volume>222</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2024.112323</ee>
+<url>db/journals/jss/jss222.html#SouzaRMLCMC25</url>
+<stream>streams/journals/jss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/MeirelesRSMC25" mdate="2025-11-04">
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author pid="393/0933">Eriky Rodrigues</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Design Thinking as a Toolbox for Requirements Engineering Education: Lessons from the Classroom.</title>
+<pages>533-543</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11084</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MeirelesRSMC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/RodriguesSMMLC25" mdate="2025-11-15">
+<author orcid="0009-0003-7775-8549" pid="393/0933">Eriky Rodrigues</author>
+<author pid="392/9889">Nabson Silva</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria A. C. Meireles</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Bloom's Taxonomy as a Lens to Explore Student Learning of Design Thinking in Software Engineering Education and Training.</title>
+<pages>610-620</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11302</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#RodriguesSMMLC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MacedoMBSMGC25" mdate="2025-11-04">
+<author pid="419/1300">Isabella Macedo</author>
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author pid="419/1228">Hannah Barreto</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>AI in the Design Thinking Toolbox: What to Recommend, When, and Why.</title>
+<pages>755-761</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11538</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MacedoMBSMGC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MeirelesSAALP25" mdate="2025-12-18">
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author pid="394/2995">Karen Soares</author>
+<author pid="394/3038">&#193;dria Afonso</author>
+<author pid="362/4787">L&#237;via Lob&#227;o De Ara&#250;jo</author>
+<author pid="362/5015">Luana Lob&#227;o</author>
+<author pid="421/2969">Gabriel Pinheiro</author>
+<title>Applying Scrumban in Hybrid Software and Hardware Teams: An Experience Report.</title>
+<pages>289-297</pages>
+<year>2025</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025.15079</ee>
+<crossref>conf/sbqs/2025</crossref>
+<url>db/conf/sbqs/sbqs2025.html#MeirelesSAALP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CostaLMC25" mdate="2025-12-18">
+<author pid="333/0152">Marcos Costa</author>
+<author pid="249/1753">M&#225;rcia Lima</author>
+<author pid="266/3551">Maria A. C. Meireles</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Fostering Creativity with ChatGPT in Requirements Engineering Education: An Academic Experience.</title>
+<pages>508-518</pages>
+<year>2025</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025.15260</ee>
+<crossref>conf/sbqs/2025</crossref>
+<url>db/conf/sbqs/sbqs2025.html#CostaLMC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/FelizardoDCGMGS25" mdate="2025-12-07">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0003-0610-4735" pid="388/1175">Anderson Deizepe</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="266/3551">Maria A. C. Meireles</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>On the Difficulties of Conducting and Replicating Systematic Literature Reviews Studies Using LLMs in Software Engineering.</title>
+<pages>20-23</pages>
+<year>2025</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/WSESE66602.2025.00010</ee>
+<crossref>conf/wsese/2025</crossref>
+<url>db/conf/wsese/wsese2025.html#FelizardoDCGMGS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MeirelesRMC24" mdate="2025-01-19">
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha</author>
+<author orcid="0000-0002-3779-7143" pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>An experience report on the use of Active Learning in Empirical Software Engineering Education: Understanding the pros and cons from the student's perspective.</title>
+<pages>380-390</pages>
+<year>2024</year>
+<booktitle>SEET@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3639474.3640077</ee>
+<ee>https://www.wikidata.org/entity/Q130843056</ee>
+<crossref>conf/icse/2024seet</crossref>
+<url>db/conf/icse/seet2024.html#MeirelesRMC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MeirelesMBRMC24" mdate="2024-10-22">
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author pid="277/2543">Juliana Magalh&#227;es</author>
+<author pid="388/4603">Nasthya Barauna</author>
+<author pid="338/8490">Sabrina Rocha</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Guiding the Way: Facilitating Requirements Elicitation with Selection Universe Approach.</title>
+<pages>158-168</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3338</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#MeirelesMBRMC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MeirelesARSALMC24" mdate="2025-03-03">
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author orcid="0009-0009-5210-7639" pid="394/3038">&#193;dria Afonso</author>
+<author orcid="0009-0005-6573-1327" pid="362/5121">Brunna Talita Vieira Rabaioli</author>
+<author orcid="0009-0001-8761-2506" pid="394/2995">Karen Soares</author>
+<author pid="362/4787">L&#237;via Lob&#227;o De Ara&#250;jo</author>
+<author orcid="0000-0002-1736-4113" pid="362/5015">Luana Lob&#227;o</author>
+<author orcid="0000-0002-3779-7143" pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Value Generation in Software Projects: Lessons Learned from the Reimplementation of Design Thinking in a Technological Development Institute.</title>
+<pages>526-534</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701638</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#MeirelesARSALMC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SampaioLSMPC24" mdate="2025-03-03">
+<author orcid="0009-0009-1962-8635" pid="394/3479">Savio Sousa Sampaio</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Sampaio Lima</author>
+<author orcid="0009-0003-7775-8549" pid="393/0933">Eriky Rodrigues de Souza</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Meireles</author>
+<author orcid="0000-0002-3064-5585" pid="91/10360">Marcela S&#225;via Pican&#231;o Pessoa</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Exploring the Use of Large Language Models in Requirements Engineering Education: An Experience Report with ChatGPT 3.5.</title>
+<pages>624-634</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701687</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#SampaioLSMPC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/RodriguesSMLMLC24" mdate="2025-03-03">
+<author orcid="0009-0003-7775-8549" pid="393/0933">Eriky Rodrigues</author>
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha de Souza</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria A. C. Meireles</author>
+<author orcid="0000-0001-7104-9432" pid="55/7524">Tanara Lauschner</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Comparing Design Thinking Techniques in the Context of IoT Requirements Elicitation: An Empirical Study.</title>
+<pages>718-728</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701693</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#RodriguesSMLMLC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/LobaoRGAM23" mdate="2025-01-19">
+<author orcid="0000-0002-1736-4113" pid="362/5015">Luana Lob&#227;o</author>
+<author orcid="0009-0005-6573-1327" pid="362/5121">Brunna Talita Vieira Rabaioli</author>
+<author orcid="0009-0009-4732-1155" pid="362/4627">Elizabeth Gauthier</author>
+<author orcid="0009-0007-6503-231X" pid="362/4787">L&#237;via Lob&#227;o De Ara&#250;jo</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Costa Meireles</author>
+<title>The use of Design Thinking in creating projects and improving customer value perception: an experience report on software projects at a Research and Development Institute in Amazonas.</title>
+<pages>264-273</pages>
+<year>2023</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3629479.3629506</ee>
+<ee>https://www.wikidata.org/entity/Q130892526</ee>
+<crossref>conf/sbqs/2023</crossref>
+<url>db/conf/sbqs/sbqs2023.html#LobaoRGAM23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SouzaMDMC22" mdate="2025-01-19">
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha de Souza</author>
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Meireles</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author orcid="0000-0002-3779-7143" pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Design for IoT: An Experimental Study to Understand How Design Thinking Can Help in the Elicitation of Requirements for IoT Systems.</title>
+<pages>8:1-8:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571483</ee>
+<ee>https://www.wikidata.org/entity/Q130896984</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#SouzaMDMC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MeirelesSDCM22" mdate="2024-10-22">
+<author orcid="0000-0002-7191-0226" pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha de Souza</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author orcid="0000-0002-3779-7143" pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Evaluating Approaches to Selecting Design Thinking Techniques : Quantitative and Qualitative Analysis.</title>
+<pages>9:1-9:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571482</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#MeirelesSDCM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MeirelesSCM21" mdate="2023-01-30">
+<author pid="266/3551">Maria Alcimar Meireles</author>
+<author pid="228/0226">Anderson Felipe Souza</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Organizing the Design Thinking Toolbox: Supporting the Requirements Elicitation Decision Making.</title>
+<pages>285-290</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3477064</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#MeirelesSCM21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/MeirelesKBL16" mdate="2022-05-04">
+<author pid="266/3551">Maria A. C. Meireles</author>
+<author pid="43/1265">Jorge Y. Kanda</author>
+<author pid="266/3470">Bruno A. Bonif&#225;cio</author>
+<author pid="266/3456">Jonatan S. Leao</author>
+<title>Integrando M&#233;todos de Tomada de Decis&#227;o no Processo de Elicita&#231;&#227;o de Requisitos [Integrating Decision Making Methods on Requerimentos Elicitation Process].</title>
+<pages>526-533</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2016.6003</ee>
+<ee>https://dl.acm.org/doi/10.5555/3021955.3022044</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#MeirelesKBL16</url>
+</inproceedings>
+</r>
+<coauthors n="34" nc="1">
+<co c="0"><na f="a/Afonso:=Aacute=dria" pid="394/3038">&#193;dria Afonso</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:L=iacute=via_Lob=atilde=o_De" pid="362/4787">L&#237;via Lob&#227;o De Ara&#250;jo</na></co>
+<co c="0"><na f="b/Barauna:Nasthya" pid="388/4603">Nasthya Barauna</na></co>
+<co c="0"><na f="b/Barreto:Hannah" pid="419/1228">Hannah Barreto</na></co>
+<co c="0"><na f="b/Bonif=aacute=cio:Bruno_A=" pid="266/3470">Bruno A. Bonif&#225;cio</na></co>
+<co c="0"><na f="c/Carvalho:Leandro_S=_G=" pid="48/91">Leandro S. G. Carvalho</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="c/Costa:Marcos" pid="333/0152">Marcos Costa</na></co>
+<co c="0"><na f="c/Coutinho:Daniel" pid="87/1273">Daniel Coutinho</na></co>
+<co c="0"><na f="d/Deizepe:Anderson" pid="388/1175">Anderson Deizepe</na></co>
+<co c="0"><na f="d/Duarte:Jos=eacute=_Carlos" pid="313/9084">Jos&#233; Carlos Duarte</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na></co>
+<co c="0"><na f="g/Gauthier:Elizabeth" pid="362/4627">Elizabeth Gauthier</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gomes:Genildo" pid="283/4200">Genildo Gomes</na></co>
+<co c="0"><na f="k/Kanda:Jorge_Y=" pid="43/1265">Jorge Y. Kanda</na></co>
+<co c="0"><na f="l/Lauschner:Tanara" pid="55/7524">Tanara Lauschner</na></co>
+<co c="0"><na f="l/Leao:Jonatan_S=" pid="266/3456">Jonatan S. Leao</na></co>
+<co c="0" n="2"><na f="l/Lima:M=aacute=rcia" pid="249/1753">M&#225;rcia Lima</na><na>M&#225;rcia Sampaio Lima</na></co>
+<co c="0"><na f="l/Lob=atilde=o:Luana" pid="362/5015">Luana Lob&#227;o</na></co>
+<co c="0"><na f="m/Macedo:Isabella" pid="419/1300">Isabella Macedo</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Juliana" pid="277/2543">Juliana Magalh&#227;es</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0" n="2"><na f="p/Pessoa:Marcela" pid="91/10360">Marcela Pessoa</na><na>Marcela S&#225;via Pican&#231;o Pessoa</na></co>
+<co c="0"><na f="p/Pinheiro:Gabriel" pid="421/2969">Gabriel Pinheiro</na></co>
+<co c="0"><na f="r/Rabaioli:Brunna_Talita_Vieira" pid="362/5121">Brunna Talita Vieira Rabaioli</na></co>
+<co c="0" n="2"><na f="r/Rocha:Sabrina" pid="338/8490">Sabrina Rocha</na><na>Sabrina Rocha de Souza</na></co>
+<co c="0" n="2"><na f="r/Rodrigues:Eriky" pid="393/0933">Eriky Rodrigues</na><na>Eriky Rodrigues de Souza</na></co>
+<co c="0"><na f="s/Sampaio:Savio_Sousa" pid="394/3479">Savio Sousa Sampaio</na></co>
+<co c="0"><na f="s/Silva:Nabson" pid="392/9889">Nabson Silva</na></co>
+<co c="0"><na f="s/Soares:Karen" pid="394/2995">Karen Soares</na></co>
+<co c="0"><na f="s/Souza:Anderson_Felipe" pid="228/0226">Anderson Felipe Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+</coauthors>
+</dblpperson>
+

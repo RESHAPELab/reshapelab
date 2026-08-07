@@ -1,0 +1,3 @@
+# DBLP keys to keep out of the publication list, one per line.
+# Anything after a # is a comment. Useful for papers a member wrote
+# outside the lab, or duplicate records DBLP has not merged.

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84 82" role="img" aria-label="RESHAPE Lab">
+  <title>RESHAPE Lab</title>
+  <path d="M40,2 L73,21 L73,32" fill="none" stroke="#1d3329" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M73,48 L73,59 L40,78 L7,59 L7,21 L40,2" fill="none" stroke="#1d3329" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="26" y="25" width="11" height="11" rx="2" fill="#216e39"/>
+  <rect x="26" y="42" width="11" height="11" rx="2" fill="#30a14e"/>
+  <rect x="42" y="33" width="11" height="11" rx="2" fill="#30a14e"/>
+  <rect x="67.5" y="34" width="11" height="11" rx="2" fill="#40c463"/>
+</svg>

@@ -1,0 +1,1171 @@
+<?xml version="1.0"?>
+<dblpperson name="Mairieli Santos Wessel" pid="205/9369" n="67">
+<person key="homepages/205/9369" mdate="2025-01-10">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<note type="affiliation">Radboud University, Nijmegen, The Netherlands</note>
+<url>https://mairieli.com/</url>
+<url>https://orcid.org/0000-0001-8619-726X</url>
+<url>https://www.wikidata.org/entity/Q130835977</url>
+</person>
+<r><article key="journals/jss/MazraeDMW26" mdate="2026-04-26">
+<author orcid="0000-0002-4859-1546" pid="296/3718">Pooya Rostami Mazrae</author>
+<author pid="84/7943">Alexandre Decan</author>
+<author orcid="0000-0003-3636-5020" pid="m/TomMens">Tom Mens</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>An empirical study of the evolution of GitHub actions workflows.</title>
+<year>2026</year>
+<pages>112824</pages>
+<volume>236</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2026.112824</ee>
+<url>db/journals/jss/jss236.html#MazraeDMW26</url>
+<stream>streams/journals/jss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/BarcombBDLMSW26" mdate="2026-08-03">
+<author orcid="0000-0003-2126-9511" pid="159/6043">Ann Barcomb</author>
+<author orcid="0000-0001-5125-0294" pid="59/10579">Mariana P. Bento</author>
+<author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
+<author orcid="0000-0001-7318-2421" pid="119/0498">Sherlock A. Licorish</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton Vanut Cordeiro de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>How Fair is Software Fairness Testing?</title>
+<pages>42-47</pages>
+<year>2026</year>
+<booktitle>ICSE-SEIS</booktitle>
+<ee>https://doi.org/10.1145/3786581.3786926</ee>
+<crossref>conf/icse/2026seis</crossref>
+<url>db/conf/icse/seis2026.html#BarcombBDLMSW26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ide/KulaTHBBBCCCFGG26" mdate="2026-07-06">
+<author orcid="0000-0003-2324-0608" pid="64/7675">Raula Gaikovina Kula</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0003-0093-3292" pid="49/10052-8">Xing Hu 0008</author>
+<author orcid="0000-0002-2442-7522" pid="145/3950">Sebastian Baltes</author>
+<author orcid="0000-0003-0771-7891" pid="47/1088">Earl T. Barr</author>
+<author orcid="0000-0003-4092-9706" pid="50/10438">Kelly Blincoe</author>
+<author orcid="0000-0003-2654-1588" pid="48/5662">Fabio Calefato</author>
+<author orcid="0000-0003-3056-9962" pid="04/4498-3">Junjie Chen 0003</author>
+<author orcid="0000-0002-0637-3436" pid="16/7536">Marc Cheong</author>
+<author orcid="0000-0001-9372-2966" pid="366/3510">Youmei Fan</author>
+<author orcid="0000-0001-5661-4392" pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0003-1782-1545" pid="73/4155-4">Jin L. C. Guo</author>
+<author orcid="0000-0001-7988-7772" pid="73/5681">Shinpei Hayashi</author>
+<author orcid="0000-0002-4249-6003" pid="h/RobertHirschfeld">Robert Hirschfeld</author>
+<author orcid="0000-0003-4213-494X" pid="18/1889">Reid Holmes</author>
+<author orcid="0009-0006-8798-5667" pid="281/6760">Yintong Huo</author>
+<author orcid="0000-0002-2235-9992" pid="k/TakashiKobayashi">Takashi Kobayashi 0001</author>
+<author orcid="0000-0003-4391-0197" pid="53/6708">Michele Lanza 0001</author>
+<author orcid="0000-0002-1981-1626" pid="15/3235-2">Zhongxin Liu 0002</author>
+<author orcid="0000-0002-7100-9227" pid="39/11368">Olivier Nourry</author>
+<author orcid="0000-0003-1160-2608" pid="09/1798">Nicole Novielli</author>
+<author orcid="0000-0002-5626-7586" pid="02/320">Denys Poshyvanyk</author>
+<author orcid="0000-0002-6259-3521" pid="12/3233">Shinobu Saito</author>
+<author orcid="0000-0001-8837-5090" pid="242/2155">Kazumasa Shimari</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0002-3124-0061" pid="94/7030-7">Markus Wagner 0007</author>
+<author orcid="0009-0007-5180-9618" pid="412/4726">Annie Vella</author>
+<author orcid="0000-0003-3300-6540" pid="392/5948">Laurie Williams</author>
+<author orcid="0000-0002-6302-3256" pid="06/2072-1">Xin Xia 0001</author>
+<title>Forecasting Developer Environments with GenAI: A Research Perspective.</title>
+<pages>1-5</pages>
+<year>2026</year>
+<booktitle>IDE@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786151.3788604</ee>
+<crossref>conf/ide/2026</crossref>
+<url>db/conf/ide/ide2026.html#KulaTHBBBCCCFGG26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/DestefanisSOW26" mdate="2026-08-03">
+<author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0003-4191-5058" pid="130/6495">Marco Ortu</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>The Dose Makes the Agent: Therapeutic Index Analysis of AI Coding Contributions.</title>
+<pages>914-918</pages>
+<year>2026</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3793302.3793600</ee>
+<crossref>conf/msr/2026</crossref>
+<url>db/conf/msr/msr2026.html#DestefanisSOW26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/RooijendijkTW26" mdate="2026-08-03">
+<author pid="427/8901">Pien Rooijendijk</author>
+<author pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests.</title>
+<pages>994-998</pages>
+<year>2026</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3793302.3793616</ee>
+<crossref>conf/msr/2026</crossref>
+<url>db/conf/msr/msr2026.html#RooijendijkTW26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SantosSBDMW26" mdate="2026-07-21">
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-5125-0294" pid="59/10579">Mariana P. Bento</author>
+<author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
+<author orcid="0009-0005-3051-7232" pid="441/2048">Cleyton Magalh&#227;es</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>LLM Use, Cheating, and Academic Integrity in Software Engineering Education.</title>
+<pages>1134-1144</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3805790</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#SantosSBDMW26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/SantosSBMW26" mdate="2026-06-25">
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-8589-2850" pid="73/1559">Maria Teresa Baldassarre</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>An Investigation on How AI-Generated Responses Affect Software Engineering Surveys.</title>
+<pages>25-32</pages>
+<year>2026</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786149.3788304</ee>
+<crossref>conf/wsese/2026</crossref>
+<url>db/conf/wsese/wsese2026.html#SantosSBMW26</url>
+</inproceedings>
+</r>
+<r><data key="data/12/RooijendijkTW26" mdate="2026-06-17">
+<author orcid="0009-0007-7339-6711" pid="427/8901">Pien Rooijendijk</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>Replication Package for the paper &#34;Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests&#34;.</title>
+<publisher>Zenodo</publisher>
+<year>2026</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.18351036</ee>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.18107629" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2601-19628" mdate="2026-02-26">
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="20/8385">Daniel Feitosa</author>
+<author pid="193/0381">Sangeeth Kochanthara</author>
+<title>The Competence Crisis: A Design Fiction on AI-Assisted Research in Software Engineering.</title>
+<year>2026</year>
+<month>January</month>
+<volume>abs/2601.19628</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2601.19628</ee>
+<url>db/journals/corr/corr2601.html#abs-2601-19628</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2601-19636" mdate="2026-02-26">
+<author pid="427/8901">Pien Rooijendijk</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests.</title>
+<year>2026</year>
+<month>January</month>
+<volume>abs/2601.19636</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2601.19636</ee>
+<url>db/journals/corr/corr2601.html#abs-2601-19636</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-07412" mdate="2026-07-07">
+<author pid="64/7675">Raula Gaikovina Kula</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="49/10052-8">Xing Hu 0008</author>
+<author pid="145/3950">Sebastian Baltes</author>
+<author pid="47/1088">Earl T. Barr</author>
+<author pid="50/10438">Kelly Blincoe</author>
+<author pid="48/5662">Fabio Calefato</author>
+<author pid="04/4498-3">Junjie Chen 0003</author>
+<author pid="16/7536">Marc Cheong</author>
+<author pid="366/3510">Youmei Fan</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="73/4155-4">Jin L. C. Guo</author>
+<author pid="73/5681">Shinpei Hayashi</author>
+<author pid="h/RobertHirschfeld">Robert Hirschfeld</author>
+<author pid="18/1889">Reid Holmes</author>
+<author pid="281/6760">Yintong Huo</author>
+<author pid="k/TakashiKobayashi">Takashi Kobayashi 0001</author>
+<author pid="53/6708">Michele Lanza 0001</author>
+<author pid="15/3235-2">Zhongxin Liu 0002</author>
+<author pid="39/11368">Olivier Nourry</author>
+<author pid="09/1798">Nicole Novielli</author>
+<author pid="02/320">Denys Poshyvanyk</author>
+<author pid="12/3233">Shinobu Saito</author>
+<author pid="242/2155">Kazumasa Shimari</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="94/7030-7">Markus Wagner 0007</author>
+<author pid="412/4726">Annie Vella</author>
+<author pid="392/5948">Laurie Williams</author>
+<author pid="06/2072-1">Xin Xia 0001</author>
+<title>Forecasting Developer Environments with GenAI: A Research Perspective.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.07412</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.07412</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-07412</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-14572" mdate="2026-03-27">
+<author pid="296/3718">Pooya Rostami Mazrae</author>
+<author pid="84/7943">Alexandre Decan</author>
+<author pid="m/TomMens">Tom Mens</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>An Empirical Study of the Evolution of GitHub Actions Workflows.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.14572</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.14572</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-14572</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-12511" mdate="2026-04-11">
+<author pid="159/6043">Ann Barcomb</author>
+<author pid="78/9171">Mariana Pinheiro Bento</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="119/0498">Sherlock A. Licorish</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>How Fair is Software Fairness Testing?</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.12511</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.12511</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-12511</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2603-17060" mdate="2026-04-13">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="59/10579">Mariana P. Bento</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>LLM Use, Cheating, and Academic Integrity in Software Engineering Education.</title>
+<year>2026</year>
+<month>March</month>
+<volume>abs/2603.17060</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2603.17060</ee>
+<url>db/journals/corr/corr2603.html#abs-2603-17060</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2604-04689" mdate="2026-05-07">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="159/6043">Ann Barcomb</author>
+<author pid="119/0498">Sherlock A. Licorish</author>
+<author pid="342/2785">Brody Stuart-Verner</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<title>Teaching Empathy in Software Engineering Education in the Age of Artificial Intelligence.</title>
+<year>2026</year>
+<month>April</month>
+<volume>abs/2604.04689</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2604.04689</ee>
+<url>db/journals/corr/corr2604.html#abs-2604-04689</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-07830" mdate="2026-07-05">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="30/11498">Giuseppe Destefanis</author>
+<author pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Academic Integrity and Emotional Responses to Inappropriate LLM Use in Software Engineering Education.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.07830</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.07830</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-07830</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-19216" mdate="2026-07-08">
+<author pid="385/1554">Jonan Richards</author>
+<author pid="440/1731">Bruno Alves de Oliveira</author>
+<author pid="440/1814">Iury Oliveira</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>No Two Developers Think Alike: How Problem-Solving Styles and Experience Shape Needs in Conversational Interaction with Copilot.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.19216</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.19216</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-19216</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-28125" mdate="2026-07-09">
+<author pid="427/8901">Pien Rooijendijk</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>How Humans, Bots, and Agents Communicate About Vulnerabilities in Pull Requests.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.28125</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.28125</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-28125</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/botse-ws/RichardsW25" mdate="2025-10-14">
+<author orcid="0009-0007-1218-8599" pid="385/1554">Jonan Richards</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Bridging HCI and AI Research for the Evaluation of Conversational SE Assistants.</title>
+<pages>6-10</pages>
+<year>2025</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE67031.2025.00009</ee>
+<crossref>conf/botse-ws/2025</crossref>
+<url>db/conf/botse-ws/botse-ws2025.html#RichardsW25</url>
+<stream>streams/conf/botse-ws</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/SantosMBW25" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="159/6043">Ann Barcomb</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>From Diverse Origins to a DEI Crisis: The Pushback Against Equity, Diversity, and Inclusion in Software Engineering.</title>
+<pages>174-190</pages>
+<year>2025</year>
+<booktitle>SEAA (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04207-1_12</ee>
+<crossref>conf/euromicro/2025-3</crossref>
+<url>db/conf/euromicro/euromicro2025-3.html#SantosMBW25</url>
+<stream>streams/conf/euromicro</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MacielWWS25" mdate="2025-11-04">
+<author pid="419/1158">Ana Maciel</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Investigating the Impact of GitHub Discussions on Maintainers' Workload and Community Dynamics.</title>
+<pages>37-47</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.9630</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MacielWWS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/GomesMAJMSRWU25" mdate="2025-12-25">
+<author pid="401/6506">Ant&#244;nio Gomes</author>
+<author orcid="0009-0002-1673-4167" pid="419/1291">Eric Mesquita</author>
+<author pid="419/1270">Emanuel &#193;vila</author>
+<author pid="419/1185">Carlos Jeft&#233;</author>
+<author pid="406/7537">Arthur Willame Mesquita</author>
+<author orcid="0009-0000-2648-9420" pid="274/2536">Lucas Sousa</author>
+<author orcid="0009-0002-6643-4795" pid="360/8431">Matheus Rabelo</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0002-6847-5569" pid="199/5439">Anderson G. Uch&#244;a</author>
+<title>PeacemakerBot: A LLM-Powered Bot for Identifying and Reducing Signs of Incivility in GitHub Conversations.</title>
+<pages>872-878</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.10983</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#GomesMAJMSRWU25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07956" mdate="2025-03-12">
+<author pid="385/1554">Jonan Richards</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Bridging HCI and AI Research for the Evaluation of Conversational SE Assistants.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07956</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07956</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07956</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-16821" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="159/6043">Ann Barcomb</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<title>From Diverse Origins to a DEI Crisis: The Pushback Against Equity, Diversity, and Inclusion in Software Engineering.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.16821</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.16821</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-16821</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2512-17455" mdate="2026-02-25">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton V. C. de Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>An Investigation on How AI-Generated Responses Affect SoftwareEngineering Surveys.</title>
+<year>2025</year>
+<month>December</month>
+<volume>abs/2512.17455</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2512.17455</ee>
+<url>db/journals/corr/corr2512.html#abs-2512-17455</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/tse/BrandtKWZ24" mdate="2024-05-31">
+<author orcid="0000-0001-7623-1970" pid="274/7866">Carolin E. Brandt</author>
+<author orcid="0000-0002-2212-2311" pid="349/7724">Ali Khatami</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0003-2413-3935" pid="68/6471">Andy Zaidman</author>
+<title>Shaken, Not Stirred: How Developers Like Their Amplified Tests.</title>
+<pages>1264-1280</pages>
+<year>2024</year>
+<month>May</month>
+<volume>50</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TSE.2024.3381015</ee>
+<url>db/journals/tse/tse50.html#BrandtKWZ24</url>
+</article>
+</r>
+<r><inproceedings key="conf/ast/SterkWHZ24" mdate="2025-10-24">
+<author orcid="0009-0008-2047-7128" pid="377/5361">Alexander Sterk</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0003-2467-9890" pid="377/5453">Eli Hooten</author>
+<author orcid="0000-0003-2413-3935" pid="68/6471">Andy Zaidman</author>
+<title>Running a Red Light: An Investigation into Why Software Engineers (Occasionally) Ignore Coverage Checks.</title>
+<pages>12-22</pages>
+<year>2024</year>
+<booktitle>AST</booktitle>
+<ee>https://doi.org/10.1145/3644032.3644444</ee>
+<ee>https://ieeexplore.ieee.org/document/10556404</ee>
+<ee>https://www.wikidata.org/entity/Q130835980</ee>
+<crossref>conf/ast/2024</crossref>
+<url>db/conf/ast/ast2024.html#SterkWHZ24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/RichardsW24" mdate="2025-03-03">
+<author orcid="0009-0007-1218-8599" pid="385/1554">Jonan Richards</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>What You Need is what You Get: Theory of Mind for an LLM-Based Code Understanding Assistant.</title>
+<pages>666-671</pages>
+<year>2024</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME58944.2024.00070</ee>
+<crossref>conf/icsm/2024</crossref>
+<url>db/conf/icsm/icsme2024.html#RichardsW24</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/staf/2024w" mdate="2024-07-26">
+<editor pid="176/8785">Hessa Alfraihi</editor>
+<editor pid="151/1415">Francesco Basciani</editor>
+<editor pid="21/7130">Georgiana Caltais</editor>
+<editor pid="89/7791-1">Nicolas Ferry 0001</editor>
+<editor pid="274/0650">Jos&#233; Antonio Hern&#225;ndez L&#243;pez</editor>
+<editor pid="72/11439">Ludovico Iovino</editor>
+<editor pid="171/5107">Robbert Jongeling</editor>
+<editor pid="167/2898">Stefan Klikovits</editor>
+<editor pid="15/8435">Shekoufeh Kolahdouz Rahimi</editor>
+<editor pid="228/4210">Riccardo Rubei</editor>
+<editor pid="159/3609">Sobhan Yassipour Tehrani</editor>
+<editor pid="98/7772">Javier Troya</editor>
+<editor pid="205/9369">Mairieli Wessel</editor>
+<editor pid="91/1157">Vadim Zaytsev</editor>
+<title>Proceedings of the STAF 2024 Workshops: AgileMDE 2024, LLM4MDE 2024, and MeSS 2024 co-located with the International Conference on Software Technologies: Applications and Foundations (STAF 2024) Enschede, The Netherlands, July 8-11, 2024.</title>
+<booktitle>STAF Workshops</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<year>2024</year>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3727</volume>
+<ee type="oa">https://ceur-ws.org/Vol-3727</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3727-1</ee>
+<url>db/conf/staf/staf2024w.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-04477" mdate="2024-09-13">
+<author pid="385/1554">Jonan Richards</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>What You Need is What You Get: Theory of Mind for an LLM-Based Code Understanding Assistant.</title>
+<year>2024</year>
+<volume>abs/2408.04477</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.04477</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-04477</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ese/WesselVGT23" mdate="2023-11-01">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>GitHub Actions: The Impact on the Pull Request Process.</title>
+<pages>131</pages>
+<year>2023</year>
+<month>November</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1007/s10664-023-10369-w</ee>
+<url>db/journals/ese/ese28.html#WesselVGT23</url>
+</article>
+</r>
+<r><article key="journals/software/WesselZGS23" mdate="2023-05-17">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0003-2413-3935" pid="68/6471">Andy Zaidman</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Guidelines for Developing Bots for GitHub.</title>
+<pages>72-79</pages>
+<year>2023</year>
+<month>May - June</month>
+<volume>40</volume>
+<journal>IEEE Softw.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MS.2022.3224813</ee>
+<url>db/journals/software/software40.html#WesselZGS23</url>
+</article>
+</r>
+<r><inproceedings key="conf/sattose/MazraeDMW23" mdate="2023-09-13">
+<author pid="296/3718">Pooya Rostami Mazrae</author>
+<author pid="84/7943">Alexandre Decan</author>
+<author pid="m/TomMens">Tom Mens</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>A Preliminary Study of GitHub Actions Workflow Changes.</title>
+<pages>78-88</pages>
+<year>2023</year>
+<booktitle>SATToSE</booktitle>
+<ee type="oa">https://ceur-ws.org/Vol-3483/paper8.pdf</ee>
+<crossref>conf/sattose/2023</crossref>
+<url>db/conf/sattose/sattose2023.html#MazraeDMW23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaNBUW23" mdate="2023-10-14">
+<author orcid="0009-0005-1256-8343" pid="76/9691">Marcos Silva</author>
+<author orcid="0009-0003-5442-7413" pid="357/5390">Maykon Nunes</author>
+<author orcid="0000-0002-5879-5067" pid="09/5610">Carla I. M. Bezerra</author>
+<author orcid="0000-0002-6847-5569" pid="199/5439">Anderson G. Uch&#244;a</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<title>CIRef: A Tool for Visualizing the Historical Data of Software Refactorings in Java Projects.</title>
+<pages>174-179</pages>
+<year>2023</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3613372.3613419</ee>
+<crossref>conf/sbes/2023</crossref>
+<url>db/conf/sbes/sbes2023.html#SilvaNBUW23</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/23/WesselMDM23" mdate="2026-03-05">
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="m/TomMens">Tom Mens</author>
+<author pid="84/7943">Alexandre Decan</author>
+<author pid="296/3718">Pooya Rostami Mazrae</author>
+<title>The GitHub Development Workflow Automation Ecosystems.</title>
+<pages>183-214</pages>
+<year>2023</year>
+<booktitle>Software Ecosystems: Tooling and Analytics</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-36060-2_8</ee>
+<crossref>books/sp/23/MRC2023</crossref>
+<url>db/books/collections/MRC2023.html#WesselMDM23</url>
+</incollection>
+</r>
+<r><data key="data/10/BrandtKWZ23" mdate="2024-11-04">
+<author orcid="0000-0001-7623-1970" pid="274/7866">Carolin E. Brandt</author>
+<author orcid="0000-0002-2212-2311" pid="349/7724">Ali Khatami</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
+<author orcid="0000-0003-2413-3935" pid="68/6471">Andy Zaidman</author>
+<title>Shaken, Not Stirred. How Developers Like Their Amplified Tests: Replication Package.</title>
+<year>2023</year>
+<month>February</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.7685478</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1.1.0" uri="https://doi.org/10.5281/zenodo.7034924" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2305-04772" mdate="2023-05-12">
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="m/TomMens">Tom Mens</author>
+<author pid="84/7943">Alexandre Decan</author>
+<author pid="296/3718">Pooya Rostami Mazrae</author>
+<title>The GitHub Development Workflow Automation Ecosystems.</title>
+<year>2023</year>
+<volume>abs/2305.04772</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2305.04772</ee>
+<url>db/journals/corr/corr2305.html#abs-2305-04772</url>
+</article>
+</r>
+<r><article key="journals/ese/WesselSWSG22" mdate="2024-02-05">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author orcid="0000-0002-1418-0095" pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Quality gatekeepers: investigating the effects of code review bots on pull request activities.</title>
+<pages>108</pages>
+<year>2022</year>
+<volume>27</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee type="oa">https://doi.org/10.1007/s10664-022-10130-9</ee>
+<ee>https://www.wikidata.org/entity/Q121986398</ee>
+<url>db/journals/ese/ese27.html#WesselSWSG22</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/CandelloPMW22" mdate="2023-03-21">
+<author pid="84/7371">Heloisa Candello</author>
+<author orcid="0000-0001-6715-1290" pid="53/154">Claudio S. Pinhanez</author>
+<author pid="91/2964">Michael J. Muller</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Unveiling Practices of Customer Service Content Curators of Conversational Agents.</title>
+<pages>1-33</pages>
+<year>2022</year>
+<volume>6</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3555768</ee>
+<url>db/journals/pacmhci/pacmhci6.html#CandelloPMW22</url>
+</article>
+</r>
+<r><article key="journals/sigsoft/0001GW22" mdate="2022-08-04">
+<author pid="w/StefanWagner1">Stefan Wagner 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<title>Summary of the Third International Workshop on Bots in Software Engineering (BotSE 2021).</title>
+<pages>25-27</pages>
+<year>2022</year>
+<volume>47</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3539814.3539823</ee>
+<url>db/journals/sigsoft/sigsoft47.html#0001GW22</url>
+</article>
+</r>
+<r><article key="journals/software/ShihabWGWC22" mdate="2022-12-07">
+<author pid="05/5996">Emad Shihab</author>
+<author orcid="0000-0002-5256-8429" pid="w/StefanWagner1">Stefan Wagner 0001</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="18/948">Jordi Cabot</author>
+<title>The Present and Future of Bots in Software Engineering.</title>
+<pages>28-31</pages>
+<year>2022</year>
+<volume>39</volume>
+<journal>IEEE Softw.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MS.2022.3176864</ee>
+<url>db/journals/software/software39.html#ShihabWGWC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/WesselAWCSGS22" mdate="2025-01-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="241/5936">Ahmad Abdellatif</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="05/5996">Emad Shihab</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Bots for Pull Requests: The Good, the Bad, and the Promising.</title>
+<pages>274-286</pages>
+<year>2022</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3510003.3512765</ee>
+<ee>https://ieeexplore.ieee.org/document/9793907</ee>
+<ee>https://www.wikidata.org/entity/Q131121407</ee>
+<crossref>conf/icse/2022</crossref>
+<url>db/conf/icse/icse2022.html#WesselAWCSGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/RibeiroNSXGPW22" mdate="2023-01-11">
+<author pid="260/8393">Eric Ribeiro</author>
+<author pid="326/0269">Ronan Nascimento</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="197/4462">Laerte Xavier</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="326/0860">Hugo de Paula</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>Together or Apart? Investigating a mediator bot to aggregate bot's comments on pull requests.</title>
+<pages>434-438</pages>
+<year>2022</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME55016.2022.00054</ee>
+<crossref>conf/icsm/2022</crossref>
+<url>db/conf/icsm/icsme2022.html#RibeiroNSXGPW22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/AbdellatifWSGS22" mdate="2022-12-07">
+<author pid="241/5936">Ahmad Abdellatif</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="05/5996">Emad Shihab</author>
+<title>BotHunter: An Approach to Detect Software Bots in GitHub.</title>
+<pages>6-17</pages>
+<year>2022</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3524842.3527959</ee>
+<crossref>conf/msr/2022</crossref>
+<url>db/conf/msr/msr2022.html#AbdellatifWSGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/WesselGS22" mdate="2025-01-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="05/5996">Emad Shihab</author>
+<title>Software Bots in Software Engineering: Benefits and Challenges.</title>
+<pages>724-725</pages>
+<year>2022</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1145/3524842.3528533</ee>
+<ee>https://www.wikidata.org/entity/Q130828654</ee>
+<crossref>conf/msr/2022</crossref>
+<url>db/conf/msr/msr2022.html#WesselGS22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/benevol/2022" mdate="2023-03-10">
+<editor pid="205/9369">Mairieli Wessel</editor>
+<editor pid="73/10358">Eleni Constantinou</editor>
+<title>Proceedings of the Belgium-Netherlands Software Evolution Workshop, Mons, Belgium, September 12-13, 2022.</title>
+<booktitle>BENEVOL</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>3245</volume>
+<year>2022</year>
+<ee type="oa">https://ceur-ws.org/Vol-3245</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-3245-4</ee>
+<url>db/conf/benevol/benevol2022.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/botse-ws/2022" mdate="2023-02-24">
+<editor pid="205/9369">Mairieli Wessel</editor>
+<title>Proceedings of the Fourth International Workshop on Bots in Software Engineering, BotSE@ICSE 2022, Pittsburgh, Pennsylvania, 9 May 2022</title>
+<publisher>ACM</publisher>
+<booktitle>BotSE@ICSE</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9333-1</isbn>
+<ee>https://doi.org/10.1145/3528228</ee>
+<url>db/conf/botse-ws/botse-ws2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-14118" mdate="2024-05-07">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>GitHub Actions: The Impact on the Pull Request Process.</title>
+<year>2022</year>
+<volume>abs/2206.14118</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.14118</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-14118</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2207-01254" mdate="2022-12-07">
+<author pid="05/5996">Emad Shihab</author>
+<author orcid="0000-0002-5256-8429" pid="w/StefanWagner1">Stefan Wagner 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="18/948">Jordi Cabot</author>
+<title>The Present and Future of Bots in Software Engineering.</title>
+<year>2022</year>
+<volume>abs/2207.01254</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2207.01254</ee>
+<url>db/journals/corr/corr2207.html#abs-2207-01254</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2208-01624" mdate="2022-08-09">
+<author pid="260/8393">Eric Ribeiro</author>
+<author pid="326/0269">Ronan Nascimento</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="197/4462">Laerte Xavier</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="326/0860">Hugo de Paula</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<title>Together or Apart? Investigating a mediator bot to aggregate bot's comments on pull requests.</title>
+<year>2022</year>
+<volume>abs/2208.01624</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2208.01624</ee>
+<url>db/journals/corr/corr2208.html#abs-2208-01624</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2211-13063" mdate="2022-11-29">
+<author pid="205/9369">Mairieli Wessel</author>
+<author pid="68/6471">Andy Zaidman</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Guidelines for Developing Bots for GitHub.</title>
+<year>2022</year>
+<volume>abs/2211.13063</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2211.13063</ee>
+<url>db/journals/corr/corr2211.html#abs-2211-13063</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/WesselWSG21" mdate="2023-08-28">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Don't Disturb Me: Challenges of Interacting with Software Bots on Open Source Software Projects.</title>
+<pages>301:1-301:21</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3476042</ee>
+<ee>https://www.wikidata.org/entity/Q114370980</ee>
+<url>db/journals/pacmhci/pacmhci5.html#WesselWSG21</url>
+</article>
+</r>
+<r><inproceedings key="conf/msr/KinsmanWGT21" mdate="2021-10-14">
+<author pid="289/0070">Timothy Kinsman</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<title>How Do Software Developers Use GitHub Actions to Automate Their Workflows?</title>
+<pages>420-431</pages>
+<year>2021</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR52588.2021.00054</ee>
+<crossref>conf/msr/2021</crossref>
+<url>db/conf/msr/msr2021.html#KinsmanWGT21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12224" mdate="2021-08-25">
+<author pid="289/0070">Timothy Kinsman</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="29/1074">Christoph Treude</author>
+<title>How Do Software Developers Use GitHub Actions to Automate Their Workflows?</title>
+<year>2021</year>
+<volume>abs/2103.12224</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12224</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12224</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-13547" mdate="2021-08-25">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Quality Gatekeepers: Investigating the Effects ofCode Review Bots on Pull Request Activities.</title>
+<year>2021</year>
+<volume>abs/2103.13547</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13547</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13547</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-13950" mdate="2021-08-25">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Don't Disturb Me: Challenges of Interacting with SoftwareBots on Open Source Software Projects.</title>
+<year>2021</year>
+<volume>abs/2103.13950</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.13950</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-13950</url>
+</article>
+</r>
+<r><inproceedings key="conf/acmidc/CandelloPPVW20" mdate="2023-03-21">
+<author pid="84/7371">Heloisa Candello</author>
+<author pid="05/2277">Mauro Pichiliani</author>
+<author orcid="0000-0001-6715-1290" pid="53/154">Claudio S. Pinhanez</author>
+<author pid="270/5403">Sara Vidon</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<title>Co-designing a conversational interactive exhibit for children.</title>
+<pages>326-331</pages>
+<year>2020</year>
+<booktitle>IDC (Extended Abstracts)</booktitle>
+<ee>https://doi.org/10.1145/3397617.3397840</ee>
+<crossref>conf/acmidc/2020ea</crossref>
+<url>db/conf/acmidc/idc2020ea.html#CandelloPPVW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cscw/Wessel20" mdate="2021-08-25">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<title>Leveraging Software Bots to Enhance Developers' Collaboration in Online Programming Communities.</title>
+<pages>183-188</pages>
+<year>2020</year>
+<booktitle>CSCW Companion</booktitle>
+<ee>https://doi.org/10.1145/3406865.3418368</ee>
+<crossref>conf/cscw/2020c</crossref>
+<url>db/conf/cscw/cscw2020c.html#Wessel20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cui/CandelloWP20" mdate="2023-03-21">
+<author pid="84/7371">Heloisa Candello</author>
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author orcid="0000-0001-6715-1290" pid="53/154">Claudio S. Pinhanez</author>
+<title>Unveiling Practices and Challenges of Machine Teachers of Customer Service Conversational Systems.</title>
+<pages>32:1-32:2</pages>
+<year>2020</year>
+<booktitle>CIU</booktitle>
+<ee>https://doi.org/10.1145/3405755.3406173</ee>
+<crossref>conf/cui/2020</crossref>
+<url>db/conf/cui/cui2020.html#CandelloWP20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WesselS20" mdate="2020-10-16">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>The Inconvenient Side of Software Bots on Pull Requests.</title>
+<pages>51-55</pages>
+<year>2020</year>
+<booktitle>ICSE (Workshops)</booktitle>
+<ee>https://doi.org/10.1145/3387940.3391504</ee>
+<crossref>conf/icse/2020w</crossref>
+<url>db/conf/icse/icse2020w.html#WesselS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icsm/WesselSWSG20" mdate="2020-11-10">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Effects of Adopting Code Review Bots on Pull Requests to OSS Projects.</title>
+<pages>1-11</pages>
+<year>2020</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME46990.2020.00011</ee>
+<crossref>conf/icsm/2020</crossref>
+<url>db/conf/icsm/icsme2020.html#WesselSWSG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/WesselSWSG20" mdate="2022-08-18">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>What to Expect from Code Review Bots on GitHub?: A Survey with OSS Maintainers.</title>
+<pages>457-462</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422459</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#WesselSWSG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/Wessel20" mdate="2025-01-19">
+<author pid="205/9369">Mairieli Santos Wessel</author>
+<title>Enhancing developers' support on pull requests activities with software bots.</title>
+<pages>1674-1677</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3418539</ee>
+<ee>https://www.wikidata.org/entity/Q130894687</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#Wessel20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/httf/CandelloPWPM19" mdate="2023-03-21">
+<author pid="84/7371">Heloisa Candello</author>
+<author pid="05/2277">Mauro Pichiliani</author>
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author orcid="0000-0001-6715-1290" pid="53/154">Claudio S. Pinhanez</author>
+<author pid="91/2964">Michael J. Muller</author>
+<title>Teaching Robots to Act and Converse in Physical Spaces: Participatory Design Fictions with Museum Guides.</title>
+<pages>15:1-15:4</pages>
+<year>2019</year>
+<booktitle>HTTF</booktitle>
+<ee>https://doi.org/10.1145/3363384.3363399</ee>
+<crossref>conf/httf/2019</crossref>
+<url>db/conf/httf/httf2019.html#CandelloPWPM19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/WesselSWG19" mdate="2019-10-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests.</title>
+<pages>38-42</pages>
+<year>2019</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE.2019.00018</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3338689</ee>
+<crossref>conf/icse/2019botse</crossref>
+<url>db/conf/icse/botse2019.html#WesselSWG19</url>
+</inproceedings>
+</r>
+<r><article key="journals/pacmhci/WesselSSWPCG18" mdate="2024-09-09">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="234/4562">Bruno Mendes de Souza</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0003-1762-7742" pid="71/5097">Ivanilton Polato</author>
+<author orcid="0000-0002-2307-3099" pid="33/2472">Ana Paula Chaves</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>The Power of Bots: Characterizing and Understanding Bots in OSS Projects.</title>
+<pages>182:1-182:19</pages>
+<year>2018</year>
+<volume>2</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW</number>
+<ee>https://doi.org/10.1145/3274451</ee>
+<url>db/journals/pacmhci/pacmhci2.html#WesselSSWPCG18</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/WesselAOGW17" mdate="2019-10-19">
+<author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Santos Wessel</author>
+<author pid="61/9679">Mauricio Finavaro Aniche</author>
+<author pid="97/10540">Gustavo Ansaldi Oliva</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>Tweaking Association Rules to Optimize Software Change Recommendations.</title>
+<pages>94-103</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131163</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#WesselAOGW17</url>
+</inproceedings>
+</r>
+<coauthors n="105" nc="1">
+<co c="0"><na f="a/Abdellatif:Ahmad" pid="241/5936">Ahmad Abdellatif</na></co>
+<co c="0"><na f="a/Alfraihi:Hessa" pid="176/8785">Hessa Alfraihi</na></co>
+<co c="0"><na f="a/Aniche:Mauricio_Finavaro" pid="61/9679">Mauricio Finavaro Aniche</na></co>
+<co c="0"><na f="=/=Aacute=vila:Emanuel" pid="419/1270">Emanuel &#193;vila</na></co>
+<co c="0"><na f="b/Baldassarre:Maria_Teresa" pid="73/1559">Maria Teresa Baldassarre</na></co>
+<co c="0"><na f="b/Baltes:Sebastian" pid="145/3950">Sebastian Baltes</na></co>
+<co c="0"><na f="b/Barcomb:Ann" pid="159/6043">Ann Barcomb</na></co>
+<co c="0"><na f="b/Barr:Earl_T=" pid="47/1088">Earl T. Barr</na></co>
+<co c="0"><na f="b/Basciani:Francesco" pid="151/1415">Francesco Basciani</na></co>
+<co c="0"><na f="b/Bento:Mariana_P=" pid="59/10579">Mariana P. Bento</na></co>
+<co c="0"><na f="b/Bento:Mariana_Pinheiro" pid="78/9171">Mariana Pinheiro Bento</na></co>
+<co c="0"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na></co>
+<co c="0"><na f="b/Blincoe:Kelly" pid="50/10438">Kelly Blincoe</na></co>
+<co c="0"><na f="b/Brandt:Carolin_E=" pid="274/7866">Carolin E. Brandt</na></co>
+<co c="0"><na f="c/Cabot:Jordi" pid="18/948">Jordi Cabot</na></co>
+<co c="0"><na f="c/Calefato:Fabio" pid="48/5662">Fabio Calefato</na></co>
+<co c="0"><na f="c/Caltais:Georgiana" pid="21/7130">Georgiana Caltais</na></co>
+<co c="0"><na f="c/Candello:Heloisa" pid="84/7371">Heloisa Candello</na></co>
+<co c="0"><na f="c/Chaves:Ana_Paula" pid="33/2472">Ana Paula Chaves</na></co>
+<co c="0"><na f="c/Chen_0003:Junjie" pid="04/4498-3">Junjie Chen 0003</na></co>
+<co c="0"><na f="c/Cheong:Marc" pid="16/7536">Marc Cheong</na></co>
+<co c="0"><na f="c/Constantinou:Eleni" pid="73/10358">Eleni Constantinou</na></co>
+<co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
+<co c="0"><na f="d/Decan:Alexandre" pid="84/7943">Alexandre Decan</na></co>
+<co c="0"><na f="d/Destefanis:Giuseppe" pid="30/11498">Giuseppe Destefanis</na></co>
+<co c="0"><na f="f/Fan:Youmei" pid="366/3510">Youmei Fan</na></co>
+<co c="0"><na f="f/Feitosa:Daniel" pid="20/8385">Daniel Feitosa</na></co>
+<co c="0"><na f="f/Ferry_0001:Nicolas" pid="89/7791-1">Nicolas Ferry 0001</na></co>
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gomes:Ant=ocirc=nio" pid="401/6506">Ant&#244;nio Gomes</na></co>
+<co c="0"><na f="g/Guo:Jin_L=_C=" pid="73/4155-4">Jin L. C. Guo</na></co>
+<co c="0"><na f="h/Hayashi:Shinpei" pid="73/5681">Shinpei Hayashi</na></co>
+<co c="0"><na f="h/Hirschfeld:Robert" pid="h/RobertHirschfeld">Robert Hirschfeld</na></co>
+<co c="0"><na f="h/Holmes:Reid" pid="18/1889">Reid Holmes</na></co>
+<co c="0"><na f="h/Hooten:Eli" pid="377/5453">Eli Hooten</na></co>
+<co c="0"><na f="h/Hu_0008:Xing" pid="49/10052-8">Xing Hu 0008</na></co>
+<co c="0"><na f="h/Huo:Yintong" pid="281/6760">Yintong Huo</na></co>
+<co c="0"><na f="i/Iovino:Ludovico" pid="72/11439">Ludovico Iovino</na></co>
+<co c="0"><na f="j/Jeft=eacute=:Carlos" pid="419/1185">Carlos Jeft&#233;</na></co>
+<co c="0"><na f="j/Jongeling:Robbert" pid="171/5107">Robbert Jongeling</na></co>
+<co c="0"><na f="k/Khatami:Ali" pid="349/7724">Ali Khatami</na></co>
+<co c="0"><na f="k/Kinsman:Timothy" pid="289/0070">Timothy Kinsman</na></co>
+<co c="0"><na f="k/Klikovits:Stefan" pid="167/2898">Stefan Klikovits</na></co>
+<co c="0"><na f="k/Kobayashi_0001:Takashi" pid="k/TakashiKobayashi">Takashi Kobayashi 0001</na></co>
+<co c="0"><na f="k/Kochanthara:Sangeeth" pid="193/0381">Sangeeth Kochanthara</na></co>
+<co c="0"><na f="k/Kula:Raula_Gaikovina" pid="64/7675">Raula Gaikovina Kula</na></co>
+<co c="0"><na f="l/Lanza_0001:Michele" pid="53/6708">Michele Lanza 0001</na></co>
+<co c="0"><na f="l/Licorish:Sherlock_A=" pid="119/0498">Sherlock A. Licorish</na></co>
+<co c="0"><na f="l/Liu_0002:Zhongxin" pid="15/3235-2">Zhongxin Liu 0002</na></co>
+<co c="0"><na f="l/L=oacute=pez:Jos=eacute=_Antonio_Hern=aacute=ndez" pid="274/0650">Jos&#233; Antonio Hern&#225;ndez L&#243;pez</na></co>
+<co c="0"><na f="m/Maciel:Ana" pid="419/1158">Ana Maciel</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:Cleyton" pid="441/2048">Cleyton Magalh&#227;es</na></co>
+<co c="0" n="2"><na f="m/Magalh=atilde=es:Cleyton_V=_C=_de" pid="128/2725">Cleyton V. C. de Magalh&#227;es</na><na>Cleyton Vanut Cordeiro de Magalh&#227;es</na></co>
+<co c="0"><na f="m/Mazrae:Pooya_Rostami" pid="296/3718">Pooya Rostami Mazrae</na></co>
+<co c="0"><na f="m/Mens:Tom" pid="m/TomMens">Tom Mens</na></co>
+<co c="0"><na f="m/Mesquita:Arthur_Willame" pid="406/7537">Arthur Willame Mesquita</na></co>
+<co c="0"><na f="m/Mesquita:Eric" pid="419/1291">Eric Mesquita</na></co>
+<co c="0"><na f="m/Muller:Michael_J=" pid="91/2964">Michael J. Muller</na></co>
+<co c="0"><na f="n/Nascimento:Ronan" pid="326/0269">Ronan Nascimento</na></co>
+<co c="0"><na f="n/Nourry:Olivier" pid="39/11368">Olivier Nourry</na></co>
+<co c="0"><na f="n/Novielli:Nicole" pid="09/1798">Nicole Novielli</na></co>
+<co c="0"><na f="n/Nunes:Maykon" pid="357/5390">Maykon Nunes</na></co>
+<co c="0"><na f="o/Oliva:Gustavo_Ansaldi" pid="97/10540">Gustavo Ansaldi Oliva</na></co>
+<co c="0"><na f="o/Oliveira:Bruno_Alves_de" pid="440/1731">Bruno Alves de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Iury" pid="440/1814">Iury Oliveira</na></co>
+<co c="0"><na f="o/Ortu:Marco" pid="130/6495">Marco Ortu</na></co>
+<co c="0"><na f="p/Paula:Hugo_de" pid="326/0860">Hugo de Paula</na></co>
+<co c="0"><na f="p/Pichiliani:Mauro" pid="05/2277">Mauro Pichiliani</na></co>
+<co c="0"><na f="p/Pinhanez:Claudio_S=" pid="53/154">Claudio S. Pinhanez</na></co>
+<co c="0"><na f="p/Polato:Ivanilton" pid="71/5097">Ivanilton Polato</na></co>
+<co c="0"><na f="p/Poshyvanyk:Denys" pid="02/320">Denys Poshyvanyk</na></co>
+<co c="0"><na f="r/Rabelo:Matheus" pid="360/8431">Matheus Rabelo</na></co>
+<co c="0"><na f="r/Rahimi:Shekoufeh_Kolahdouz" pid="15/8435">Shekoufeh Kolahdouz Rahimi</na></co>
+<co c="0"><na f="r/Ribeiro:Eric" pid="260/8393">Eric Ribeiro</na></co>
+<co c="0"><na f="r/Richards:Jonan" pid="385/1554">Jonan Richards</na></co>
+<co c="0"><na f="r/Rooijendijk:Pien" pid="427/8901">Pien Rooijendijk</na></co>
+<co c="0"><na f="r/Rubei:Riccardo" pid="228/4210">Riccardo Rubei</na></co>
+<co c="0"><na f="s/Saito:Shinobu" pid="12/3233">Shinobu Saito</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Ronnie_E=_S=" pid="128/2872">Ronnie E. S. Santos</na><na>Ronnie de Souza Santos</na></co>
+<co c="0"><na f="s/Serebrenik:Alexander" pid="s/AlexanderSerebrenik">Alexander Serebrenik</na></co>
+<co c="0"><na f="s/Shihab:Emad" pid="05/5996">Emad Shihab</na></co>
+<co c="0"><na f="s/Shimari:Kazumasa" pid="242/2155">Kazumasa Shimari</na></co>
+<co c="0"><na f="s/Silva:Marcos" pid="76/9691">Marcos Silva</na></co>
+<co c="0"><na f="s/Sousa:Lucas" pid="274/2536">Lucas Sousa</na></co>
+<co c="0"><na f="s/Souza:Bruno_Mendes_de" pid="234/4562">Bruno Mendes de Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Sterk:Alexander" pid="377/5361">Alexander Sterk</na></co>
+<co c="0"><na f="s/Stuart=Verner:Brody" pid="342/2785">Brody Stuart-Verner</na></co>
+<co c="0"><na f="t/Tehrani:Sobhan_Yassipour" pid="159/3609">Sobhan Yassipour Tehrani</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0"><na f="t/Troya:Javier" pid="98/7772">Javier Troya</na></co>
+<co c="0"><na f="u/Uch=ocirc=a:Anderson_G=" pid="199/5439">Anderson G. Uch&#244;a</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Vella:Annie" pid="412/4726">Annie Vella</na></co>
+<co c="0"><na f="v/Vidon:Sara" pid="270/5403">Sara Vidon</na></co>
+<co c="0"><na f="w/Wagner_0007:Markus" pid="94/7030-7">Markus Wagner 0007</na></co>
+<co c="0"><na f="w/Wagner_0001:Stefan" pid="w/StefanWagner1">Stefan Wagner 0001</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0"><na f="w/Williams:Laurie" pid="392/5948">Laurie Williams</na></co>
+<co c="0"><na f="x/Xavier:Laerte" pid="197/4462">Laerte Xavier</na></co>
+<co c="0"><na f="x/Xia_0001:Xin" pid="06/2072-1">Xin Xia 0001</na></co>
+<co c="0"><na f="z/Zaidman:Andy" pid="68/6471">Andy Zaidman</na></co>
+<co c="0"><na f="z/Zaytsev:Vadim" pid="91/1157">Vadim Zaytsev</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,454 @@
+/* ==========================================================================
+   RESHAPE Lab — stylesheet
+   Palette inherited from igor.pro.br (GitHub contribution-graph greens).
+   --ink-green is the mark outline: ink shifted 25% toward green-cell-4.
+   Type: Space Grotesk (display) / Source Serif 4 (body) / JetBrains Mono
+   (metadata: years, venues, roles, labels).
+   ========================================================================== */
+
+:root {
+  --paper: #fafbfc;
+  --ink: #1b1f24;
+  --ink-green: #1d3329;
+  --slate: #57606a;
+  --line: #d8dee4;
+  --green: #2da44e;
+  --green-deep: #1a7f37;
+  --green-soft: #dafbe1;
+  --award: #9a6700;
+  --cell-0: #ebedf0;
+  --cell-1: #9be9a8;
+  --cell-2: #40c463;
+  --cell-3: #30a14e;
+  --cell-4: #216e39;
+  --max: 940px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+  /* these two rely on an animation to become visible, so pin them on */
+  .contrib span { opacity: 1 !important; }
+  .masthead .mark * { opacity: 1 !important; transform: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+h1, h2, h3, nav, .btn, .name, .year-h, .sub-h { font-family: "Space Grotesk", "Helvetica Neue", sans-serif; }
+.mono { font-family: "JetBrains Mono", ui-monospace, monospace; }
+
+a { color: var(--green-deep); text-decoration: none; border-bottom: 1px solid var(--cell-1); }
+a:hover { border-bottom-color: var(--green-deep); }
+a:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+
+img { max-width: 100%; }
+
+.skip {
+  position: absolute; left: -9999px; top: 0;
+  background: var(--paper); padding: 10px 16px; border: 1px solid var(--green-deep); z-index: 99;
+}
+.skip:focus { left: 12px; top: 12px; }
+
+/* ---- nav ---- */
+header.site {
+  position: sticky; top: 0; z-index: 10;
+  background: rgba(250,251,252,.92);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line);
+}
+header.site .row {
+  max-width: var(--max); margin: 0 auto; padding: 12px 24px;
+  display: flex; align-items: center; justify-content: space-between; gap: 16px;
+}
+header.site .brand {
+  display: flex; align-items: center; gap: 10px;
+  font-weight: 700; font-size: 17px; letter-spacing: -.01em;
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--ink); border: 0;
+}
+header.site .brand svg { width: 26px; height: auto; flex: none; }
+header.site .brand .lab {
+  font-family: "JetBrains Mono", monospace; font-weight: 500;
+  font-size: 13px; color: var(--green-deep);
+}
+header.site nav { display: flex; gap: 20px; flex-wrap: wrap; }
+header.site nav a {
+  font-size: 14px; font-weight: 500; color: var(--slate);
+  border: 0; letter-spacing: .01em;
+}
+header.site nav a:hover, header.site nav a[aria-current="page"] { color: var(--green-deep); }
+
+/* ---- hero ---- */
+.hero { max-width: var(--max); margin: 0 auto; padding: 64px 24px 40px; }
+.hero h1 {
+  font-size: clamp(32px, 5.4vw, 50px);
+  line-height: 1.05; letter-spacing: -.025em; margin: 0 0 14px;
+}
+.hero .role {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px; color: var(--green-deep);
+  letter-spacing: .06em; margin: 0 0 24px;
+}
+.hero .thesis {
+  font-size: clamp(19px, 2.6vw, 23px);
+  line-height: 1.5; max-width: 660px; margin: 0 0 26px;
+}
+.hero .thesis em { font-style: normal; background: var(--green-soft); padding: 0 4px; }
+
+/* signature element: contribution-graph strip */
+.contrib {
+  display: grid;
+  grid-template-rows: repeat(7, 11px);
+  grid-auto-flow: column;
+  grid-auto-columns: 11px;
+  gap: 3px;
+  margin: 12px 0;
+  overflow: hidden;
+}
+.contrib span {
+  width: 11px; height: 11px; border-radius: 2px;
+  background: var(--cell-0);
+  opacity: 0; animation: cell-in .4s ease forwards;
+}
+.contrib span.l1 { background: var(--cell-1); }
+.contrib span.l2 { background: var(--cell-2); }
+.contrib span.l3 { background: var(--cell-3); }
+.contrib span.l4 { background: var(--cell-4); }
+@keyframes cell-in { to { opacity: 1; } }
+
+.contrib-caption {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11.5px; color: var(--slate); margin: 12px 0 6px;
+}
+
+/* ---- masthead: the logo-forward landing header ------------------------- */
+.masthead {
+  /* overrides the generic `section` rule so the band and strip go full-bleed */
+  max-width: none; padding: 0;
+  border-bottom: 1px solid var(--line);
+  background:
+    linear-gradient(180deg, #ffffff 0%, var(--paper) 58%),
+    radial-gradient(1200px 420px at 10% -18%, var(--green-soft) 0%, transparent 68%);
+  overflow: hidden;
+}
+.masthead .inner { max-width: var(--max); margin: 0 auto; padding: 0 24px; }
+.masthead .top { padding-top: 72px; }
+
+.lockup { display: flex; align-items: center; gap: 30px; flex-wrap: wrap; }
+.lockup .mark { width: 136px; height: auto; flex: none; }
+.lockup .names { min-width: 260px; }
+
+h1.wordmark {
+  font-family: "Space Grotesk", sans-serif; font-weight: 700;
+  font-size: clamp(42px, 7.4vw, 72px);
+  letter-spacing: -.035em; line-height: .92; margin: 0;
+}
+h1.wordmark .lab {
+  font-family: "JetBrains Mono", monospace; font-weight: 500;
+  font-size: .34em; letter-spacing: 0; color: var(--green-deep);
+  margin-left: .3em;
+}
+.lockup .expanded {
+  font-family: "JetBrains Mono", monospace; font-size: 13px;
+  color: var(--ink); letter-spacing: .04em; line-height: 1.55;
+  margin: 16px 0 0; max-width: 58ch;
+}
+.lockup .where {
+  display: block; margin-top: 7px; font-size: 11.5px;
+  color: var(--slate); letter-spacing: .05em;
+}
+
+.hero-claim {
+  font-family: "Space Grotesk", sans-serif; font-weight: 500;
+  font-size: clamp(22px, 3.1vw, 31px); line-height: 1.16;
+  letter-spacing: -.02em; max-width: 27ch;
+  margin: 46px 0 0;
+}
+.masthead .thesis {
+  font-size: clamp(17px, 2.1vw, 19.5px); line-height: 1.6;
+  max-width: 62ch; margin: 16px 0 0; color: var(--slate);
+}
+.masthead .thesis em {
+  font-style: normal; color: var(--ink);
+  background: var(--green-soft); padding: 0 5px;
+}
+.masthead .btn-row { margin-top: 26px; }
+
+/* full-bleed contribution strip pinned to the bottom of the masthead */
+.masthead .strip { margin-top: 44px; }
+.masthead .strip .contrib { margin: 0; }
+.masthead .caption { padding-bottom: 26px; }
+
+/* one orchestrated entrance: wall, then the community, then the newcomer
+   arriving through the doorway. Runs once, ~1.5s. */
+.masthead .mark .wall { animation: mk-wall .55s ease both; }
+.masthead .mark .cell {
+  transform-box: fill-box; transform-origin: center;
+  animation: mk-cell .5s cubic-bezier(.2,.8,.2,1) both;
+}
+.masthead .mark .c1 { animation-delay: .30s; }
+.masthead .mark .c2 { animation-delay: .42s; }
+.masthead .mark .c3 { animation-delay: .54s; }
+.masthead .mark .newcomer {
+  transform-box: fill-box; transform-origin: center;
+  animation: mk-enter .85s cubic-bezier(.22,1,.36,1) .78s both;
+}
+@keyframes mk-wall  { from { opacity: 0; } to { opacity: 1; } }
+@keyframes mk-cell  { from { opacity: 0; transform: scale(.65); } to { opacity: 1; transform: none; } }
+@keyframes mk-enter { from { opacity: 0; transform: translateX(30px); } to { opacity: 1; transform: none; } }
+
+@media (max-width: 720px) {
+  .masthead .top { padding-top: 44px; }
+  .lockup { gap: 20px; }
+  .lockup .mark { width: 96px; }
+  .hero-claim { margin-top: 32px; max-width: none; }
+  .masthead .strip { margin-top: 32px; }
+}
+
+/* ---- sections ---- */
+main { display: block; }
+section { max-width: var(--max); margin: 0 auto; padding: 22px 24px; }
+section + section { border-top: 1px solid var(--line); }
+.masthead + section { border-top: 0; }
+h2 {
+  font-size: 14px; text-transform: uppercase; letter-spacing: .1em;
+  color: var(--green-deep); margin: 0 0 20px;
+  display: flex; align-items: center; gap: 10px;
+}
+h2::before {
+  content: ""; width: 9px; height: 9px; border-radius: 2px;
+  background: var(--green); flex: none;
+}
+h3 { font-size: 19px; margin: 26px 0 8px; letter-spacing: -.01em; }
+
+.lead { font-size: 18.5px; max-width: 700px; }
+.page-title {
+  font-family: "Space Grotesk", sans-serif; font-weight: 700;
+  font-size: clamp(28px, 4.4vw, 40px); letter-spacing: -.02em;
+  line-height: 1.1; margin: 0 0 10px;
+}
+.eyebrow {
+  font-family: "JetBrains Mono", monospace; font-size: 11.5px;
+  color: var(--slate); letter-spacing: .07em; margin: 0 0 8px;
+}
+
+/* research themes / generic cards */
+.themes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
+.theme { border: 1px solid var(--line); border-radius: 8px; padding: 18px; background: #fff; }
+.theme h3 { margin: 0 0 8px; font-size: 16.5px; }
+.theme p { margin: 0; font-size: 15px; color: var(--slate); line-height: 1.55; }
+.theme .tag {
+  font-family: "JetBrains Mono", monospace; font-size: 11px;
+  color: var(--green-deep); display: block; margin-bottom: 8px; letter-spacing: .05em;
+}
+
+/* ---- publications ---- */
+.pub { padding: 14px 0; border-bottom: 1px dashed var(--line); }
+.pub:last-child { border-bottom: 0; }
+.pub .meta {
+  font-family: "JetBrains Mono", monospace; font-size: 12px;
+  color: var(--slate); display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 3px;
+}
+.pub .meta .venue { color: var(--green-deep); font-weight: 600; }
+.pub .meta .award { color: var(--award); }
+.pub .title { font-size: 16.5px; font-weight: 600; line-height: 1.4; }
+.pub .authors { font-size: 14px; color: var(--slate); margin-top: 2px; }
+.pub .authors a.me {
+  color: var(--ink); font-weight: 600; border-bottom: 1px solid transparent;
+}
+.pub .authors a.me:hover { border-bottom-color: var(--cell-2); }
+.pub .tags { font-family: "JetBrains Mono", monospace; font-size: 11.5px; margin-top: 4px; }
+.pub .tags a { border: 0; color: var(--green-deep); }
+.pub .tags a::before { content: "◆ "; color: var(--cell-2); }
+.pub .paper-link {
+  font-family: "JetBrains Mono", monospace; font-size: 12px;
+  color: var(--green-deep); border: 0; white-space: nowrap;
+}
+.pub .paper-link:hover { text-decoration: underline; }
+.year-h { font-size: 22px; margin: 34px 0 6px; letter-spacing: -.01em; }
+.year-h:first-of-type { margin-top: 12px; }
+
+/* filter bar */
+.filter {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  padding: 12px 14px; margin: 0 0 6px;
+  border: 1px solid var(--line); border-radius: 8px; background: #fff;
+  font-family: "JetBrains Mono", monospace; font-size: 12.5px;
+}
+.filter label { color: var(--slate); letter-spacing: .04em; }
+.filter input[type="search"] {
+  font-family: inherit; font-size: 12.5px; color: var(--ink);
+  padding: 7px 11px; border: 1px solid var(--line); border-radius: 6px;
+  background: var(--paper); flex: 1 1 260px; min-width: 180px;
+  -webkit-appearance: none; appearance: none;
+}
+.filter input[type="search"]::placeholder { color: var(--slate); opacity: .8; }
+.filter input[type="search"]:focus-visible {
+  outline: 2px solid var(--green); outline-offset: 1px; border-color: var(--green);
+}
+
+/* year rail: a jump list, because the page is long */
+.year-rail {
+  display: flex; flex-wrap: wrap; gap: 4px 12px;
+  font-family: "JetBrains Mono", monospace; font-size: 12px;
+  padding: 10px 2px 2px;
+}
+.year-rail a { border: 0; color: var(--slate); }
+.year-rail a:hover { color: var(--green-deep); }
+
+button.linky {
+  font: inherit; color: var(--green-deep); background: none; border: 0;
+  padding: 0; cursor: pointer; text-decoration: underline;
+}
+button.linky:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+
+/* scroll-margin so a year heading is not hidden under the sticky header */
+.year-h { scroll-margin-top: 76px; }
+.filter .count { color: var(--slate); margin-left: auto; }
+.filter a { border: 0; }
+
+/* ---- people ---- */
+.people-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 20px; }
+.person { text-align: left; }
+.person a.card { border: 0; display: block; }
+.person .photo {
+  /* height:auto is required — the width/height attributes on <img> are
+     presentational hints that would otherwise beat aspect-ratio */
+  width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover;
+  border-radius: 10px; border: 1px solid var(--line); background: var(--cell-0);
+  display: block;
+}
+.person a.card:hover .photo { border-color: var(--green); }
+.person .pname { font-family: "Space Grotesk", sans-serif; font-weight: 500; font-size: 15.5px; margin: 10px 0 2px; line-height: 1.25; }
+.person .prole { font-family: "JetBrains Mono", monospace; font-size: 11.5px; color: var(--slate); line-height: 1.45; }
+.person .pmeta { font-family: "JetBrains Mono", monospace; font-size: 11px; color: var(--slate); margin-top: 3px; }
+.avatar-fallback {
+  width: 100%; aspect-ratio: 1 / 1; border-radius: 10px; border: 1px solid var(--line);
+  background: var(--green-soft); color: var(--cell-4);
+  display: flex; align-items: center; justify-content: center;
+  font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: 30px; letter-spacing: -.02em;
+}
+
+/* member detail header */
+.member-head { display: flex; gap: 28px; align-items: flex-start; flex-wrap: wrap; }
+.member-head .photo-lg {
+  width: 168px; height: 168px; border-radius: 12px; object-fit: cover;
+  border: 1px solid var(--line); flex: none;
+  box-shadow: 0 1px 0 var(--cell-1), 4px 4px 0 var(--green-soft);
+}
+.member-head .bio { flex: 1 1 320px; min-width: 260px; }
+
+/* ---- projects ---- */
+.proj { border: 1px solid var(--line); border-radius: 8px; background: #fff; padding: 20px; margin-bottom: 16px; }
+.proj h3 { margin: 0 0 6px; font-size: 18.5px; }
+.proj h3 a { border: 0; color: var(--ink); }
+.proj h3 a:hover { color: var(--green-deep); }
+.proj .pmeta {
+  font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--slate);
+  display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 8px;
+}
+.proj .pmeta .funder { color: var(--green-deep); font-weight: 600; }
+.proj .summary { margin: 0; font-size: 15.5px; color: var(--slate); line-height: 1.55; }
+.proj .foot { font-family: "JetBrains Mono", monospace; font-size: 11.5px; margin-top: 10px; display: flex; gap: 14px; flex-wrap: wrap; }
+.status {
+  font-family: "JetBrains Mono", monospace; font-size: 11px; letter-spacing: .04em;
+  padding: 2px 8px; border-radius: 999px; border: 1px solid var(--cell-1);
+  background: var(--green-soft); color: var(--cell-4);
+}
+.status.past { background: var(--cell-0); border-color: var(--line); color: var(--slate); }
+
+/* project body prose */
+.prose { max-width: 700px; }
+.prose p { margin: 0 0 1em; }
+.prose ul { padding-left: 22px; }
+.prose li { margin: 4px 0; }
+.prose h3 { margin-top: 28px; }
+.prose code {
+  font-family: "JetBrains Mono", monospace; font-size: .87em;
+  background: var(--cell-0); padding: 1px 5px; border-radius: 4px;
+}
+
+/* funding table */
+.fund { width: 100%; border-collapse: collapse; font-size: 15px; }
+.fund.grants { table-layout: fixed; }
+.fund.grants col.c-proj { width: auto; }
+.fund.grants col.c-period { width: 128px; }
+.fund.grants col.c-role { width: 116px; }
+.fund.grants col.c-amt { width: 108px; }
+.fund th, .fund td { text-align: left; padding: 10px 12px 10px 0; border-bottom: 1px dashed var(--line); vertical-align: top; }
+.fund th {
+  font-family: "JetBrains Mono", monospace; font-size: 11px; font-weight: 500;
+  text-transform: uppercase; letter-spacing: .08em; color: var(--slate);
+  border-bottom: 1px solid var(--line);
+}
+.fund td.num, .fund th.num { text-align: right; padding-right: 0; font-family: "JetBrains Mono", monospace; font-size: 13.5px; white-space: nowrap; }
+.fund tr.total td { border-bottom: 0; font-weight: 600; }
+.fund .award-no { font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--slate); }
+.table-wrap { overflow-x: auto; }
+
+/* ---- news ---- */
+.news-item { padding: 14px 0; border-bottom: 1px dashed var(--line); display: flex; gap: 16px; }
+.news-item:last-child { border-bottom: 0; }
+.news-item .date {
+  font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--slate);
+  flex: none; width: 92px; padding-top: 3px;
+}
+.news-item h3 { margin: 0 0 3px; font-size: 17px; }
+.news-item .tag {
+  font-family: "JetBrains Mono", monospace; font-size: 11px; color: var(--green-deep);
+  letter-spacing: .04em;
+}
+.news-item p { margin: 4px 0 0; font-size: 15px; color: var(--slate); }
+
+/* lists */
+ul.clean { list-style: none; padding: 0; margin: 0; }
+ul.clean li { padding: 8px 0 8px 22px; position: relative; }
+ul.clean li::before {
+  content: ""; position: absolute; left: 0; top: 16px;
+  width: 8px; height: 8px; border-radius: 2px; background: var(--cell-2);
+}
+
+/* buttons */
+.btn {
+  display: inline-block; padding: 9px 16px; border-radius: 6px;
+  border: 1px solid var(--green-deep); color: var(--green-deep);
+  font-weight: 600; font-size: 14.5px;
+}
+.btn:hover { background: var(--green-soft); }
+.btn.solid { background: var(--green-deep); color: #fff; }
+.btn.solid:hover { background: var(--green); }
+.btn-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+
+.empty {
+  font-size: 15px; color: var(--slate); padding: 10px 0;
+  font-family: "JetBrains Mono", monospace; font-size: 12.5px;
+}
+
+/* footer */
+footer { border-top: 1px solid var(--line); margin-top: 44px; }
+footer .row {
+  max-width: var(--max); margin: 0 auto; padding: 28px 24px 48px;
+  font-size: 14px; color: var(--slate);
+  display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+}
+footer a { color: var(--slate); }
+
+@media (max-width: 640px) {
+  .hero { padding-top: 40px; }
+  header.site .row { padding: 10px 18px; }
+  header.site nav { gap: 13px; }
+  section { padding: 20px 18px; }
+  .member-head .photo-lg { width: 128px; height: 128px; }
+  .news-item { flex-direction: column; gap: 4px; }
+  .news-item .date { width: auto; }
+}

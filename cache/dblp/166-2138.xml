@@ -1,0 +1,1401 @@
+<?xml version="1.0"?>
+<dblpperson name="Bianca Trinkenreich" pid="166/2138" n="80">
+<person key="homepages/166/2138" mdate="2025-01-10">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<note type="affiliation">Colorado State University, USA</note>
+<url>https://biancatrink.github.io/</url>
+<url>https://scholar.google.com/citations?user=3nF0RuMAAAAJ</url>
+<url>https://orcid.org/0000-0001-7302-6082</url>
+<url>https://www.wikidata.org/entity/Q130840789</url>
+</person>
+<r><inproceedings key="conf/nlbse/KadiyalaST26" mdate="2026-08-03">
+<author pid="441/2069">Satyanarayanachowdary Kadiyala</author>
+<author orcid="0000-0001-6440-7596" pid="274/7065">Jaydeb Sarker</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>How should self-deprecation comments be classified? A toxicity analysis study on Zephyr.</title>
+<pages>12-16</pages>
+<year>2026</year>
+<booktitle>NLBSE@ICSE</booktitle>
+<ee>https://doi.org/10.1145/3786164.3788447</ee>
+<crossref>conf/nlbse/2026</crossref>
+<url>db/conf/nlbse/nlbse2026.html#KadiyalaST26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/GanduVKMGST26" mdate="2026-07-21">
+<author orcid="0009-0006-6516-661X" pid="441/2060">Sahithya Gandu</author>
+<author orcid="0009-0001-1984-9704" pid="441/1944">Anurag Vemula</author>
+<author orcid="0009-0002-3020-8438" pid="441/2069">Satyanarayanachowdary Kadiyala</author>
+<author pid="311/2997">Marcia Moraes</author>
+<author orcid="0000-0001-6000-9646" pid="244/6021-1">Sudipto Ghosh 0001</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<title>How Do Students Perceive Their Teammates? A Qualitative Study of Peer Evaluation in SE Course Projects.</title>
+<pages>1112-1122</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3805781</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#GanduVKMGST26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/AfrozFMKTSS26" mdate="2026-07-21">
+<author orcid="0000-0002-2485-548X" pid="29/7562">Sadia Afroz</author>
+<author orcid="0000-0001-9163-6853" pid="287/4912">Zixuan Feng</author>
+<author orcid="0000-0002-7975-2533" pid="289/1286">Tyler Menezes</author>
+<author orcid="0009-0009-3858-0905" pid="376/4239">Katie Kimura</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>The Fast and Spurious: Developer Productivity with GenAI.</title>
+<pages>1832-1841</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3806710</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#AfrozFMKTSS26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/AlvesAAATK26" mdate="2026-06-25">
+<author orcid="0009-0005-5440-358X" pid="117/5636">Tatiane Ornelas Martins Alves</author>
+<author orcid="0000-0003-2108-2335" pid="148/4956">Allysson Allex Ara&#250;jo</author>
+<author pid="410/6095">J&#250;lia Cond&#233; Ara&#250;jo</author>
+<author pid="410/5831">Marina Cond&#233; Ara&#250;jo</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations.</title>
+<pages>17-24</pages>
+<year>2026</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786149.3788305</ee>
+<crossref>conf/wsese/2026</crossref>
+<url>db/conf/wsese/wsese2026.html#AlvesAAATK26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2601-21259" mdate="2026-02-26">
+<author pid="264/7972">Sayma Sultana</author>
+<author pid="296/3817">London Ariel Cavaletto</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="18/11159">Amiangshu Bosu</author>
+<title>The Role of Social Identity in Shaping Biases Against Minorities in Software Organizations.</title>
+<year>2026</year>
+<month>January</month>
+<volume>abs/2601.21259</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2601.21259</ee>
+<url>db/journals/corr/corr2601.html#abs-2601-21259</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-11447" mdate="2026-03-29">
+<author pid="287/4912">Zixuan Feng</author>
+<author pid="376/4239">Katie Kimura</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Addressing OSS Community Managers' Challenges in Contributor Retention.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.11447</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.11447</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-11447</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2604-11184" mdate="2026-05-08">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="48/5662">Fabio Calefato</author>
+<author pid="50/10438">Kelly Blincoe</author>
+<author pid="395/8692">Viggo Tellefsen Wivestad</author>
+<author pid="246/6141">Antonio Pedro Santos Alves</author>
+<author pid="410/6095">J&#250;lia Ara&#250;jo</author>
+<author pid="410/5831">Marina Ara&#250;jo</author>
+<author pid="70/9506">Paolo Tell</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="19/3622-1">Thomas Zimmermann 0001</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<title>Taking a Pulse on How Generative AI is Reshaping the Software Engineering Research Landscape.</title>
+<year>2026</year>
+<month>April</month>
+<volume>abs/2604.11184</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2604.11184</ee>
+<url>db/journals/corr/corr2604.html#abs-2604-11184</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2605-06827" mdate="2026-06-08">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Guidelines for Cultivating a Sense of Belonging to Reduce Developer Burnout.</title>
+<year>2026</year>
+<month>May</month>
+<volume>abs/2605.06827</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2605.06827</ee>
+<url>db/journals/corr/corr2605.html#abs-2605-06827</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/software/TrinkenreichGSS25" mdate="2025-03-07">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Guidelines for Cultivating a Sense of Belonging to Reduce Developer Burnout.</title>
+<pages>84-91</pages>
+<year>2025</year>
+<month>March - April</month>
+<volume>42</volume>
+<journal>IEEE Softw.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MS.2024.3404361</ee>
+<url>db/journals/software/software42.html#TrinkenreichGSS25</url>
+<stream>streams/journals/software</stream>
+</article>
+</r>
+<r><article key="journals/tosem/HyrynsalmiBBPRSSTWL25" mdate="2025-09-11">
+<author orcid="0000-0002-1715-6250" pid="208/1302">Sonja M. Hyrynsalmi</author>
+<author orcid="0000-0002-2442-7522" pid="145/3950">Sebastian Baltes</author>
+<author orcid="0000-0002-6036-4733" pid="126/9627">Chris Brown 0001</author>
+<author orcid="0000-0003-3351-4916" pid="39/5605">Rafael Prikladnicki</author>
+<author orcid="0000-0002-0062-8418" pid="180/0034">Gema Rodr&#237;guez-P&#233;rez</author>
+<author orcid="0000-0002-1418-0095" pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author orcid="0000-0002-1253-9260" pid="33/3098">Jocelyn Simmonds</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-1321-4035" pid="67/6649-13">Yi Wang 0013</author>
+<author orcid="0000-0002-3884-815X" pid="34/10004">Grischa Liebel</author>
+<title>Making Software Development More Diverse and Inclusive: Key Themes, Challenges, and Future Directions.</title>
+<pages>134:1-134:23</pages>
+<year>2025</year>
+<month>June</month>
+<volume>34</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/3711904</ee>
+<url>db/journals/tosem/tosem34.html#HyrynsalmiBBPRSSTWL25</url>
+<stream>streams/journals/tosem</stream>
+</article>
+</r>
+<r><inproceedings key="conf/csee/ChoudhuriRCTSGS25" mdate="2026-02-25">
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="395/5209">Ambareesh Ramakrishnan</author>
+<author pid="294/0993">Amreeta Chatterjee</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>Insights from the Frontline: GenAI Utilization Among Software Engineering Students.</title>
+<pages>1-12</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00007</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#ChoudhuriRCTSGS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/BharadwajST25" mdate="2026-02-03">
+<author pid="426/0552">Sarthak Bharadwaj</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00016</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#BharadwajST25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/LoufekST25" mdate="2026-02-03">
+<author pid="426/0360">Spencer Baloga Loufek</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Beyond the Job Posting: What Hiring Managers Seek in Entry-Level Software Engineering Candidates.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00055</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#LoufekST25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ge-ws/GuenesTTBSK25" mdate="2025-07-14">
+<author pid="363/7363">Paloma Guenes</author>
+<author pid="363/7392">Rafael Tomaz</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Impostor Phenomenon Among Software Engineers: Investigating Gender Differences and Well-Being.</title>
+<pages>33-40</pages>
+<year>2025</year>
+<booktitle>GEICSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/GEICSE66911.2025.00009</ee>
+<crossref>conf/ge-ws/2025</crossref>
+<url>db/conf/ge-ws/ge-ws2025.html#GuenesTTBSK25</url>
+<stream>streams/conf/ge-ws</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TrinkenreichFCG25" mdate="2025-06-30">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="287/4912">Zixuan Feng</author>
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Investigating the Impact of Interpersonal Challenges on Feeling Welcome in OSS.</title>
+<pages>717-729</pages>
+<year>2025</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE55347.2025.00056</ee>
+<crossref>conf/icse/2025</crossref>
+<url>db/conf/icse/icse2025.html#TrinkenreichFCG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/ChoudhuriTPKSGS25" mdate="2025-06-30">
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="05/9103">Rahul Pandita</author>
+<author pid="27/1557">Eirini Kalliamvakou</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="373/7220">Christopher Sanchez</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards Genai.</title>
+<pages>1691-1703</pages>
+<year>2025</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE55347.2025.00087</ee>
+<crossref>conf/icse/2025</crossref>
+<url>db/conf/icse/icse2025.html#ChoudhuriTPKSGS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse-seip/ChattopadhyayCATKRCKBS25" mdate="2026-03-24">
+<author orcid="0009-0002-1564-8400" pid="382/4432">Soumiki Chattopadhyay</author>
+<author pid="294/0993">Amreeta Chatterjee</author>
+<author pid="344/4778">Puja Agarwal</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="414/6360">Swarathmika Kumar</author>
+<author orcid="0009-0004-4078-6236" pid="414/6336">Rohit Ranjan Rai</author>
+<author pid="414/6102">Resham Chugani</author>
+<author pid="255/1683">Pragya Kumari</author>
+<author pid="b/MMBurnett">Margaret Burnett</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Systematizing Inclusive Design in MOSIP: An Experience Report.</title>
+<pages>112-123</pages>
+<year>2025</year>
+<booktitle>SEIP@ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIP66354.2025.00016</ee>
+<crossref>conf/icse-seip/2025</crossref>
+<url>db/conf/icse-seip/seip2025.html#ChattopadhyayCATKRCKBS25</url>
+<stream>streams/conf/icse-seip</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/LutherNCM0T25" mdate="2025-08-09">
+<author orcid="0000-0002-0995-3356" pid="332/1323">Yanye Luther</author>
+<author orcid="0000-0002-0141-8375" pid="341/5396">Lindsey Nielsen</author>
+<author orcid="0009-0005-4376-8225" pid="411/7746">Logan Cadman</author>
+<author orcid="0000-0002-9652-3011" pid="311/2997">Marcia Moraes</author>
+<author orcid="0000-0001-6000-9646" pid="244/6021-1">Sudipto Ghosh 0001</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<title>Analyzing the Communication Patterns of Different Teammate Types in a Software Engineering Course Project.</title>
+<pages>749-759</pages>
+<year>2025</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3696630.3727232</ee>
+<crossref>conf/sigsoft/2025c</crossref>
+<url>db/conf/sigsoft/fse2025c.html#LutherNCM0T25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SantosFTGSG25" mdate="2025-08-09">
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-5661-4392" pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Exploring the Untapped: Student Perceptions and Participation in OSS.</title>
+<pages>859-870</pages>
+<year>2025</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3696630.3727243</ee>
+<crossref>conf/sigsoft/2025c</crossref>
+<url>db/conf/sigsoft/fse2025c.html#SantosFTGSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/TrinkenreichCHB25" mdate="2025-11-02">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2654-1588" pid="48/5662">Fabio Calefato</author>
+<author orcid="0000-0003-2718-6637" pid="38/431">Geir Hanssen</author>
+<author orcid="0000-0003-4092-9706" pid="50/10438">Kelly Blincoe</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<author orcid="0000-0001-5193-7379" pid="98/6514">Mauro Pezz&#232;</author>
+<author orcid="0000-0001-7391-0046" pid="70/9506">Paolo Tell</author>
+<author orcid="0000-0003-2278-2536" pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<title>Get on the Train or be Left on the Station: Using LLMs for Software Engineering Research.</title>
+<pages>1503-1507</pages>
+<year>2025</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3696630.3731666</ee>
+<ee>https://www.wikidata.org/entity/Q135937646</ee>
+<crossref>conf/sigsoft/2025c</crossref>
+<url>db/conf/sigsoft/fse2025c.html#TrinkenreichCHB25</url>
+</inproceedings>
+</r>
+<r><data publtype="version" key="data/11/MarcelinoATCSBK25" mdate="2025-12-15">
+<author pid="413/4828">Mauro Marcelino</author>
+<author orcid="0000-0001-6934-6745" pid="204/2895-2">Marcos Antonio Alves 0002</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-9035-654X" pid="144/8274">Bruno Cartaxo</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering.</title>
+<year>2025</year>
+<month>April</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.15233047</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.15233046" type="versionOf">data/11/MarcelinoATCSBK25b</rel>
+</data>
+</r>
+<r><data publtype="version" key="data/11/MarcelinoATCSBK25a" mdate="2025-12-15">
+<author pid="413/4828">Mauro Marcelino</author>
+<author orcid="0000-0001-6934-6745" pid="204/2895-2">Marcos Antonio Alves 0002</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-9035-654X" pid="144/8274">Bruno Cartaxo</author>
+<author orcid="0000-0002-4428-2535" pid="58/232">S&#233;rgio Soares</author>
+<author pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering.</title>
+<year>2025</year>
+<month>June</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.15725107</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 2" uri="https://doi.org/10.5281/zenodo.15233046" type="versionOf">data/11/MarcelinoATCSBK25b</rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07914" mdate="2025-07-29">
+<author pid="363/7363">Paloma Guenes</author>
+<author pid="363/7392">Rafael Tomaz</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Impostor Phenomenon Among Software Engineers: Investigating Gender Differences and Well-Being.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07914</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07914</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07914</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2505-17418" mdate="2026-02-25">
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="05/9103">Rahul Pandita</author>
+<author pid="27/1557">Eirini Kalliamvakou</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="373/7220">Christopher Sanchez</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>What Needs Attention? Prioritizing Drivers of Developers' Trust and Adoption of Generative AI.</title>
+<year>2025</year>
+<month>May</month>
+<volume>abs/2505.17418</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2505.17418</ee>
+<url>db/journals/corr/corr2505.html#abs-2505-17418</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2506-12691" mdate="2025-07-10">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="48/5662">Fabio Calefato</author>
+<author pid="38/431">Geir Hanssen</author>
+<author pid="50/10438">Kelly Blincoe</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="98/6514">Mauro Pezz&#232;</author>
+<author pid="70/9506">Paolo Tell</author>
+<author pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</author>
+<title>Get on the Train or be Left on the Station: Using LLMs for Software Engineering Research.</title>
+<year>2025</year>
+<month>June</month>
+<volume>abs/2506.12691</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2506.12691</ee>
+<url>db/journals/corr/corr2506.html#abs-2506-12691</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-15828" mdate="2025-08-18">
+<author pid="413/4828">Mauro Marcelino</author>
+<author pid="137/3802">Marcos Alves</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="144/8274">Bruno Cartaxo</author>
+<author pid="58/232">S&#233;rgio Soares</author>
+<author pid="b/SDJBarbosa">Simone D. J. Barbosa</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Investigating the Use of LLMs for Evidence Briefings Generation in Software Engineering.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.15828</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.15828</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-15828</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2510-24265" mdate="2026-02-25">
+<author pid="29/7562">Sadia Afroz</author>
+<author pid="287/4912">Zixuan Feng</author>
+<author pid="376/4239">Katie Kimura</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>Developer Productivity with GenAI.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.24265</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.24265</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-24265</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2511-14528" mdate="2026-01-14">
+<author pid="117/5636">Tatiane Ornelas</author>
+<author pid="148/4956">Allysson Allex Ara&#250;jo</author>
+<author pid="410/6095">J&#250;lia Ara&#250;jo</author>
+<author pid="410/5831">Marina Ara&#250;jo</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations.</title>
+<year>2025</year>
+<month>November</month>
+<volume>abs/2511.14528</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2511.14528</ee>
+<url>db/journals/corr/corr2511.html#abs-2511-14528</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ase/GerosaTSS24" mdate="2024-01-22">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Can AI serve as a substitute for human subjects in software engineering research?</title>
+<pages>13</pages>
+<year>2024</year>
+<month>June</month>
+<volume>31</volume>
+<journal>Autom. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10515-023-00409-6</ee>
+<url>db/journals/ase/ase31.html#GerosaTSS24</url>
+</article>
+</r>
+<r><article key="journals/infsof/FengKTSS24" mdate="2024-05-31">
+<author orcid="0000-0001-9163-6853" pid="287/4912">Zixuan Feng</author>
+<author orcid="0009-0009-3858-0905" pid="376/4239">Katie Kimura</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Guiding the way: A systematic literature review on mentoring practices in open source software projects.</title>
+<pages>107470</pages>
+<year>2024</year>
+<volume>171</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2024.107470</ee>
+<url>db/journals/infsof/infsof171.html#FengKTSS24</url>
+</article>
+</r>
+<r><article key="journals/tosem/TrinkenreichSS24" mdate="2025-11-02">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author orcid="0000-0002-1038-5050" pid="08/7091">Klaas-Jan Stol</author>
+<title>Predicting Attrition among Software Professionals: Antecedents and Consequences of Burnout and Engagement.</title>
+<pages>218:1-218:45</pages>
+<year>2024</year>
+<month>November</month>
+<volume>33</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>8</number>
+<ee>https://doi.org/10.1145/3691629</ee>
+<ee>https://www.wikidata.org/entity/Q130850060</ee>
+<url>db/journals/tosem/tosem33.html#TrinkenreichSS24</url>
+<stream>streams/journals/tosem</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/TrinkenreichGS24" mdate="2025-01-19">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Unraveling the Drivers of Sense of Belonging in Software Delivery Teams: Insights from a Large-Scale Survey.</title>
+<pages>190:1-190:12</pages>
+<year>2024</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3597503.3639119</ee>
+<ee>https://www.wikidata.org/entity/Q130840790</ee>
+<crossref>conf/icse/2024</crossref>
+<url>db/conf/icse/icse2024.html#TrinkenreichGS24</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/24/SteinmacherTSG24" mdate="2024-10-10">
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Breaking the Glass Floor for Women in Tech.</title>
+<pages>55-66</pages>
+<year>2024</year>
+<booktitle>Equity, Diversity, and Inclusion in Software Engineering</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-1-4842-9651-6_4</ee>
+<crossref>books/sp/24/DBFSM2024</crossref>
+<url>db/books/collections/DBFSM2024.html#SteinmacherTSG24</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-07142" mdate="2025-08-07">
+<author pid="208/1302">Sonja M. Hyrynsalmi</author>
+<author pid="145/3950">Sebastian Baltes</author>
+<author pid="126/9627">Chris Brown 0001</author>
+<author pid="39/5605">Rafael Prikladnicki</author>
+<author pid="180/0034">Gema Rodr&#237;guez-P&#233;rez</author>
+<author pid="s/AlexanderSerebrenik">Alexander Serebrenik</author>
+<author pid="33/3098">Jocelyn Simmonds</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="67/6649-13">Yi Wang 0013</author>
+<author pid="34/10004">Grischa Liebel</author>
+<title>Bridging Gaps, Building Futures: Advancing Software Developer Diversity and Inclusion Through Future-Oriented Research.</title>
+<year>2024</year>
+<volume>abs/2404.07142</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.07142</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-07142</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2409-04099" mdate="2024-10-09">
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="05/9103">Rahul Pandita</author>
+<author pid="27/1557">Eirini Kalliamvakou</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="373/7220">Christopher Sanchez</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards GenAI.</title>
+<year>2024</year>
+<volume>abs/2409.04099</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2409.04099</ee>
+<url>db/journals/corr/corr2409.html#abs-2409-04099</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2411-01601" mdate="2024-12-12">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="287/4912">Zixuan Feng</author>
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Investigating the Impact of Interpersonal Challenges on Feeling Welcome in OSS.</title>
+<year>2024</year>
+<volume>abs/2411.01601</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.01601</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-01601</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2412-15624" mdate="2025-01-23">
+<author pid="325/6052">Rudrajit Choudhuri</author>
+<author pid="395/5209">Ambareesh Ramakrishnan</author>
+<author pid="294/0993">Amreeta Chatterjee</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Insights from the Frontline: GenAI Utilization Among Software Engineering Students.</title>
+<year>2024</year>
+<volume>abs/2412.15624</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2412.15624</ee>
+<url>db/journals/corr/corr2412.html#abs-2412-15624</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/TrinkenreichSSGSLFRB23" mdate="2026-02-01">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-1038-5050" pid="08/7091">Klaas-Jan Stol</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="338/5622">Marcelo Lara</author>
+<author pid="338/7342">Michael Feathers</author>
+<author pid="195/5880">Nicholas Ross</author>
+<author pid="224/1371">Kevin Bishop</author>
+<title>A Model for Understanding and Reducing Developer Burnout.</title>
+<pages>48-60</pages>
+<year>2023</year>
+<booktitle>ICSE-SEIP</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIP58684.2023.00010</ee>
+<crossref>conf/icse/2023seip</crossref>
+<url>db/conf/icse/seip2023.html#TrinkenreichSSGSLFRB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TrinkenreichSSGGS23" mdate="2026-02-01">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-1038-5050" pid="08/7091">Klaas-Jan Stol</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors.</title>
+<pages>319-331</pages>
+<year>2023</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE48619.2023.00038</ee>
+<crossref>conf/icse/2023</crossref>
+<url>db/conf/icse/icse2023.html#TrinkenreichSSGGS23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-06437" mdate="2023-01-19">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="08/7091">Klaas-Jan Stol</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors.</title>
+<year>2023</year>
+<volume>abs/2301.06437</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.06437</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-06437</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-09103" mdate="2023-01-26">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="08/7091">Klaas-Jan Stol</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="338/5622">Marcelo Lara</author>
+<author pid="338/7342">Michael Feathers</author>
+<author pid="195/5880">Nicholas Ross</author>
+<author pid="224/1371">Kevin Bishop</author>
+<title>A Model for Understanding and Reducing Developer Burnout.</title>
+<year>2023</year>
+<volume>abs/2301.09103</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.09103</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-09103</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-11081" mdate="2023-11-22">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Can AI Serve as a Substitute for Human Subjects in Software Engineering Research?</title>
+<year>2023</year>
+<volume>abs/2311.11081</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.11081</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-11081</url>
+</article>
+</r>
+<r><article key="journals/computer/TrinkenreichGS22" mdate="2022-12-05">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Women in Open Source: We Need to Talk About It.</title>
+<pages>145-149</pages>
+<year>2022</year>
+<volume>55</volume>
+<journal>Computer</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/MC.2022.3200860</ee>
+<url>db/journals/computer/computer55.html#TrinkenreichGS22</url>
+</article>
+</r>
+<r><article key="journals/tosem/TrinkenreichWSG22" mdate="2023-08-28">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Women's Participation in Open Source Software: A Survey of the Literature.</title>
+<pages>81:1-81:37</pages>
+<year>2022</year>
+<volume>31</volume>
+<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3510460</ee>
+<ee>https://www.wikidata.org/entity/Q113771157</ee>
+<url>db/journals/tosem/tosem31.html#TrinkenreichWSG22</url>
+</article>
+</r>
+<r><article key="journals/tse/TrinkenreichGWC22" mdate="2023-08-28">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Pots of Gold at the End of the Rainbow: What is Success for Open Source Contributors?</title>
+<pages>3940-3953</pages>
+<year>2022</year>
+<volume>48</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1109/TSE.2021.3108032</ee>
+<ee>https://www.wikidata.org/entity/Q114982710</ee>
+<url>db/journals/tse/tse48.html#TrinkenreichGWC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/esem/SantosTPWSSG22" mdate="2025-01-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How to Choose a Task? Mismatches in Perspectives of Newcomers and Existing Contributors.</title>
+<pages>114-124</pages>
+<year>2022</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3544902.3546236</ee>
+<ee>https://www.wikidata.org/entity/Q130837901</ee>
+<crossref>conf/esem/2022</crossref>
+<url>db/conf/esem/esem2022.html#SantosTPWSSG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/TrinkenreichBGS22" mdate="2025-01-19">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>An Empirical Investigation on the Challenges Faced by Women in the Software Industry: A Case Study.</title>
+<pages>24-35</pages>
+<year>2022</year>
+<booktitle>ICSE-SEIS</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIS55304.2022.9793931</ee>
+<ee>https://doi.org/10.1145/3510458.3513018</ee>
+<ee>https://www.wikidata.org/entity/Q130868857</ee>
+<crossref>conf/icse/2022seis</crossref>
+<url>db/conf/icse/icse2022seis.html#TrinkenreichBGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GuizaniTCSGS22" mdate="2023-11-12">
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="314/6457">Aileen Abril Castro-Guzman</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Perceptions of the State of D&#38;I and D&#38;I Initiative in the ASF.</title>
+<pages>130-142</pages>
+<year>2022</year>
+<booktitle>ICSE-SEIS</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIS55304.2022.9794024</ee>
+<ee>https://doi.org/10.1145/3510458.3513008</ee>
+<crossref>conf/icse/2022seis</crossref>
+<url>db/conf/icse/icse2022seis.html#GuizaniTCSGS22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/BarcellosSCTM22" mdate="2023-02-10">
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Barcellos</author>
+<author orcid="0000-0003-0279-0440" pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Matsubara</author>
+<title>Organizing Empirical Studies as Learning Iterations in Design Science Research Projects.</title>
+<pages>17:1-17:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571474</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#BarcellosSCTM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2202-13260" mdate="2022-03-02">
+<author pid="277/8977">Mariam Guizani</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="314/6457">Aileen Abril Castro-Guzman</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Perceptions of the State of D&#38;I and D&#38;I Initiative in the ASF.</title>
+<year>2022</year>
+<volume>abs/2202.13260</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2202.13260</ee>
+<url>db/journals/corr/corr2202.html#abs-2202-13260</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-10555" mdate="2022-03-29">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>An Empirical Investigation on the Challenges Faced by Women in the Software Industry: A Case Study.</title>
+<year>2022</year>
+<volume>abs/2203.10555</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.10555</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-10555</url>
+</article>
+</r>
+<r><article key="journals/jisa/SteinmacherBTGI21" mdate="2023-11-12">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-0771-5669" pid="224/5070">Sogol Balali</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="52/8838-1">Daniel Izquierdo-Cortazar</author>
+<author pid="301/8724">Griselda G. Cuevas Zambrano</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>Being a Mentor in open source projects.</title>
+<pages>7</pages>
+<year>2021</year>
+<volume>12</volume>
+<journal>J. Internet Serv. Appl.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13174-021-00140-z</ee>
+<ee>https://www.wikidata.org/entity/Q114970009</ee>
+<url>db/journals/jisa/jisa12.html#SteinmacherBTGI21</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/GuizaniCTMNRZIS21" mdate="2023-11-12">
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="294/0993">Amreeta Chatterjee</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="294/1139">Mary Evelyn May</author>
+<author pid="305/9238">Geraldine J. Noa-Guevara</author>
+<author pid="305/9128">Liam James Russell</author>
+<author pid="301/8724">Griselda G. Cuevas Zambrano</author>
+<author pid="52/8838-1">Daniel Izquierdo-Cortazar</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do.</title>
+<pages>407:1-407:30</pages>
+<year>2021</year>
+<volume>5</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3479551</ee>
+<url>db/journals/pacmhci/pacmhci5.html#GuizaniCTMNRZIS21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/Trinkenreich21" mdate="2021-06-28">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Please Don't Go - Increasing Women's Participation in Open Source Software.</title>
+<pages>138-140</pages>
+<year>2021</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-Companion52605.2021.00059</ee>
+<crossref>conf/icse/2021c</crossref>
+<url>db/conf/icse/icse2021c.html#Trinkenreich21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/Trinkenreich21a" mdate="2021-06-28">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Please Don't Go - A Comprehensive Approach to Increase Women's Participation in Open Source Software.</title>
+<pages>293-298</pages>
+<year>2021</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-Companion52605.2021.00131</ee>
+<crossref>conf/icse/2021c</crossref>
+<url>db/conf/icse/icse2021c.html#Trinkenreich21a</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/GerosaWTLRTSS21" mdate="2025-01-19">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="284/0775">Georg Link</author>
+<author orcid="0000-0002-1442-6761" pid="r/GregorioRobles">Gregorio Robles</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source.</title>
+<pages>1046-1058</pages>
+<year>2021</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE43902.2021.00098</ee>
+<ee>https://www.wikidata.org/entity/Q130266799</ee>
+<crossref>conf/icse/2021</crossref>
+<url>db/conf/icse/icse2021.html#GerosaWTLRTSS21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosWTSSG21" mdate="2021-07-02">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Tasks.</title>
+<pages>346-257</pages>
+<year>2021</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR52588.2021.00047</ee>
+<crossref>conf/msr/2021</crossref>
+<url>db/conf/msr/msr2021.html#SantosWTSSG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/FerreiraTBS21" mdate="2025-12-07">
+<author orcid="0009-0002-4977-5096" pid="77/9013">Eduardo Ferreira</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>SINIS-LA Method for IT Alignment Considering Service Level Management.</title>
+<pages>41:1-41:8</pages>
+<year>2021</year>
+<booktitle>SBSI</booktitle>
+<ee>https://doi.org/10.1145/3466933.3466977</ee>
+<crossref>conf/sbsi/2021</crossref>
+<url>db/conf/sbsi/sbsi2021.html#FerreiraTBS21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2101-10291" mdate="2022-10-02">
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="284/0775">Georg Link</author>
+<author pid="r/GregorioRobles">Gregorio Robles</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<title>The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source.</title>
+<year>2021</year>
+<volume>abs/2101.10291</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2101.10291</ee>
+<url>db/journals/corr/corr2101.html#abs-2101-10291</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-08763" mdate="2021-03-23">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Please Don't Go - A Comprehensive Approach to Increase Women's Participation in Open Source Software.</title>
+<year>2021</year>
+<volume>abs/2103.08763</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.08763</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-08763</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-10450" mdate="2021-03-24">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<title>Please Don't Go - Increasing Women's Participation in Open Source Software.</title>
+<year>2021</year>
+<volume>abs/2103.10450</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.10450</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-10450</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2103-12653" mdate="2021-04-06">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can I Solve It? Identifying APIs Required to Complete OSS Task.</title>
+<year>2021</year>
+<volume>abs/2103.12653</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.12653</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-12653</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08777" mdate="2021-05-31">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Women's Participation in Open Source Software: A Survey of the Literature.</title>
+<year>2021</year>
+<volume>abs/2105.08777</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08777</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08777</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08789" mdate="2021-05-31">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>The Pot of Gold at the End of the Rainbow: What is Success for Open Source Contributors?</title>
+<year>2021</year>
+<volume>abs/2105.08789</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08789</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08789</url>
+</article>
+</r>
+<r><article key="journals/pacmhci/TrinkenreichGWS20" mdate="2025-01-19">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0003-2545-2612" pid="277/8977">Mariam Guizani</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Hidden Figures: Roles and Pathways of Successful OSS Contributors.</title>
+<pages>180:1-180:22</pages>
+<year>2020</year>
+<volume>4</volume>
+<journal>Proc. ACM Hum. Comput. Interact.</journal>
+<number>CSCW2</number>
+<ee>https://doi.org/10.1145/3415251</ee>
+<ee>https://www.wikidata.org/entity/Q130866303</ee>
+<url>db/journals/pacmhci/pacmhci4.html#TrinkenreichGWS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/wikis/BalaliAPTGSS20" mdate="2022-10-02">
+<author orcid="0000-0003-0771-5669" pid="224/5070">Sogol Balali</author>
+<author pid="224/4798">Umayal Annamalai</author>
+<author pid="222/5904">Hema Susmita Padala</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>Recommending Tasks to Newcomers in OSS Projects: How Do Mentors Handle It?</title>
+<pages>7:1-7:14</pages>
+<year>2020</year>
+<booktitle>OpenSym</booktitle>
+<ee>https://doi.org/10.1145/3412569.3412571</ee>
+<crossref>conf/wikis/2020</crossref>
+<url>db/conf/wikis/opensym2020.html#BalaliAPTGSS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/TrinkenreichSBC19" mdate="2021-10-14">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Combining GQM+Strategies and OKR - Preliminary Results from a Participative Case Study in Industry.</title>
+<pages>103-111</pages>
+<year>2019</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-35333-9_7</ee>
+<crossref>conf/profes/2019</crossref>
+<url>db/conf/profes/profes2019.html#TrinkenreichSBC19</url>
+</inproceedings>
+</r>
+<r><article key="journals/infsof/TrinkenreichSB18" mdate="2022-08-16">
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>SINIS: A GQM+Strategies-based approach for identifying goals, strategies and indicators for IT services.</title>
+<pages>147-164</pages>
+<year>2018</year>
+<volume>100</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2018.04.006</ee>
+<ee>https://www.wikidata.org/entity/Q113316963</ee>
+<url>db/journals/infsof/infsof100.html#TrinkenreichSB18</url>
+</article>
+</r>
+<r><inproceedings key="conf/esem/TrinkenreichCBS18" mdate="2021-10-14">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>Defining, measuring and monitoring IT service goals and strategies: preliminary results and pitfalls from a qualitative study with IT service managers.</title>
+<pages>35:1-35:10</pages>
+<year>2018</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3239235.3268919</ee>
+<crossref>conf/esem/2018</crossref>
+<url>db/conf/esem/esem2018.html#TrinkenreichCBS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/FerreiraTBS18" mdate="2025-12-07">
+<author orcid="0009-0002-4977-5096" pid="77/9013">Eduardo Ferreira</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>Using SINIS and GQM+Strategies to Align Organizational Goals and Service Level Agreement Indicators.</title>
+<pages>324-333</pages>
+<year>2018</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3275245.3275274</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/15087</ee>
+<crossref>conf/sbqs/2018</crossref>
+<url>db/conf/sbqs/sbqs2018.html#FerreiraTBS18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/TrinkenreichSBC17" mdate="2023-03-24">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Eliciting Strategies for the GQM+Strategies Approach in IT Service Measurement Initiatives.</title>
+<pages>374-383</pages>
+<year>2017</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2017.51</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2017.51</ee>
+<ee>http://dl.acm.org/citation.cfm?id=3200550</ee>
+<crossref>conf/esem/2017</crossref>
+<url>db/conf/esem/esem2017.html#TrinkenreichSBC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/TrinkenreichSB17" mdate="2022-03-29">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author pid="97/7540">Monalessa Perini Barcellos</author>
+<title>SINIS - A method to support defining goals, strategies and indicators for IT Services.</title>
+<pages>370-384</pages>
+<year>2017</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2017.15118</ee>
+<crossref>conf/sbqs/2017</crossref>
+<url>db/conf/sbqs/sbqs2017.html#TrinkenreichSB17</url>
+</inproceedings>
+</r>
+<r><article key="journals/isys/TrinkenreichS15" mdate="2024-02-26">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>Avalia&#231;&#227;o do Processo de Medi&#231;&#227;o para Servi&#231;os de TI em uma Empresa Global &#224; Luz do MR-MPS-SV.</title>
+<pages>58-77</pages>
+<year>2015</year>
+<volume>8</volume>
+<journal>Braz. J. Inf. Syst.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.5753/isys.2015.285</ee>
+<url>db/journals/isys/isys8.html#TrinkenreichS15</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/TrinkenreichSB15" mdate="2021-10-14">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>Metrics to Support IT Service Maturity Models - A Systematic Mapping Study.</title>
+<pages>330-337</pages>
+<year>2015</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0005376003300337</ee>
+<crossref>conf/iceis/2015-2</crossref>
+<url>db/conf/iceis/iceis2015-2.html#TrinkenreichSB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/TrinkenreichS15" mdate="2017-05-17">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>Metrics to Support It Service Maturity Models - A Case Study.</title>
+<pages>395-403</pages>
+<year>2015</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0005398003950403</ee>
+<crossref>conf/iceis/2015-2</crossref>
+<url>db/conf/iceis/iceis2015-2.html#TrinkenreichS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/profes/TrinkenreichSB15" mdate="2021-10-14">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>SINIS: A Method to Select Indicators for IT Services.</title>
+<pages>68-86</pages>
+<year>2015</year>
+<booktitle>PROFES</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-26844-6_6</ee>
+<crossref>conf/profes/2015</crossref>
+<url>db/conf/profes/profes2015.html#TrinkenreichSB15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/TrinkenreichS15" mdate="2022-03-30">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<title>Avalia&#231;&#227;o da Ger&#234;ncia de Incidentes sob a Luz do MR-MPS-SV e Medi&#231;&#227;o para Apoiar a Melhoria da Qualidade do Servi&#231;o de TI.</title>
+<pages>220-227</pages>
+<year>2015</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2015.15226</ee>
+<crossref>conf/sbqs/2015</crossref>
+<url>db/conf/sbqs/sbqs2015.html#TrinkenreichS15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/TrinkenreichSCS15" mdate="2021-02-03">
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="78/2800">Gleison Santos</author>
+<author pid="166/2730">Valdemar T. F. Confort</author>
+<author pid="33/6173">Fl&#225;via Maria Santoro</author>
+<title>Toward using Business Process Intelligence to Support Incident Management Metrics Selection and Service Improvement.</title>
+<pages>522-527</pages>
+<year>2015</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2015-110</ee>
+<crossref>conf/seke/2015</crossref>
+<url>db/conf/seke/seke2015.html#TrinkenreichSCS15</url>
+</inproceedings>
+</r>
+<coauthors n="100" nc="1">
+<co c="0"><na f="a/Afroz:Sadia" pid="29/7562">Sadia Afroz</na></co>
+<co c="0"><na f="a/Agarwal:Puja" pid="344/4778">Puja Agarwal</na></co>
+<co c="0"><na f="a/Alves:Antonio_Pedro_Santos" pid="246/6141">Antonio Pedro Santos Alves</na></co>
+<co c="0"><na f="a/Alves:Marcos" pid="137/3802">Marcos Alves</na></co>
+<co c="0"><na f="a/Alves_0002:Marcos_Antonio" pid="204/2895-2">Marcos Antonio Alves 0002</na></co>
+<co c="0" n="3"><na f="a/Alves:Tatiane_O=_M=" pid="117/5636">Tatiane O. M. Alves</na><na>Tatiane Ornelas Martins Alves</na><na>Tatiane Ornelas</na></co>
+<co c="0"><na f="a/Annamalai:Umayal" pid="224/4798">Umayal Annamalai</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Allysson_Allex" pid="148/4956">Allysson Allex Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo:J=uacute=lia" pid="410/6095">J&#250;lia Ara&#250;jo</na><na>J&#250;lia Cond&#233; Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="a/Ara=uacute=jo:Marina" pid="410/5831">Marina Ara&#250;jo</na><na>Marina Cond&#233; Ara&#250;jo</na></co>
+<co c="0"><na f="b/Balali:Sogol" pid="224/5070">Sogol Balali</na></co>
+<co c="0"><na f="b/Baldassarre:Maria_Teresa" pid="73/1559">Maria Teresa Baldassarre</na></co>
+<co c="0"><na f="b/Baltes:Sebastian" pid="145/3950">Sebastian Baltes</na></co>
+<co c="0"><na f="b/Barbosa:Simone_D=_J=" pid="b/SDJBarbosa">Simone D. J. Barbosa</na></co>
+<co c="0" n="2"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na><na>Monalessa Barcellos</na></co>
+<co c="0"><na f="b/Bharadwaj:Sarthak" pid="426/0552">Sarthak Bharadwaj</na></co>
+<co c="0"><na f="b/Bishop:Kevin" pid="224/1371">Kevin Bishop</na></co>
+<co c="0"><na f="b/Blincoe:Kelly" pid="50/10438">Kelly Blincoe</na></co>
+<co c="0"><na f="b/Bosu:Amiangshu" pid="18/11159">Amiangshu Bosu</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="b/Brown_0001:Chris" pid="126/9627">Chris Brown 0001</na></co>
+<co c="0" n="2"><na f="b/Burnett:Margaret_M=" pid="b/MMBurnett">Margaret M. Burnett</na><na>Margaret Burnett</na></co>
+<co c="0"><na f="c/Cadman:Logan" pid="411/7746">Logan Cadman</na></co>
+<co c="0"><na f="c/Calefato:Fabio" pid="48/5662">Fabio Calefato</na></co>
+<co c="0"><na f="c/Cartaxo:Bruno" pid="144/8274">Bruno Cartaxo</na></co>
+<co c="0"><na f="c/Castro=Guzman:Aileen_Abril" pid="314/6457">Aileen Abril Castro-Guzman</na></co>
+<co c="0"><na f="c/Cavaletto:London_Ariel" pid="296/3817">London Ariel Cavaletto</na></co>
+<co c="0"><na f="c/Chatterjee:Amreeta" pid="294/0993">Amreeta Chatterjee</na></co>
+<co c="0"><na f="c/Chattopadhyay:Soumiki" pid="382/4432">Soumiki Chattopadhyay</na></co>
+<co c="0"><na f="c/Choudhuri:Rudrajit" pid="325/6052">Rudrajit Choudhuri</na></co>
+<co c="0"><na f="c/Chugani:Resham" pid="414/6102">Resham Chugani</na></co>
+<co c="0"><na f="c/Confort:Valdemar_T=_F=" pid="166/2730">Valdemar T. F. Confort</na></co>
+<co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
+<co c="0"><na f="f/Feathers:Michael" pid="338/7342">Michael Feathers</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="f/Feng:Zixuan" pid="287/4912">Zixuan Feng</na></co>
+<co c="0"><na f="f/Ferreira:Eduardo" pid="77/9013">Eduardo Ferreira</na></co>
+<co c="0"><na f="g/Gandu:Sahithya" pid="441/2060">Sahithya Gandu</na></co>
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Ghosh_0001:Sudipto" pid="244/6021-1">Sudipto Ghosh 0001</na></co>
+<co c="0"><na f="g/Guenes:Paloma" pid="363/7363">Paloma Guenes</na></co>
+<co c="0"><na f="g/Guizani:Mariam" pid="277/8977">Mariam Guizani</na></co>
+<co c="0" n="2"><na f="h/Hanssen:Geir_Kjetil" pid="38/431">Geir Kjetil Hanssen</na><na>Geir Hanssen</na></co>
+<co c="0" n="2"><na f="h/Hyrynsalmi:Sonja" pid="208/1302">Sonja Hyrynsalmi</na><na>Sonja M. Hyrynsalmi</na></co>
+<co c="0" n="2"><na f="i/Izquierdo_0001:Daniel" pid="52/8838-1">Daniel Izquierdo 0001</na><na>Daniel Izquierdo-Cortazar</na></co>
+<co c="0"><na f="k/Kadiyala:Satyanarayanachowdary" pid="441/2069">Satyanarayanachowdary Kadiyala</na></co>
+<co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
+<co c="0"><na f="k/Kalliamvakou:Eirini" pid="27/1557">Eirini Kalliamvakou</na></co>
+<co c="0"><na f="k/Kimura:Katie" pid="376/4239">Katie Kimura</na></co>
+<co c="0"><na f="k/Kumar:Swarathmika" pid="414/6360">Swarathmika Kumar</na></co>
+<co c="0"><na f="k/Kumari:Pragya" pid="255/1683">Pragya Kumari</na></co>
+<co c="0"><na f="l/Lara:Marcelo" pid="338/5622">Marcelo Lara</na></co>
+<co c="0"><na f="l/Liebel:Grischa" pid="34/10004">Grischa Liebel</na></co>
+<co c="0"><na f="l/Link:Georg" pid="284/0775">Georg Link</na></co>
+<co c="0"><na f="l/Loufek:Spencer_Baloga" pid="426/0360">Spencer Baloga Loufek</na></co>
+<co c="0"><na f="l/Luther:Yanye" pid="332/1323">Yanye Luther</na></co>
+<co c="0"><na f="m/Marcelino:Mauro" pid="413/4828">Mauro Marcelino</na></co>
+<co c="0"><na f="m/Matsubara:Patr=iacute=cia" pid="249/1704">Patr&#237;cia Matsubara</na></co>
+<co c="0"><na f="m/May:Mary_Evelyn" pid="294/1139">Mary Evelyn May</na></co>
+<co c="0"><na f="m/Menezes:Tyler" pid="289/1286">Tyler Menezes</na></co>
+<co c="0"><na f="m/Moraes:Marcia" pid="311/2997">Marcia Moraes</na></co>
+<co c="0"><na f="n/Nielsen:Lindsey" pid="341/5396">Lindsey Nielsen</na></co>
+<co c="0"><na f="n/Noa=Guevara:Geraldine_J=" pid="305/9238">Geraldine J. Noa-Guevara</na></co>
+<co c="0"><na f="p/Padala:Hema_Susmita" pid="222/5904">Hema Susmita Padala</na></co>
+<co c="0"><na f="p/Pandita:Rahul" pid="05/9103">Rahul Pandita</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="p/Pezz=egrave=:Mauro" pid="98/6514">Mauro Pezz&#232;</na></co>
+<co c="0"><na f="p/Pimentel:Jo=atilde=o_Felipe" pid="161/7127">Jo&#227;o Felipe Pimentel</na></co>
+<co c="0"><na f="p/Prikladnicki:Rafael" pid="39/5605">Rafael Prikladnicki</na></co>
+<co c="0"><na f="r/Rai:Rohit_Ranjan" pid="414/6336">Rohit Ranjan Rai</na></co>
+<co c="0"><na f="r/Ramakrishnan:Ambareesh" pid="395/5209">Ambareesh Ramakrishnan</na></co>
+<co c="0"><na f="r/Robles:Gregorio" pid="r/GregorioRobles">Gregorio Robles</na></co>
+<co c="0"><na f="r/Rodr=iacute=guez=P=eacute=rez:Gema" pid="180/0034">Gema Rodr&#237;guez-P&#233;rez</na></co>
+<co c="0"><na f="r/Ross:Nicholas" pid="195/5880">Nicholas Ross</na></co>
+<co c="0"><na f="r/Russell:Liam_James" pid="305/9128">Liam James Russell</na></co>
+<co c="0"><na f="s/Sanchez:Christopher" pid="373/7220">Christopher Sanchez</na></co>
+<co c="0"><na f="s/Santoro:Fl=aacute=via_Maria" pid="33/6173">Fl&#225;via Maria Santoro</na></co>
+<co c="0"><na f="s/Santos:Fabio" pid="289/0005">Fabio Santos</na></co>
+<co c="0"><na f="s/Santos:Gleison" pid="78/2800">Gleison Santos</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Sarker:Jaydeb" pid="274/7065">Jaydeb Sarker</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Serebrenik:Alexander" pid="s/AlexanderSerebrenik">Alexander Serebrenik</na></co>
+<co c="0"><na f="s/Simmonds:Jocelyn" pid="33/3098">Jocelyn Simmonds</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Stol:Klaas=Jan" pid="08/7091">Klaas-Jan Stol</na></co>
+<co c="0"><na f="s/Storey:Margaret=Anne_D=" pid="s/MargaretAnneDStorey">Margaret-Anne D. Storey</na></co>
+<co c="0"><na f="s/Sultana:Sayma" pid="264/7972">Sayma Sultana</na></co>
+<co c="0"><na f="t/Tell:Paolo" pid="70/9506">Paolo Tell</na></co>
+<co c="0"><na f="t/Tomaz:Rafael" pid="363/7392">Rafael Tomaz</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Vemula:Anurag" pid="441/1944">Anurag Vemula</na></co>
+<co c="0"><na f="w/Wang_0013:Yi" pid="67/6649-13">Yi Wang 0013</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0"><na f="w/Wivestad:Viggo_Tellefsen" pid="395/8692">Viggo Tellefsen Wivestad</na></co>
+<co c="0"><na f="z/Zambrano:Griselda_G=_Cuevas" pid="301/8724">Griselda G. Cuevas Zambrano</na></co>
+<co c="0"><na f="z/Zimmermann_0001:Thomas" pid="19/3622-1">Thomas Zimmermann 0001</na></co>
+</coauthors>
+</dblpperson>
+

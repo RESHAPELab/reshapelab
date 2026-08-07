@@ -1,0 +1,1 @@
+I am a graduate student at Northern Arizona University specializing in Large Language Models (LLMs). My research focuses on the development and application of LLMs to advance natural language processing capabilities and enhance AI-driven solutions.

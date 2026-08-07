@@ -1,0 +1,1732 @@
+<?xml version="1.0"?>
+<dblpperson name="K&#225;tia Romero Felizardo" pid="53/8384" n="103">
+<person key="homepages/53/8384" mdate="2025-01-10">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo Scannavino</author>
+<url>https://bv.fapesp.br/en/pesquisador/171709/katia-romero-felizardo-scannavino/</url>
+<url>https://scholar.google.com/citations?user=YByP4IQAAAAJ</url>
+<url>https://orcid.org/0000-0001-9080-4165</url>
+<url>https://www.wikidata.org/entity/Q130801345</url>
+</person>
+<r><article key="journals/infsof/Felizardo26" mdate="2026-07-02">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Secondary studies in software engineering: Are we evolving knowledge or simply publishing papers?</title>
+<year>2026</year>
+<pages>108216</pages>
+<volume>198</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2026.108216</ee>
+<url>db/journals/infsof/infsof198.html#Felizardo26</url>
+<stream>streams/journals/infsof</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-17588" mdate="2026-07-08">
+<author pid="m/MikaMantyla">Mika M&#228;ntyl&#228;</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="185/5232">Miikka Kuutila</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="394/3479">Savio Sousa Sampaio</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Understanding LLMs in Title-Abstract Screening: From Disagreements to Recommendations.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.17588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.17588</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-17588</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/infsof/SantosFSG25" mdate="2024-10-22">
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Software solutions for newcomers' onboarding in software projects: A systematic literature review.</title>
+<pages>107568</pages>
+<year>2025</year>
+<volume>177</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2024.107568</ee>
+<url>db/journals/infsof/infsof177.html#SantosFSG25</url>
+<stream>streams/journals/infsof</stream>
+</article>
+</r>
+<r><article key="journals/scp/SilvaSSMF25" mdate="2026-04-07">
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0001-6982-4022" pid="360/1165">Gl&#225;ucia Braga e Silva</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Applying graph-based knowledge representation to capture insights from discussions forum in software engineering.</title>
+<pages>103298</pages>
+<year>2025</year>
+<volume>244</volume>
+<journal>Sci. Comput. Program.</journal>
+<ee>https://doi.org/10.1016/j.scico.2025.103298</ee>
+<url>db/journals/scp/scp244.html#SilvaSSMF25</url>
+<stream>streams/journals/scp</stream>
+</article>
+</r>
+<r><inproceedings key="conf/botse-ws/EtchieBFS25" mdate="2025-07-14">
+<author pid="410/7084">Misan Paul Etchie</author>
+<author pid="410/7532">Hunter Beach</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Towards a Dataset to Assess Conversational Agent's Efficacy in Mentoring Newcomer Developers.</title>
+<pages>48-52</pages>
+<year>2025</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE67031.2025.00018</ee>
+<crossref>conf/botse-ws/2025</crossref>
+<url>db/conf/botse-ws/botse-ws2025.html#EtchieBFS25</url>
+<stream>streams/conf/botse-ws</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/SantosFSSG25" mdate="2025-06-23">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Ossdoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software.</title>
+<pages>325-335</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00041</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#SantosFSSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/FelizardoSSNSG25" mdate="2026-02-03">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="156/1927">Francisco Carlos M. Souza</author>
+<author pid="350/0363">Alinne Cristinne Corr&#234;a Souza</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Assessing Diversity in Creating Seed Set for Snowballing Search for Systematic Literature Review in Software Engineering.</title>
+<pages>1-11</pages>
+<year>2025</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM64174.2025.00028</ee>
+<crossref>conf/esem/2025</crossref>
+<url>db/conf/esem/esem2025.html#FelizardoSSNSG25</url>
+<stream>streams/conf/esem</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/AguiarSFR25" mdate="2026-02-01">
+<author pid="415/9780">Maria Fernanda de Abreu Aguiar</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-5193-6218" pid="144/7630">Luciana Rebelo</author>
+<title>Computational Solutions for Supporting Systematic Reviews in Software Engineering: a Comprehensive Overview.</title>
+<pages>324-333</pages>
+<year>2025</year>
+<booktitle>SEAA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-04200-2_22</ee>
+<crossref>conf/euromicro/2025-2</crossref>
+<url>db/conf/euromicro/euromicro2025-2.html#AguiarSFR25</url>
+<stream>streams/conf/euromicro</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse-chase/SantosFSG25" mdate="2025-06-30">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers.</title>
+<pages>93-95</pages>
+<year>2025</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE66643.2025.00019</ee>
+<crossref>conf/icse-chase/2025</crossref>
+<url>db/conf/icse-chase/chase2025.html#SantosFSG25</url>
+<stream>streams/conf/icse-chase</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/JanuarioNFP25" mdate="2025-11-04">
+<author pid="419/1237">Jailma Janu&#225;rio</author>
+<author pid="410/8654">Maria Isabel Nicolau</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<title>Toward Reliable Forward Snowballing in Systematic Literature Reviews: A Comparative Study and Framework Proposal.</title>
+<pages>762-768</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11559</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#JanuarioNFP25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MarassiPF25" mdate="2025-11-04">
+<author pid="419/1238">Diogo Ad&#225;rio Marassi</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Comparing LLMs and Proposing an ML-Based Approach for Search String Generation in Systematic Literature Reviews.</title>
+<pages>852-858</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11612</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MarassiPF25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CostaFSSRFM25" mdate="2026-02-01">
+<author pid="421/2948">Ana Claudia M. P. Costa</author>
+<author pid="421/2966">Julia Beiroco O. Fantini</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="360/1165">Gl&#225;ucia Braga e Silva</author>
+<author orcid="0000-0002-5193-6218" pid="144/7630">Luciana Rebelo</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<title>Impact of Generative Artificial Intelligence on Knowledge Management in Software Engineering: A Systematic Mapping Study.</title>
+<pages>55-66</pages>
+<year>2025</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025.13875</ee>
+<crossref>conf/sbqs/2025</crossref>
+<url>db/conf/sbqs/sbqs2025.html#CostaFSSRFM25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/SantosFTGSG25" mdate="2025-08-09">
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-5661-4392" pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Exploring the Untapped: Student Perceptions and Participation in OSS.</title>
+<pages>859-870</pages>
+<year>2025</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3696630.3727243</ee>
+<crossref>conf/sigsoft/2025c</crossref>
+<url>db/conf/sigsoft/fse2025c.html#SantosFTGSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/FelizardoDCGMGS25" mdate="2025-12-07">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0003-0610-4735" pid="388/1175">Anderson Deizepe</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="266/3551">Maria A. C. Meireles</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>On the Difficulties of Conducting and Replicating Systematic Literature Reviews Studies Using LLMs in Software Engineering.</title>
+<pages>20-23</pages>
+<year>2025</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/WSESE66602.2025.00010</ee>
+<crossref>conf/wsese/2025</crossref>
+<url>db/conf/wsese/wsese2025.html#FelizardoDCGMGS25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wsese/CostalongaNBFSK25" mdate="2025-07-25">
+<author pid="399/9306">Marcelo Costalonga</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Can Machine Learning Support the Selection of Studies for Systematic Literature Review Updates?</title>
+<pages>56-63</pages>
+<year>2025</year>
+<booktitle>WSESE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/WSESE66602.2025.00016</ee>
+<crossref>conf/wsese/2025</crossref>
+<url>db/conf/wsese/wsese2025.html#CostalongaNBFSK25</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07763" mdate="2025-03-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07763</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07763</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07763</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-07986" mdate="2025-03-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>OSSDoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.07986</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.07986</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-07986</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-08050" mdate="2025-03-12">
+<author pid="399/9306">Marcelo Costalonga</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Can Machine Learning Support the Selection of Studies for Systematic Literature Review Updates?</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.08050</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.08050</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-08050</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2504-17051" mdate="2025-05-23">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="405/7368">Bianca Trinkereinch</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Exploring the Untapped: Student Perceptions and Participation in OSS.</title>
+<year>2025</year>
+<month>April</month>
+<volume>abs/2504.17051</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2504.17051</ee>
+<url>db/journals/corr/corr2504.html#abs-2504-17051</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/infsof/SantosIFFN24" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author orcid="0000-0002-3022-8407" pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-7262-7863" pid="92/7665">Erica Ferreira 0001</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Sustainable systematic literature reviews.</title>
+<pages>107551</pages>
+<year>2024</year>
+<volume>176</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2024.107551</ee>
+<url>db/journals/infsof/infsof176.html#SantosIFFN24</url>
+<stream>streams/journals/infsof</stream>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SilvaSSFM24" mdate="2025-07-17">
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="360/1165">Gl&#225;ucia Braga e Silva</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<title>A study about graphs in the representation of knowledge in discussion forums in Software Engineering.</title>
+<pages>151-165</pages>
+<year>2024</year>
+<booktitle>CIbSE</booktitle>
+<ee type="oa">https://doi.org/10.5753/cibse.2024.28445</ee>
+<crossref>conf/cibse/2024</crossref>
+<url>db/conf/cibse/cibse2024.html#SilvaSSFM24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/FelizardoLDCS24" mdate="2025-01-19">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Sampaio Lima</author>
+<author orcid="0000-0003-0610-4735" pid="388/1175">Anderson Deizepe</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>ChatGPT application in Systematic Literature Reviews in Software Engineering: an evaluation of its accuracy to support the selection activity.</title>
+<pages>25-36</pages>
+<year>2024</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3674805.3686666</ee>
+<ee>https://www.wikidata.org/entity/Q130828519</ee>
+<crossref>conf/esem/2024</crossref>
+<url>db/conf/esem/esem2024.html#FelizardoLDCS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/FelizardoSLDCB24" mdate="2025-01-19">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Sampaio Lima</author>
+<author orcid="0000-0003-0610-4735" pid="388/1175">Anderson Deizepe</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>Data extraction for systematic mapping study using a large language model - a proof-of-concept study in software engineering.</title>
+<pages>407-413</pages>
+<year>2024</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3674805.3690743</ee>
+<ee>https://www.wikidata.org/entity/Q130801350</ee>
+<crossref>conf/esem/2024</crossref>
+<url>db/conf/esem/esem2024.html#FelizardoSLDCB24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/SteinmacherPF0G24" mdate="2025-01-19">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob McAuley Penney</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can ChatGPT emulate humans in software engineering surveys?</title>
+<pages>414-419</pages>
+<year>2024</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3674805.3690744</ee>
+<ee>https://www.wikidata.org/entity/Q130820686</ee>
+<crossref>conf/esem/2024</crossref>
+<url>db/conf/esem/esem2024.html#SteinmacherPF0G24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/AlvesSSFV24" mdate="2026-06-21">
+<author orcid="0009-0002-4463-3013" pid="394/1702">Daniela dos Santos Alves</author>
+<author orcid="0000-0003-1865-8620" pid="394/3178">Deivid Jos&#233; Smek</author>
+<author orcid="0000-0001-7262-7863" pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-9025-0841" pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Updating a Systematic Literature Review on Knowledge Management Diagnostics in Software Development Organizations.</title>
+<pages>125-135</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701652</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#AlvesSSFV24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/SantosFGS24" mdate="2024-10-22">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Game Elements to Engage Students Learning the Open Source Software Contribution Process.</title>
+<pages>59-70</pages>
+<year>2024</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VL/HCC60511.2024.00017</ee>
+<crossref>conf/vl/2024</crossref>
+<url>db/conf/vl/vlhcc2024.html#SantosFGS24</url>
+</inproceedings>
+</r>
+<r><data key="data/11/CostalongaNFSK24" mdate="2025-08-05">
+<author pid="399/9306">Marcelo Costalonga</author>
+<author orcid="0000-0003-1066-5535" pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>Can Machine Learning Support the Selection of Studies for Systematic Literature Review Updates?</title>
+<year>2024</year>
+<month>November</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.14063837</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.14063836" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2407-04674" mdate="2024-08-12">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Game Elements to Engage Students Learning the Open Source Software Contribution Process.</title>
+<year>2024</year>
+<volume>abs/2407.04674</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.04674</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-04674</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2408-15989" mdate="2024-09-28">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Software Solutions for Newcomers' Onboarding in Software Projects: A Systematic Literature Review.</title>
+<year>2024</year>
+<volume>abs/2408.15989</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2408.15989</ee>
+<url>db/journals/corr/corr2408.html#abs-2408-15989</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2307-02612" mdate="2024-02-20">
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<title>Successful Combination of Database Search and Snowballing for Identification of Primary Studies in Systematic Literature Studies.</title>
+<year>2023</year>
+<volume>abs/2307.02612</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2307.02612</ee>
+<url>db/journals/corr/corr2307.html#abs-2307-02612</url>
+</article>
+</r>
+<r><article key="journals/infsof/WohlinKFM22" mdate="2025-11-02">
+<author orcid="0000-0003-0460-5253" pid="w/ClaesWohlin">Claes Wohlin</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<title>Successful combination of database search and snowballing for identification of primary studies in systematic literature studies.</title>
+<pages>106908</pages>
+<year>2022</year>
+<volume>147</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee type="oa">https://doi.org/10.1016/j.infsof.2022.106908</ee>
+<ee>https://www.wikidata.org/entity/Q113315576</ee>
+<url>db/journals/infsof/infsof147.html#WohlinKFM22</url>
+</article>
+</r>
+<r><article key="journals/jserd/KudoBVSF22" mdate="2024-02-20">
+<author orcid="0000-0002-7238-0562" pid="75/1278">Taciana Novo Kudo</author>
+<author orcid="0000-0001-8604-0019" pid="08/6838">Renato F. Bulc&#227;o-Neto</author>
+<author orcid="0000-0001-5902-1672" pid="05/4141">Auri Marcelo Rizzo Vincenzi</author>
+<author orcid="0000-0001-7262-7863" pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Using evidence from systematic studies to guide a PhD research in Requirements Engineering - an experience report.</title>
+<pages>7:1-7:10</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2021.1978</ee>
+<url>db/journals/jserd/jserd10.html#KudoBVSF22</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SantosMSFM22" mdate="2025-07-17">
+<author pid="329/5930">Juliana Oliveira dos Santos</author>
+<author pid="329/4987">Guilherme Augusto dos Reis Martins</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<title>Perceptions of knowledge management in Brazilian software development companies.</title>
+<pages>233-247</pages>
+<year>2022</year>
+<booktitle>CIBSE</booktitle>
+<ee type="oa">https://doi.org/10.5753/cibse.2022.20975</ee>
+<crossref>conf/cibse/2022</crossref>
+<url>db/conf/cibse/cibse2022.html#SantosMSFM22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/OctavianoFFNPH22" mdate="2025-10-14">
+<author orcid="0000-0002-0664-9893" pid="122/5485">F&#225;bio Octaviano</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="75/5829">Sandra C. P. F. Fabbri</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="84/5879">F&#225;bio Petrillo</author>
+<author pid="81/715">Sylvain Hall&#233;</author>
+<title>SCAS-AI: A Strategy to Semi-Automate the Initial Selection Task in Systematic Literature Reviews.</title>
+<pages>483-490</pages>
+<year>2022</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA56994.2022.00080</ee>
+<crossref>conf/euromicro/2022</crossref>
+<url>db/conf/euromicro/euromicro2022.html#OctavianoFFNPH22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/IwazakiSFSVN22" mdate="2026-07-29">
+<author orcid="0000-0002-3022-8407" pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="135/0795">Natasha Malveira Costa Valentim</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Benefits and Challenges of a Graduate Course: An Experience Teaching Systematic Literature Review.</title>
+<pages>1-9</pages>
+<year>2022</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE56618.2022.9962446</ee>
+<crossref>conf/fie/2022</crossref>
+<url>db/conf/fie/fie2022.html#IwazakiSFSVN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rochi/TravassosFMK22" mdate="2024-05-04">
+<author orcid="0000-0002-4258-0424" pid="t/GuilhermeTravassos">Guilherme Horta Travassos</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-5402-9544" pid="67/2834">Marcelo Morandini</author>
+<author orcid="0000-0002-7881-6435" pid="55/5915">Christophe Kolski</author>
+<title>A Tertiary Study on the Convergence of Human-Computer Interaction and Artificial Intelligence.</title>
+<pages>1-24</pages>
+<year>2022</year>
+<booktitle>RoCHI (Selected Papers)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-53957-2_1</ee>
+<crossref>conf/rochi/2022s</crossref>
+<url>db/conf/rochi/rochi2022s.html#TravassosFMK22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FelizardoFPO22" mdate="2025-09-08">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-5172-9641" pid="c/ChristinavonFlachGChavez">Christina von Flach</author>
+<author orcid="0000-0003-3052-3016" pid="233/8441">Roberto Pereira 0002</author>
+<author pid="04/2051">Edson Oliveira Jr.</author>
+<title>Surveying the Audience Effect in Open Peer Review of a Software Engineering Workshop.</title>
+<pages>446-451</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555271</ee>
+<ee>https://www.wikidata.org/entity/Q130890746</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#FelizardoFPO22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2205-07847" mdate="2026-07-29">
+<author pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0002-6027-3452" pid="135/0795">Natasha M. Costa Valentim</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Benefits and Drawbacks of a Graduate Course: An Experience Teaching Systematic Literature Review.</title>
+<year>2022</year>
+<volume>abs/2205.07847</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2205.07847</ee>
+<url>db/journals/corr/corr2205.html#abs-2205-07847</url>
+</article>
+</r>
+<r><article key="journals/jbcs/FelizardoRMSVN21" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="289/7974">Amanda M&#246;hring Ramos</author>
+<author pid="32/9660">Claudia de O. Melo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Global and Latin American female participation in evidence-based software engineering: a systematic mapping study.</title>
+<pages>6</pages>
+<year>2021</year>
+<volume>27</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-021-00109-7</ee>
+<url>db/journals/jbcs/jbcs27.html#FelizardoRMSVN21</url>
+</article>
+</r>
+<r><article key="journals/jserd/SouzaFVFMSC21" mdate="2024-02-20">
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="229/4259">Ricardo de Almeida Falbo</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani V. Meinerz</author>
+<author pid="287/0589">Marcos S. Specimille</author>
+<author pid="287/0177">Alexandre G. N. Coelho</author>
+<title>Development of an Ontology-based Approach for Knowledge Management in Software Testing.</title>
+<pages>12:1-12:21</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2021.1898</ee>
+<ee>https://www.wikidata.org/entity/Q111917338</ee>
+<url>db/journals/jserd/jserd9.html#SouzaFVFMSC21</url>
+</article>
+</r>
+<r><article key="journals/jss/NapoleaoSRFMV21" mdate="2024-02-20">
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0003-4813-8095" pid="233/1916">Glauco Antonio Ruiz</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0003-0915-3436" pid="233/2183">Giovani Volnei Meinerz</author>
+<author orcid="0000-0002-9025-0841" pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<title>Synthesizing researches on Knowledge Management and Agile Software Development using the Meta-ethnography method.</title>
+<pages>110973</pages>
+<year>2021</year>
+<volume>178</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.110973</ee>
+<ee>https://www.wikidata.org/entity/Q110569746</ee>
+<url>db/journals/jss/jss178.html#NapoleaoSRFMV21</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/BonoraFSV21" mdate="2024-02-20">
+<author pid="315/5776">Alex Bonora</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi Vijaykumar</author>
+<title>Replications on the use of graphical abstracts to support study selection in systematic mapping studies.</title>
+<pages>92-99</pages>
+<year>2021</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2021</crossref>
+<url>db/conf/cibse/cibse2021.html#BonoraFSV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/SantosSFFWJMAV21" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="92/7665">Erica Ferreira 0001</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-6910-5730" pid="08/7439">Willian Massami Watanabe</author>
+<author pid="10/7438">Arnaldo C&#226;ndido J&#250;nior</author>
+<author pid="233/2183">Giovani V. Meinerz</author>
+<author pid="86/332">Sandra M. Alu&#237;sio</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Using Open Information Extraction to Extract Relations: An Extended Systematic Mapping.</title>
+<pages>1-10</pages>
+<year>2021</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI53233.2021.9639968</ee>
+<crossref>conf/clei/2021</crossref>
+<url>db/conf/clei/clei2021.html#SantosSFFWJMAV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/SantosIFSN21" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author orcid="0000-0002-3022-8407" pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Towards Sustainability of Systematic Literature Reviews.</title>
+<pages>34:1-34:6</pages>
+<year>2021</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3475716.3484192</ee>
+<crossref>conf/esem/2021</crossref>
+<url>db/conf/esem/esem2021.html#SantosIFSN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/SantosSFWJAV21" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-6910-5730" pid="08/7439">Willian Massami Watanabe</author>
+<author pid="10/7438">Arnaldo C&#226;ndido J&#250;nior</author>
+<author pid="86/332">Sandra Maria Alu&#237;sio</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<title>Using Natural Language Processing to Build Graphical Abstracts to be used in Studies Selection Activity in Secondary Studies.</title>
+<pages>1-8</pages>
+<year>2021</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA53835.2021.00009</ee>
+<crossref>conf/euromicro/2021</crossref>
+<url>db/conf/euromicro/euromicro2021.html#SantosSFWJAV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/NapoleaoFSPHVN21" mdate="2024-02-20">
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="84/5879">F&#225;bio Petrillo</author>
+<author pid="81/715">Sylvain Hall&#233;</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Establishing a Search String to Detect Secondary Studies in Software Engineering.</title>
+<pages>9-16</pages>
+<year>2021</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA53835.2021.00010</ee>
+<crossref>conf/euromicro/2021</crossref>
+<url>db/conf/euromicro/euromicro2021.html#NapoleaoFSPHVN21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosISFV21" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author orcid="0000-0002-3022-8407" pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="39/841">Nandamudi Vijaykumar</author>
+<title>CrowdSLR: a tool to support the use of crowdsourcing in systematic literature reviews.</title>
+<pages>341-346</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3476008</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#SantosISFV21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/AudacioFASG21" mdate="2024-02-20">
+<author pid="203/0115">Edneuci D. Audacio</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="234/2516">Luiz Gustavo Ferreira Aguiar</author>
+<author pid="203/0101">Rebeca T. da Silva</author>
+<author pid="44/8870">Elias Canhadas Genvigir</author>
+<title>A Method to Evaluating Consistency, Completeness and Correctness in Evolution Requirements.</title>
+<year>2021</year>
+<booktitle>WER</booktitle>
+<ee type="oa">https://doi.org/10.29327/1298728.24-12</ee>
+<crossref>conf/wer/2021</crossref>
+<url>db/conf/wer/wer2021.html#AudacioFASG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-02932" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="38/7688">Mehwish Riaz</author>
+<author pid="26/5922">Muhammad Sulayman</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Analysing the use of graphs to represent the results of Systematic Reviews in Software Engineering.</title>
+<year>2021</year>
+<volume>abs/2102.02932</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.02932</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-02932</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-02934" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="35/7688">Norsaremah Salleh</author>
+<author pid="117/2529">Rafael Messias Martins</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Using Visual Text Mining to Support the Study Selection Activity in Systematic Literature Reviews.</title>
+<year>2021</year>
+<volume>abs/2102.02934</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.02934</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-02934</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2102-06345" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A Visual Analysis Approach to Update Systematic Reviews.</title>
+<year>2021</year>
+<volume>abs/2102.06345</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.06345</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-06345</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2109-00051" mdate="2026-07-29">
+<author pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="228/0237">Anderson Yoshiaki Iwazaki</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Towards Sustainability of Systematic Literature Reviews.</title>
+<year>2021</year>
+<volume>abs/2109.00051</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2109.00051</ee>
+<url>db/journals/corr/corr2109.html#abs-2109-00051</url>
+</article>
+</r>
+<r><article key="journals/infsof/WohlinMFK20" mdate="2024-02-20">
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Guidelines for the search strategy to update systematic literature reviews in software engineering.</title>
+<pages>106366</pages>
+<year>2020</year>
+<volume>127</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee type="oa">https://doi.org/10.1016/j.infsof.2020.106366</ee>
+<ee>https://www.wikidata.org/entity/Q113316653</ee>
+<url>db/journals/infsof/infsof127.html#WohlinMFK20</url>
+</article>
+</r>
+<r><article key="journals/infsof/WatanabeFCSNV20" mdate="2025-11-03">
+<author orcid="0000-0001-6910-5730" pid="08/7439">Willian Massami Watanabe</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="10/7438">Arnaldo C&#226;ndido Jr.</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="277/2203">Jos&#233; Ede de Campos Neto</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<title>Reducing efforts of software engineering systematic literature reviews updates using text classification.</title>
+<pages>106395</pages>
+<year>2020</year>
+<volume>128</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2020.106395</ee>
+<ee>https://www.wikidata.org/entity/Q113316565</ee>
+<url>db/journals/infsof/infsof128.html#WatanabeFCSNV20</url>
+</article>
+</r>
+<r><article key="journals/jss/MendesWFK20" mdate="2024-02-20">
+<author pid="m/EMendes">Emilia Mendes</author>
+<author orcid="0000-0003-0460-5253" pid="w/ClaesWohlin">Claes Wohlin</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>When to update systematic literature reviews in software engineering.</title>
+<pages>110607</pages>
+<year>2020</year>
+<volume>167</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2020.110607</ee>
+<url>db/journals/jss/jss167.html#MendesWFK20</url>
+</article>
+</r>
+<r><article key="journals/jss/FelizardoSNVB20" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<title>Secondary studies in the academic context: A systematic mapping and survey.</title>
+<pages>110734</pages>
+<year>2020</year>
+<volume>170</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2020.110734</ee>
+<url>db/journals/jss/jss170.html#FelizardoSNVB20</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SilvaSSMFV20" mdate="2026-07-29">
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="233/2183">Giovani V. Meinerz</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Extraction of Useful Information from Unstructured Data in Software Engineering: A Systematic Mapping.</title>
+<pages>406-419</pages>
+<year>2020</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2020</crossref>
+<url>db/conf/cibse/cibse2020.html#SilvaSSMFV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/FelizardoSLMV20" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="276/7319">Rafael Lopes</author>
+<author pid="276/7289">Geovanne J. Moro</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Crowdsourcing in Systematic Reviews: A Systematic Mapping and Survey.</title>
+<pages>404-412</pages>
+<year>2020</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA51224.2020.00072</ee>
+<crossref>conf/euromicro/2020</crossref>
+<url>db/conf/euromicro/euromicro2020.html#FelizardoSLMV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/FelizardoSMNPHV20" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="276/7320">Tamiris Malacrida</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="84/5879">F&#225;bio Petrillo</author>
+<author pid="81/715">Sylvain Hall&#233;</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Knowledge Management for Promoting Update of Systematic Literature Reviews: An Experience Report.</title>
+<pages>471-478</pages>
+<year>2020</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA51224.2020.00080</ee>
+<crossref>conf/euromicro/2020</crossref>
+<url>db/conf/euromicro/euromicro2020.html#FelizardoSMNPHV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SouzaFSCVFM20" mdate="2024-02-20">
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="229/4259">Ricardo de Almeida Falbo</author>
+<author pid="287/0589">Marcos S. Specimille</author>
+<author pid="287/0177">Alexandre G. N. Coelho</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<title>Experience Report on Developing an Ontology-based Approach for Knowledge Management in Software Testing.</title>
+<pages>32</pages>
+<year>2020</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3439961.3439993</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/14227</ee>
+<crossref>conf/sbqs/2020</crossref>
+<url>db/conf/sbqs/sbqs2020.html#SouzaFSCVFM20</url>
+</inproceedings>
+</r>
+<r><incollection key="books/sp/20/FelizardoC20" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="c/JeffreyCCarver">Jeffrey C. Carver</author>
+<title>Automating Systematic Literature Review.</title>
+<pages>327-355</pages>
+<year>2020</year>
+<booktitle>Contemporary Empirical Methods in Software Engineering</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-32489-6_12</ee>
+<crossref>books/sp/20/FT2020</crossref>
+<url>db/books/collections/FT2020.html#FelizardoC20</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-06183" mdate="2024-02-20">
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>When to Update Systematic Literature Reviews in Software Engineering.</title>
+<year>2020</year>
+<volume>abs/2004.06183</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.06183</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-06183</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2006-05542" mdate="2024-02-20">
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<title>Guidelines for the Search Strategy to Update Systematic Literature Reviews in Software Engineering.</title>
+<year>2020</year>
+<volume>abs/2006.05542</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2006.05542</ee>
+<url>db/journals/corr/corr2006.html#abs-2006-05542</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2007-07751" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<title>Secondary Studies in the Academic Context: A Systematic Mapping and Survey.</title>
+<year>2020</year>
+<volume>abs/2007.07751</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2007.07751</ee>
+<url>db/journals/corr/corr2007.html#abs-2007-07751</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2012-10833" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A Systematic Mapping on the use of Visual Data Mining to Support the Conduct of Systematic Literature Reviews.</title>
+<year>2020</year>
+<volume>abs/2012.10833</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2012.10833</ee>
+<url>db/journals/corr/corr2012.html#abs-2012-10833</url>
+</article>
+</r>
+<r><article key="journals/rbie/SantosSFWVAJ19" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author orcid="0000-0001-7262-7863" pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-6910-5730" pid="08/7439">Willian Massami Watanabe</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<author pid="368/8040">Sandra Maria Aluizio</author>
+<author orcid="0000-0002-5647-0891" pid="10/7438">Arnaldo C&#226;ndido J&#250;nior</author>
+<title>Conceptual Map Creation from Natural Language Processing: a Systematic Mapping Study.</title>
+<pages>150-176</pages>
+<year>2019</year>
+<volume>27</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.5753/rbie.2019.27.03.150</ee>
+<url>db/journals/rbie/rbie27.html#SantosSFWVAJ19</url>
+</article>
+</r>
+<r><inproceedings key="conf/euromicro/MendesFWK19" mdate="2024-02-20">
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<title>Search Strategy to Update Systematic Literature Reviews in Software Engineering.</title>
+<pages>355-362</pages>
+<year>2019</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2019.00061</ee>
+<crossref>conf/euromicro/2019</crossref>
+<url>db/conf/euromicro/euromicro2019.html#MendesFWK19</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1912-08861" mdate="2024-02-20">
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="84/5879">F&#225;bio Petrillo</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="81/715">Sylvain Hall&#233;</author>
+<title>Establishing a Search String to Detect Secondary Studies in Software Engineering.</title>
+<year>2019</year>
+<volume>abs/1912.08861</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1912.08861</ee>
+<url>db/journals/corr/corr1912.html#abs-1912-08861</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/MacielSVFMF18" mdate="2024-02-20">
+<author pid="233/2376">Claudia Patricia Candia Maciel</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<author pid="229/4259">Ricardo de Almeida Falbo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>An Empirical Study on the Knowledge Management Practice in Software Testing.</title>
+<pages>29-42</pages>
+<year>2018</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2018</crossref>
+<url>db/conf/cibse/cibse2018.html#MacielSVFMF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cibse/RuizSSFMV18" mdate="2024-02-20">
+<author pid="233/1916">Glauco Antonio Ruiz</author>
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Knowledge Management in Agile Testing Teams: a Survey.</title>
+<pages>43-56</pages>
+<year>2018</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2018</crossref>
+<url>db/conf/cibse/cibse2018.html#RuizSSFMV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FelizardoSSVN18" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-3022-8407" pid="228/0237">Anderson Y. Iwazaki da Silva</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Evaluating strategies for forward snowballing application to support secondary studies updates: emergent results.</title>
+<pages>184-189</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3266237.3266240</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#FelizardoSSVN18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MacielSFFV18" mdate="2024-02-20">
+<author pid="233/2376">Claudia P. C. Maciel</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="229/4259">Ricardo de Almeida Falbo</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Knowledge Management Diagnostics in Software Development Organizations: a Systematic Literature Review.</title>
+<pages>141-150</pages>
+<year>2018</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3275245.3275260</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/15068</ee>
+<crossref>conf/sbqs/2018</crossref>
+<url>db/conf/sbqs/sbqs2018.html#MacielSFFV18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/RuizNSFMSV18" mdate="2024-02-20">
+<author pid="233/1916">Glauco Antonio Ruiz</author>
+<author pid="204/7723">Bianca Minetto Napole&#227;o</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="233/2183">Giovani Volnei Meinerz</author>
+<author pid="233/2406">Patrick Rodrigo da Silva</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Using meta-ethnography to synthesize research on knowledge management and agile software development methodology.</title>
+<pages>230-239</pages>
+<year>2018</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3275245.3275270</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/15077</ee>
+<crossref>conf/sbqs/2018</crossref>
+<url>db/conf/sbqs/sbqs2018.html#RuizNSFMSV18</url>
+</inproceedings>
+</r>
+<r><article key="journals/cj/OliveiraLFON17" mdate="2024-02-20">
+<author pid="94/8384">Lucas Bueno Ruas de Oliveira</author>
+<author pid="08/5822">Elena Leroux</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>ArchSORS: A Software Process for Designing Software Architectures of Service-Oriented Robotic Systems.</title>
+<pages>1363-1381</pages>
+<year>2017</year>
+<volume>60</volume>
+<journal>Comput. J.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1093/comjnl/bxx008</ee>
+<url>db/journals/cj/cj60.html#OliveiraLFON17</url>
+</article>
+</r>
+<r><article key="journals/iie/SantosSFV17" mdate="2026-07-29">
+<author orcid="0000-0002-0357-8823" pid="331/2509">Vin&#237;cius G. dos Santos</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Analyzing the Use of Concept Maps in Computer Science: A Systematic Mapping Study.</title>
+<pages>257-288</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>Informatics Educ.</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.15388/infedu.2017.13</ee>
+<url>db/journals/iie/iie16.html#SantosSFV17</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/FelizardoSHVN17" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="214/5890">Stephane Hesae</author>
+<author pid="39/841">Nandamudi Vijaykumar</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Analysing the use of Graphical Abstracts to Support Study Selection in Secondary Studies.</title>
+<pages>497-510</pages>
+<year>2017</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2017</crossref>
+<url>db/conf/cibse/cibse2017.html#FelizardoSHVN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/NakagawaAOSPLFS17" mdate="2024-10-06">
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<author orcid="0000-0001-9399-0944" pid="205/5812">Ana Allian</author>
+<author pid="166/4440">Brauner R. N. Oliveira</author>
+<author pid="205/5799">Bruno Sena</author>
+<author orcid="0000-0003-3827-9468" pid="83/1965">Carlos Eduardo de Barros Paes</author>
+<author pid="190/4212">Cristiane Lana</author>
+<author orcid="0000-0001-9371-232X" pid="20/8385">Daniel Feitosa</author>
+<author orcid="0000-0002-4015-1722" pid="166/4491">Daniel Soares Santos</author>
+<author pid="91/8307">D&#234;nis Zaniro</author>
+<author pid="194/3324">Diogenes Dias</author>
+<author pid="147/5757">Fl&#225;vio Eduardo Aoki Horita</author>
+<author orcid="0000-0002-5784-6248" pid="117/5635">Frank Jos&#233; Affonso</author>
+<author pid="165/3637">Gabriel Abdalla</author>
+<author pid="205/5805">Isabella Vicente</author>
+<author pid="117/5545">Leonardo Simas Duarte</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-4990-6562" pid="165/9276">Lina Maria Garc&#233;s Rodriguez</author>
+<author pid="94/8384">Lucas Bueno Ruas de Oliveira</author>
+<author pid="133/1545">Marcelo Benites Gon&#231;alves</author>
+<author pid="205/5790">Maria Gabriela Morais</author>
+<author pid="18/10588">Milena Guessi</author>
+<author pid="204/6555">Nilson Silva</author>
+<author pid="165/3773">Thiago Bianchi</author>
+<author pid="205/5795">Tiago Volpato</author>
+<author orcid="0000-0003-2190-5477" pid="151/3182">Valdemar Vicente Graciano Neto</author>
+<author pid="07/10588">Vin&#237;cius Augusto Tagliatti Zani</author>
+<author orcid="0000-0001-5602-3023" pid="205/5798">Wallace Manzano</author>
+<title>Software architecture and reference architecture of software-intensive systems and systems-of-systems: contributions to the state of the art.</title>
+<pages>4-11</pages>
+<year>2017</year>
+<booktitle>ECSA (Companion)</booktitle>
+<ee>https://doi.org/10.1145/3129790.3129822</ee>
+<crossref>conf/ecsa/2017c</crossref>
+<url>db/conf/ecsa/ecsa2017c.html#NakagawaAOSPLFS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/euromicro/FelizardoSFVMN17" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="229/4259">Ricardo de Almeida Falbo</author>
+<author pid="39/841">Nandamudi Lankalapalli Vijaykumar</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Defining Protocols of Systematic Literature Reviews in Software Engineering: A Survey.</title>
+<pages>202-209</pages>
+<year>2017</year>
+<booktitle>SEAA</booktitle>
+<ee>https://doi.org/10.1109/SEAA.2017.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SEAA.2017.17</ee>
+<crossref>conf/euromicro/2017</crossref>
+<url>db/conf/euromicro/euromicro2017.html#FelizardoSFVMN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/NapoleaoFSV17" mdate="2024-02-20">
+<author pid="204/7723">Bianca Napole&#227;o</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Practical similarities and differences between Systematic Literature Reviews and Systematic Mappings: a tertiary study.</title>
+<pages>85-90</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2017-069</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#NapoleaoFSV17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/RodriguezFON17" mdate="2024-02-20">
+<author orcid="0000-0002-4990-6562" pid="165/9276">Lina Maria Garc&#233;s Rodriguez</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="94/8384">Lucas B. R. Oliveira</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>An Experience Report on Update of Systematic Literature Reviews.</title>
+<pages>91-96</pages>
+<year>2017</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2017-078</ee>
+<crossref>conf/seke/2017</crossref>
+<url>db/conf/seke/seke2017.html#RodriguezFON17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/SouzaFB16" mdate="2024-02-20">
+<author pid="06/9743">Draylson Micael de Souza</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="66/2060">Ellen Francine Barbosa</author>
+<title>A Systematic Literature Review of Assessment Tools for Programming Assignments.</title>
+<pages>147-156</pages>
+<year>2016</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET.2016.48</ee>
+<crossref>conf/csee/2016</crossref>
+<url>db/conf/csee/csee2016.html#SouzaFB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/FelizardoMKSV16" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<author pid="92/7665">&#201;rica Ferreira de Souza</author>
+<author pid="39/841">Nandamudi L. Vijaykumar</author>
+<title>Using Forward Snowballing to update Systematic Reviews in Software Engineering.</title>
+<pages>53:1-53:6</pages>
+<year>2016</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/2961111.2962630</ee>
+<crossref>conf/esem/2016</crossref>
+<url>db/conf/esem/esem2016.html#FelizardoMKSV16</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/OctavianoFMF15" mdate="2024-02-20">
+<author orcid="0000-0002-0664-9893" pid="122/5485">F&#225;bio Roberto Octaviano</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="75/5829">Sandra Camargo Pinto Ferraz Fabbri</author>
+<title>Semi-automatic selection of primary studies in systematic literature reviews: is it reasonable?</title>
+<pages>1898-1917</pages>
+<year>2015</year>
+<volume>20</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1007/s10664-014-9342-8</ee>
+<url>db/journals/ese/ese20.html#OctavianoFMF15</url>
+</article>
+</r>
+<r><article key="journals/ijseke/FelizardoBMVM15" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0003-3275-2293" pid="66/2060">Ellen Francine Barbosa</author>
+<author pid="117/2529">Rafael Messias Martins</author>
+<author orcid="0000-0002-6929-7557" pid="169/4861">Pedro Henrique Dias Valle</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Visual Text Mining: Ensuring the Presence of Relevant Studies in Systematic Literature Reviews.</title>
+<pages>909-928</pages>
+<year>2015</year>
+<volume>25</volume>
+<journal>Int. J. Softw. Eng. Knowl. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1142/S0218194015500114</ee>
+<url>db/journals/ijseke/ijseke25.html#FelizardoBMVM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/BianchiSF15" mdate="2025-07-27">
+<author pid="165/3773">Thiago Bianchi</author>
+<author orcid="0000-0002-4015-1722" pid="166/4491">Daniel Soares Santos</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Quality Attributes of Systems-of-Systems: A Systematic Literature Review.</title>
+<pages>23-30</pages>
+<year>2015</year>
+<booktitle>SESoS</booktitle>
+<ee>https://doi.org/10.1109/SESoS.2015.12</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SESoS.2015.12</ee>
+<ee>http://dl.acm.org/citation.cfm?id=2821425</ee>
+<crossref>conf/icse/2015sesos</crossref>
+<url>db/conf/icse/sesos2015.html#BianchiSF15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/GuessiNBFON15" mdate="2024-02-20">
+<author orcid="0000-0002-1728-8384" pid="18/10588">Milena Guessi</author>
+<author orcid="0000-0003-2190-5477" pid="151/3182">Valdemar Vicente Graciano Neto</author>
+<author pid="165/3773">Thiago Bianchi</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>A systematic literature review on the description of software architectures for systems of systems.</title>
+<pages>1433-1440</pages>
+<year>2015</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/2695664.2695795</ee>
+<ee>https://www.wikidata.org/entity/Q59223442</ee>
+<crossref>conf/sac/2015</crossref>
+<url>db/conf/sac/sac2015.html#GuessiNBFON15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ease/FelizardoNMM14" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A visual analysis approach to update systematic reviews.</title>
+<pages>4:1-4:10</pages>
+<year>2014</year>
+<booktitle>EASE</booktitle>
+<ee>https://doi.org/10.1145/2601248.2601252</ee>
+<crossref>conf/ease/2014</crossref>
+<url>db/conf/ease/ease2014.html#FelizardoNMM14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/OliveiraLFON14" mdate="2024-02-20">
+<author pid="94/8384">Lucas Bueno Ruas de Oliveira</author>
+<author pid="08/5822">Elena Leroux</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="32/153">Fl&#225;vio Oquendo</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Towards a Process to Design Architectures of Service-Oriented Robotic Systems.</title>
+<pages>218-225</pages>
+<year>2014</year>
+<booktitle>ECSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-09970-5_20</ee>
+<crossref>conf/ecsa/2014</crossref>
+<url>db/conf/ecsa/ecsa2014.html#OliveiraLFON14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbcars/AffonsoSON14" mdate="2024-02-20">
+<author orcid="0000-0002-5784-6248" pid="117/5635">Frank Jos&#233; Affonso</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo Scannavino</author>
+<author pid="94/8384">Lucas B. R. Oliveira</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Reference Architectures for Self-Managed Software Systems: A Systematic Literature Review.</title>
+<pages>21-31</pages>
+<year>2014</year>
+<booktitle>SBCARS</booktitle>
+<ee>https://doi.org/10.1109/SBCARS.2014.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBCARS.2014.18</ee>
+<crossref>conf/sbcars/2014</crossref>
+<url>db/conf/sbcars/sbcars2014.html#AffonsoSON14</url>
+</inproceedings>
+</r>
+<r><article key="journals/iee/FabbriFFHONM13" mdate="2024-02-20">
+<author pid="75/5829">Sandra Camargo Pinto Ferraz Fabbri</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="48/5007">Fabiano Cutigi Ferrari</author>
+<author pid="71/8920">Elis Cristina Montoro Hernandes</author>
+<author orcid="0000-0002-0664-9893" pid="122/5485">F&#225;bio Roberto Octaviano</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Externalising tacit knowledge of the systematic review process.</title>
+<pages>298-307</pages>
+<year>2013</year>
+<volume>7</volume>
+<journal>IET Softw.</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1049/iet-sen.2013.0029</ee>
+<url>db/journals/iet-sen/iet-sen7.html#FabbriFFHONM13</url>
+</article>
+</r>
+<r><inproceedings key="conf/seke/FelizardoBM13" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="66/2060">Ellen Francine Barbosa</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A Visual Approach to Validate the Selection Review of Primary Studies in Systematic Reviews: A Replication Study.</title>
+<pages>141-146</pages>
+<year>2013</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2013</crossref>
+<url>db/conf/seke/seke2013.html#FelizardoBM13</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/ndltd/Scannavino12" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo Scannavino</author>
+<title>Engenharia de software baseada em evid&#234;ncias: processo de revis&#227;o sistem&#225;tica de literatura baseado em minera&#231;&#227;o visual de texto.</title>
+<year>2012</year>
+<school>University of S&#227;o Paulo, Brazil</school>
+<ee>http://www.teses.usp.br/teses/disponiveis/55/55134/tde-18072012-102032/</ee>
+<ee>http://search.ndltd.org/show.php?id=oai:union.ndltd.org:IBICT/oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-18072012-102032</ee>
+<note type="source">ndltd.org (oai:agregador.ibict.br.BDTD_USP:oai:teses.usp.br:tde-18072012-102032)</note>
+</phdthesis>
+</r>
+<r><article key="journals/infsof/FelizardoAPMM12" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="15/718">Gabriel de Faria Andery</author>
+<author orcid="0000-0002-2316-760X" pid="63/3726">Fernando Vieira Paulovich</author>
+<author orcid="0000-0002-4799-8774" pid="61/4784">Rosane Minghim</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A visual analysis approach to validate the selection review of primary studies in systematic reviews.</title>
+<pages>1079-1091</pages>
+<year>2012</year>
+<volume>54</volume>
+<journal>Inf. Softw. Technol.</journal>
+<number>10</number>
+<ee>https://doi.org/10.1016/j.infsof.2012.04.003</ee>
+<url>db/journals/infsof/infsof54.html#FelizardoAPMM12</url>
+</article>
+</r>
+<r><article key="journals/jsw/FelizardoMMM12" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>A Systematic Mapping on the use of Visual Data Mining to Support the Conduct of Systematic Literature Reviews.</title>
+<pages>450-461</pages>
+<year>2012</year>
+<volume>7</volume>
+<journal>J. Softw.</journal>
+<number>2</number>
+<ee type="archive">https://doi.org/10.4304/jsw.7.2.450-461</ee>
+<ee>http://www.jsoftware.us/index.php?m=content&#38;c=index&#38;a=show&#38;catid=85&#38;id=1168</ee>
+<url>db/journals/jsw/jsw7.html#FelizardoMMM12</url>
+</article>
+</r>
+<r><inproceedings key="conf/esem/FelizardoSMMMM11" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-5625-7014" pid="35/7688">Norsaremah Salleh</author>
+<author pid="117/2529">Rafael Messias Martins</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Using Visual Text Mining to Support the Study Selection Activity in Systematic Literature Reviews.</title>
+<pages>77-86</pages>
+<year>2011</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2011.16</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ESEM.2011.16</ee>
+<crossref>conf/esem/2011</crossref>
+<url>db/conf/esem/esem2011.html#FelizardoSMMMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/FelizardoRSMMM11" mdate="2024-02-20">
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="38/7688">Mehwish Riaz</author>
+<author pid="26/5922">Muhammad Sulayman</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="93/39">Stephen G. MacDonell</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>Analysing the Use of Graphs to Represent the Results of Systematic Reviews in Software Engineering.</title>
+<pages>174-183</pages>
+<year>2011</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1109/SBES.2011.9</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBES.2011.9</ee>
+<crossref>conf/sbes/2011</crossref>
+<url>db/conf/sbes/sbes2011.html#FelizardoRSMMM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ease/FelizardoNFMM10" mdate="2024-02-20">
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<author pid="20/8385">Daniel Feitosa</author>
+<author pid="61/4784">Rosane Minghim</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<title>An Approach Based on Visual Text Mining to Support Categorization and Classification in the Systematic Mapping.</title>
+<year>2010</year>
+<booktitle>EASE</booktitle>
+<ee>http://ewic.bcs.org/content/ConWebDoc/34783</ee>
+<crossref>conf/ease/2010</crossref>
+<url>db/conf/ease/ease2010.html#FelizardoNFMM10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecsa/OliveiraFFN10" mdate="2024-02-20">
+<author pid="94/8384">Lucas Bueno Ruas de Oliveira</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-9371-232X" pid="20/8385">Daniel Feitosa</author>
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Reference Models and Reference Architectures Based on Service-Oriented Architecture: A Systematic Review.</title>
+<pages>360-367</pages>
+<year>2010</year>
+<booktitle>ECSA</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15114-9_29</ee>
+<crossref>conf/ecsa/2010</crossref>
+<url>db/conf/ecsa/ecsa2010.html#OliveiraFFN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/NakagawaFF10" mdate="2024-02-20">
+<author orcid="0000-0002-7754-4298" pid="67/5214">Elisa Yumi Nakagawa</author>
+<author orcid="0000-0001-9371-232X" pid="20/8385">Daniel Feitosa</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Using systematic mapping to explore software architecture knowledge.</title>
+<pages>29-36</pages>
+<year>2010</year>
+<booktitle>SHARK@ICSE</booktitle>
+<ee>https://doi.org/10.1145/1833335.1833340</ee>
+<crossref>conf/icse/2010shark</crossref>
+<url>db/conf/icse/shark2010.html#NakagawaFF10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/oopsla/DurelliFD10" mdate="2024-02-20">
+<author pid="128/3287">Vinicius H. S. Durelli</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="84/3153">M&#225;rcio Eduardo Delamaro</author>
+<title>Systematic mapping study on high-level language virtual machines.</title>
+<pages>4:1-4:6</pages>
+<year>2010</year>
+<booktitle>VMIL@SPLASH</booktitle>
+<ee>https://doi.org/10.1145/1941054.1941058</ee>
+<crossref>conf/oopsla/2010vmil</crossref>
+<url>db/conf/oopsla/vmil2010.html#DurelliFD10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/FeitosaFOWN10" mdate="2024-02-20">
+<author pid="20/8385">Daniel Feitosa</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="94/8384">Lucas Bueno Ruas de Oliveira</author>
+<author pid="97/3033">Denis F. Wolf</author>
+<author pid="67/5214">Elisa Yumi Nakagawa</author>
+<title>Software Engineering in the Embedded Software and Mobile Robot Software Development: A Systematic Mapping.</title>
+<pages>738-741</pages>
+<year>2010</year>
+<booktitle>SEKE</booktitle>
+<crossref>conf/seke/2010</crossref>
+<url>db/conf/seke/seke2010.html#FeitosaFOWN10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/NetoBFF09" mdate="2024-02-20">
+<author pid="00/5907">Am&#233;rico Talarico Neto</author>
+<author pid="58/5048">Thiago J. Bittar</author>
+<author orcid="0000-0001-9994-8923" pid="48/6369">Renata Pontin de Mattos Fortes</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Developing and evaluating web multimodal interfaces - a case study with usability principles.</title>
+<pages>116-120</pages>
+<year>2009</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/1529282.1529306</ee>
+<crossref>conf/sac/2009</crossref>
+<url>db/conf/sac/sac2009.html#NetoBFF09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/NetoBFF08" mdate="2024-02-20">
+<author pid="00/5907">Am&#233;rico Talarico Neto</author>
+<author pid="58/5048">Thiago J. Bittar</author>
+<author pid="48/6369">Renata Pontin de Mattos Fortes</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<title>Abordagem para o desenvolvimento e avalia&#231;&#227;o de interfaces multimodais web pautada em princ&#237;pios de usabilidade.</title>
+<pages>21-30</pages>
+<year>2008</year>
+<booktitle>IHC</booktitle>
+<ee>https://dl.acm.org/citation.cfm?id=1497474</ee>
+<crossref>conf/ihc/2008</crossref>
+<url>db/conf/ihc/ihc2008.html#NetoBFF08</url>
+</inproceedings>
+</r>
+<coauthors n="133" nc="1">
+<co c="0"><na f="a/Abdalla:Gabriel" pid="165/3637">Gabriel Abdalla</na></co>
+<co c="0"><na f="a/Affonso:Frank_Jos=eacute=" pid="117/5635">Frank Jos&#233; Affonso</na></co>
+<co c="0"><na f="a/Aguiar:Luiz_Gustavo_Ferreira" pid="234/2516">Luiz Gustavo Ferreira Aguiar</na></co>
+<co c="0"><na f="a/Aguiar:Maria_Fernanda_de_Abreu" pid="415/9780">Maria Fernanda de Abreu Aguiar</na></co>
+<co c="0" n="2"><na f="a/Allian:Ana_P=" pid="205/5812">Ana P. Allian</na><na>Ana Allian</na></co>
+<co c="0" n="2"><na f="a/Alu=iacute=sio:Sandra_M=" pid="86/332">Sandra M. Alu&#237;sio</na><na>Sandra Maria Alu&#237;sio</na></co>
+<co c="0"><na f="a/Aluizio:Sandra_Maria" pid="368/8040">Sandra Maria Aluizio</na></co>
+<co c="0"><na f="a/Alves:Daniela_dos_Santos" pid="394/1702">Daniela dos Santos Alves</na></co>
+<co c="0"><na f="a/Andery:Gabriel_de_Faria" pid="15/718">Gabriel de Faria Andery</na></co>
+<co c="0"><na f="a/Audacio:Edneuci_D=" pid="203/0115">Edneuci D. Audacio</na></co>
+<co c="0"><na f="b/Baldassarre:Maria_Teresa" pid="73/1559">Maria Teresa Baldassarre</na></co>
+<co c="0"><na f="b/Barbosa:Ellen_Francine" pid="66/2060">Ellen Francine Barbosa</na></co>
+<co c="0"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na></co>
+<co c="0"><na f="b/Beach:Hunter" pid="410/7532">Hunter Beach</na></co>
+<co c="0"><na f="b/Bianchi:Thiago" pid="165/3773">Thiago Bianchi</na></co>
+<co c="0"><na f="b/Bittar:Thiago_J=" pid="58/5048">Thiago J. Bittar</na></co>
+<co c="0"><na f="b/Bonora:Alex" pid="315/5776">Alex Bonora</na></co>
+<co c="0" n="2"><na f="c/C=acirc=ndido_Jr=:Arnaldo" pid="10/7438">Arnaldo C&#226;ndido Jr.</na><na>Arnaldo C&#226;ndido J&#250;nior</na></co>
+<co c="0"><na f="c/Carver:Jeffrey_C=" pid="c/JeffreyCCarver">Jeffrey C. Carver</na></co>
+<co c="0" n="2"><na f="c/Chavez:Christina_von_Flach_G=" pid="c/ChristinavonFlachGChavez">Christina von Flach G. Chavez</na><na>Christina von Flach</na></co>
+<co c="0"><na f="c/Coelho:Alexandre_G=_N=" pid="287/0177">Alexandre G. N. Coelho</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="c/Costa:Ana_Claudia_M=_P=" pid="421/2948">Ana Claudia M. P. Costa</na></co>
+<co c="0"><na f="c/Costalonga:Marcelo" pid="399/9306">Marcelo Costalonga</na></co>
+<co c="0"><na f="c/Coutinho:Daniel" pid="87/1273">Daniel Coutinho</na></co>
+<co c="0"><na f="d/Deizepe:Anderson" pid="388/1175">Anderson Deizepe</na></co>
+<co c="0"><na f="d/Delamaro:M=aacute=rcio_Eduardo" pid="84/3153">M&#225;rcio Eduardo Delamaro</na></co>
+<co c="0"><na f="d/Dias:Diogenes" pid="194/3324">Diogenes Dias</na></co>
+<co c="0"><na f="d/Duarte:Leonardo_Simas" pid="117/5545">Leonardo Simas Duarte</na></co>
+<co c="0"><na f="d/Durelli:Vinicius_H=_S=" pid="128/3287">Vinicius H. S. Durelli</na></co>
+<co c="0"><na f="e/Etchie:Misan_Paul" pid="410/7084">Misan Paul Etchie</na></co>
+<co c="0" n="2"><na f="f/Fabbri:Sandra_C=_P=_F=" pid="75/5829">Sandra C. P. F. Fabbri</na><na>Sandra Camargo Pinto Ferraz Fabbri</na></co>
+<co c="0"><na f="f/Falbo:Ricardo_de_Almeida" pid="229/4259">Ricardo de Almeida Falbo</na></co>
+<co c="0"><na f="f/Fantini:Julia_Beiroco_O=" pid="421/2966">Julia Beiroco O. Fantini</na></co>
+<co c="0"><na f="f/Feitosa:Daniel" pid="20/8385">Daniel Feitosa</na></co>
+<co c="0"><na f="f/Ferrari:Fabiano_Cutigi" pid="48/5007">Fabiano Cutigi Ferrari</na></co>
+<co c="0" n="2"><na f="f/Ferreira_0001:Erica" pid="92/7665">Erica Ferreira 0001</na><na>&#201;rica Ferreira de Souza</na></co>
+<co c="0"><na f="f/Fortes:Renata_Pontin_de_Mattos" pid="48/6369">Renata Pontin de Mattos Fortes</na></co>
+<co c="0" n="2"><na f="g/Garc=eacute=s:Lina" pid="165/9276">Lina Garc&#233;s</na><na>Lina Maria Garc&#233;s Rodriguez</na></co>
+<co c="0"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na></co>
+<co c="0"><na f="g/Genvigir:Elias_Canhadas" pid="44/8870">Elias Canhadas Genvigir</na></co>
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gomes:Genildo" pid="283/4200">Genildo Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Marcelo_Benites" pid="133/1545">Marcelo Benites Gon&#231;alves</na></co>
+<co c="0"><na f="g/Guessi:Milena" pid="18/10588">Milena Guessi</na></co>
+<co c="0"><na f="h/Hall=eacute=:Sylvain" pid="81/715">Sylvain Hall&#233;</na></co>
+<co c="0" n="2"><na f="h/Hernandes:Elis_Montoro" pid="71/8920">Elis Montoro Hernandes</na><na>Elis Cristina Montoro Hernandes</na></co>
+<co c="0"><na f="h/Hesae:Stephane" pid="214/5890">Stephane Hesae</na></co>
+<co c="0" n="2"><na f="h/Horita:Fl=aacute=vio_E=_A=" pid="147/5757">Fl&#225;vio E. A. Horita</na><na>Fl&#225;vio Eduardo Aoki Horita</na></co>
+<co c="0"><na f="j/Janu=aacute=rio:Jailma" pid="419/1237">Jailma Janu&#225;rio</na></co>
+<co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
+<co c="0"><na f="k/Kolski:Christophe" pid="55/5915">Christophe Kolski</na></co>
+<co c="0"><na f="k/Kudo:Taciana_Novo" pid="75/1278">Taciana Novo Kudo</na></co>
+<co c="0"><na f="k/Kuutila:Miikka" pid="185/5232">Miikka Kuutila</na></co>
+<co c="0"><na f="l/Lana:Cristiane" pid="190/4212">Cristiane Lana</na></co>
+<co c="0"><na f="l/Leroux:Elena" pid="08/5822">Elena Leroux</na></co>
+<co c="0" n="2"><na f="l/Lima:M=aacute=rcia" pid="249/1753">M&#225;rcia Lima</na><na>M&#225;rcia Sampaio Lima</na></co>
+<co c="0"><na f="l/Lopes:Rafael" pid="276/7319">Rafael Lopes</na></co>
+<co c="0"><na f="m/MacDonell:Stephen_G=" pid="93/39">Stephen G. MacDonell</na></co>
+<co c="0" n="2"><na f="m/Maciel:Claudia_P=_C=" pid="233/2376">Claudia P. C. Maciel</na><na>Claudia Patricia Candia Maciel</na></co>
+<co c="0"><na f="m/Malacrida:Tamiris" pid="276/7320">Tamiris Malacrida</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0"><na f="m/M=auml=ntyl=auml=:Mika" pid="m/MikaMantyla">Mika M&#228;ntyl&#228;</na></co>
+<co c="0"><na f="m/Manzano:Wallace" pid="205/5798">Wallace Manzano</na></co>
+<co c="0"><na f="m/Marassi:Diogo_Ad=aacute=rio" pid="419/1238">Diogo Ad&#225;rio Marassi</na></co>
+<co c="0"><na f="m/Martins:Guilherme_Augusto_dos_Reis" pid="329/4987">Guilherme Augusto dos Reis Martins</na></co>
+<co c="0"><na f="m/Martins:Rafael_Messias" pid="117/2529">Rafael Messias Martins</na></co>
+<co c="0"><na f="m/Matsubara:Patr=iacute=cia" pid="249/1704">Patr&#237;cia Matsubara</na></co>
+<co c="0" n="2"><na f="m/Meinerz:Giovani_Volnei" pid="233/2183">Giovani Volnei Meinerz</na><na>Giovani V. Meinerz</na></co>
+<co c="0"><na f="m/Meireles:Maria_A=_C=" pid="266/3551">Maria A. C. Meireles</na></co>
+<co c="0"><na f="m/Melo:Claudia_de_O=" pid="32/9660">Claudia de O. Melo</na></co>
+<co c="0"><na f="m/Mendes:Emilia" pid="m/EMendes">Emilia Mendes</na></co>
+<co c="0"><na f="m/Minghim:Rosane" pid="61/4784">Rosane Minghim</na></co>
+<co c="0"><na f="m/Morais:Maria_Gabriela" pid="205/5790">Maria Gabriela Morais</na></co>
+<co c="0"><na f="m/Morandini:Marcelo" pid="67/2834">Marcelo Morandini</na></co>
+<co c="0"><na f="m/Moro:Geovanne_J=" pid="276/7289">Geovanne J. Moro</na></co>
+<co c="0"><na f="n/Nakagawa:Elisa_Yumi" pid="67/5214">Elisa Yumi Nakagawa</na></co>
+<co c="0" n="2"><na f="n/Napole=atilde=o:Bianca" pid="204/7723">Bianca Napole&#227;o</na><na>Bianca Minetto Napole&#227;o</na></co>
+<co c="0"><na f="n/Neto:Am=eacute=rico_Talarico" pid="00/5907">Am&#233;rico Talarico Neto</na></co>
+<co c="0"><na f="n/Neto:Jos=eacute=_Ede_de_Campos" pid="277/2203">Jos&#233; Ede de Campos Neto</na></co>
+<co c="0" n="2"><na f="n/Neto:Renato_Bulc=atilde=o" pid="08/6838">Renato Bulc&#227;o Neto</na><na>Renato F. Bulc&#227;o-Neto</na></co>
+<co c="0"><na f="n/Neto:Valdemar_Vicente_Graciano" pid="151/3182">Valdemar Vicente Graciano Neto</na></co>
+<co c="0"><na f="n/Nicolau:Maria_Isabel" pid="410/8654">Maria Isabel Nicolau</na></co>
+<co c="0" n="2"><na f="o/Octaviano:F=aacute=bio" pid="122/5485">F&#225;bio Octaviano</na><na>F&#225;bio Roberto Octaviano</na></co>
+<co c="0"><na f="o/Oliveira:Brauner_R=_N=" pid="166/4440">Brauner R. N. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Lucas_B=_R=" pid="94/8384">Lucas B. R. Oliveira</na><na>Lucas Bueno Ruas de Oliveira</na></co>
+<co c="0" n="2"><na f="o/OliveiraJr:Edson" pid="04/2051">Edson OliveiraJr</na><na>Edson Oliveira Jr.</na></co>
+<co c="0"><na f="o/Oquendo:Fl=aacute=vio" pid="32/153">Fl&#225;vio Oquendo</na></co>
+<co c="0"><na f="p/Paes:Carlos_Eduardo_de_Barros" pid="83/1965">Carlos Eduardo de Barros Paes</na></co>
+<co c="0"><na f="p/Paulovich:Fernando_Vieira" pid="63/3726">Fernando Vieira Paulovich</na></co>
+<co c="0" n="2"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na><na>Jacob McAuley Penney</na></co>
+<co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
+<co c="0"><na f="p/Pereira_0002:Roberto" pid="233/8441">Roberto Pereira 0002</na></co>
+<co c="0"><na f="p/Petrillo:F=aacute=bio" pid="84/5879">F&#225;bio Petrillo</na></co>
+<co c="0"><na f="r/Ramos:Amanda_M=ouml=hring" pid="289/7974">Amanda M&#246;hring Ramos</na></co>
+<co c="0"><na f="r/Riaz:Mehwish" pid="38/7688">Mehwish Riaz</na></co>
+<co c="0"><na f="r/Ruiz:Glauco_Antonio" pid="233/1916">Glauco Antonio Ruiz</na></co>
+<co c="0"><na f="s/Salleh:Norsaremah" pid="35/7688">Norsaremah Salleh</na></co>
+<co c="0"><na f="s/Sampaio:Savio_Sousa" pid="394/3479">Savio Sousa Sampaio</na></co>
+<co c="0"><na f="s/Santos:Daniel_Soares" pid="166/4491">Daniel Soares Santos</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Santos:Juliana_Oliveira_dos" pid="329/5930">Juliana Oliveira dos Santos</na></co>
+<co c="0" n="2"><na f="s/Santos:Luciana_Brasil_Rebelo_dos" pid="144/7630">Luciana Brasil Rebelo dos Santos</na><na>Luciana Rebelo</na></co>
+<co c="0"><na f="s/Santos:Vin=iacute=cius_G=_dos" pid="331/2509">Vin&#237;cius G. dos Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Sena:Bruno" pid="205/5799">Bruno Sena</na></co>
+<co c="0" n="2"><na f="s/Silva:Anderson_Y=_Iwazaki_da" pid="228/0237">Anderson Y. Iwazaki da Silva</na><na>Anderson Yoshiaki Iwazaki</na></co>
+<co c="0"><na f="s/Silva:Gl=aacute=ucia_Braga_e" pid="360/1165">Gl&#225;ucia Braga e Silva</na></co>
+<co c="0"><na f="s/Silva:Nilson" pid="204/6555">Nilson Silva</na></co>
+<co c="0"><na f="s/Silva:Patrick_Rodrigo_da" pid="233/2406">Patrick Rodrigo da Silva</na></co>
+<co c="0"><na f="s/Silva:Rebeca_T=_da" pid="203/0101">Rebeca T. da Silva</na></co>
+<co c="0"><na f="s/Smek:Deivid_Jos=eacute=" pid="394/3178">Deivid Jos&#233; Smek</na></co>
+<co c="0"><na f="s/Souza:Alinne_Cristinne_Corr=ecirc=a" pid="350/0363">Alinne Cristinne Corr&#234;a Souza</na></co>
+<co c="0"><na f="s/Souza:Draylson_Micael_de" pid="06/9743">Draylson Micael de Souza</na></co>
+<co c="0"><na f="s/Souza:Francisco_Carlos_M=" pid="156/1927">Francisco Carlos M. Souza</na></co>
+<co c="0"><na f="s/Specimille:Marcos_S=" pid="287/0589">Marcos S. Specimille</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="s/Sulayman:Muhammad" pid="26/5922">Muhammad Sulayman</na></co>
+<co c="0"><na f="t/Travassos:Guilherme_Horta" pid="t/GuilhermeTravassos">Guilherme Horta Travassos</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="t/Trinkereinch:Bianca" pid="405/7368">Bianca Trinkereinch</na></co>
+<co c="0" n="2"><na f="v/Valentim:Natasha_M=_Costa" pid="135/0795">Natasha M. Costa Valentim</na><na>Natasha Malveira Costa Valentim</na></co>
+<co c="0"><na f="v/Valle:Pedro_Henrique_Dias" pid="169/4861">Pedro Henrique Dias Valle</na></co>
+<co c="0"><na f="v/Vicente:Isabella" pid="205/5805">Isabella Vicente</na></co>
+<co c="0" n="3"><na f="v/Vijaykumar:Nandamudi_Lankalapalli" pid="39/841">Nandamudi Lankalapalli Vijaykumar</na><na>Nandamudi L. Vijaykumar</na><na>Nandamudi Vijaykumar</na></co>
+<co c="0" n="2"><na f="v/Vincenzi:Auri_M=_R=" pid="05/4141">Auri M. R. Vincenzi</na><na>Auri Marcelo Rizzo Vincenzi</na></co>
+<co c="0"><na f="v/Volpato:Tiago" pid="205/5795">Tiago Volpato</na></co>
+<co c="0"><na f="w/Watanabe:Willian_Massami" pid="08/7439">Willian Massami Watanabe</na></co>
+<co c="0"><na f="w/Wohlin:Claes" pid="w/ClaesWohlin">Claes Wohlin</na></co>
+<co c="0"><na f="w/Wolf:Denis_F=" pid="97/3033">Denis F. Wolf</na></co>
+<co c="0"><na f="z/Zani:Vin=iacute=cius_Augusto_Tagliatti" pid="07/10588">Vin&#237;cius Augusto Tagliatti Zani</na></co>
+<co c="0"><na f="z/Zaniro:D=ecirc=nis" pid="91/8307">D&#234;nis Zaniro</na></co>
+</coauthors>
+</dblpperson>
+
