@@ -641,6 +641,7 @@ def load_news():
             "tag": r.get("tag", ""),
             "url": r.get("url", ""),
             "summary": r.get("summary", ""),
+            "image": r.get("image", ""),   # optional path, e.g. assets/news/<slug>.jpg
             "projects": split_list(r.get("projects", "")),
             "body": read_body(DATA / "news" / f"{slug}.md"),
         })
@@ -1673,7 +1674,7 @@ def build_funding(projects):
         nav_current="funding.html"))
 
 
-def news_item_html(n, projects_by_slug, *, depth=0):
+def news_item_html(n, projects_by_slug, *, depth=0, extra_class=""):
     """One row on a news index. The title links to the item's own page."""
     up = "../" * depth
     chips = " ".join(
@@ -1693,8 +1694,13 @@ def news_item_html(n, projects_by_slug, *, depth=0):
     chip_row = ""
     if chips:
         chip_row = f'<div class="tags mono" style="font-size:11.5px;margin-top:5px">{chips}</div>'
+    thumb = ""
+    if n["image"]:
+        thumb = (f'<div class="thumb"><img src="{up}{esc(n["image"])}" alt="" '
+                 f'width="88" height="88" loading="lazy"></div>')
+    cls = "news-item" + (f" {extra_class}" if extra_class else "")
     return (
-        f'<div class="news-item"><div class="date">{esc(n["date"])}</div><div>'
+        f'<div class="{cls}"><div class="date">{esc(n["date"])}</div>{thumb}<div>'
         f'{tag}'
         f'<h3><a href="{up}news/{esc(n["slug"])}.html">{esc(n["title"])}</a></h3>'
         f"{teaser}{chip_row}</div></div>"
@@ -1702,7 +1708,37 @@ def news_item_html(n, projects_by_slug, *, depth=0):
 
 
 def build_news(news, projects_by_slug):
-    rows = "\n".join(news_item_html(n, projects_by_slug) for n in news)
+    VISIBLE = 5
+    visible_items = news[:VISIBLE]
+    hidden_items = news[VISIBLE:]
+
+    rows = "\n".join(news_item_html(n, projects_by_slug) for n in visible_items)
+    hidden_rows = "\n".join(
+        news_item_html(n, projects_by_slug, extra_class="news-more") for n in hidden_items
+    )
+
+    more_button = ""
+    if hidden_items:
+        more_button = (
+            f'<div class="btn-row" id="news-more-row">'
+            f'<button type="button" class="btn" id="news-more-btn">'
+            f'View more ({len(hidden_items)})</button></div>'
+        )
+    script = ""
+    if hidden_items:
+        script = """<script>
+(function () {
+  var btn = document.getElementById('news-more-btn');
+  var row = document.getElementById('news-more-row');
+  if (!btn) return;
+  btn.addEventListener('click', function () {
+    var items = document.querySelectorAll('.news-more');
+    items.forEach(function (el) { el.classList.remove('news-more'); });
+    row.hidden = true;
+  });
+})();
+</script>"""
+
     body = (
         '<section>\n'
         '  <p class="eyebrow">news</p>\n'
@@ -1710,7 +1746,10 @@ def build_news(news, projects_by_slug):
         '  <p class="lead">Awards, talks, papers, and arrivals. Items tagged with a\n'
         "  project also appear on that project's page.</p>\n"
         + (rows or '<div class="empty">No news yet.</div>')
-        + "\n</section>"
+        + ("\n" + hidden_rows if hidden_rows else "")
+        + "\n</section>\n"
+        + more_button
+        + script
     )
     write(ROOT / "news.html", page(
         f"News — {SITE_NAME}", body,
@@ -1752,6 +1791,9 @@ def build_news_pages(news, projects_by_slug):
 
         content = md_to_html(n["body"]) if n["body"] else f'<p>{esc(n["summary"])}</p>'
         meta = esc(n["date"]) + (f' &middot; {esc(n["tag"])}' if n["tag"] else "")
+        hero = ""
+        if n["image"]:
+            hero = f'  <img class="news-hero" src="../{esc(n["image"])}" alt="" loading="lazy">\n'
 
         item_body = (
             '<section>\n'
@@ -1759,7 +1801,8 @@ def build_news_pages(news, projects_by_slug):
             f'  <h1 class="page-title">{esc(n["title"])}</h1>\n'
             '  <p class="mono" style="font-size:12.5px;color:var(--slate);margin:0 0 20px">'
             f'{meta}</p>\n'
-            f'  <div class="prose">\n{content}\n  </div>\n{source}\n</section>\n\n'
+            + hero
+            + f'  <div class="prose">\n{content}\n  </div>\n{source}\n</section>\n\n'
             + related + "\n\n" + nav_row
         )
         write(ROOT / "news" / f"{n['slug']}.html", page(

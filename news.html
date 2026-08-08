@@ -42,8 +42,20 @@
 <div class="news-item"><div class="date">2024-05-07</div><div><div class="tag">papers</div><h3><a href="news/20240101-aiware.html">RESHAPE Lab paper accepted at AIware Conference 2024</a></h3><p>We are excited to announce that our latest research paper (&#x27;Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla’s PDF.js Project&#x27;), developed in collaboration… <a class="paper-link" href="news/20240101-aiware.html">Read more &rarr;</a></p></div></div>
 <div class="news-item"><div class="date">2024-03-01</div><div><div class="tag">collaboration</div><h3><a href="news/20240301-uses.html">Collaboration USES/UFAM -- RESHAPE/NAU!</a></h3><p>NAU will receive six Brazilian scholars as part of a project led by the Institute of Computing at the Federal University of Amazonas, that includes a partnership with the School of Informatics Computi… <a class="paper-link" href="news/20240301-uses.html">Read more &rarr;</a></p></div></div>
 <div class="news-item"><div class="date">2024-03-01</div><div><div class="tag">papers</div><h3><a href="news/20240301-icse.html">RESHAPE Lab hat trick at ICSE 2024!</a></h3><p>RESHAPE Lab will be very well represented at ICSE 2024 in Lisbon! Members of our lab are co-authors of three papers in the Research Track that will be presented at the conference: <a class="paper-link" href="news/20240301-icse.html">Read more &rarr;</a></p></div></div>
-<div class="news-item"><div class="date">2024-02-01</div><div><div class="tag">award</div><h3><a href="news/20240201-bianca-award.html">Bianca Trinkenreich received the 2024 ACM SIGSOFT Distinguished Dissertation Award</a></h3><p>Bianca Trinkenreich received the 2024 ACM SIGSOFT Distinguished Dissertation Award for her Ph.D. dissertation “Understanding and Supporting Women’s Participation in Open Source Software” (Northern Ari…</p></div></div>
+<div class="news-item news-more"><div class="date">2024-02-01</div><div><div class="tag">award</div><h3><a href="news/20240201-bianca-award.html">Bianca Trinkenreich received the 2024 ACM SIGSOFT Distinguished Dissertation Award</a></h3><p>Bianca Trinkenreich received the 2024 ACM SIGSOFT Distinguished Dissertation Award for her Ph.D. dissertation “Understanding and Supporting Women’s Participation in Open Source Software” (Northern Ari…</p></div></div>
 </section>
+<div class="btn-row" id="news-more-row"><button type="button" class="btn" id="news-more-btn">View more (1)</button></div><script>
+(function () {
+  var btn = document.getElementById('news-more-btn');
+  var row = document.getElementById('news-more-row');
+  if (!btn) return;
+  btn.addEventListener('click', function () {
+    var items = document.querySelectorAll('.news-more');
+    items.forEach(function (el) { el.classList.remove('news-more'); });
+    row.hidden = true;
+  });
+})();
+</script>
 </main>
 <footer>
   <div class="row">

@@ -123,6 +123,17 @@ Add a row to `data/news.csv`. Put project slugs in the `projects` column and the
 item also appears under "News and presentations" on those project pages. For
 anything longer than the one-line `summary`, write `data/news/<slug>.md`.
 
+An optional `image` column takes a path relative to the site root (e.g.
+`assets/news/20260601-launch.jpg`). When set, it shows as a small thumbnail on
+every list the item appears on (home, `news.html`, project pages) and as a
+full-width hero image at the top of the item's own page. Leave it blank for a
+text-only item — nothing breaks either way.
+
+`news.html` shows only the 5 most recent items by default, with a "View more"
+button that reveals the rest. All items are present in the page's HTML either
+way, so nothing is hidden from search engines — the button just toggles
+visibility client-side.
+
 ---
 
 ## How it fits together
