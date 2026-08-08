@@ -1,25 +1,18 @@
 name: Build and deploy
 
 # ---------------------------------------------------------------------------
-# During the transition this deploys from the `static-site` branch, so `main`
-# stays exactly as it is and Vercel keeps serving the old site at
-# www.reshapelab.site. Nothing public changes until DNS moves.
-#
-# After cutover: change DEPLOY_BRANCH to `main`, merge, and delete the Vercel
-# project. Nothing else needs editing.
-#
 # Publishing source must be Settings -> Pages -> Source -> GitHub Actions.
 # Commits pushed by a workflow using GITHUB_TOKEN cannot trigger a branch
-# build, so the monthly DBLP refresh has to deploy from inside this same run.
+# build, so the monthly DBLP refresh deploys from inside this same run.
 # ---------------------------------------------------------------------------
 
 env:
-  DEPLOY_BRANCH: static-site
+  DEPLOY_BRANCH: main
   SITE_URL: https://www.reshapelab.site
 
 on:
   push:
-    branches: [static-site, main]
+    branches: [main]
   pull_request:
   schedule:
     - cron: "0 6 1 * *"   # 06:00 UTC on the 1st — refresh DBLP

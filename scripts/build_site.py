@@ -538,6 +538,7 @@ def load_research():
             "name": name,
             "short": r.get("short", ""),
             "keywords": split_list(r.get("keywords", "")),
+            "project": r.get("project", ""),  # optional slug — links theme to a project page
         })
     return out
 
@@ -1056,7 +1057,14 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
     themes = "\n".join(
         f'<div class="theme">'
         + (f'<span class="tag">{esc(", ".join(t["keywords"][:3]))}</span>' if t["keywords"] else "")
-        + f'<h3>{esc(t["name"])}</h3><p>{esc(t["short"])}</p></div>'
+        + (
+            f'<h3><a href="projects/{esc(t["project"])}.html">{esc(t["name"])}</a></h3>'
+            if t.get("project") else
+            f'<h3>{esc(t["name"])}</h3>'
+        )
+        + f'<p>{esc(t["short"])}</p>'
+        + (f'<a class="theme-link" href="projects/{esc(t["project"])}.html">See project →</a>' if t.get("project") else "")
+        + '</div>'
         for t in research
     )
 
@@ -1097,7 +1105,7 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
   </div>
   <div class="inner caption">
     <p class="contrib-caption">// {len(pubs)} peer-reviewed papers &middot; {len(members)} people
-    &middot; {len(active)} active projects &mdash; density tracks output per year</p>
+    &middot; {len(active)} active projects &mdash; each column is one year of output</p>
   </div>
 </section>
 
@@ -1125,9 +1133,12 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
 
 <section>
   <h2>Contact</h2>
-  <p class="lead">{esc(SITE_NAME)} is co-led by {esc(lead_names)} at NAU's
+  <p class="lead">{esc(SITE_NAME)} is co-led by {esc(lead_names)} at NAU&rsquo;s
   School of Informatics, Computing and Cyber Systems in Flagstaff, Arizona.
-  Prospective students should read the notes on each faculty page before writing.</p>
+  We welcome inquiries from prospective PhD and MS students interested in open source,
+  software engineering, or AI-assisted learning. Before writing, visit each
+  <a href="people.html">faculty page</a> for current advising availability and
+  research fit notes.</p>
 </section>"""
     write(ROOT / "index.html", page(
         f"{SITE_NAME} — {SITE_TAGLINE}", body,
