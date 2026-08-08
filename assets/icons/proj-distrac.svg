@@ -1,0 +1,11 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DisTrac — Forecasting Core-Developer Inactivity">
+<title>DisTrac — Forecasting Core-Developer Inactivity</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<path d="M22,50 L34,50 L40,30 L46,62 L52,50 L64,50 L70,58"
+      fill="none" stroke="#1d3329" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70,58 L80,66" fill="none" stroke="#57606a" stroke-width="3"
+      stroke-linecap="round" stroke-dasharray="1 6"/>
+<circle cx="80" cy="66" r="4.5" fill="#9a6700"/>
+
+</svg>

@@ -244,13 +244,35 @@ h3 { font-size: 19px; margin: 26px 0 8px; letter-spacing: -.01em; }
 
 /* research themes / generic cards */
 .themes { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
-.theme { border: 1px solid var(--line); border-radius: 8px; padding: 18px; background: #fff; }
+.theme { border: 1px solid var(--line); border-radius: 8px; padding: 18px; background: #fff; display: flex; flex-direction: column; }
 .theme h3 { margin: 0 0 8px; font-size: 16.5px; }
-.theme p { margin: 0; font-size: 15px; color: var(--slate); line-height: 1.55; }
+.theme p { margin: 0 0 10px; font-size: 15px; color: var(--slate); line-height: 1.55; flex: 1; }
 .theme .tag {
   font-family: "JetBrains Mono", monospace; font-size: 11px;
   color: var(--green-deep); display: block; margin-bottom: 8px; letter-spacing: .05em;
 }
+.theme-icon { display: block; margin-bottom: 10px; border-radius: 12px; }
+.theme-link {
+  font-family: "JetBrains Mono", monospace; font-size: 11.5px;
+  color: var(--green-deep); text-decoration: none; margin-top: auto;
+}
+.theme-link:hover { text-decoration: underline; }
+
+/* research area headers (research.html) */
+.area-head { display: flex; align-items: flex-start; gap: 16px; margin-bottom: 4px; }
+.area-icon { flex: none; border-radius: 14px; }
+.area-head h2 { margin: 0 0 4px; }
+.area-head .lead { margin: 0; }
+
+/* project card head + icons (research.html cards, project pages, funding table) */
+.proj-head { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.proj-head h4 { margin: 0; font-size: 18.5px; }
+.proj-head h4 a { border: 0; color: var(--ink); }
+.proj-head h4 a:hover { color: var(--green-deep); }
+.proj-icon { flex: none; border-radius: 10px; }
+.proj-page-head { display: flex; align-items: center; gap: 16px; margin-bottom: 4px; }
+.proj-icon-lg { flex: none; border-radius: 16px; }
+.proj-icon-sm { vertical-align: middle; margin-right: 6px; border-radius: 5px; position: relative; top: -1px; }
 
 /* ---- publications ---- */
 .pub { padding: 14px 0; border-bottom: 1px dashed var(--line); }
@@ -350,9 +372,9 @@ button.linky:focus-visible { outline: 2px solid var(--green); outline-offset: 2p
 
 /* ---- projects ---- */
 .proj { border: 1px solid var(--line); border-radius: 8px; background: #fff; padding: 20px; margin-bottom: 16px; }
-.proj h3 { margin: 0 0 6px; font-size: 18.5px; }
-.proj h3 a { border: 0; color: var(--ink); }
-.proj h3 a:hover { color: var(--green-deep); }
+.proj h3, .proj h4 { margin: 0 0 6px; font-size: 18.5px; }
+.proj h3 a, .proj h4 a { border: 0; color: var(--ink); }
+.proj h3 a:hover, .proj h4 a:hover { color: var(--green-deep); }
 .proj .pmeta {
   font-family: "JetBrains Mono", monospace; font-size: 12px; color: var(--slate);
   display: flex; gap: 14px; flex-wrap: wrap; margin-bottom: 8px;
@@ -383,7 +405,6 @@ button.linky:focus-visible { outline: 2px solid var(--green); outline-offset: 2p
 .fund.grants { table-layout: fixed; }
 .fund.grants col.c-proj { width: auto; }
 .fund.grants col.c-period { width: 128px; }
-.fund.grants col.c-role { width: 116px; }
 .fund.grants col.c-amt { width: 108px; }
 .fund th, .fund td { text-align: left; padding: 10px 12px 10px 0; border-bottom: 1px dashed var(--line); vertical-align: top; }
 .fund th {

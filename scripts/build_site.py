@@ -29,7 +29,7 @@ Usage:
     python scripts/build_site.py --refresh-oa    # re-query every DOI
     python scripts/build_site.py --deep          # also search the arXiv API
 
-Writes: index.html, people.html, publications.html, projects.html,
+Writes: index.html, people.html, publications.html, research.html,
 funding.html, news.html, people/<slug>.html, projects/<slug>.html,
 sitemap.xml, missing_pdfs.md, cache/oa_cache.json, cache/dblp/<pid>.xml
 
@@ -142,7 +142,7 @@ NAV = [
     ("index.html", "Home"),
     ("people.html", "People"),
     ("publications.html", "Publications"),
-    ("projects.html", "Projects"),
+    ("research.html", "Research"),
     ("funding.html", "Funding"),
     ("news.html", "News"),
 ]
@@ -288,10 +288,36 @@ def warn(msg: str) -> None:
     WARNINGS.append(msg)
 
 
-def fetch(url: str) -> bytes:
+def fetch(url: str, *, retries: int = 5, backoff: float = 5.0) -> bytes:
+    """Fetch a URL with exponential backoff on connection errors.
+
+    Retries on any OSError (including ECONNRESET) and HTTP 429/503.
+    Waits backoff * 2^attempt seconds between tries, plus up to 2s of jitter.
+    """
+    import random
     req = urllib.request.Request(url, headers={"User-Agent": "reshapelab-site-builder/1.0"})
-    with urllib.request.urlopen(req, timeout=180) as r:
-        return r.read()
+    last_exc: Exception = RuntimeError("no attempts made")
+    for attempt in range(retries):
+        if attempt:
+            wait = backoff * (2 ** (attempt - 1)) + random.uniform(0, 2)
+            print(f"  retrying in {wait:.0f}s (attempt {attempt + 1}/{retries}) …",
+                  flush=True)
+            time.sleep(wait)
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                if r.status in (429, 503):
+                    last_exc = OSError(f"HTTP {r.status}")
+                    continue
+                return r.read()
+        except urllib.error.HTTPError as exc:
+            if exc.code in (429, 503):
+                last_exc = exc
+                continue
+            raise
+        except OSError as exc:
+            last_exc = exc
+            continue
+    raise last_exc
 
 
 def money(v: str) -> str:
@@ -543,17 +569,26 @@ def load_members():
 
 
 def load_research():
-    """Research themes shown on the home page. Falls back to nothing if absent."""
+    """Research areas shown on the home page and on research.html.
+
+    Each area can list multiple project slugs (semicolon-separated) in the
+    optional `projects` column. They are resolved to project objects in
+    build_home() and build_research_areas() after projects are loaded.
+    Falls back gracefully if research.csv is absent.
+    """
     out = []
     for r in read_csv(DATA / "research.csv"):
         name = r.get("name", "")
         if not name:
             continue
         out.append({
+            "slug": r.get("slug") or slugify(name),
             "name": name,
             "short": r.get("short", ""),
+            "description": r.get("description", ""),
             "keywords": split_list(r.get("keywords", "")),
-            "project": r.get("project", ""),  # optional slug — links theme to a project page
+            "project_slugs": split_list(r.get("projects", "")),
+            "projects": [],   # populated later once projects are loaded
         })
     return out
 
@@ -650,7 +685,7 @@ def dblp_xml(pid: str, *, offline: bool, refresh: bool) -> ET.Element | None:
         return None
     DBLP_CACHE.mkdir(parents=True, exist_ok=True)
     cache_file.write_bytes(raw)
-    time.sleep(3.0)  # be polite to dblp.org
+    time.sleep(3.0)  # DBLP rate-limits burst requests; 3s keeps us well clear
     return ET.fromstring(raw)
 
 
@@ -1095,6 +1130,23 @@ def project_dates(p):
     return esc(p["end"])
 
 
+ICON_DIR = ROOT / "assets" / "icons"
+
+
+def icon_tag(kind, slug, *, cls, size, depth=0):
+    """<img> tag for assets/icons/{kind}-{slug}.svg, or "" if the file is absent.
+
+    kind is "area" or "proj". Icons are optional — a missing file just means
+    no icon renders, so a new project or area never breaks the build.
+    """
+    fname = f"{kind}-{slug}.svg"
+    if not (ICON_DIR / fname).exists():
+        return ""
+    up = "../" * depth
+    return (f'<img class="{cls}" src="{up}assets/icons/{fname}" alt="" '
+            f'width="{size}" height="{size}" loading="lazy">')
+
+
 # ------------------------------------------------------------------------ pages
 
 
@@ -1110,14 +1162,11 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
 
     themes = "\n".join(
         f'<div class="theme">'
+        + icon_tag("area", t["slug"], cls="theme-icon", size=56)
         + (f'<span class="tag">{esc(", ".join(t["keywords"][:3]))}</span>' if t["keywords"] else "")
-        + (
-            f'<h3><a href="projects/{esc(t["project"])}.html">{esc(t["name"])}</a></h3>'
-            if t.get("project") else
-            f'<h3>{esc(t["name"])}</h3>'
-        )
+        + f'<h3><a href="research.html#{esc(t["slug"])}">{esc(t["name"])}</a></h3>'
         + f'<p>{esc(t["short"])}</p>'
-        + (f'<a class="theme-link" href="projects/{esc(t["project"])}.html">See project →</a>' if t.get("project") else "")
+        + f'<a class="theme-link" href="research.html#{esc(t["slug"])}">See projects →</a>'
         + '</div>'
         for t in research
     )
@@ -1151,7 +1200,7 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
     <div class="btn-row">
       <a class="btn solid" href="publications.html">Publications</a>
       <a class="btn" href="people.html">People</a>
-      <a class="btn" href="projects.html">Projects</a>
+      <a class="btn" href="research.html">Research</a>
     </div>
   </div>
   <div class="strip">
@@ -1175,7 +1224,7 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
   <ul class="clean">
 {proj_rows}
   </ul>
-  <div class="btn-row"><a class="btn" href="projects.html">All projects</a>
+  <div class="btn-row"><a class="btn" href="research.html">Research areas</a>
   <a class="btn" href="funding.html">Funding</a></div>
 </section>
 
@@ -1411,8 +1460,10 @@ def build_publications(pubs, members, members_by_slug, projects_by_slug, pubs_by
         nav_current="publications.html"))
 
 
-def build_projects(projects, members_by_slug):
-    def card(p):
+def build_research_areas(research, projects, members_by_slug):
+    """Generate research.html — one section per area, each listing its projects."""
+
+    def proj_card(p):
         meta = [status_badge(p)]
         if project_dates(p):
             meta.append(f'<span>{project_dates(p)}</span>')
@@ -1425,12 +1476,17 @@ def build_projects(projects, members_by_slug):
             foot.append(f'{len(p["pubs"])} paper{"s" if len(p["pubs"]) != 1 else ""}')
         if p["members"]:
             foot.append(f'{len(p["members"])} member{"s" if len(p["members"]) != 1 else ""}')
-        if p["news"]:
-            foot.append(f'{len(p["news"])} update{"s" if len(p["news"]) != 1 else ""}')
+        icon = icon_tag("proj", p["slug"], cls="proj-icon", size=44)
+        head = (
+            f'<div class="proj-head">{icon}<h4><a href="projects/{esc(p["slug"])}.html">'
+            f'{esc(p["title"])}</a></h4></div>'
+            if icon else
+            f'<h4><a href="projects/{esc(p["slug"])}.html">{esc(p["title"])}</a></h4>'
+        )
         return (
             f'<div class="proj">\n'
             f'  <div class="pmeta">{"".join(meta)}</div>\n'
-            f'  <h3><a href="projects/{esc(p["slug"])}.html">{esc(p["title"])}</a></h3>\n'
+            f'  {head}\n'
             f'  <p class="summary">{esc(p["summary"])}</p>\n'
             + (f'  <div class="foot"><a href="projects/{esc(p["slug"])}.html">'
                f'Project page</a><span>{" · ".join(foot)}</span></div>\n' if foot else
@@ -1438,26 +1494,53 @@ def build_projects(projects, members_by_slug):
             + "</div>"
         )
 
-    active = [p for p in projects if p["status"] in ("active", "current", "ongoing")]
-    past = [p for p in projects if p not in active]
-    sections = f"""<section>
-  <p class="eyebrow">projects</p>
-  <h1 class="page-title">Projects</h1>
-  <p class="lead">Each project has its own page with the full description, the papers
-  that came out of it, who worked on it, and its news.</p>
+    # areas with known projects; fall back to listing all active projects
+    # under an "Other projects" catch-all for anything not in any area
+    area_project_slugs = {s for area in research for s in area["project_slugs"]}
+    uncategorised = [p for p in projects if p["slug"] not in area_project_slugs]
+
+    area_sections = []
+    for area in research:
+        cards = "\n".join(proj_card(p) for p in area["projects"])
+        icon = icon_tag("area", area["slug"], cls="area-icon", size=64)
+        head = (
+            f'<div class="area-head">{icon}<div>'
+            f'<h2>{esc(area["name"])}</h2>'
+            f'<p class="lead">{esc(area["short"])}</p></div></div>'
+            if icon else
+            f'<h2>{esc(area["name"])}</h2>\n  <p class="lead">{esc(area["short"])}</p>'
+        )
+        area_sections.append(
+            f'<section id="{esc(area["slug"])}">\n'
+            f'  {head}\n'
+            + (f'  <div class="prose"><p>{esc(area["description"])}</p></div>\n' if area["description"] else "")
+            + (f'\n{cards}\n' if cards else
+               f'  <div class="empty">No projects linked yet — add slugs to data/research.csv.</div>\n')
+            + '</section>'
+        )
+
+    if uncategorised:
+        cards = "\n".join(proj_card(p) for p in uncategorised)
+        area_sections.append(
+            f'<section id="other">\n'
+            f'  <h2>Other projects</h2>\n'
+            f'  <p class="lead">Projects not yet assigned to a research area.</p>\n'
+            f'\n{cards}\n</section>'
+        )
+
+    body = f"""<section>
+  <p class="eyebrow">research</p>
+  <h1 class="page-title">Research Areas</h1>
+  <p class="lead">Our work spans four interconnected areas. Each area is supported
+  by one or more funded projects — click any project for its full description,
+  publications, and team.</p>
 </section>
-<section>
-  <h2>Active</h2>
-{chr(10).join(card(p) for p in active) or '<div class="empty">Nothing active listed.</div>'}
-</section>
-<section>
-  <h2>Completed</h2>
-{chr(10).join(card(p) for p in past) or '<div class="empty">Nothing completed listed.</div>'}
-</section>"""
-    write(ROOT / "projects.html", page(
-        f"Projects — {SITE_NAME}", sections,
-        description=f"Research projects at {SITE_NAME}, with funding, publications, and team for each.",
-        nav_current="projects.html"))
+{"".join(area_sections) or '<div class="empty">Add rows to data/research.csv.</div>'}"""
+    write(ROOT / "research.html", page(
+        f"Research — {SITE_NAME}", body,
+        description=f"Research areas and projects at {SITE_NAME}: newcomer onboarding, "
+                    "software engineering education, OSS sustainability, and AI in SE.",
+        nav_current="research.html"))
 
 
 def build_project_pages(projects, members_by_slug, projects_by_slug):
@@ -1495,9 +1578,15 @@ def build_project_pages(projects, members_by_slug, projects_by_slug):
         )
 
         description = p["summary"] or f'{p["title"]} at {SITE_NAME}.'
+        page_icon = icon_tag("proj", p["slug"], cls="proj-icon-lg", size=72, depth=1)
+        title_block = (
+            f'<div class="proj-page-head">{page_icon}<h1 class="page-title">{esc(p["title"])}</h1></div>'
+            if page_icon else
+            f'<h1 class="page-title">{esc(p["title"])}</h1>'
+        )
         body = f"""<section>
-  <p class="eyebrow"><a href="../projects.html">projects</a> / {esc(p["slug"])}</p>
-  <h1 class="page-title">{esc(p["title"])}</h1>
+  <p class="eyebrow"><a href="../research.html">research</a> / {esc(p["slug"])}</p>
+  {title_block}
   <div class="pmeta mono" style="display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--slate);margin-bottom:14px">
     {status_badge(p)}
   </div>
@@ -1530,7 +1619,7 @@ def build_project_pages(projects, members_by_slug, projects_by_slug):
 </section>"""
         write(ROOT / "projects" / f"{p['slug']}.html", page(
             f'{p["title"]} — {SITE_NAME}', body,
-            description=description, nav_current="projects.html", depth=1))
+            description=description, nav_current="research.html", depth=1))
 
 
 def build_funding(projects):
@@ -1546,12 +1635,12 @@ def build_funding(projects):
             award = esc(p["award_no"])
             if p["award_no"] and p["award_url"]:
                 award = f'<a href="{esc(p["award_url"])}">{award}</a>'
+            icon = icon_tag("proj", p["slug"], cls="proj-icon-sm", size=20)
             rows.append(
-                f'<tr><td><a href="projects/{esc(p["slug"])}.html">{esc(p["title"])}</a>'
+                f'<tr><td>{icon}<a href="projects/{esc(p["slug"])}.html">{esc(p["title"])}</a>'
                 + (f'<br><span class="award-no">{esc(p["program"])} {award}</span>'
                    if (p["program"] or award) else "")
                 + f'</td><td class="mono" style="font-size:13px;white-space:nowrap">{project_dates(p)}</td>'
-                + f'<td class="mono" style="font-size:13px">{esc(p["role"])}</td>'
                 + f'<td class="num">{money(p["amount"])}</td></tr>'
             )
         subtotal = sum(money_value(p["amount"]) for p in by_funder[funder])
@@ -1559,11 +1648,11 @@ def build_funding(projects):
             f'<h3 class="sub-h">{esc(funder)}</h3>\n<div class="table-wrap">\n'
             f'<table class="fund grants">\n'
             f'<colgroup><col class="c-proj"><col class="c-period">'
-            f'<col class="c-role"><col class="c-amt"></colgroup>\n'
+            f'<col class="c-amt"></colgroup>\n'
             f'<thead><tr><th>Project</th><th>Period</th>'
-            f'<th>Role</th><th class="num">Amount</th></tr></thead>\n<tbody>\n'
+            f'<th class="num">Amount</th></tr></thead>\n<tbody>\n'
             + "\n".join(rows)
-            + f'\n<tr class="total"><td colspan="3">Subtotal</td>'
+            + f'\n<tr class="total"><td colspan="2">Subtotal</td>'
               f'<td class="num">{money(str(subtotal))}</td></tr>\n</tbody></table></div>'
         )
 
@@ -1680,7 +1769,7 @@ def build_news_pages(news, projects_by_slug):
 
 
 def build_sitemap(members, projects, news):
-    urls = ["index.html", "people.html", "publications.html", "projects.html",
+    urls = ["index.html", "people.html", "publications.html", "research.html",
             "funding.html", "news.html"]
     urls += [f'people/{m["slug"]}.html' for m in members]
     urls += [f'projects/{p["slug"]}.html' for p in projects]
@@ -1798,11 +1887,18 @@ def main() -> None:
         implied = {s for pub in p["pubs"] for s in pub["members"]}
         p["members"] = list(dict.fromkeys(p["members"] + sorted(implied - set(p["members"]))))
 
+    # resolve research area project slugs to project objects
+    for area in research:
+        area["projects"] = [projects_by_slug[s] for s in area["project_slugs"] if s in projects_by_slug]
+        missing_slugs = [s for s in area["project_slugs"] if s not in projects_by_slug]
+        for s in missing_slugs:
+            warn(f"research.csv '{area['slug']}': unknown project slug '{s}'")
+
     build_home(members, projects, news, pubs, pubs_by_year, research, projects_by_slug)
     build_people(members, pubs_by_member)
     build_member_pages(members, pubs_by_member, projects, members_by_slug, projects_by_slug)
     build_publications(pubs, members, members_by_slug, projects_by_slug, pubs_by_member)
-    build_projects(projects, members_by_slug)
+    build_research_areas(research, projects, members_by_slug)
     build_project_pages(projects, members_by_slug, projects_by_slug)
     build_funding(projects)
     build_news(news, projects_by_slug)

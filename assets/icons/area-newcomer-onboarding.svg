@@ -1,0 +1,13 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Newcomer Onboarding &amp; Skill Matching">
+<title>Newcomer Onboarding &amp; Skill Matching</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<path d="M34,68 L34,28 L62,28 L62,68" fill="none" stroke="#1d3329" stroke-width="4"
+      stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="42" y="38" width="10" height="10" rx="2" fill="#30a14e"/>
+<rect x="42" y="52" width="10" height="10" rx="2" fill="#216e39"/>
+<rect x="74" y="45" width="10" height="10" rx="2" fill="#9be9a8"/>
+<path d="M70,50 L64,50 M64,50 L67.5,46.5 M64,50 L67.5,53.5" fill="none"
+      stroke="#1d3329" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>
