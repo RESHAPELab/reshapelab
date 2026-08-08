@@ -62,8 +62,10 @@ INSTITUTION = "School of Informatics, Computing and Cyber Systems · Northern Ar
 UNPAYWALL_EMAIL = "igor.steinmacher@nau.edu"
 
 # Alumni carry a whole career in their DBLP record, and harvesting all of it
-# would fill the list with work the lab had no part in. The rule is one line:
+# would fill the list with work the lab had no part in. Two rules together
+# decide what counts as lab output:
 #
+# Rule 1 — time window:
 #     a paper counts if at least one author was in the lab when it appeared.
 #
 # Current members are always in the lab. An alumnus is in the lab for years
@@ -71,6 +73,11 @@ UNPAYWALL_EMAIL = "igor.steinmacher@nau.edu"
 # visiting scholar who spent 2022 here has decades of publications either side
 # of that, and a rule that only checks the departure year lets all the earlier
 # ones through.
+#
+# Rule 2 — faculty anchor (REQUIRE_FACULTY_AUTHOR):
+#     the paper must have at least one faculty member (group == "faculty")
+#     as an author. Work done by students or visitors independently, without
+#     Igor or Marco as co-authors, is not lab output.
 #
 # When an alumnus has no dates at all we cannot judge, so we fall back to
 # co-authorship: keep the paper if another lab member is on it, drop it if they
@@ -101,6 +108,14 @@ ATTRIBUTE_BY_NAME = False
 # dates the paper is kept regardless, and a paper with any current member on it
 # is always kept.
 KEEP_IF_TWO_DEPARTED_ALUMNI = False
+
+# Papers harvested from students, visitors, and other non-faculty members must
+# have at least one faculty member (group == "faculty") as an author to appear
+# on the lab list. This removes work done independently during someone's stay
+# that was not part of the lab's research agenda.
+#
+# Force-keep individual exceptions via data/include_pubs.txt.
+REQUIRE_FACULTY_AUTHOR = True
 REPO_URL = "https://github.com/RESHAPELab/reshapelab"
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -275,7 +290,7 @@ def warn(msg: str) -> None:
 
 def fetch(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": "reshapelab-site-builder/1.0"})
-    with urllib.request.urlopen(req, timeout=60) as r:
+    with urllib.request.urlopen(req, timeout=180) as r:
         return r.read()
 
 
@@ -635,7 +650,7 @@ def dblp_xml(pid: str, *, offline: bool, refresh: bool) -> ET.Element | None:
         return None
     DBLP_CACHE.mkdir(parents=True, exist_ok=True)
     cache_file.write_bytes(raw)
-    time.sleep(1.0)  # be polite to dblp.org
+    time.sleep(3.0)  # be polite to dblp.org
     return ET.fromstring(raw)
 
 
@@ -802,11 +817,15 @@ def in_lab_when(member, year):
     return True
 
 
-def filter_alumni_only(pubs, members_by_slug):
-    """Keep a paper only if someone on it was in the lab at the time.
+def filter_pubs(pubs, members_by_slug):
+    """Keep a paper only if it passes both lab-membership rules:
 
-    Returns the dropped papers so the build can report them — silently
+    1. At least one author was in the lab during the paper's year (time window).
+    2. If REQUIRE_FACULTY_AUTHOR is True, at least one author must be faculty.
+
+    Returns (dropped, needs_date) so the build can report them — silently
     discarding publications would be worse than keeping a few strays.
+    Force-keep individual exceptions via data/include_pubs.txt.
     """
     forced = set()
     inc_file = DATA / "include_pubs.txt"
@@ -815,6 +834,10 @@ def filter_alumni_only(pubs, members_by_slug):
             line = line.split("#")[0].strip()
             if line:
                 forced.add(line)
+
+    faculty_slugs = {
+        m["slug"] for m in members_by_slug.values() if m["group"] == "faculty"
+    }
 
     undated = set()
     dropped = []
@@ -829,20 +852,30 @@ def filter_alumni_only(pubs, members_by_slug):
         year = int(p["year"]) if p["year"].isdigit() else 0
         verdicts = [in_lab_when(m, year) for m in labs]
 
+        # Rule 1: time window
         if any(v is True for v in verdicts):
-            continue                      # someone on it was here at the time
-        if all(v is False for v in verdicts):
+            pass  # someone was here — proceed to rule 2
+        elif all(v is False for v in verdicts):
             if KEEP_IF_TWO_DEPARTED_ALUMNI and len(labs) >= 2:
-                continue                  # two lab names is enough, by policy
-            dropped.append((p, labs))     # everyone on it had left, or not arrived
-            del pubs[key]
-            continue
+                pass  # two lab names is enough, by policy — proceed to rule 2
+            else:
+                dropped.append((p, labs, "time"))
+                del pubs[key]
+                continue
+        else:
+            # at least one unknown: fall back to co-authorship
+            undated.update(m["slug"] for m, v in zip(labs, verdicts) if v is None)
+            if len(labs) < 2:
+                dropped.append((p, labs, "time"))
+                del pubs[key]
+                continue
 
-        # at least one unknown: fall back to co-authorship
-        undated.update(m["slug"] for m, v in zip(labs, verdicts) if v is None)
-        if len(labs) < 2:
-            dropped.append((p, labs))
-            del pubs[key]
+        # Rule 2: faculty anchor
+        if REQUIRE_FACULTY_AUTHOR:
+            if not any(s in faculty_slugs for s in p["members"]):
+                dropped.append((p, labs, "faculty"))
+                del pubs[key]
+                continue
 
     # Only alumni who have a DBLP pid feed the harvest, so only they are worth
     # dating. Everyone else is credited by name off someone else's record.
@@ -868,17 +901,25 @@ def filter_alumni_only(pubs, members_by_slug):
 
 
 def build_dropped_report(dropped, needs_date):
-    by_member = defaultdict(list)
-    for p, labs in dropped:
+    time_dropped = [(p, labs) for p, labs, reason in dropped if reason == "time"]
+    faculty_dropped = [(p, labs) for p, labs, reason in dropped if reason == "faculty"]
+
+    by_member_time = defaultdict(list)
+    for p, labs in time_dropped:
         for m in labs:
-            by_member[m["name"]].append(p)
+            by_member_time[m["name"]].append(p)
+
+    by_member_faculty = defaultdict(list)
+    for p, labs in faculty_dropped:
+        for m in labs:
+            by_member_faculty[m["name"]].append(p)
 
     lines = [
         "# Publications left out of the list",
         "",
-        f"`scripts/build_site.py` dropped {len(dropped)} paper(s) harvested from alumni",
-        "DBLP records because no other lab member was an author — work done after they",
-        "moved on, rather than lab output.",
+        f"`scripts/build_site.py` dropped {len(dropped)} paper(s) total:",
+        f"- {len(time_dropped)} dropped because no author was in the lab at the time",
+        f"- {len(faculty_dropped)} dropped because no faculty member (Igor / Marco) was an author",
         "",
         "If one of these belongs on the site, add its DBLP key to",
         "`data/include_pubs.txt` and it will be kept on the next build.",
@@ -899,13 +940,26 @@ def build_dropped_report(dropped, needs_date):
             "",
         ] + [f"- {n}" for n in needs_date] + [""]
 
-    for name in sorted(by_member):
-        papers = sorted(by_member[name], key=lambda p: p["year"], reverse=True)
-        lines.append(f"## {name} ({len(papers)})")
-        lines.append("")
-        for p in papers:
-            lines.append(f'- `{p["key"]}` — {p["year"]} — **{p["title"]}** — *{p["venue"]}*')
-        lines.append("")
+    if time_dropped:
+        lines += ["## Dropped: no author in lab at the time", ""]
+        for name in sorted(by_member_time):
+            papers = sorted(by_member_time[name], key=lambda p: p["year"], reverse=True)
+            lines.append(f"### {name} ({len(papers)})")
+            lines.append("")
+            for p in papers:
+                lines.append(f'- `{p["key"]}` — {p["year"]} — **{p["title"]}** — *{p["venue"]}*')
+            lines.append("")
+
+    if faculty_dropped:
+        lines += ["## Dropped: no faculty author (Igor / Marco not on the paper)", ""]
+        for name in sorted(by_member_faculty):
+            papers = sorted(by_member_faculty[name], key=lambda p: p["year"], reverse=True)
+            lines.append(f"### {name} ({len(papers)})")
+            lines.append("")
+            for p in papers:
+                lines.append(f'- `{p["key"]}` — {p["year"]} — **{p["title"]}** — *{p["venue"]}*')
+            lines.append("")
+
     write(ROOT / "dropped_pubs.md", "\n".join(lines))
 
 
@@ -1133,7 +1187,7 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
 
 <section>
   <h2>Contact</h2>
-  <p class="lead">{esc(SITE_NAME)} is co-led by {esc(lead_names)} at NAU&rsquo;s
+  <p class="lead">{esc(SITE_NAME)} is directed by {esc(lead_names)} at NAU&rsquo;s
   School of Informatics, Computing and Cyber Systems in Flagstaff, Arizona.
   We welcome inquiries from prospective PhD and MS students interested in open source,
   software engineering, or AI-assisted learning. Before writing, visit each
@@ -1705,7 +1759,7 @@ def main() -> None:
     pubs_map, preprints = harvest(members, **args)
     if ATTRIBUTE_BY_NAME:
         attribute_by_name(pubs_map, members)
-    dropped, needs_date = filter_alumni_only(pubs_map, members_by_slug)
+    dropped, needs_date = filter_pubs(pubs_map, members_by_slug)
     missing = resolve_links(pubs_map, preprints, use_oa=use_oa, refresh_oa=refresh_oa,
                             deep=deep, offline=offline)
 

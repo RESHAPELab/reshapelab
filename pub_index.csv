@@ -1,123 +1,70 @@
 dblp_key,year,title,venue,members
 conf/icse-seet/CasseeRSSS26,2026,What barriers do students experience when trying to contribute to Open Source Software projects?,SEET@ICSE,igor-steinmacher;italo-santos
 conf/sigcse/WurstFKS26,2026,Ways to Make Git Easier to Teach,SIGCSE (2),igor-steinmacher
-journals/sbcjis/GomesFMARFMABSNSD26,2026,UX on In-Vehicle Infotainment Systems: A Systematic Literature Mapping,J. Interact. Syst.,genildo-junior
 conf/sigsoft/AfrozFMKTSS26,2026,The Fast and Spurious: Developer Productivity with GenAI,SIGSOFT FSE Companion,bianca-trinkenreich;igor-steinmacher
 conf/sigsoft/AcharyaCPOEDGGS26,2026,Shh! Don't Tell Them I Use GenAI: Exploring How Participants Use Generative AI in Hackathons,SIGSOFT FSE Companion,igor-steinmacher;jacob-penney;marco-gerosa;misan-etchie;pawan-acharya
-journals/infsof/Felizardo26,2026,Secondary studies in software engineering: Are we evolving knowledge or simply publishing papers?,Inf. Softw. Technol.,katia-romero-felizardo
 journals/ese/CoutinhoBCPASGG26,2026,Leveraging large language models for sentiment analysis in GitHub pull request discussions,Empir. Softw. Eng.,daniel-coutinho;igor-steinmacher;marco-gerosa
 journals/jss/RochaWPSRSN26,2026,Investigating the potential of using worked examples to help resolve issues in a GitHub project,J. Syst. Softw.,igor-steinmacher;igor-wiese
 conf/icse-chase/OliveiraCGS26,2026,Governance in Practice: How Open Source Projects Define and Document Roles,CHASE@ICSE,igor-steinmacher;marco-gerosa
 conf/ide/KulaTHBBBCCCFGG26,2026,Forecasting Developer Environments with GenAI: A Research Perspective,IDE@ICSE,igor-steinmacher;mairieli-wessel;marco-gerosa
 conf/icse-gas/AmreshSS26,2026,Evaluating the Effect of Generative AI Content in Common Game Development Software Architectures,GAS@ICSE,igor-steinmacher
-conf/icse-chase/CanutoSMUCUP26,2026,"Emotion Recognition in Agile Software Meetings: A Comparative Study of ML, DL, and Text-based LLM Approaches",CHASE@ICSE,daniel-coutinho
-journals/array/SilveiraLMLMLVR26,2026,Deep sets of random neighbors with attention: An architecture for spatio-temporal machine learning,Array,filipe-verri
-journals/bspc/SouzaMVB26,2026,"A five-layer clinical-AI engineering framework for severity risk stratification from hematological signals: Ensemble learning, uncertainty quantification, and SHAP explainability with application to COVID-19",Biomed. Signal Process. Control.,filipe-verri
 conf/icse/ChoudhuriTPKSGS25,2025,What Guides Our Choices? Modeling Developers' Trust and Behavioral Intentions Towards Genai,ICSE,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/iceis/SantosFSCOG25,2025,User Stories: Does ChatGPT Do It Better?,ICEIS (2),igor-steinmacher
 conf/csedu/GomesSM0LSCG25,2025,"Understanding the Student Experience Better: Analyzing Remote Learning Tools Through Engagement, Participation, and Liveness Concepts",CSEDU (2),genildo-junior;igor-steinmacher
 conf/comped/PenneyAHPSSG25,2025,Understanding Programming Students' Help-Seeking Preferences in the Era of Generative AI,CompEd (1),igor-steinmacher;jacob-penney;marco-gerosa;pawan-acharya;peter-hilbert
 conf/botse-ws/EtchieBFS25,2025,Towards a Dataset to Assess Conversational Agent's Efficacy in Mentoring Newcomer Developers,BotSE@ICSE,hunter-beach;igor-steinmacher;katia-romero-felizardo;misan-etchie
-conf/sbes/JanuarioNFP25,2025,Toward Reliable Forward Snowballing in Systematic Literature Reviews: A Comparative Study and Framework Proposal,SBES,katia-romero-felizardo
-conf/esem/BharadwajST25,2025,The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source,ESEM,bianca-trinkenreich;fabio-santos
 conf/icse-chase/FengSGMSMS25,2025,"The Multifaceted Nature of Mentoring in OSS: Strategies, Qualities, and Ideal Outcomes",CHASE@ICSE,igor-steinmacher;marco-gerosa
-conf/scam/MagalhaesSSS25,2025,Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems,SCAM,italo-santos
-journals/jss/SouzaRMLCMC25,2025,Techniques for eliciting IoT requirements: Sensorina Map and Mind IoT,J. Syst. Softw.,maria-meireles
-conf/ladc/SilveiraLMV25,2025,Source Code Vulnerability Detection and Interpretability with Language Models,LADC,filipe-verri
 journals/infsof/SantosFSG25,2025,Software solutions for newcomers' onboarding in software projects: A systematic literature review,Inf. Softw. Technol.,igor-steinmacher;italo-santos;katia-romero-felizardo;marco-gerosa
-conf/sibgrapi/MelloOMCSSDV25,2025,Small Object Detection in Drone Captured Images for Maritime Surveillance,SIBGRAPI,filipe-verri
 conf/nlbse/CarterCVAUFJJPSGS25,2025,SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub,NLBSE@ICSE,fabio-santos;igor-steinmacher;jacob-penney;marco-gerosa;pawan-acharya
 conf/sbes/CoutinhoPNCBASG25,2025,PRemo: A Dataset of Emotions Found on Pull Request Discussions,SBES,caio-vieira;daniel-coutinho;igor-steinmacher;joao-correia;marco-gerosa
 conf/cui/PenneyAHPSSG25,2025,"Outcomes, Perceptions, and Interaction Strategies of Novice Programmers Studying with ChatGPT",CUI,igor-steinmacher;jacob-penney;marco-gerosa;pawan-acharya;peter-hilbert
 conf/csee/SantosFSSG25,2025,Ossdoorway: A Gamified Environment to Scaffold Student Contributions to Open Source Software,CSEE&T,igor-steinmacher;italo-santos;katia-romero-felizardo;marco-gerosa
-conf/compsac/RamalhoGPACBLI25,2025,On the Use of GPT to Reveal Common Questions in Developers' Discussions,COMPSAC,caio-vieira;daniel-coutinho
 conf/wsese/FelizardoDCGMGS25,2025,On the Difficulties of Conducting and Replicating Systematic Literature Reviews Studies Using LLMs in Software Engineering,WSESE@ICSE,daniel-coutinho;genildo-junior;igor-steinmacher;katia-romero-felizardo;marco-gerosa;maria-meireles
 conf/sbes/MedeirosCWS25,2025,O uso de exemplos trabalhados para facilitar a contribuição de novatos em projetos de software livre,SBES,igor-steinmacher;igor-wiese
-conf/dms/DamianNFAFTGLS25,2025,Navigating User Perceptions: Usability and UX Evaluation of In-Vehicle Infotainment Systems Through YouTube's Real-World Lens,DMSVIVA,genildo-junior
-conf/aiware/SantosMS25,2025,Model-Assisted and Human-Guided: Perceptions and Practices of Software Professionals Using LLMs for Coding,AIware,italo-santos
-conf/esem/MolisonMMSA25,2025,Is LLM-Generated Code More Maintainable & Reliable Than Human-Written Code?,ESEM,fabio-santos
 conf/icse/TrinkenreichFCG25,2025,Investigating the Impact of Interpersonal Challenges on Feeling Welcome in OSS,ICSE,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/sbes/MacielWWS25,2025,Investigating the Impact of GitHub Discussions on Maintainers' Workload and Community Dynamics,SBES,igor-steinmacher;igor-wiese;mairieli-wessel
 conf/csee/ChoudhuriRCTSGS25,2025,Insights from the Frontline: GenAI Utilization Among Software Engineering Students,CSEE&T,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-conf/sbqs/CostaFSSRFM25,2025,Impact of Generative Artificial Intelligence on Knowledge Management in Software Engineering: A Systematic Mapping Study,SBQS,katia-romero-felizardo
 conf/etra/WieseBR0GSS25,2025,How Developers Make Decisions When Choosing Issues and Reviewing Code: An Eye Tracking GitHub Study,ETRA,igor-steinmacher;igor-wiese;marco-gerosa
 conf/forge/TreudeG25,2025,How Developers Interact with AI: A Taxonomy of Human-AI Collaboration in Software Engineering,Forge@ICSE,marco-gerosa
 journals/jss/LimaSFVGCG25,2025,How are discussions linked? A link analysis study on GitHub Discussions,J. Syst. Softw.,igor-steinmacher
-conf/saner/SantosSSM25,2025,Hidden Figures in Software Engineering: A Replication Study Exploring Undergraduate Software Students' Awareness of Distinguished Scientists from Underrepresented Groups,SANER,italo-santos
 journals/software/TrinkenreichGSS25,2025,Guidelines for Cultivating a Sense of Belonging to Reduce Developer Burnout,IEEE Softw.,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/icse-chase/SantosFSG25,2025,Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers,CHASE@ICSE,igor-steinmacher;italo-santos;katia-romero-felizardo;marco-gerosa
 conf/icsm/OliveiraAHGS25,2025,Governance Matters: Lessons From Restructuring the Data.Table OSS Project,ICSME,igor-steinmacher;marco-gerosa
-conf/sbqs/CostaLMC25,2025,Fostering Creativity with ChatGPT in Requirements Engineering Education: An Academic Experience,SBQS,maria-meireles
-journals/jserd/LimaCBLBFTS25,2025,"Exploring Transfer Learning for Multilingual Software Quality: Code Smells, Bugs, and Harmful Code",J. Softw. Eng. Res. Dev.,caio-vieira
 conf/sigsoft/SantosFTGSG25,2025,Exploring the Untapped: Student Perceptions and Participation in OSS,SIGSOFT FSE Companion,bianca-trinkenreich;igor-steinmacher;italo-santos;katia-romero-felizardo;marco-gerosa
-conf/sbes/MartinCUP25,2025,Evaluating the Potential of Large Language Models in Security-Related Software Requirements Classification,SBES,daniel-coutinho
-journals/ijhci/GomesCG25,2025,Evaluating the Impact of Interaction Technology on Audience Experience Across Event Contexts: An Empirical Study,Int. J. Hum. Comput. Interact.,genildo-junior
 conf/vl/GadelhaQSCS25,2025,Enhancing User-centered Design with Large Language Models,VL/HCC,igor-steinmacher
-conf/csee/SantosSSM25,2025,"Diversity in Software Engineering Education: Exploring Motivations, Influences, and Role Models Among Undergraduate Students",CSEE&T,italo-santos
 conf/sbes/MeirelesRSMC25,2025,Design Thinking as a Toolbox for Requirements Engineering Education: Lessons from the Classroom,SBES,igor-steinmacher;maria-meireles
-conf/esem/HannanRRS25,2025,Contribution History as a Key Feature in OSS Task Recommendation: An LLM-Based Empirical Study,ESEM,fabio-santos
-conf/euromicro/AguiarSFR25,2025,Computational Solutions for Supporting Systematic Reviews in Software Engineering: a Comprehensive Overview,SEAA (2),katia-romero-felizardo
 journals/smr/PenaCSBSFAKS25,2025,Comparing the Efficacy of Rapid Review With a Systematic Review in the Software Engineering Field,J. Softw. Evol. Process.,igor-steinmacher
-conf/sbes/MarassiPF25,2025,Comparing LLMs and Proposing an ML-Based Approach for Search String Generation in Systematic Literature Reviews,SBES,katia-romero-felizardo
-conf/issre/FernandesRWCFPBFR25,2025,Case Study: Applying Fuzzing to REST APIs in a Large-Scale Industrial Setting,ISSREW,igor-wiese;joao-correia
 conf/wsese/CostalongaNBFSK25,2025,Can Machine Learning Support the Selection of Studies for Systematic Literature Review Updates?,WSESE@ICSE,igor-steinmacher;katia-romero-felizardo
-conf/sbes/RodriguesSMMLC25,2025,Bloom's Taxonomy as a Lens to Explore Student Learning of Design Thinking in Software Engineering Education and Training,SBES,maria-meireles
-conf/esem/LoufekST25,2025,Beyond the Job Posting: What Hiring Managers Seek in Entry-Level Software Engineering Candidates,ESEM,bianca-trinkenreich;fabio-santos
 conf/esem/FelizardoSSNSG25,2025,Assessing Diversity in Creating Seed Set for Snowballing Search for Systematic Literature Review in Software Engineering,ESEM,igor-steinmacher;katia-romero-felizardo;marco-gerosa
-conf/sbqs/MeirelesSAALP25,2025,Applying Scrumban in Hybrid Software and Hardware Teams: An Experience Report,SBQS,maria-meireles
 journals/scp/AracenaLSSG25,2025,Applying large language models to issue classification: Revisiting with extended data and new models,Sci. Comput. Program.,fabio-santos;igor-steinmacher;marco-gerosa
-journals/scp/SilvaSSMF25,2025,Applying graph-based knowledge representation to capture insights from discussions forum in software engineering,Sci. Comput. Program.,katia-romero-felizardo
 journals/ese/PaivaMPVEPWGSMB25,2025,Analyzing the adoption of database management systems throughout the history of open source projects,Empir. Softw. Eng.,igor-steinmacher;igor-wiese;marco-gerosa
-journals/cor/FrancoCSV25,2025,An exact method and a heuristic for last-mile delivery drones routing with centralized graph-based airspace control,Comput. Oper. Res.,filipe-verri
 conf/sbqs/QueirozMSCOG25,2025,An Approach to Assist the Design of User-Centered Solutions based on Generative AI,SBQS,igor-steinmacher
 conf/sbes/SantosSCOG25,2025,AI-Generated User Stories: Are They Good Enough?,SBES,igor-steinmacher
 conf/sbes/MacedoMBSMGC25,2025,"AI in the Design Thinking Toolbox: What to Recommend, When, and Why",SBES,igor-steinmacher;maria-meireles
 conf/sbqs/SantosSCOG25,2025,Adoption of LLMs in Requirements Engineering: What Practitioners Are Worried About?,SBQS,igor-steinmacher
-conf/sbes/PatricioEURCPP025,2025,404: Civility Not Found? Evaluating the Effectiveness of Small Language Models in Detecting Incivility in GitHub Conversations,SBES,daniel-coutinho
-journals/imamci/CarvalhoCAMP25,2025,,IMA J. Math. Control. Inf.,daniel-coutinho
-conf/sbqs/MeirelesARSALMC24,2024,Value Generation in Software Projects: Lessons Learned from the Reimplementation of Design Thinking in a Technological Development Institute,SBQS,maria-meireles
-conf/cibse/SouzaGGC24,2024,Using GenderMag to enhance UX on educational platforms,CIbSE,genildo-junior
-conf/sbqs/AlvesSSFV24,2024,Updating a Systematic Literature Review on Knowledge Management Diagnostics in Software Development Organizations,SBQS,katia-romero-felizardo
 conf/aiware/CorreiaNCBCG0S24,2024,Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla's PDF.js Project,AIware,caio-vieira;daniel-coutinho;igor-steinmacher;joao-correia;marco-gerosa;morgan-nicholson
 conf/icse/TrinkenreichGS24,2024,Unraveling the Drivers of Sense of Belonging in Software Delivery Teams: Insights from a Large-Scale Survey,ICSE,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-journals/pacmse/OliveiraCAPMCBL24,2024,Understanding Developers' Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem,Proc. ACM Softw. Eng.,caio-vieira;daniel-coutinho;joao-correia
-conf/sbes/DinizVFSP24,2024,The Skill Gap in Software Industry: A Mapping Study,SBES,wellynton-diniz
-journals/infsof/SantosIFFN24,2024,Sustainable systematic literature reviews,Inf. Softw. Technol.,katia-romero-felizardo
 conf/promise/CostaPSSAS24,2024,Sociotechnical Dynamics in Open Source Smart Contract Repositories: An Exploratory Data Analysis of Curated High Market Value Projects,PROMISE,igor-steinmacher
-journals/tosem/TrinkenreichSS24,2024,Predicting Attrition among Software Professionals: Antecedents and Consequences of Burnout and Engagement,ACM Trans. Softw. Eng. Methodol.,bianca-trinkenreich;fabio-santos
 conf/scam/CorreiaCGMBOAPSGSA24,2024,On the Investigation of Exception Pull Request Characteristics: Exploring the Apache Ecosystem,SCAM,caio-vieira;daniel-coutinho;igor-steinmacher;joao-correia;marco-gerosa
-conf/cdc/CoutinhoAC24,2024,L2 Input-to-State Stability and Stabilization of Coupled Linear ODE-Hyperbolic PDE Systems,CDC,daniel-coutinho
 conf/icse/GarciaPFGSS24,2024,How to Support ML End-User Programmers through a Conversational Agent,ICSE,igor-steinmacher;marco-gerosa
 conf/icse/ChoudhuriLSGS24,2024,How Far Are We? The Triumphs and Trials of Generative AI in Learning Software Engineering,ICSE,igor-steinmacher;marco-gerosa
 journals/ese/GuerraGFWLGM24,2024,How do annotations affect Java code readability?,Empir. Softw. Eng.,igor-wiese;marco-gerosa
-conf/sbes/MeirelesMBRMC24,2024,Guiding the Way: Facilitating Requirements Elicitation with Selection Universe Approach,SBES,maria-meireles
 journals/infsof/FengKTSS24,2024,Guiding the way: A systematic literature review on mentoring practices in open source software projects,Inf. Softw. Technol.,bianca-trinkenreich;igor-steinmacher
 conf/vl/SantosFGS24,2024,Game Elements to Engage Students Learning the Open Source Software Contribution Process,VL/HCC,igor-steinmacher;italo-santos;katia-romero-felizardo;marco-gerosa
-conf/sbqs/SampaioLSMPC24,2024,Exploring the Use of Large Language Models in Requirements Engineering Education: An Experience Report with ChatGPT 3.5,SBQS,maria-meireles
-conf/scam/BibianoCUAGMCOVFR24,2024,Enhancing Recommendations of Composite Refactorings based on the Practice,SCAM,daniel-coutinho
-conf/vl/Santos24,2024,Empowering Diversity: Leveraging Cognitive Styles to Support Newcomers in Open Source Projects,VL/HCC,italo-santos
-conf/icst/NevesCSMSS24,2024,Elevating Software Quality in Agile Environments: The Role of Testing Professionals in Unit Testing,ICSTW,italo-santos
 conf/cain/0001SRSSM24,2024,"Developer Experiences with a Contextualized AI Coding Assistant: Usability, Expectations, and Outcomes",CAIN,igor-steinmacher
 conf/esem/FelizardoSLDCB24,2024,Data extraction for systematic mapping study using a large language model - a proof-of-concept study in software engineering,ESEM,igor-steinmacher;katia-romero-felizardo
-conf/sbqs/RodriguesSMLMLC24,2024,Comparing Design Thinking Techniques in the Context of IoT Requirements Elicitation: An Empirical Study,SBQS,maria-meireles
 journals/tosem/RobillardAEGLNNSSS24,2024,Communicating Study Design Trade-offs in Software Engineering,ACM Trans. Softw. Eng. Methodol.,igor-steinmacher
 conf/esem/FelizardoLDCS24,2024,ChatGPT application in Systematic Literature Reviews in Software Engineering: an evaluation of its accuracy to support the selection activity,ESEM,igor-steinmacher;katia-romero-felizardo
 conf/esem/SteinmacherPF0G24,2024,Can ChatGPT emulate humans in software engineering surveys?,ESEM,igor-steinmacher;jacob-penney;katia-romero-felizardo;marco-gerosa
 journals/ase/GerosaTSS24,2024,Can AI serve as a substitute for human subjects in software engineering research?,Autom. Softw. Eng.,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-conf/icst/SantosSMS24,2024,Are We Testing or Being Tested? Exploring the Practical Applications of Large Language Models in Software Testing,ICST,italo-santos
 conf/nlbse/AracenaLSSG24,2024,Applying Large Language Models to Issue Classification,NLBSE@ICSE,fabio-santos;igor-steinmacher;marco-gerosa
 conf/icse/DavilaWSSKFN24,2024,An Industry Case Study on Adoption of AI-based Programming Assistants,ICSE-SEIP,igor-steinmacher;igor-wiese
-conf/icse/MeirelesRMC24,2024,An experience report on the use of Active Learning in Empirical Software Engineering Education: Understanding the pros and cons from the student's perspective,SEET@ICSE,maria-meireles
-conf/cibse/SilvaSSFM24,2024,A study about graphs in the representation of knowledge in discussion forums in Software Engineering,CIbSE,katia-romero-felizardo
 journals/jserd/TonhaoCS24,2024,A portal to catalog worked examples extracted from open source software projects to support the teaching of Software Engineering,J. Softw. Eng. Res. Dev.,igor-steinmacher;simone-tonhao
 conf/ease/CoutinhoCLAPAGM24,2024,"""Looks Good To Me ;-)"": Assessing Sentiment Analysis Tools for Pull Request Discussions",EASE,daniel-coutinho;igor-steinmacher
 conf/icse-chase/FengGGS23,2023,The State of Diversity and Inclusion in Apache: A Pulse Check,CHASE,marco-gerosa
 conf/msr/SantosPPWSG23,2023,Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills,MSR,fabio-santos;igor-steinmacher;igor-wiese;jacob-penney;marco-gerosa
 journals/ese/SantosVTSPBPWSSG23,2023,Tag that issue: applying API-domain labels in issue tracking systems,Empir. Softw. Eng.,bianca-trinkenreich;fabio-santos;igor-steinmacher;igor-wiese;italo-santos;jacob-penney;marco-gerosa
 conf/sbqs/MatsubaraSGC23,2023,SwEDeL: Software Estimates' Defense Lenses Designed from Negotiation Methods,SBQS,igor-steinmacher;patricia-matsubara
-journals/sigsoft/Santos23,2023,Supporting the Task-driven Skill Identification in Open Source Project Issue Tracking Systems,ACM SIGSOFT Softw. Eng. Notes,fabio-santos
-journals/rbie/JuniorAFCW23,2023,Sobre o Ensino de Software Livre na Graduação: Estratégias e Lições Aprendidas,Revista Brasileira de Informática na Educ.,igor-wiese
-conf/icse/Santos23,2023,Skill Recommendation for New Contributors in Open-Source Software,ICSE Companion,fabio-santos
 conf/icse/GuizaniCSS23,2023,Rules of Engagement: Why and How Companies Participate in OSS,ICSE,igor-steinmacher
 journals/ese/MatsubaraSGC23,2023,Much more than a prediction: Expert-based software effort estimation as a behavioral act,Empir. Softw. Eng.,igor-steinmacher;patricia-matsubara
 conf/icse/MatsubaraSGC23,2023,Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates,ICSE,igor-steinmacher;patricia-matsubara
@@ -132,17 +79,13 @@ journals/smr/SteinmacherCT023,2023,Editorial: Best papers of the 14th Internatio
 conf/icse/TrinkenreichSSGGS23,2023,Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors,ICSE,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/sigsoft/FronchettiSWTGS23,2023,Do CONTRIBUTING Files Provide Information about OSS Newcomers' Onboarding Barriers?,ESEC/SIGSOFT FSE,igor-steinmacher;igor-wiese;marco-gerosa
 conf/icse/SantosPWSSG23,2023,Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers,ICSE (SEIS),igor-steinmacher;igor-wiese;italo-santos;marco-gerosa
-conf/sbes/SilvaNBUW23,2023,CIRef: A Tool for Visualizing the Historical Data of Software Refactorings in Java Projects,SBES,mairieli-wessel
 conf/iticse/SalernoTST23,2023,Barriers and Self-Efficacy: A Large-Scale Study on the Impact of OSS Courses on Student Perceptions,ITiCSE (1),igor-steinmacher;simone-tonhao
 conf/conversations/PenneyPSG23,2023,Anticipating User Needs: Insights from Design Fiction on Conversational Agents for Computational Thinking,CONVERSATIONS,igor-steinmacher;jacob-penney;marco-gerosa
-conf/sattose/MazraeDMW23,2023,A Preliminary Study of GitHub Actions Workflow Changes,SATToSE,mairieli-wessel
 conf/icse/TrinkenreichSSGSLFRB23,2023,A Model for Understanding and Reducing Developer Burnout,ICSE-SEIP,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-journals/smr/FontaoCWSD23,2023,A Developer Relations (DevRel) model to govern developers in Software Ecosystems,J. Softw. Evol. Process.,igor-wiese
 conf/sbes/LuzOS23,2023,A Conceptual Model to Support Teaching of Software Engineering Controlled (Quasi-)Experiments,SBES,igor-steinmacher
 journals/tosem/TrinkenreichWSG22,2022,Women's Participation in Open Source Software: A Survey of the Literature,ACM Trans. Softw. Eng. Methodol.,bianca-trinkenreich;igor-steinmacher;igor-wiese;marco-gerosa
 journals/computer/TrinkenreichGS22,2022,Women in Open Source: We Need to Talk About It,Computer,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 journals/ese/CalefatoGILS22,2022,Will you come back to contribute? Investigating the inactivity of OSS core developers in GitHub,Empir. Softw. Eng.,igor-steinmacher;marco-gerosa
-journals/pacmhci/CandelloPMW22,2022,Unveiling Practices of Customer Service Content Curators of Conversational Agents,Proc. ACM Hum. Comput. Interact.,mairieli-wessel
 conf/icsm/RibeiroNSXGPW22,2022,Together or Apart? Investigating a mediator bot to aggregate bot's comments on pull requests,ICSME,igor-steinmacher;mairieli-wessel;marco-gerosa
 journals/software/ShihabWGWC22,2022,The Present and Future of Bots in Software Engineering,IEEE Softw.,mairieli-wessel;marco-gerosa
 conf/icse/MatsubaraSGC22,2022,The best defense is a good defense: adapting negotiation methods for tackling pressure over software project estimates,ICSE (NIER),igor-steinmacher;patricia-matsubara
@@ -153,118 +96,72 @@ journals/jss/MatsubaraGSC22,2022,SEXTAMT: A systematic map to navigate the wide 
 journals/ese/WesselSWSG22,2022,Quality gatekeepers: investigating the effects of code review bots on pull request activities,Empir. Softw. Eng.,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
 journals/tse/TrinkenreichGWC22,2022,Pots of Gold at the End of the Rainbow: What is Success for Open Source Contributors?,IEEE Trans. Software Eng.,bianca-trinkenreich;igor-steinmacher;igor-wiese;marco-gerosa
 conf/icse/GuizaniTCSGS22,2022,Perceptions of the State of D&I and D&I Initiative in the ASF,ICSE-SEIS,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-conf/sbqs/BarcellosSCTM22,2022,Organizing Empirical Studies as Learning Iterations in Design Science Research Projects,SBQS,bianca-trinkenreich;patricia-matsubara
-journals/access/SantosM22,2022,Matching Network of Ontologies: A Random Walk and Frequent Itemsets Approach,IEEE Access,fabio-santos
-conf/scam/OliveiraRBGWF22,2022,"Lint-Based Warnings in Python Code: Frequency, Awareness and Refactoring",SCAM,igor-wiese
-journals/vlc/FronchettiRHLSJ22,2022,Language impact on productivity for industrial end users: A case study from Programmable Logic Controllers,J. Comput. Lang.,igor-wiese
 conf/sbqs/CavalcanteG0SNC22,2022,Joy to the Work: How Does Software Team Formation Strategy Influence Job Satisfaction?,SBQS,igor-steinmacher
 conf/icse/GuizaniSEFBS22,2022,How to Debug Inclusivity Bugs? A Debugging Process with Information Architecture,ICSE-SEIS,igor-steinmacher
 conf/esem/SantosTPWSSG22,2022,How to Choose a Task? Mismatches in Perspectives of Newcomers and Existing Contributors,ESEM,bianca-trinkenreich;fabio-santos;igor-steinmacher;igor-wiese;marco-gerosa
 journals/tse/PadalaMFSSHHHSB22,2022,How Gender-Biased Tools Shape Newcomer Experiences in OSS Projects,IEEE Trans. Software Eng.,igor-steinmacher;marco-gerosa
 conf/ease/LuzOS22,2022,How Experimentation in Software Engineering has been taught? Survey and Research Agenda,EASE,igor-steinmacher
 conf/wcre/SantosWSSG22,2022,Hits and Misses: Newcomers' ability to identify Skills needed for OSS tasks,SANER,igor-steinmacher;igor-wiese;italo-santos;marco-gerosa
-conf/ease/Melegati0W022,2022,Generated abstracts: evaluating automatic text summarization for blog posts in gray literature studies,EASE,igor-wiese
 journals/tochi/ChavesEHDG22,2022,Chatbots Language Design: The Influence of Language Variation on User Experience with Tourist Assistant Chatbots,ACM Trans. Comput. Hum. Interact.,ana-paula-steinmacher;marco-gerosa
 journals/software/KulaTHBSGA22,2022,Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society,IEEE Softw.,igor-steinmacher;marco-gerosa
 conf/icse/WesselAWCSGS22,2022,"Bots for Pull Requests: The Good, the Bad, and the Promising",ICSE,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
 conf/msr/AbdellatifWSGS22,2022,BotHunter: An Approach to Detect Software Bots in GitHub,MSR,igor-steinmacher;mairieli-wessel;marco-gerosa
-journals/jserd/KameiW0F00S22,2022,Assessing the Credibility of Grey Literature - A Study with Brazilian Software Engineering Researchers,J. Softw. Eng. Res. Dev.,igor-wiese
 conf/icse/TrinkenreichBGS22,2022,An Empirical Investigation on the Challenges Faced by Women in the Software Industry: A Case Study,ICSE-SEIS,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-journals/sbcjis/PinheiroCSB22,2022,A Tool for Supporting the Teaching and Modeling of Software Ecosystems Using SSN Notation,J. Interact. Syst.,italo-santos
-journals/jserd/MeloSSS22,2022,A survey on the practices of software testing: a look into Brazilian companies,J. Softw. Eng. Res. Dev.,italo-santos
 conf/sbes/SouzaWSR22,2022,A characterization study of testing contributors and their contributions in open source projects,SBES,igor-steinmacher;igor-wiese
 conf/sbes/SoupinskiASWBCF22,2022,"""We are dying!"" On Death Signals of Software Ecosystems",SBES,igor-steinmacher;igor-wiese
 conf/icse/DiasMCSW021,2021,What Makes a Great Maintainer of Open Source Projects?,ICSE,igor-steinmacher;igor-wiese
-conf/esem/Kamei0W0S21,2021,What Evidence We Would Miss If We Do Not Use Grey Literature?,ESEM,igor-wiese
 conf/sbes/TonhaoCS21,2021,Using Real Worked Examples to Aid Software Engineering Teaching,SBES,igor-steinmacher;simone-tonhao
-journals/tse/MeloWd21,2021,Using Docker to Assist Q&A Forum Users,IEEE Trans. Software Eng.,igor-wiese
-journals/sensors/MarquesMNFWGZRC21,2021,Understanding UX Better: A New Technique to Go beyond Emotion Assessment,Sensors,igor-wiese;patricia-matsubara
 conf/sbes/MatsubaraSMGC21,2021,Trust yourself! Or maybe not: factors related to overconfidence and uncertainty assessments of software effort estimates,SBES,igor-steinmacher;patricia-matsubara
 conf/sbes/OliveiraFVLCSZ21,2021,Towards Improving Experimentation in Software Engineering,SBES,igor-steinmacher
 conf/icse/GerosaWTLRTSS21,2021,The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source,ICSE,bianca-trinkenreich;igor-steinmacher;igor-wiese;marco-gerosa
 journals/pacmhci/GuizaniCTMNRZIS21,2021,The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do,Proc. ACM Hum. Comput. Interact.,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/conversations/ChavesG21,2021,The Impact of Chatbot Linguistic Register on User Perceptions: A Replication Study,CONVERSATIONS,ana-paula-steinmacher;marco-gerosa
 journals/sigsoft/ShihabWG21,2021,Summary of the 2nd International Workshop on Bots in Software Engineering (BotSE 2020),ACM SIGSOFT Softw. Eng. Notes,marco-gerosa
-conf/sbsi/FerreiraTBS21,2021,SINIS-LA Method for IT Alignment Considering Service Level Management,SBSI,bianca-trinkenreich
-conf/icsob/FariasWS21,2021,Power Relations Within an Open Source Software Ecosystem,ICSOB,igor-wiese
-conf/icse/Trinkenreich21,2021,Please Don't Go - Increasing Women's Participation in Open Source Software,ICSE (Companion Volume),bianca-trinkenreich
-conf/icse/Trinkenreich21a,2021,Please Don't Go - A Comprehensive Approach to Increase Women's Participation in Open Source Software,ICSE (Companion Volume),bianca-trinkenreich
-conf/sbcars/FreireTBSCFAOC21,2021,On the configuration of multi-objective evolutionary algorithms for PLA design optimization,SBCARS,simone-tonhao
 conf/conversations/AlvesWCS21,2021,How to Find My Task? Chatbot to Assist Newcomers in Choosing Tasks in OSS Projects,CONVERSATIONS,ana-paula-steinmacher;igor-steinmacher;igor-wiese
 journals/ijhci/ChavesG21,2021,How Should My Chatbot Interact? A Survey on Social Characteristics in Human-Chatbot Interaction Design,Int. J. Hum. Comput. Interact.,ana-paula-steinmacher;marco-gerosa
 conf/msr/KinsmanWGT21,2021,How Do Software Developers Use GitHub Actions to Automate Their Workflows?,MSR,mairieli-wessel;marco-gerosa
-journals/infsof/KameiWLPNFRPCPS21,2021,Grey Literature in Software Engineering: A critical review,Inf. Softw. Technol.,igor-wiese
-journals/ese/MoraesPWSP21,2021,From one to hundreds: multi-licensing in the JavaScript ecosystem,Empir. Softw. Eng.,igor-wiese
 journals/isys/BernardiniGSFVH21,2021,Editorial Vol. 14 No. 3,Braz. J. Inf. Syst.,igor-steinmacher
 journals/pacmhci/WesselWSG21,2021,Don't Disturb Me: Challenges of Interacting with Software Bots on Open Source Software Projects,Proc. ACM Hum. Comput. Interact.,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
 conf/msr/SantosWTSSG21,2021,Can I Solve It? Identifying APIs Required to Complete OSS Tasks,MSR,bianca-trinkenreich;fabio-santos;igor-steinmacher;igor-wiese;marco-gerosa
 conf/icse/MatsubaraSGC21,2021,Buying time in software development: how estimates become commitments?,CHASE@ICSE,igor-steinmacher;patricia-matsubara
 journals/jisa/SteinmacherBTGI21,2021,Being a Mentor in open source projects,J. Internet Serv. Appl.,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-conf/iceis/GuerinoSCV21,2021,Assessing a Technology for Usability and User Experience Evaluation of Conversational Systems: An Exploratory Study,ICEIS (2),williamson-silva
-conf/sbes/BarrosHWS21,2021,A Mining Software Repository Extended Cookbook: Lessons learned from a literature review,SBES,igor-wiese
 conf/sbes/WesselSWSG20,2020,What to Expect from Code Review Bots on GitHub?: A Survey with OSS Maintainers,SBES,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
-conf/sbsi/PaschoalSMCS20,2020,What are the differences between group and individual modeling when learning BPMN?,SBSI,italo-santos
-conf/cui/CandelloWP20,2020,Unveiling Practices and Challenges of Machine Teachers of Customer Service Conversational Systems,CIU,mairieli-wessel
 conf/icse/SilvaGSC20,2020,Towards an open repository for teaching software modeling applying active learning strategies,ICSE (SEET),igor-steinmacher;williamson-silva
-conf/icst/SantosMSS20,2020,Towards a unified catalog of attributes to guide industry in software testing technique selection,ICST Workshops,italo-santos
 conf/icse/WesselS20,2020,The Inconvenient Side of Software Bots on Pull Requests,ICSE (Workshops),igor-steinmacher;mairieli-wessel
 journals/sigsoft/TellRHSBTC20,2020,Summary of the 1st ICSSP-ICGSE Joint Event,ACM SIGSOFT Softw. Eng. Notes,igor-steinmacher
 conf/icse/ZanattaMSPS20,2020,Strategies for Crowdworkers to Overcome Barriers in Competition-based Software Crowdsourcing Development,ICSE (Workshops),igor-steinmacher
-conf/sbes/MarquesFLS20,2020,Stimulating the development of soft skills in Software Engineering Education through Design Thinking,SBES,williamson-silva
-conf/sbes/SantosCS20,2020,Software testing ecosystems insights and research opportunities,SBES,italo-santos
 conf/vl/DiasB0SFRTC20,2020,Refactoring from 9 to 5? What and When Employees and Volunteers Contribute to OSS,VL/HCC,caio-vieira;igor-steinmacher
 conf/wikis/BalaliAPTGSS20,2020,Recommending Tasks to Newcomers in OSS Projects: How Do Mentors Handle It?,OpenSym,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/wcre/Bertoncello0WS20,2020,Pull Requests or Commits? Which Method Should We Use to Study Contributors' Behavior?,SANER,igor-steinmacher;igor-wiese
-conf/icgse/FontaoCWSD20,2020,On value creation in developer relations (DevRel): a practitioners' perspective,ICGSE,igor-wiese
-conf/sbes/KameiW0RS20,2020,On the Use of Grey Literature: A Survey with the Brazilian Software Engineering Research Community,SBES,igor-wiese
-journals/software/WiesePP20,2020,Naming the Pain in Developing Scientific Software,IEEE Softw.,igor-wiese
-conf/cscw/Wessel20,2020,Leveraging Software Bots to Enhance Developers' Collaboration in Online Programming Communities,CSCW Companion,mairieli-wessel
 conf/icse/MachadoSMS20,2020,How Online Forums Complement Task Documentation in Software Crowdsourcing,ICSE (Workshops),igor-steinmacher
 journals/pacmhci/TrinkenreichGWS20,2020,Hidden Figures: Roles and Pathways of Successful OSS Contributors,Proc. ACM Hum. Comput. Interact.,bianca-trinkenreich;igor-steinmacher;igor-wiese
 journals/jss/SilvaWGTGS20,2020,Google summer of code: Student motivations and contributions,J. Syst. Softw.,igor-steinmacher;igor-wiese;jefferson-silva;marco-gerosa
-conf/sigsoft/Wessel20,2020,Enhancing developers' support on pull requests activities with software bots,ESEC/SIGSOFT FSE,mairieli-wessel
 conf/icsm/WesselSWSG20,2020,Effects of Adopting Code Review Bots on Pull Requests to OSS Projects,ICSME,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
-conf/sbes/MassanoriCWF20,2020,Death of a Software Ecosystem: a Developer Relations (DevRel) perspective,SBES,igor-wiese
 conf/icse/DominicHSRR20,2020,Conversational Bot for Newcomers Onboarding to Open Source Projects,ICSE (Workshops),igor-steinmacher
-conf/sast/SantosFMSDS20,2020,Contributions to improve the combined selection of concurrent software testing techniques,SAST,italo-santos
 conf/sbes/MartinsG20,2020,CoNCRA: A Convolutional Neural Networks Code Retrieval Approach,SBES,marco-gerosa
 journals/ese/OliveiraFSCCG20,2020,Code and commit metrics of developer productivity: a study on team leaders perceptions,Empir. Softw. Eng.,igor-steinmacher
-conf/acmidc/CandelloPPVW20,2020,Co-designing a conversational interactive exhibit for children,IDC (Extended Abstracts),mairieli-wessel
-journals/iet-sen/LopesMSBC20,2020,Checklist-based techniques with gamification and traditional approaches for inspection of interaction models,IET Softw.,williamson-silva
-conf/sbqs/MarquesMFGGC20,2020,Challenges and Learning from Remote Teaching of Usability and UX: An Experience Report,SBQS,genildo-junior;patricia-matsubara
 conf/icsm/AndersonSR20,2020,Assessing the Characteristics of FOSS Contributions in Network Automation Projects,ICSME,igor-steinmacher
-conf/sbes/CondinaMFSFWV20,2020,An Exploratory Study on Developers Opinions about Influence in Open Source Software Ecosystems,SBES,igor-wiese
 conf/sigsoft/SilvaWGTGS20,2020,A theory of the engagement in open source projects via summer of code programs,ESEC/SIGSOFT FSE,igor-steinmacher;igor-wiese;jefferson-silva;marco-gerosa
-conf/clei/SantosFS20,2020,A survey on the practices of mobile application testing,CLEI,italo-santos
 conf/sbes/TonhaoCS20,2020,A portal for cataloging worked examples extracted from open source software,SBES,igor-steinmacher;simone-tonhao
 conf/icse/IaffaldanoSCGL19,2019,Why do developers take breaks from contributing to OSS projects?: a preliminary analysis,SoHeal@ICSE,igor-steinmacher;marco-gerosa
 journals/jisa/LimaGCN19,2019,"What to expect, and how to improve online discussion forums: the instructors' perspective",J. Internet Serv. Appl.,marco-gerosa
-journals/software/FariasWS19,2019,What Characterizes an Influencer in Software Ecosystems?,IEEE Softw.,igor-wiese
 conf/oss/FronchettiW0S19,2019,What Attracts Newcomers to Onboard on OSS Projects? TL;DR: Popularity,OSS,igor-steinmacher;igor-wiese
-conf/sbes/MarquesMNWZC19,2019,UX-Tips: A UX evaluation technique to support the identification of software application problems,SBES,igor-wiese;patricia-matsubara
 conf/esem/Nascimento0OPSC19,2019,Understanding Development Process of Machine Learning Systems: Challenges and Solutions,ESEM,igor-steinmacher
 conf/sbes/LopesSC19,2019,UML Acceptance: Analyzing the Students' Perception of UML Diagrams,SBES,igor-steinmacher
 conf/vem/MartinsG19,2019,Um estudo preliminar sobre o uso de uma arquitetura deep learning para seleção de respostas no problema de recuperação de código-fonte,VEM,marco-gerosa
 journals/software/RoblesSAT19,2019,Twenty Years of Open Source Software: From Skepticism to Mainstream,IEEE Softw.,igor-steinmacher
 conf/icse/0001FSSM19,2019,Training software engineers using open-source software: the students' perspective,ICSE (SEET),igor-steinmacher
-conf/sbes/SantosMSS19,2019,Testing Techniques Selection: A Systematic Mapping Study,SBES,italo-santos
 journals/ploscb/ShollerSFAHW19,2019,Ten simple rules for helping newcomers become contributors to open projects,PLoS Comput. Biol.,igor-steinmacher
-conf/httf/CandelloPWPM19,2019,Teaching Robots to Act and Converse in Physical Spaces: Participatory Design Fictions with Museum Guides,HTTF,mairieli-wessel
 journals/access/SilvaSC19,2019,Students' and Instructors' Perceptions of Five Different Active Learning Strategies Used to Teach Software Modeling,IEEE Access,igor-steinmacher;williamson-silva
 conf/icse/WesselSWG19,2019,Should I stale or should I close?: an analysis of a bot that closes abandoned issues and pull requests,BotSE@ICSE,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
 journals/sqj/WieseKSORTG19,2019,Pieces of contextual information suitable for predicting co-changes? An empirical study,Softw. Qual. J.,igor-steinmacher;igor-wiese;marco-gerosa
 conf/iticse/BosseRG19,2019,Pedagogical Content for Professors of Introductory Programming Courses,ITiCSE,marco-gerosa
 journals/cscw/SteinmacherGCR19,2019,Overcoming Social Barriers When Contributing to Open Source Software Projects,Comput. Support. Cooperative Work.,igor-steinmacher;marco-gerosa
-conf/icse/AndradeSJJSD19,2019,On applying metamorphic testing: an empirical study on academic search engines,MET@ICSE,italo-santos
 journals/software/SteinmacherTG19,2019,Let Me In: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects,IEEE Softw.,igor-steinmacher;marco-gerosa
 conf/hai/ChavesDEG19,2019,It's How You Say It: Identifying Appropriate Register for Chatbot Language Design,HAI,ana-paula-steinmacher;marco-gerosa
 conf/sbes/PachecoWSC019,2019,How Open is the SBES PC Community?,SBES,igor-steinmacher;igor-wiese
-journals/isys/VianaWSF19,2019,"Editorial Vol.12, No 4",Braz. J. Inf. Syst.,igor-wiese
-journals/sigsoft/Matsubara19,2019,Dealing with software estimates distortions from the perspective of negotiation theories,ACM SIGSOFT Softw. Eng. Notes,patricia-matsubara
 conf/fie/BosseRG19,2019,Connections and Influences Among Topics of Learning How to Program,FIE,marco-gerosa
-conf/profes/TrinkenreichSBC19,2019,Combining GQM+Strategies and OKR - Preliminary Results from a Participative Case Study in Industry,PROFES,bianca-trinkenreich
 journals/ese/CarvalhoAVDG19,2019,An empirical catalog of code smells for the presentation layer of Android apps,Empir. Softw. Eng.,marco-gerosa
-conf/sbes/CoutinhoSMB19,2019,A Report on the Teaching of Software Ecosystems in Software Engineering Discipline,SBES,italo-santos
 conf/icse/0001DS18,2018,Who gets a patch accepted first?: comparing the contributions of employees and volunteers,CHASE@ICSE,igor-steinmacher
 journals/jbcs/DiasSP18,2018,Who drives company-owned OSS projects: internal or external members?,J. Braz. Comput. Soc.,igor-steinmacher
 conf/sbes/FerreiraS0SM18,2018,When students become contributors: leveraging OSS contributions in software engineering courses,SBES,igor-steinmacher
