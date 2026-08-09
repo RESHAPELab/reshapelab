@@ -1,10 +1,16 @@
 dblp_key,projects,award,note
-# One row per paper you want to annotate. Leave this file mostly empty —,,,
-# it only exists for things DBLP does not know: which project a paper belongs,,,
-# to, and which awards it won. Find keys in build/publications_index or on the,,
-# paper's DBLP page (the URL after /rec/).,,,
+# One row per paper you want to annotate. Leave this file mostly empty —
+# it only exists for things DBLP does not know: which project a paper belongs
+# to, and which awards it won. Find keys in build/publications_index or on the
+# paper's DBLP page (the URL after /rec/).
 conf/icse/TrinkenreichSSGGS23,gender-inclusive-oss,ACM SIGSOFT Distinguished Paper,
 conf/icse/DiasMCSW021,,ACM SIGSOFT Distinguished Paper,
 conf/esem/FelizardoLDCS24,,Best Paper Award,
 conf/icsm/WesselSWSG20,,IEEE TCSE Distinguished Paper,
 conf/icse/TrinkenreichBGS22,gender-inclusive-oss,Best Paper Award (SEIS),
+journals/tse/PadalaMFSSHHHSB22,skill-acquisition-onboarding;gender-inclusive-oss,,award cluster 1815503/1900903 (NSF PAR)
+conf/wcre/SantosWSSG22,skill-acquisition-onboarding;gender-inclusive-oss,,award cluster 1815503/1900903 (NSF PAR)
+conf/conversations/PenneyPSG23,ct-agent;oss-doorway;learning-by-contributing,,acknowledges NSF 2236198/2247929/2303042
+journals/ase/GerosaTSS24,learning-by-contributing;ct-agent,,acknowledges NSF 2303042/2236198 (+2303043/2235601 external)
+conf/icse-chase/FengSGMSMS25,gender-inclusive-oss;ct-agent;oss-doorway;learning-by-contributing,,acknowledges NSF 1901031/2235601/2236198/2247929/2303042/2303043/2347311
+conf/csee/SantosFSSG25,ct-agent;oss-doorway;learning-by-contributing;data-table-pose,,acknowledges NSF 2236198/2247929/2303042/2303612 (all 4)
