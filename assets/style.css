@@ -259,10 +259,20 @@ h3 { font-size: 19px; margin: 26px 0 8px; letter-spacing: -.01em; }
 .theme-link:hover { text-decoration: underline; }
 
 /* research area headers (research.html) */
-.area-head { display: flex; align-items: flex-start; gap: 16px; margin-bottom: 4px; }
+.area-head {
+  display: flex; align-items: center; gap: 18px; margin: 0 0 22px;
+  padding: 20px 22px; background: var(--green-soft);
+  border: 1px solid var(--line); border-left: 4px solid var(--green-deep);
+  border-radius: 12px;
+}
 .area-icon { flex: none; border-radius: 14px; }
-.area-head h2 { margin: 0 0 4px; }
-.area-head .lead { margin: 0; }
+.area-head h2 {
+  display: block; text-transform: none; letter-spacing: -.015em;
+  font-family: "Space Grotesk", sans-serif; font-weight: 700;
+  font-size: clamp(23px, 3.2vw, 30px); color: var(--ink-green); margin: 0 0 5px;
+}
+.area-head h2::before { content: none; }
+.area-head .lead { margin: 0; color: var(--slate); }
 
 /* project card head + icons (research.html cards, project pages, funding table) */
 .proj-head { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
@@ -440,6 +450,7 @@ button.linky:focus-visible { outline: 2px solid var(--green); outline-offset: 2p
   width: 100%; max-height: 360px; object-fit: cover; border-radius: 10px;
   border: 1px solid var(--line); display: block; margin: 0 0 20px;
 }
+#news-more-row { margin-left: 108px; margin-top: 4px; }
 
 /* lists */
 ul.clean { list-style: none; padding: 0; margin: 0; }
@@ -485,4 +496,5 @@ footer a { color: var(--slate); }
   .news-item .thumb { width: 100%; height: 160px; order: -1; }
   .news-item .thumb img { width: 100%; height: 160px; }
   .news-hero { max-height: 220px; }
+  #news-more-row { margin-left: 0; }
 }

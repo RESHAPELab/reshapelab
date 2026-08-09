@@ -49,6 +49,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import defaultdict
+from datetime import date, datetime
 from pathlib import Path
 
 # ---------------------------------------------------------------- configuration
@@ -626,6 +627,25 @@ def load_projects():
     return projects
 
 
+def parse_news_date(s: str):
+    """Parse a news date for sorting, tolerant of a few common formats.
+
+    String-sorting dates only works if every row is strict YYYY-MM-DD — one
+    row typed as 3/25/2026 instead of 2026-03-25 silently breaks the order.
+    This tries ISO first, then falls back to M/D/YYYY and M/D/YY, so a stray
+    format doesn't put an item in the wrong place instead of failing loudly.
+    """
+    s = (s or "").strip()
+    for fmt in ("%Y-%m-%d", "%m/%d/%Y", "%m/%d/%y", "%Y/%m/%d"):
+        try:
+            return datetime.strptime(s, fmt).date()
+        except ValueError:
+            continue
+    if s:
+        warn(f"news.csv: unrecognized date '{s}' — sorted as oldest so it's easy to spot")
+    return date.min
+
+
 def load_news():
     rows = read_csv(DATA / "news.csv")
     items = []
@@ -645,7 +665,7 @@ def load_news():
             "projects": split_list(r.get("projects", "")),
             "body": read_body(DATA / "news" / f"{slug}.md"),
         })
-    items.sort(key=lambda n: n["date"], reverse=True)
+    items.sort(key=lambda n: parse_news_date(n["date"]), reverse=True)
     return items
 
 
@@ -1674,8 +1694,13 @@ def build_funding(projects):
         nav_current="funding.html"))
 
 
-def news_item_html(n, projects_by_slug, *, depth=0, extra_class=""):
-    """One row on a news index. The title links to the item's own page."""
+def news_item_html(n, projects_by_slug, *, depth=0, hidden_batch=None):
+    """One row on a news index. The title links to the item's own page.
+
+    hidden_batch, if set, marks the item as initially hidden (class "news-more")
+    and tags it with data-batch="<hidden_batch>" so a batch of items can be
+    revealed together by build_news()'s "View more" button.
+    """
     up = "../" * depth
     chips = " ".join(
         f'<a href="{up}projects/{esc(s)}.html">{esc(projects_by_slug[s]["short"])}</a>'
@@ -1698,9 +1723,15 @@ def news_item_html(n, projects_by_slug, *, depth=0, extra_class=""):
     if n["image"]:
         thumb = (f'<div class="thumb"><img src="{up}{esc(n["image"])}" alt="" '
                  f'width="88" height="88" loading="lazy"></div>')
-    cls = "news-item" + (f" {extra_class}" if extra_class else "")
+
+    cls = "news-item"
+    batch_attr = ""
+    if hidden_batch is not None:
+        cls += " news-more"
+        batch_attr = f' data-batch="{hidden_batch}"'
+
     return (
-        f'<div class="{cls}"><div class="date">{esc(n["date"])}</div>{thumb}<div>'
+        f'<div class="{cls}"{batch_attr}><div class="date">{esc(n["date"])}</div>{thumb}<div>'
         f'{tag}'
         f'<h3><a href="{up}news/{esc(n["slug"])}.html">{esc(n["title"])}</a></h3>'
         f"{teaser}{chip_row}</div></div>"
@@ -1708,35 +1739,45 @@ def news_item_html(n, projects_by_slug, *, depth=0, extra_class=""):
 
 
 def build_news(news, projects_by_slug):
-    VISIBLE = 5
-    visible_items = news[:VISIBLE]
-    hidden_items = news[VISIBLE:]
+    BATCH = 5
+    rows_html = []
+    for i, n in enumerate(news):
+        batch = i // BATCH
+        rows_html.append(
+            news_item_html(n, projects_by_slug, hidden_batch=None if batch == 0 else batch)
+        )
+    rows = "\n".join(rows_html)
 
-    rows = "\n".join(news_item_html(n, projects_by_slug) for n in visible_items)
-    hidden_rows = "\n".join(
-        news_item_html(n, projects_by_slug, extra_class="news-more") for n in hidden_items
-    )
-
+    total_batches = (len(news) + BATCH - 1) // BATCH
     more_button = ""
-    if hidden_items:
+    script = ""
+    if total_batches > 1:
+        remaining = len(news) - BATCH
         more_button = (
             f'<div class="btn-row" id="news-more-row">'
-            f'<button type="button" class="btn" id="news-more-btn">'
-            f'View more ({len(hidden_items)})</button></div>'
+            f'<button type="button" class="btn" id="news-more-btn" data-shown="0">'
+            f'View more ({remaining})</button></div>'
         )
-    script = ""
-    if hidden_items:
-        script = """<script>
-(function () {
+        script = f"""<script>
+(function () {{
   var btn = document.getElementById('news-more-btn');
-  var row = document.getElementById('news-more-row');
   if (!btn) return;
-  btn.addEventListener('click', function () {
-    var items = document.querySelectorAll('.news-more');
-    items.forEach(function (el) { el.classList.remove('news-more'); });
-    row.hidden = true;
-  });
-})();
+  var totalBatches = {total_batches};
+  var batchSize = {BATCH};
+  var total = {len(news)};
+  var shown = 0;
+  btn.addEventListener('click', function () {{
+    shown += 1;
+    var items = document.querySelectorAll('.news-more[data-batch="' + shown + '"]');
+    items.forEach(function (el) {{ el.classList.remove('news-more'); }});
+    var remaining = total - batchSize * (shown + 1);
+    if (shown + 1 >= totalBatches) {{
+      btn.parentNode.hidden = true;
+    }} else {{
+      btn.textContent = 'View more (' + remaining + ')';
+    }}
+  }});
+}})();
 </script>"""
 
     body = (
@@ -1746,9 +1787,9 @@ def build_news(news, projects_by_slug):
         '  <p class="lead">Awards, talks, papers, and arrivals. Items tagged with a\n'
         "  project also appear on that project's page.</p>\n"
         + (rows or '<div class="empty">No news yet.</div>')
-        + ("\n" + hidden_rows if hidden_rows else "")
-        + "\n</section>\n"
+        + "\n"
         + more_button
+        + "\n</section>\n"
         + script
     )
     write(ROOT / "news.html", page(

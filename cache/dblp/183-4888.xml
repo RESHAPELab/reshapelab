@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<dblpperson name="Pedro Arantes" pid="183/4888" n="3">
+<person key="homepages/183/4888" mdate="2016-07-26">
+<author pid="183/4888">Pedro Arantes</author>
+</person>
+<r><inproceedings key="conf/sessos/ArantesSF23" mdate="2024-08-08">
+<author pid="183/4888">Pedro Arantes</author>
+<author pid="329/3717">Felipe Soupinski</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>Social Networks during Software Ecosystems' Death.</title>
+<pages>9-12</pages>
+<year>2023</year>
+<crossref>conf/sessos/2023</crossref>
+<booktitle>SESoS</booktitle>
+<ee>https://doi.org/10.1109/SESoS59159.2023.00007</ee>
+<url>db/conf/sessos/sessos2023.html#ArantesSF23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SoupinskiASWBCF22" mdate="2025-01-19">
+<author pid="329/3717">Felipe Soupinski</author>
+<author pid="183/4888">Pedro Arantes</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="119/0140">Hudson Borges</author>
+<author pid="46/10082">Bruno B. P. Cafeo</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>&#34;We are dying!&#34; On Death Signals of Software Ecosystems.</title>
+<pages>363-369</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555264</ee>
+<ee>https://www.wikidata.org/entity/Q130890701</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#SoupinskiASWBCF22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/svr/SantosDARS16" mdate="2026-02-01">
+<author orcid="0000-0002-6769-3089" pid="32/2540">Ismael H. F. dos Santos</author>
+<author pid="119/3512">Peter Dam</author>
+<author pid="183/4888">Pedro Arantes</author>
+<author orcid="0000-0001-7279-1823" pid="r/AlbertoBarbosaRaposo">Alberto Raposo 0001</author>
+<author orcid="0000-0003-3187-4168" pid="18/1580">Luciano P. Soares</author>
+<title>Simulation Training in Oil Platforms.</title>
+<pages>47-53</pages>
+<year>2016</year>
+<booktitle>SVR</booktitle>
+<ee>https://doi.org/10.1109/SVR.2016.18</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SVR.2016.18</ee>
+<crossref>conf/svr/2016</crossref>
+<url>db/conf/svr/svr2016.html#SantosDARS16</url>
+</inproceedings>
+</r>
+<coauthors n="10" nc="2">
+<co c="0"><na f="b/Borges:Hudson" pid="119/0140">Hudson Borges</na></co>
+<co c="0"><na f="c/Cafeo:Bruno_B=_P=" pid="46/10082">Bruno B. P. Cafeo</na></co>
+<co c="1"><na f="d/Dam:Peter" pid="119/3512">Peter Dam</na></co>
+<co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
+<co c="1" n="2"><na f="r/Raposo:Alberto_Barbosa" pid="r/AlbertoBarbosaRaposo">Alberto Barbosa Raposo</na><na>Alberto Raposo 0001</na></co>
+<co c="1"><na f="s/Santos:Ismael_H=_F=_dos" pid="32/2540">Ismael H. F. dos Santos</na></co>
+<co c="1"><na f="s/Soares:Luciano_P=" pid="18/1580">Luciano P. Soares</na></co>
+<co c="0"><na f="s/Soupinski:Felipe" pid="329/3717">Felipe Soupinski</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

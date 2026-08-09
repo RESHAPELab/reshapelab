@@ -108,7 +108,7 @@ conf/icse/WesselAWCSGS22,2022,"Bots for Pull Requests: The Good, the Bad, and th
 conf/msr/AbdellatifWSGS22,2022,BotHunter: An Approach to Detect Software Bots in GitHub,MSR,igor-steinmacher;mairieli-wessel;marco-gerosa
 conf/icse/TrinkenreichBGS22,2022,An Empirical Investigation on the Challenges Faced by Women in the Software Industry: A Case Study,ICSE-SEIS,bianca-trinkenreich;igor-steinmacher;marco-gerosa
 conf/sbes/SouzaWSR22,2022,A characterization study of testing contributors and their contributions in open source projects,SBES,igor-steinmacher;igor-wiese
-conf/sbes/SoupinskiASWBCF22,2022,"""We are dying!"" On Death Signals of Software Ecosystems",SBES,igor-steinmacher;igor-wiese
+conf/sbes/SoupinskiASWBCF22,2022,"""We are dying!"" On Death Signals of Software Ecosystems",SBES,igor-steinmacher;igor-wiese;pedro-oliveira
 conf/icse/DiasMCSW021,2021,What Makes a Great Maintainer of Open Source Projects?,ICSE,igor-steinmacher;igor-wiese
 conf/sbes/TonhaoCS21,2021,Using Real Worked Examples to Aid Software Engineering Teaching,SBES,igor-steinmacher;simone-tonhao
 conf/sbes/MatsubaraSMGC21,2021,Trust yourself! Or maybe not: factors related to overconfidence and uncertainty assessments of software effort estimates,SBES,igor-steinmacher;patricia-matsubara

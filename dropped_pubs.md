@@ -1,24 +1,11 @@
 # Publications left out of the list
 
-`scripts/build_site.py` dropped 346 paper(s) total:
-- 243 dropped because no author was in the lab at the time
-- 103 dropped because no faculty member (Igor / Marco) was an author
+`scripts/build_site.py` dropped 348 paper(s) total:
+- 242 dropped because no author was in the lab at the time
+- 106 dropped because no faculty member (Igor / Marco) was an author
 
 If one of these belongs on the site, add its DBLP key to
 `data/include_pubs.txt` and it will be kept on the next build.
-
-## Alumni with no dates
-
-These alumni have a DBLP pid but neither `started` nor `ended` in
-`data/members.csv`, so the rule cannot tell lab-era collaboration from work
-they did together before or after their time here. Papers they co-author
-with each other are kept by default.
-
-Years are enough — no months — and either bound helps on its own. `started`
-matters most for visiting scholars, whose careers extend well before the
-visit. Alumni without a pid are unaffected either way.
-
-- Ana Paula Steinmacher
 
 ## Dropped: no author in lab at the time
 
@@ -26,7 +13,7 @@ visit. Alumni without a pid are unaffected either way.
 
 - `conf/eidwt/KraemerOSMGC13` — 2013 — **Dynamic Creation of BSP/CGM Clusters on Cloud Computing Platforms** — *EIDWT*
 
-### Ana Paula Steinmacher (13)
+### Ana Paula Steinmacher (12)
 
 - `conf/iceis/MarianoCV25` — 2025 — **Development and Preliminary Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots** — *ICEIS (2)*
 - `conf/interact/MarianoCV25` — 2025 — **Expert Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots** — *INTERACT (1)*
@@ -36,7 +23,6 @@ visit. Alumni without a pid are unaffected either way.
 - `conf/re/GamaCRDD24` — 2024 — **How Much Do You Know About Your Users? A Study of Developer Awareness About Diverse Users** — *RE Workshops*
 - `conf/chi/SinCCCLMPVBBCJL23` — 2023 — **[email protected]: Inclusive Design of CUIs Across Modalities and Mobilities** — *CHI Extended Abstracts*
 - `conf/ihc/SouzaMG0V23` — 2023 — **Technologies for Hedonic Aspects Evaluation in Text-based Chatbots: A Systematic Mapping Study** — *IHC*
-- `conf/chi/Chaves20` — 2020 — **Should my Chatbot be Register-Specific? Designing Appropriate Utterances for Tourism** — *CHI Extended Abstracts*
 - `journals/jintseq/MarquesC15` — 2015 — **Fibonacci s-Cullen and s-Woodall Numbers** — *J. Integer Seq.*
 - `journals/jucs/LealCHD12` — 2012 — **An Integrated Approach of Software Development and Test Processes to Distributed Teams** — *J. Univers. Comput. Sci.*
 - `conf/criwg/VivianHLS11` — 2011 — **Context-Awareness on Software Artifacts in Distributed Software Development: A Systematic Review** — *CRIWG*
@@ -328,6 +314,10 @@ visit. Alumni without a pid are unaffected either way.
 
 ## Dropped: no faculty author (Igor / Marco not on the paper)
 
+### Ana Paula Steinmacher (1)
+
+- `conf/chi/Chaves20` — 2020 — **Should my Chatbot be Register-Specific? Designing Appropriate Utterances for Tourism** — *CHI Extended Abstracts*
+
 ### Bianca Trinkenreich (8)
 
 - `conf/esem/BharadwajST25` — 2025 — **The Shifting Sands of Toxicity: The Evolving Nature of Interpersonal Challenges in Open Source** — *ESEM*
@@ -475,6 +465,11 @@ visit. Alumni without a pid are unaffected either way.
 - `conf/sbqs/MarquesMFGGC20` — 2020 — **Challenges and Learning from Remote Teaching of Usability and UX: An Experience Report** — *SBQS*
 - `journals/sigsoft/Matsubara19` — 2019 — **Dealing with software estimates distortions from the perspective of negotiation theories** — *ACM SIGSOFT Softw. Eng. Notes*
 - `conf/sbes/MarquesMNWZC19` — 2019 — **UX-Tips: A UX evaluation technique to support the identification of software application problems** — *SBES*
+
+### Pedro Oliveira (2)
+
+- `conf/sessos/ArantesSF23` — 2023 — **Social Networks during Software Ecosystems' Death** — *SESoS*
+- `conf/svr/SantosDARS16` — 2016 — **Simulation Training in Oil Platforms** — *SVR*
 
 ### Simone de França Tonhão (1)
 
