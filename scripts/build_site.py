@@ -616,7 +616,6 @@ def load_projects():
             "award_no": r.get("award_no", ""),
             "award_url": r.get("award_url", ""),
             "amount": r.get("amount", ""),
-            "role": r.get("role", ""),
             "url": r.get("url", ""),
             "members": split_list(r.get("members", "")),
             "body": read_body(body_path),
@@ -1590,8 +1589,6 @@ def build_project_pages(projects, members_by_slug, projects_by_slug):
             facts.append(("Amount", money(p["amount"])))
         if project_dates(p):
             facts.append(("Period", project_dates(p)))
-        if p["role"]:
-            facts.append(("Role", esc(p["role"])))
         if p["url"]:
             facts.append(("Site", f'<a href="{esc(p["url"])}">{esc(p["url"])}</a>'))
         facts_html = "\n".join(
