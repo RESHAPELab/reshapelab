@@ -102,7 +102,7 @@ conf/esem/SantosTPWSSG22,2022,How to Choose a Task? Mismatches in Perspectives o
 journals/tse/PadalaMFSSHHHSB22,2022,How Gender-Biased Tools Shape Newcomer Experiences in OSS Projects,IEEE Trans. Software Eng.,igor-steinmacher;marco-gerosa
 conf/ease/LuzOS22,2022,How Experimentation in Software Engineering has been taught? Survey and Research Agenda,EASE,igor-steinmacher
 conf/wcre/SantosWSSG22,2022,Hits and Misses: Newcomers' ability to identify Skills needed for OSS tasks,SANER,igor-steinmacher;igor-wiese;italo-santos;marco-gerosa
-journals/tochi/ChavesEHDG22,2022,Chatbots Language Design: The Influence of Language Variation on User Experience with Tourist Assistant Chatbots,ACM Trans. Comput. Hum. Interact.,ana-paula-steinmacher;marco-gerosa
+journals/tochi/ChavesEHDG22,2022,Chatbots Language Design: The Influence of Language Variation on User Experience with Tourist Assistant Chatbots,ACM Trans. Comput. Hum. Interact.,ana-paula-chaves;marco-gerosa
 journals/software/KulaTHBSGA22,2022,Challenges for Inclusion in Software Engineering: The Case of the Emerging Papua New Guinean Society,IEEE Softw.,igor-steinmacher;marco-gerosa
 conf/icse/WesselAWCSGS22,2022,"Bots for Pull Requests: The Good, the Bad, and the Promising",ICSE,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa;tayana-conte
 conf/msr/AbdellatifWSGS22,2022,BotHunter: An Approach to Detect Software Bots in GitHub,MSR,igor-steinmacher;mairieli-wessel;marco-gerosa
@@ -115,10 +115,10 @@ conf/sbes/MatsubaraSMGC21,2021,Trust yourself! Or maybe not: factors related to 
 conf/sbes/OliveiraFVLCSZ21,2021,Towards Improving Experimentation in Software Engineering,SBES,igor-steinmacher
 conf/icse/GerosaWTLRTSS21,2021,The Shifting Sands of Motivation: Revisiting What Drives Contributors in Open Source,ICSE,bianca-trinkenreich;igor-steinmacher;igor-wiese;marco-gerosa
 journals/pacmhci/GuizaniCTMNRZIS21,2021,The Long Road Ahead: Ongoing Challenges in Contributing to Large OSS Organizations and What to Do,Proc. ACM Hum. Comput. Interact.,bianca-trinkenreich;igor-steinmacher;marco-gerosa
-conf/conversations/ChavesG21,2021,The Impact of Chatbot Linguistic Register on User Perceptions: A Replication Study,CONVERSATIONS,ana-paula-steinmacher;marco-gerosa
+conf/conversations/ChavesG21,2021,The Impact of Chatbot Linguistic Register on User Perceptions: A Replication Study,CONVERSATIONS,ana-paula-chaves;marco-gerosa
 journals/sigsoft/ShihabWG21,2021,Summary of the 2nd International Workshop on Bots in Software Engineering (BotSE 2020),ACM SIGSOFT Softw. Eng. Notes,marco-gerosa
-conf/conversations/AlvesWCS21,2021,How to Find My Task? Chatbot to Assist Newcomers in Choosing Tasks in OSS Projects,CONVERSATIONS,ana-paula-steinmacher;igor-steinmacher;igor-wiese
-journals/ijhci/ChavesG21,2021,How Should My Chatbot Interact? A Survey on Social Characteristics in Human-Chatbot Interaction Design,Int. J. Hum. Comput. Interact.,ana-paula-steinmacher;marco-gerosa
+conf/conversations/AlvesWCS21,2021,How to Find My Task? Chatbot to Assist Newcomers in Choosing Tasks in OSS Projects,CONVERSATIONS,ana-paula-chaves;igor-steinmacher;igor-wiese
+journals/ijhci/ChavesG21,2021,How Should My Chatbot Interact? A Survey on Social Characteristics in Human-Chatbot Interaction Design,Int. J. Hum. Comput. Interact.,ana-paula-chaves;marco-gerosa
 conf/msr/KinsmanWGT21,2021,How Do Software Developers Use GitHub Actions to Automate Their Workflows?,MSR,mairieli-wessel;marco-gerosa
 journals/isys/BernardiniGSFVH21,2021,Editorial Vol. 14 No. 3,Braz. J. Inf. Syst.,igor-steinmacher
 journals/pacmhci/WesselWSG21,2021,Don't Disturb Me: Challenges of Interacting with Software Bots on Open Source Software Projects,Proc. ACM Hum. Comput. Interact.,igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
@@ -158,7 +158,7 @@ journals/sqj/WieseKSORTG19,2019,Pieces of contextual information suitable for pr
 conf/iticse/BosseRG19,2019,Pedagogical Content for Professors of Introductory Programming Courses,ITiCSE,marco-gerosa
 journals/cscw/SteinmacherGCR19,2019,Overcoming Social Barriers When Contributing to Open Source Software Projects,Comput. Support. Cooperative Work.,igor-steinmacher;marco-gerosa;tayana-conte
 journals/software/SteinmacherTG19,2019,Let Me In: Guidelines for the Successful Onboarding of Newcomers to Open Source Projects,IEEE Softw.,igor-steinmacher;marco-gerosa
-conf/hai/ChavesDEG19,2019,It's How You Say It: Identifying Appropriate Register for Chatbot Language Design,HAI,ana-paula-steinmacher;marco-gerosa
+conf/hai/ChavesDEG19,2019,It's How You Say It: Identifying Appropriate Register for Chatbot Language Design,HAI,ana-paula-chaves;marco-gerosa
 conf/sbes/PachecoWSC019,2019,How Open is the SBES PC Community?,SBES,igor-steinmacher;igor-wiese
 conf/fie/BosseRG19,2019,Connections and Influences Among Topics of Learning How to Program,FIE,marco-gerosa
 journals/ese/CarvalhoAVDG19,2019,An empirical catalog of code smells for the presentation layer of Android apps,Empir. Softw. Eng.,marco-gerosa
@@ -168,9 +168,9 @@ conf/sbes/FerreiraS0SM18,2018,When students become contributors: leveraging OSS 
 conf/sbes/SilvaGSC18,2018,What are the differences between group and individual modeling when learning UML?,SBES,bruno-gadelha;igor-steinmacher;tayana-conte;williamson-silva
 conf/fie/LimaGN18,2018,Using Awareness Information to Enhance Online Discussion Forums: A Systematic Mapping Study,FIE,marco-gerosa
 conf/amcis/BertholdoMRGO18,2018,User engagement in an open collaboration community after the insertion of a game design element: An online field experiment,AMCIS,marco-gerosa
-journals/pacmhci/WesselSSWPCG18,2018,The Power of Bots: Characterizing and Understanding Bots in OSS Projects,Proc. ACM Hum. Comput. Interact.,ana-paula-steinmacher;igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
-journals/csur/SantanaCGKM17,2018,"Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture",ACM Comput. Surv.,ana-paula-steinmacher;marco-gerosa
-conf/chi/ChavesG18,2018,Single or Multiple Conversational Agents?: An Interactional Coherence Comparison,CHI,ana-paula-steinmacher;marco-gerosa
+journals/pacmhci/WesselSSWPCG18,2018,The Power of Bots: Characterizing and Understanding Bots in OSS Projects,Proc. ACM Hum. Comput. Interact.,ana-paula-chaves;igor-steinmacher;igor-wiese;mairieli-wessel;marco-gerosa
+journals/csur/SantanaCGKM17,2018,"Software Platforms for Smart Cities: Concepts, Requirements, Challenges, and a Unified Reference Architecture",ACM Comput. Surv.,ana-paula-chaves;marco-gerosa
+conf/chi/ChavesG18,2018,Single or Multiple Conversational Agents?: An Interactional Coherence Comparison,CHI,ana-paula-chaves;marco-gerosa
 conf/criwg/BertholdoMRG18,2018,Relations Between Actions Performed by Users and Their Engagement,CRIWG,marco-gerosa
 journals/ese/PintoSDG18,2018,On the challenges of open-sourcing proprietary software projects,Empir. Softw. Eng.,igor-steinmacher;marco-gerosa
 journals/cscw/BalaliSASG18,2018,Newcomers' Barriers. . . Is That All? An Analysis of Mentors' and Newcomers' Barriers in OSS Projects,Comput. Support. Cooperative Work.,igor-steinmacher;marco-gerosa
@@ -224,7 +224,7 @@ journals/infsof/SteinmacherSGR15,2015,A systematic literature review on the barr
 conf/criwg/WieseKJROG14,2014,Using Structural Holes Metrics from Communication Networks to Predict Change Dependencies,CRIWG,igor-wiese;marco-gerosa
 conf/icse/SteinmacherWCGR14,2014,The hard life of open source software project newcomers,CHASE,igor-steinmacher;igor-wiese;marco-gerosa;tayana-conte
 conf/promise/WieseCRSG14,2014,Social metrics included in prediction models on software engineering: a mapping study,PROMISE,igor-steinmacher;igor-wiese;marco-gerosa
-conf/sbes/SteinmacherCCG14,2014,Preliminary Empirical Identification of Barriers Faced by Newcomers to Open Source Software Projects,SBES,ana-paula-steinmacher;igor-steinmacher;marco-gerosa;tayana-conte
+conf/sbes/SteinmacherCCG14,2014,Preliminary Empirical Identification of Barriers Faced by Newcomers to Open Source Software Projects,SBES,ana-paula-chaves;igor-steinmacher;marco-gerosa;tayana-conte
 conf/oss/SteinmacherG14,2014,How to Support Newcomers Onboarding to Open Source Software Projects,OSS,igor-steinmacher;marco-gerosa
 conf/nca/LeiteSCGK14,2014,Deploying Large-Scale Service Compositions on the Cloud with the CHOReOS Enactment Engine,NCA,marco-gerosa
 journals/eceasst/WieseJRSG14,2014,Comparing communication and development networks for predicting file change proneness: An exploratory study considering process and social metrics,Electron. Commun. Eur. Assoc. Softw. Sci. Technol.,igor-steinmacher;igor-wiese;marco-gerosa
@@ -232,19 +232,19 @@ conf/criwg/SteinmacherG14,2014,Choosing an Appropriate Task to Start with in Ope
 conf/oss/SteinmacherSG14,2014,Barriers Faced by Newcomers to Open Source Projects: A Systematic Review,OSS,igor-steinmacher;marco-gerosa
 journals/eswa/ChallcoGBI14,2014,Automated instructional design for CSCL: A hierarchical task network planning approach,Expert Syst. Appl.,marco-gerosa
 conf/icsm/AnicheOG14,2014,Are the Methods in Your Data Access Objects (DAOs) in the Right Place? A Preliminary Study,MTD@ICSME,marco-gerosa
-conf/icse/SteinmacherWCG13,2013,Why do newcomers abandon open source software projects?,CHASE@ICSE,ana-paula-steinmacher;igor-steinmacher;igor-wiese;marco-gerosa
+conf/icse/SteinmacherWCG13,2013,Why do newcomers abandon open source software projects?,CHASE@ICSE,ana-paula-chaves;igor-steinmacher;igor-wiese;marco-gerosa
 conf/csmr/AnicheOG13,2013,What Do the Asserts in a Unit Test Tell Us about Code Quality? A Study on Open Source and Industrial Projects,CSMR,marco-gerosa
 conf/iwpse/OlivaSWG13,2013,What can commit metadata tell us about design degradation?,IWPSE,igor-steinmacher;igor-wiese;marco-gerosa
 conf/scam/SokolAG13,2013,MetricMiner: Supporting researchers in mining software repositories,SCAM,marco-gerosa
 conf/sac/CampioloSBG13,2013,Evaluating the utilization of Twitter messages as a source of security alerts,SAC,marco-gerosa
-journals/cscw/SteinmacherCG13,2013,Awareness Support in Distributed Software Development: A Systematic Review and Mapping of the Literature,Comput. Support. Cooperative Work.,ana-paula-steinmacher;igor-steinmacher;marco-gerosa
+journals/cscw/SteinmacherCG13,2013,Awareness Support in Distributed Software Development: A Systematic Review and Mapping of the Literature,Comput. Support. Cooperative Work.,ana-paula-chaves;igor-steinmacher;marco-gerosa
 journals/soca/LeiteONGKM13,2013,A systematic literature review of service choreography adaptation,Serv. Oriented Comput. Appl.,marco-gerosa
 conf/icws/OlivaGMS13,2013,A Change Impact Analysis Approach for Workflow Repository Management,ICWS,marco-gerosa
 conf/euromicro/MatsuiMG12,2012,Using Virtual Machine Security to Reinforce Components Constraints,EUROMICRO-SEAA,marco-gerosa
-conf/sbsi/VieiraSTTFHCS12,2012,The UbiBus Project: Using Context and Ubiquitous Computing to build Advanced Public Transportation Systems to Support Bus Passengers,SBSI,ana-paula-steinmacher;igor-steinmacher
+conf/sbsi/VieiraSTTFHCS12,2012,The UbiBus Project: Using Context and Ubiquitous Computing to build Advanced Public Transportation Systems to Support Bus Passengers,SBSI,ana-paula-chaves;igor-steinmacher
 conf/icse/SteinmacherWG12,2012,Recommending mentors to software project newcomers,RSSE@ICSE,igor-steinmacher;igor-wiese;marco-gerosa
 conf/sbsc/SchwerzLWSGF12,2012,Prediction of Developer Participation in Issues of Open Source Projects,SBSC,igor-steinmacher;igor-wiese;marco-gerosa
-conf/sbsc/SteinmacherWCG12,2012,Newcomers Withdrawal in Open Source Software Projects: Analysis of Hadoop Common Project,SBSC,ana-paula-steinmacher;igor-steinmacher;igor-wiese;marco-gerosa
+conf/sbsc/SteinmacherWCG12,2012,Newcomers Withdrawal in Open Source Software Projects: Analysis of Hadoop Common Project,SBSC,ana-paula-chaves;igor-steinmacher;igor-wiese;marco-gerosa
 conf/sbes/AnicheG12,2012,How the Practice of TDD Influences Class Design in Object-Oriented Systems: Patterns of Unit Tests Feedback,SBES,marco-gerosa
 conf/criwg/OlivaSOSG12,2012,Characterizing Key Developers: A Case Study with Apache Ant,CRIWG,marco-gerosa
 conf/sbsc/SantosCGB12,2012,Analysis of Security Messages Posted on Twitter,SBSC,marco-gerosa
@@ -252,18 +252,18 @@ conf/icgse/SilvaGWRS12,2012,An Extensible Service for Experts Recommendation on 
 conf/sbsc/CalvaoPFG12,2012,A Taxonomy of Computer Mediated Conversation,SBSC,marco-gerosa
 conf/icgse/OlivaG12,2012,A Method for the Identification of Logical Dependencies,ICGSE Workshops,marco-gerosa
 conf/webmedia/OliveiraG12,2012,A domain engineering for content sharing collaborative features,WebMedia,marco-gerosa
-conf/sbsc/NishiCS12,2012,A Collective Intelligence Based System for Visualizing Problems in Public Roads,SBSC,ana-paula-steinmacher;igor-steinmacher
+conf/sbsc/NishiCS12,2012,A Collective Intelligence Based System for Visualizing Problems in Public Roads,SBSC,ana-paula-chaves;igor-steinmacher
 conf/iwpse/OlivaSGS11,2011,Towards a classification of logical dependencies origins: a case study,EVOL/IWPSE,marco-gerosa
 journals/jisa/IssarnyGHZVAGH11,2011,Service-oriented middleware for the Future Internet: state of the art and research directions,J. Internet Serv. Appl.,marco-gerosa
-journals/cleiej/ChavesSLHB11,2011,OntoDiSENv1: an Ontology to Support Global Software Development,CLEI Electron. J.,ana-paula-steinmacher;igor-steinmacher
+journals/cleiej/ChavesSLHB11,2011,OntoDiSENv1: an Ontology to Support Global Software Development,CLEI Electron. J.,ana-paula-chaves;igor-steinmacher
 conf/sbes/OlivaG11,2011,On the Interplay between Structural and Logical Dependencies in Open-Source Software,SBES,marco-gerosa
 journals/jisa/IssarnyGHZVAGH11a,2011,Erratum to: Service-oriented middleware for the Future Internet: state of the art and research directions,J. Internet Serv. Appl.,marco-gerosa
 conf/criwg/OliveiraG11,2011,Collaborative Features in Content Sharing Web 2.0 Social Networks: A Domain Engineering Based on the 3C Collaboration Model,CRIWG,marco-gerosa
 conf/icst/AnicheG10,2010,Most Common Mistakes in Test-Driven Development Practice: Results from an Online Survey with Developers,ICST Workshops,marco-gerosa
 journals/ce/GerosaFPFL10,2010,Is the unfolding of the group discussion off-pattern? Improving coordination support in educational forums using mobile devices,Comput. Educ.,marco-gerosa
-conf/criwg/SteinmacherCG10,2010,Awareness Support in Global Software Development: A Systematic Review Based on the 3C Collaboration Model,CRIWG,ana-paula-steinmacher;igor-steinmacher;marco-gerosa
+conf/criwg/SteinmacherCG10,2010,Awareness Support in Global Software Development: A Systematic Review Based on the 3C Collaboration Model,CRIWG,ana-paula-chaves;igor-steinmacher;marco-gerosa
 conf/splc/GadelhaCGCFL10,2010,An Approach for Developing Component-Based Groupware Product Lines Using the Groupware Workbench,SPLC,bruno-gadelha;marco-gerosa
-conf/seke/ChavesHVS10,2010,A Context Conceptual Model for a Distributed Software Development Environment,SEKE,ana-paula-steinmacher;igor-steinmacher
+conf/seke/ChavesHVS10,2010,A Context Conceptual Model for a Distributed Software Development Environment,SEKE,ana-paula-chaves;igor-steinmacher
 conf/cscwd/FuksRGPFL08,2008,Inter- and intra-relationships between communication coordination and cooperation in the scope of the 3C Collaboration Model,CSCWD,marco-gerosa
 conf/seke/SteinmacherLH06,2006,Task Anticipation: A Quantitative Analysis Using Workflow Process Simulation,SEKE,igor-steinmacher
 conf/sbsi/SteinmacherASH06,2006,GeCA: Uma Ferramenta de Engenharia Reversa e Geração Automática de Código,SBSI,igor-steinmacher

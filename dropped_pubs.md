@@ -335,7 +335,7 @@ If one of these belongs on the site, add its DBLP key to
 
 - `conf/eidwt/KraemerOSMGC13` — 2013 — **Dynamic Creation of BSP/CGM Clusters on Cloud Computing Platforms** — *EIDWT*
 
-### Ana Paula Steinmacher (12)
+### Ana Paula Chaves (12)
 
 - `conf/iceis/MarianoCV25` — 2025 — **Development and Preliminary Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots** — *ICEIS (2)*
 - `conf/interact/MarianoCV25` — 2025 — **Expert Evaluation of a Technology for Assessing Hedonic Aspects of UX in Text-Based Chatbots** — *INTERACT (1)*
@@ -999,7 +999,7 @@ If one of these belongs on the site, add its DBLP key to
 - `journals/pacmse/OliveiraCAPMCBL24` — 2024 — **Understanding Developers' Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem** — *Proc. ACM Softw. Eng.*
 - `conf/scam/BibianoCUAGMCOVFR24` — 2024 — **Enhancing Recommendations of Composite Refactorings based on the Practice** — *SCAM*
 
-### Ana Paula Steinmacher (1)
+### Ana Paula Chaves (1)
 
 - `conf/chi/Chaves20` — 2020 — **Should my Chatbot be Register-Specific? Designing Appropriate Utterances for Tourism** — *CHI Extended Abstracts*
 
