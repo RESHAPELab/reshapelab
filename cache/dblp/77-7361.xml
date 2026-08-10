@@ -1,0 +1,1830 @@
+<?xml version="1.0"?>
+<dblpperson name="Bruno Gadelha" pid="77/7361" n="103">
+<person key="homepages/77/7361" mdate="2025-01-10">
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<author pid="77/7361">Bruno Freitas Gadelha</author>
+<url>https://orcid.org/0000-0001-7007-5209</url>
+<url>https://www.wikidata.org/entity/Q130824966</url>
+</person>
+<r><article key="journals/jbcs/AzevedoLCG26" mdate="2026-06-25">
+<author pid="249/1732">Romualdo Azevedo</author>
+<author orcid="0000-0002-6510-2986" pid="193/3623">Ketlen K. Teles Lucena</author>
+<author orcid="0000-0002-1752-8667" pid="77/4832">Alberto Castro</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>Understanding the Influence of Collaborative Tasks on User Experience in Moodle.</title>
+<year>2026</year>
+<pages>817-838</pages>
+<volume>32</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jbcs.2026.5101</ee>
+<url>db/journals/jbcs/jbcs32.html#AzevedoLCG26</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/CostaAGC26" mdate="2026-06-26">
+<author pid="61/8915">Jo&#227;o Costa</author>
+<author pid="249/1732">Romualdo Costa de Azevedo</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="77/4832">Alberto Castro</author>
+<title>Using Good Practices to Apply Peer Review in Moodle for Software Engineering Education.</title>
+<pages>2331-2338</pages>
+<year>2026</year>
+<booktitle>CSEDU (3)</booktitle>
+<ee>https://doi.org/10.5220/0014973600004021</ee>
+<crossref>conf/csedu/2026-3</crossref>
+<url>db/conf/csedu/csedu2026-3.html#CostaAGC26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/FreitasG26" mdate="2026-06-24">
+<author pid="438/9500">Gabriel da Silva Freitas</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>When AI Meets Software Maintenance: Insights from Brazilian Developers.</title>
+<pages>1069-1076</pages>
+<year>2026</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0014837500004018</ee>
+<crossref>conf/iceis/2026-2</crossref>
+<url>db/conf/iceis/iceis2026-2.html#FreitasG26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SaleemanOG26" mdate="2026-06-24">
+<author pid="438/9780">Ganiyat Saleeman</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>SmartPATHY: A Prompt-Based Methodology for Empathy-Aligned Persona Generation with Large Language Models.</title>
+<pages>1788-1799</pages>
+<year>2026</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0014838900004018</ee>
+<crossref>conf/iceis/2026-2</crossref>
+<url>db/conf/iceis/iceis2026-2.html#SaleemanOG26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sac/FerreiraCG26" mdate="2026-06-22">
+<author orcid="0000-0003-2403-0370" pid="181/2728">Paulo Ferreira</author>
+<author pid="10/480">Andr&#233; Carvalho</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>Emotions Unfiltered: Sentiment Analysis in Brazilian Portuguese Livestream Chat Messages.</title>
+<pages>1883-1890</pages>
+<year>2026</year>
+<booktitle>SAC</booktitle>
+<ee>https://doi.org/10.1145/3748522.3779907</ee>
+<crossref>conf/sac/2026</crossref>
+<url>db/conf/sac/sac2026.html#FerreiraCG26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigsoft/AcharyaCPOEDGGS26" mdate="2026-07-21">
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0000-0002-6048-1788" pid="32/2405">Pedro Oliveira</author>
+<author orcid="0009-0003-3920-4246" pid="410/7084">Misan Paul Etchie</author>
+<author orcid="0000-0002-5125-0566" pid="201/9199">Jared Duval</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Shh! Don't Tell Them I Use GenAI: Exploring How Participants Use Generative AI in Hackathons.</title>
+<pages>1842-1850</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3806711</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#AcharyaCPOEDGGS26</url>
+</inproceedings>
+</r>
+<r><article key="journals/ijhci/MarquesBGC25" mdate="2025-04-08">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa P. Barcellos</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Characterizing UX Assessment in the Context of Immersive Experiences: A Systematic Mapping Study.</title>
+<pages>1552-1568</pages>
+<year>2025</year>
+<month>January</month>
+<volume>41</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1080/10447318.2024.2351711</ee>
+<url>db/journals/ijhci/ijhci41.html#MarquesBGC25</url>
+<stream>streams/journals/ijhci</stream>
+</article>
+</r>
+<r><article key="journals/ijhci/GomesCG25" mdate="2026-02-01">
+<author orcid="0000-0002-2901-3994" pid="283/4200">Genildo Gomes</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>Evaluating the Impact of Interaction Technology on Audience Experience Across Event Contexts: An Empirical Study.</title>
+<pages>14210-14227</pages>
+<year>2025</year>
+<volume>41</volume>
+<journal>Int. J. Hum. Comput. Interact.</journal>
+<number>22</number>
+<ee>https://doi.org/10.1080/10447318.2025.2482738</ee>
+<url>db/journals/ijhci/ijhci41.html#GomesCG25</url>
+<stream>streams/journals/ijhci</stream>
+</article>
+</r>
+<r><article key="journals/jbcs/CostaMMGCB25" mdate="2025-06-15">
+<author orcid="0000-0001-9919-2089" pid="189/5932">Simone Dornelas Costa</author>
+<author orcid="0009-0001-6916-6055" pid="366/5921">Carolina De Freitas Manso</author>
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo Carneiro Marques</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Freitas Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>Unveiling the Use of Networked Ontologies to Develop a Supporting Tool for UX Evaluation in an Immersive Context.</title>
+<pages>68-98</pages>
+<year>2025</year>
+<volume>31</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jbcs.2025.4351</ee>
+<url>db/journals/jbcs/jbcs31.html#CostaMMGCB25</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
+<r><article key="journals/jss/LimaSFVGCG25" mdate="2024-10-03">
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="166/1017">Denae Ford</author>
+<author pid="322/8728">Grace Vorreuter</author>
+<author pid="385/1257">Ludimila Gon&#231;alves</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>How are discussions linked? A link analysis study on GitHub Discussions.</title>
+<pages>112196</pages>
+<year>2025</year>
+<volume>219</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2024.112196</ee>
+<url>db/journals/jss/jss219.html#LimaSFVGCG25</url>
+<stream>streams/journals/jss</stream>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/GomesSM0LSCG25" mdate="2025-05-02">
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="39/6329">Paulo Silva</author>
+<author pid="403/6661">S&#226;mila Magalh&#227;es</author>
+<author pid="48/91">Leandro Galv&#227;o 0001</author>
+<author pid="55/7524">Tanara Lauschner</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Understanding the Student Experience Better: Analyzing Remote Learning Tools Through Engagement, Participation, and Liveness Concepts.</title>
+<pages>958-965</pages>
+<year>2025</year>
+<booktitle>CSEDU (2)</booktitle>
+<ee>https://doi.org/10.5220/0013481200003932</ee>
+<crossref>conf/csedu/2025-2</crossref>
+<url>db/conf/csedu/csedu2025-2.html#GomesSM0LSCG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csee/BernardoFPPGC25" mdate="2025-06-23">
+<author pid="64/328">Jo&#227;o Bernardo</author>
+<author pid="407/8421">Jo&#227;o Frota</author>
+<author pid="407/9868">Thais Pessoa</author>
+<author pid="91/10360">Marcela Pessoa</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>A Journey Through Cyberium: Creating User Stories for a Dystopic World to Teach Requirements Engineering.</title>
+<pages>276-286</pages>
+<year>2025</year>
+<booktitle>CSEE&#38;T</booktitle>
+<ee>https://doi.org/10.1109/CSEET66350.2025.00035</ee>
+<crossref>conf/csee/2025</crossref>
+<url>db/conf/csee/csee2025.html#BernardoFPPGC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/SantosFSCOG25" mdate="2026-06-24">
+<author pid="403/7031">Reine Santos</author>
+<author pid="438/9500">Gabriel da Silva Freitas</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>User Stories: Does ChatGPT Do It Better?</title>
+<pages>47-58</pages>
+<year>2025</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0013365500003929</ee>
+<crossref>conf/iceis/2025-2</crossref>
+<url>db/conf/iceis/iceis2025-2.html#SantosFSCOG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MaiaOG25" mdate="2025-05-02">
+<author pid="121/2239">Nayane Maia</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>SWeeTComp: A Framework for Software Testing Competency Assessment.</title>
+<pages>185-192</pages>
+<year>2025</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0013276600003929</ee>
+<crossref>conf/iceis/2025-2</crossref>
+<url>db/conf/iceis/iceis2025-2.html#MaiaOG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/VeigaSGOC25" mdate="2025-05-02">
+<author pid="403/6739">Emerson Veiga</author>
+<author pid="392/9889">Nabson Silva</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="14/5675">Hor&#225;cio A. B. F. Oliveira</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Dark Patterns in Games: An Empirical Study of Their Harmfulness.</title>
+<pages>470-481</pages>
+<year>2025</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0013365800003929</ee>
+<crossref>conf/iceis/2025-2</crossref>
+<url>db/conf/iceis/iceis2025-2.html#VeigaSGOC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SantosSCOG25" mdate="2025-11-04">
+<author pid="403/7031">Reine Santos</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>AI-Generated User Stories: Are They Good Enough?</title>
+<pages>741-747</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11321</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#SantosSCOG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MacedoMBSMGC25" mdate="2025-11-04">
+<author pid="419/1300">Isabella Macedo</author>
+<author pid="266/3551">Maria Alcimar Costa Meireles</author>
+<author pid="419/1228">Hannah Barreto</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>AI in the Design Thinking Toolbox: What to Recommend, When, and Why.</title>
+<pages>755-761</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.11538</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#MacedoMBSMGC25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/QueirozMSCOG25" mdate="2025-12-18">
+<author pid="421/2942">Thiago Queiroz</author>
+<author pid="23/2454">Gretchen Torres de Macedo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>An Approach to Assist the Design of User-Centered Solutions based on Generative AI.</title>
+<pages>215-225</pages>
+<year>2025</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025.15032</ee>
+<crossref>conf/sbqs/2025</crossref>
+<url>db/conf/sbqs/sbqs2025.html#QueirozMSCOG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/SantosSCOG25" mdate="2025-12-18">
+<author pid="403/7031">Reine Santos</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Adoption of LLMs in Requirements Engineering: What Practitioners Are Worried About?</title>
+<pages>248-258</pages>
+<year>2025</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025.15089</ee>
+<crossref>conf/sbqs/2025</crossref>
+<url>db/conf/sbqs/sbqs2025.html#SantosSCOG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vl/GadelhaQSCS25" mdate="2026-02-03">
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="421/2942">Thiago Queiroz</author>
+<author pid="29/7640">Cleidson R. B. de Souza</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Enhancing User-centered Design with Large Language Models.</title>
+<pages>367-372</pages>
+<year>2025</year>
+<booktitle>VL/HCC</booktitle>
+<ee>https://doi.org/10.1109/VL-HCC65237.2025.00047</ee>
+<crossref>conf/vl/2025</crossref>
+<url>db/conf/vl/vlhcc2025.html#GadelhaQSCS25</url>
+<stream>streams/conf/vl</stream>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbqs/2025" mdate="2025-12-18">
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="05/2483">Sheila S. Reinehr</editor>
+<editor pid="00/7316">Ivaldir de Farias J&#250;nior</editor>
+<editor pid="77/7361">Bruno Gadelha</editor>
+<editor pid="97/7540">Monalessa Barcellos</editor>
+<editor pid="117/6111">S&#225;vio Freire</editor>
+<editor pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</editor>
+<editor pid="118/8796">Edna Dias Canedo</editor>
+<editor pid="172/1825">Ana Carolina Oran</editor>
+<editor pid="249/1704">Patr&#237;cia Matsubara</editor>
+<editor pid="237/7202">Rafael Parizi 0001</editor>
+<title>Proceedings of the 24th Brazilian Symposium on Software Quality, SBQS 2025, S&#227;o Jos&#233; dos Campos, SP, Brazil, November 4-7, 2025</title>
+<booktitle>SBQS</booktitle>
+<publisher>SBC</publisher>
+<year>2025</year>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025</ee>
+<url>db/conf/sbqs/sbqs2025.html</url>
+</proceedings>
+</r>
+<r><article key="journals/jbcs/MacedoFG24" mdate="2024-06-08">
+<author orcid="0000-0003-1428-4924" pid="23/2454">Gretchen Torres de Macedo</author>
+<author orcid="0000-0002-2988-9646" pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>Building soft skills through a role-play based approach for Requirements Engineering remote education.</title>
+<pages>1-16</pages>
+<year>2024</year>
+<volume>30</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jbcs.2024.3071</ee>
+<url>db/journals/jbcs/jbcs30.html#MacedoFG24</url>
+</article>
+</r>
+<r><article key="journals/tlt/PessoaLPHMROOGGIGC24" mdate="2024-02-19">
+<author orcid="0000-0002-3064-5585" pid="91/10360">Marcela Pessoa</author>
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author orcid="0000-0002-8180-9850" pid="248/4027">Fernanda Pires 0001</author>
+<author orcid="0000-0001-6730-7785" pid="364/8045">Gabriel Haydar</author>
+<author orcid="0000-0001-6198-8962" pid="248/4163">Rafaela Melo</author>
+<author orcid="0000-0003-0343-3701" pid="228/2395">Luiz A. L. Rodrigues</author>
+<author orcid="0000-0002-2887-2324" pid="269/7014">David B. F. Oliveira</author>
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine Harada T. de Oliveira</author>
+<author orcid="0000-0003-2970-2084" pid="48/91">Leandro Galv&#227;o 0001</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0003-1574-0784" pid="83/1033">Seiji Isotani</author>
+<author orcid="0000-0002-8094-9261" pid="83/667">Isabela Gasparini</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>A Journey to Identify Users' Classification Strategies to Customize Game-Based and Gamified Learning Environments.</title>
+<pages>527-541</pages>
+<year>2024</year>
+<volume>17</volume>
+<journal>IEEE Trans. Learn. Technol.</journal>
+<ee>https://doi.org/10.1109/TLT.2023.3317396</ee>
+<url>db/journals/tlt/tlt17.html#PessoaLPHMROOGGIGC24</url>
+</article>
+</r>
+<r><inproceedings key="conf/cibse/SouzaGGC24" mdate="2025-07-17">
+<author pid="381/7550">Kethelen do Carmo Souza</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Using GenderMag to enhance UX on educational platforms.</title>
+<pages>396-403</pages>
+<year>2024</year>
+<booktitle>CIbSE</booktitle>
+<ee type="oa">https://doi.org/10.5753/cibse.2024.28466</ee>
+<crossref>conf/cibse/2024</crossref>
+<url>db/conf/cibse/cibse2024.html#SouzaGGC24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/OliveiraGC24" mdate="2025-01-25">
+<author orcid="0009-0000-1870-5509" pid="320/3539">Solano Oliveira</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Smart UX Method Selection with UXNator.</title>
+<pages>729-731</pages>
+<year>2024</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3701625.3701694</ee>
+<crossref>conf/sbqs/2024</crossref>
+<url>db/conf/sbqs/sbqs2024.html#OliveiraGC24</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbqs/2024" mdate="2025-01-13">
+<editor pid="33/9369">Ivan Machado 0001</editor>
+<editor pid="28/2292">Jos&#233; Carlos Maldonado</editor>
+<editor pid="48/5">Tayana Conte</editor>
+<editor pid="118/8796">Edna Dias Canedo</editor>
+<editor pid="381/7558">Johnny Marques</editor>
+<editor pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</editor>
+<editor pid="249/1704">Patr&#237;cia Matsubara</editor>
+<editor pid="117/5583">Davi Viana</editor>
+<editor pid="58/232">S&#233;rgio Soares</editor>
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="391/1439">Larissa Rocha 0002</editor>
+<editor pid="77/7361">Bruno Gadelha</editor>
+<editor pid="57/7989">Rodrigo Pereira dos Santos</editor>
+<editor pid="172/1825">Ana Carolina Oran</editor>
+<editor pid="84/2417">Adolfo Gustavo Serra Seca Neto</editor>
+<title>Proceedings of the XXIII Brazilian Symposium on Software Quality, SBQS 2024, Salvador, Bahia, Brazil, November 5-8, 2024</title>
+<booktitle>SBQS</booktitle>
+<publisher>ACM</publisher>
+<year>2024</year>
+<isbn>979-8-4007-1777-2</isbn>
+<ee>https://doi.org/10.1145/3701625</ee>
+<url>db/conf/sbqs/sbqs2024.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ese/MatsubaraSGC23" mdate="2023-07-21">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Much more than a prediction: Expert-based software effort estimation as a behavioral act.</title>
+<pages>98</pages>
+<year>2023</year>
+<month>July</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-023-10332-9</ee>
+<url>db/journals/ese/ese28.html#MatsubaraSGC23</url>
+</article>
+</r>
+<r><article key="journals/peerj-cs/LimaSFLVCG23" mdate="2023-12-31">
+<author pid="249/1753">M&#225;rcia Lima</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="166/1017">Denae Ford</author>
+<author pid="322/8603">Evangeline Liu</author>
+<author pid="322/8728">Grace Vorreuter</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Looking for related posts on GitHub discussions.</title>
+<pages>e1567</pages>
+<year>2023</year>
+<volume>9</volume>
+<journal>PeerJ Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.7717/peerj-cs.1567</ee>
+<url>db/journals/peerj-cs/peerj-cs9.html#LimaSFLVCG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/aied/RamosRGO23" mdate="2023-07-07">
+<author orcid="0000-0003-3916-8081" pid="225/0642">Ilmara Monteverde Martins Ramos</author>
+<author orcid="0000-0003-0654-2225" pid="225/0649">David Brito Ramos</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Freitas Gadelha</author>
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine Harada Teixeira de Oliveira</author>
+<title>An Automated Approach to Assist Teachers in Recommending Groups of Students Associated with Collaborative Learning Techniques Using Learning Paths in Virtual Learning Environments.</title>
+<pages>109-114</pages>
+<year>2023</year>
+<booktitle>AIED (Posters/Late Breaking Results/...)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-36336-8_17</ee>
+<crossref>conf/aied/2023p</crossref>
+<url>db/conf/aied/aied2023p.html#RamosRGO23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MaiaOG23" mdate="2023-05-23">
+<author pid="121/2239">Nayane Maia</author>
+<author pid="172/1825">Ana Carolina Oran</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Expectation vs Reality: Analyzing the Competencies of Software Testing Teams.</title>
+<pages>152-159</pages>
+<year>2023</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011853800003467</ee>
+<crossref>conf/iceis/2023-2</crossref>
+<url>db/conf/iceis/iceis2023-2.html#MaiaOG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GomesCCG23" mdate="2023-05-23">
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Engagement, Participation, and Liveness: Understanding Audience Interaction in Technology-Based Events.</title>
+<pages>264-275</pages>
+<year>2023</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011848600003467</ee>
+<crossref>conf/iceis/2023-2</crossref>
+<url>db/conf/iceis/iceis2023-2.html#GomesCCG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/DuarteMGC23" mdate="2025-03-03">
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>An Experience in the Gather.town: Factors That Promote Immersion in Systems for the Metaverse.</title>
+<pages>304-311</pages>
+<year>2023</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011849000003467</ee>
+<crossref>conf/iceis/2023-2</crossref>
+<url>db/conf/iceis/iceis2023-2.html#DuarteMGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CamposDGMGC23" mdate="2025-03-03">
+<author pid="347/7136">Brendo Campos</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>A Problem Analysis in Game-Based Student Response System from UX Elements Perspective.</title>
+<pages>328-335</pages>
+<year>2023</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011992900003467</ee>
+<crossref>conf/iceis/2023-2</crossref>
+<url>db/conf/iceis/iceis2023-2.html#CamposDGMGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/OliveiraCGXSRMG23" mdate="2024-08-04">
+<author pid="320/3539">Solano Oliveira</author>
+<author pid="347/7117">Alexandre Cristo</author>
+<author pid="347/7815">Miguel Geovane</author>
+<author pid="347/7847">Andr&#233; Xavier</author>
+<author pid="347/6691">Roseno Silva</author>
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>UXNator: A Tool for Recommending UX Evaluation Methods.</title>
+<pages>336-343</pages>
+<year>2023</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011994200003467</ee>
+<crossref>conf/iceis/2023-2</crossref>
+<url>db/conf/iceis/iceis2023-2.html#OliveiraCGXSRMG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC23" mdate="2025-01-19">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates.</title>
+<pages>703-715</pages>
+<year>2023</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE48619.2023.00068</ee>
+<ee>https://www.wikidata.org/entity/Q130824984</ee>
+<crossref>conf/icse/2023</crossref>
+<url>db/conf/icse/icse2023.html#MatsubaraSGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/CostaMMGCB23" mdate="2025-01-19">
+<author orcid="0000-0001-9919-2089" pid="189/5932">Simone Dornelas Costa</author>
+<author orcid="0009-0001-6916-6055" pid="366/5921">Carolina De Freitas Manso</author>
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo Carneiro Marques</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Freitas Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Perini Barcellos</author>
+<title>Using Networked Ontologies to support UX Evaluation in Immersive Context.</title>
+<pages>69:1-69:12</pages>
+<year>2023</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3638067.3638080</ee>
+<ee>https://www.wikidata.org/entity/Q130913789</ee>
+<crossref>conf/ihc/2023</crossref>
+<url>db/conf/ihc/ihc2023.html#CostaMMGCB23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/OranLGMS023" mdate="2025-01-19">
+<author orcid="0000-0002-6446-7510" pid="172/1825">Ana Carolina Oran</author>
+<author orcid="0000-0002-9807-1266" pid="308/7430">Rayfran Rocha Lima</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0003-3642-4772" pid="121/2239">Nayane Maia</author>
+<author orcid="0000-0003-1849-2675" pid="166/2228">Williamson Silva</author>
+<author orcid="0000-0001-6008-6537" pid="117/5548">Luis Rivero 0001</author>
+<title>Empowering Technical Skills and Soft Skills in Software Engineering Students through Problem-Based Learning.</title>
+<pages>348-357</pages>
+<year>2023</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3613372.3614192</ee>
+<ee>https://www.wikidata.org/entity/Q130849520</ee>
+<crossref>conf/sbes/2023</crossref>
+<url>db/conf/sbes/sbes2023.html#OranLGMS023</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SouzaFRBSGLGC23" mdate="2025-01-19">
+<author orcid="0009-0003-7775-8549" pid="357/5431">Eriky Souza</author>
+<author orcid="0000-0002-4301-685X" pid="357/5490">Carla Fa&#231;anha</author>
+<author orcid="0009-0008-0707-3030" pid="138/9876">Concei&#231;&#227;o Rocha</author>
+<author orcid="0009-0004-9279-4123" pid="320/4411">Max Barbosa</author>
+<author orcid="0000-0002-4894-6095" pid="338/8490">Sabrina Rocha de Souza</author>
+<author orcid="0000-0002-2901-3994" pid="283/4200">Genildo Gomes</author>
+<author orcid="0000-0001-7104-9432" pid="55/7524">Tanara Lauschner</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>IoThinking: A Design Thinking technique to support the design of IoT systems.</title>
+<pages>458-463</pages>
+<year>2023</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3613372.3613422</ee>
+<ee>https://www.wikidata.org/entity/Q130843339</ee>
+<crossref>conf/sbes/2023</crossref>
+<url>db/conf/sbes/sbes2023.html#SouzaFRBSGLGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MacedoFG23" mdate="2023-10-14">
+<author orcid="0000-0003-1428-4924" pid="23/2454">Gretchen Torres de Macedo</author>
+<author orcid="0000-0002-2988-9646" pid="168/6211">Awdren L. Font&#227;o</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>UIProtoCheck: A Checklist for Semantic Inspection of User Interface Prototypes.</title>
+<pages>485-490</pages>
+<year>2023</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3613372.3613376</ee>
+<crossref>conf/sbes/2023</crossref>
+<url>db/conf/sbes/sbes2023.html#MacedoFG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MatsubaraSGC23" mdate="2025-01-19">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>SwEDeL: Software Estimates' Defense Lenses Designed from Negotiation Methods.</title>
+<pages>352-354</pages>
+<year>2023</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3629479.3629498</ee>
+<ee>https://www.wikidata.org/entity/Q130828704</ee>
+<crossref>conf/sbqs/2023</crossref>
+<url>db/conf/sbqs/sbqs2023.html#MatsubaraSGC23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-07229" mdate="2023-02-20">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Moving on from the software engineers' gambit: an approach to support the defense of software effort estimates.</title>
+<year>2023</year>
+<volume>abs/2302.07229</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.07229</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-07229</url>
+</article>
+</r>
+<r><article key="journals/jss/MatsubaraGSC22" mdate="2022-04-06">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>SEXTAMT: A systematic map to navigate the wide seas of factors affecting expert judgment software estimates.</title>
+<pages>111148</pages>
+<year>2022</year>
+<volume>185</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.111148</ee>
+<url>db/journals/jss/jss185.html#MatsubaraGSC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/csedu/AguiarAGMAMDGC22" mdate="2025-03-03">
+<author pid="293/6790">Brenda Aguiar</author>
+<author pid="293/7356">Franciane Alves</author>
+<author orcid="0000-0001-7597-3817" pid="320/4115">Paulo Gustavo</author>
+<author pid="293/6861">Vin&#237;cius Monteiro</author>
+<author pid="293/7238">Elizamara Almeida</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Investigating Remote Teaching: How Google Meet and Zoom Affect Teachers and Students' Experience.</title>
+<pages>265-272</pages>
+<year>2022</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0011065100003182</ee>
+<crossref>conf/csedu/2022-1</crossref>
+<url>db/conf/csedu/csedu2022-1.html#AguiarAGMAMDGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/RodriguesNCKDGC22" mdate="2025-03-03">
+<author pid="320/3887">Myrian Rodrigues</author>
+<author pid="320/4108">Barbara Nery</author>
+<author pid="181/2804">Miguel Castro</author>
+<author pid="293/6663">Victor Klisman</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Let's Play! or Don't? The Impact of UX and Usability on the Adoption of a Game-based Student Response System.</title>
+<pages>273-280</pages>
+<year>2022</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0011065800003182</ee>
+<crossref>conf/csedu/2022-1</crossref>
+<url>db/conf/csedu/csedu2022-1.html#RodriguesNCKDGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/PaivaBOBKDGGC22" mdate="2025-03-03">
+<author pid="306/9205">La&#237;sa O. Paiva</author>
+<author pid="313/9015">Mois&#233;s Barbosa</author>
+<author pid="320/3539">Solano Oliveira</author>
+<author pid="320/4411">Max Barbosa</author>
+<author pid="293/6663">Victor Klisman</author>
+<author orcid="0000-0001-5732-9729" pid="313/9084">Jos&#233; Carlos Duarte</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>To the Next Level! an Exploratory Study on the Influence of User Experience on the Acceptance of a Gamified Learning Platform.</title>
+<pages>281-288</pages>
+<year>2022</year>
+<booktitle>CSEDU (1)</booktitle>
+<ee>https://doi.org/10.5220/0011067900003182</ee>
+<crossref>conf/csedu/2022-1</crossref>
+<url>db/conf/csedu/csedu2022-1.html#PaivaBOBKDGGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/csedu/AzevedoMGCCLCCG22" mdate="2023-01-30">
+<author pid="249/1732">Romualdo Azevedo</author>
+<author pid="23/2454">Gretchen T. Macedo</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="303/3985">Atac&#237;lio Cunha</author>
+<author pid="280/6345">Joethe Moraes de Carvalho</author>
+<author pid="338/8522">Fabian Oliveira Lopes</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/4832">Alberto Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Analysing Usability and UX in Peer Review Tools.</title>
+<pages>361-371</pages>
+<year>2022</year>
+<booktitle>CSEDU (2)</booktitle>
+<ee>https://doi.org/10.5220/0011067500003182</ee>
+<crossref>conf/csedu/2022-2</crossref>
+<url>db/conf/csedu/csedu2022-2.html#AzevedoMGCCLCCG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalt/CostaACOMVGB22" mdate="2022-08-19">
+<author pid="326/8917">Andriele O. Costa</author>
+<author pid="283/4231">Ada Suzany Franco de Ara&#250;jo</author>
+<author pid="88/1084">Thais Helena Chaves de Castro</author>
+<author pid="193/1016">Elaine Harada T. de Oliveira</author>
+<author pid="215/6896">Eliana Alves Moreira</author>
+<author pid="33/10916">Katia Vega</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<author pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</author>
+<title>Fun learning in inclusive education: an approach using Beauty Technology, a tangible artefact, and affective states evaluation.</title>
+<pages>266-268</pages>
+<year>2022</year>
+<booktitle>ICALT</booktitle>
+<ee>https://doi.org/10.1109/ICALT55010.2022.00087</ee>
+<crossref>conf/icalt/2022</crossref>
+<url>db/conf/icalt/icalt2022.html#CostaACOMVGB22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/MacedoVG22" mdate="2022-05-18">
+<author pid="23/2454">Gretchen Torres de Macedo</author>
+<author pid="286/2700">Lucas Viana</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Towards Meaning in User Interface Prototypes.</title>
+<pages>235-246</pages>
+<year>2022</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0011067100003179</ee>
+<crossref>conf/iceis/2022-2</crossref>
+<url>db/conf/iceis/iceis2022-2.html#MacedoVG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC22" mdate="2022-11-11">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>The best defense is a good defense: adapting negotiation methods for tackling pressure over software project estimates.</title>
+<pages>91-95</pages>
+<year>2022</year>
+<booktitle>ICSE (NIER)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-NIER55298.2022.9793529</ee>
+<ee>https://doi.org/10.1145/3510455.3512775</ee>
+<crossref>conf/icse/2022nier</crossref>
+<url>db/conf/icse/nier2022.html#MatsubaraSGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaTSGBGC22" mdate="2022-09-26">
+<author pid="08/1230">Miguel Silva</author>
+<author pid="293/6800">L&#237;gia M&#225;rcia Teixeira</author>
+<author pid="308/7565">Afonso Silva</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="49/1881">Leonardo Barreto</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Developers in focus! Developer Experience Analysis in a Collaborative Modeling Tool.</title>
+<pages>68-77</pages>
+<year>2022</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3555228.3555247</ee>
+<crossref>conf/sbes/2022</crossref>
+<url>db/conf/sbes/sbes2022.html#SilvaTSGBGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/LopesOG22" mdate="2023-02-10">
+<author orcid="0000-0002-0447-5252" pid="338/8522">Fabian Oliveira Lopes</author>
+<author orcid="0000-0002-6446-7510" pid="172/1825">Ana Carolina Oran</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>Assessing DX through the correlation between affectivity and self-assessed productivity in a public institution.</title>
+<pages>5:1-5:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571494</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#LopesOG22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CavalcanteG0SNC22" mdate="2025-01-19">
+<author orcid="0000-0002-5502-7070" pid="37/2399">S&#233;rgio Ricardo De Oliveira Cavalcante</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-9168-4388" pid="166/0998">Edson Oliveira 0001</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="201/2424">Walter Takashi Nakamura</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Joy to the Work: How Does Software Team Formation Strategy Influence Job Satisfaction?</title>
+<pages>15:1-15:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571506</ee>
+<ee>https://www.wikidata.org/entity/Q130862022</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#CavalcanteG0SNC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MacedoFG22" mdate="2025-01-19">
+<author orcid="0000-0003-1428-4924" pid="23/2454">Gretchen Torres de Macedo</author>
+<author orcid="0000-0002-2988-9646" pid="168/6211">Awdren de Lima Font&#227;o</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Freitas Gadelha</author>
+<title>Prototyping in Software Quality Assurance: A Survey With Software Practitioners.</title>
+<pages>19:1-19:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571477</ee>
+<ee>https://www.wikidata.org/entity/Q130824967</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#MacedoFG22</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbqs/2022" mdate="2026-01-04">
+<editor orcid="0000-0002-2159-339X" pid="118/8796">Edna Dias Canedo</editor>
+<editor pid="117/5583">Davi Viana</editor>
+<editor orcid="0000-0001-6904-7470" pid="g/ViniciusCardosoGarcia">Vinicius C. Garcia</editor>
+<editor pid="09/5610">Carla I. M. Bezerra</editor>
+<editor pid="98/10587">Ismayle de Sousa Santos</editor>
+<editor pid="77/7361">Bruno Gadelha</editor>
+<editor orcid="0000-0001-9027-2293" pid="33/9369">Ivan Machado 0001</editor>
+<editor pid="58/232">S&#233;rgio Soares</editor>
+<editor pid="78/6010">Uir&#225; Kulesza</editor>
+<editor pid="122/4837">Breno de Fran&#231;a</editor>
+<editor pid="48/5">Tayana Conte</editor>
+<editor pid="28/2292">Jos&#233; Carlos Maldonado</editor>
+<editor pid="05/2483">Sheila S. Reinehr</editor>
+<editor pid="82/191">Andreia Malucelli</editor>
+<editor pid="64/6515">Adriano Bessa Albuquerque</editor>
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="97/7540">Monalessa Perini Barcellos</editor>
+<editor pid="57/7989">Rodrigo Pereira dos Santos</editor>
+<editor pid="65/10587">Crescencio Lima</editor>
+<editor pid="150/8954">Danilo Monteiro 0001</editor>
+<editor pid="338/8615">Adriana Damian</editor>
+<editor pid="155/7275">Larissa Rocha 0001</editor>
+<title>Proceedings of the XXI Brazilian Symposium on Software Quality, SBQS 2022, Curitiba, Brazil, November 7-10, 2022</title>
+<publisher>ACM</publisher>
+<booktitle>SBQS</booktitle>
+<year>2022</year>
+<isbn>978-1-4503-9999-9</isbn>
+<ee>https://doi.org/10.1145/3571473</ee>
+<url>db/conf/sbqs/sbqs2022.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-13623" mdate="2022-03-29">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>The best defense is a good defense: adapting negotiation methods for tackling pressure over software project estimates.</title>
+<year>2022</year>
+<volume>abs/2203.13623</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.13623</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-13623</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2206-11971" mdate="2022-06-27">
+<author pid="249/1753">M&#225;rcia Lima</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="166/1017">Denae Ford</author>
+<author pid="322/8603">Evangeline Liu</author>
+<author pid="322/8728">Grace Vorreuter</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Looking for related discussions on GitHub Discussions.</title>
+<year>2022</year>
+<volume>abs/2206.11971</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2206.11971</ee>
+<url>db/journals/corr/corr2206.html#abs-2206-11971</url>
+</article>
+</r>
+<r><article key="journals/re/OranSGC21" mdate="2021-11-03">
+<author orcid="0000-0002-6446-7510" pid="172/1825">Ana Carolina Oran</author>
+<author pid="78/2800">Gleison Santos</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>A framework for evaluating and improving requirements specifications based on the developers and testers perspective.</title>
+<pages>481-508</pages>
+<year>2021</year>
+<volume>26</volume>
+<journal>Requir. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s00766-021-00352-6</ee>
+<url>db/journals/re/re26.html#OranSGC21</url>
+</article>
+</r>
+<r><article key="journals/sbcjis/MartinsGCMSCGF21" mdate="2023-11-28">
+<author pid="296/2494">Gustavo de Freitas Martins</author>
+<author orcid="0000-0002-2901-3994" pid="283/4200">Genildo Gomes</author>
+<author orcid="0000-0002-3840-0339" pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</author>
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0002-0538-8839" pid="283/4020">Dan da Silva</author>
+<author orcid="0000-0001-6076-7674" pid="88/1084">Thais Castro</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0002-7608-2052" pid="47/7842">Rosiane de Freitas</author>
+<title>Bumbometer digital crowd game: collaboration through competition in entertainment events.</title>
+<pages>294-307</pages>
+<year>2021</year>
+<month>December</month>
+<volume>12</volume>
+<journal>J. Interact. Syst.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.5753/jis.2021.1998</ee>
+<url>db/journals/sbcjis/sbcjis12.html#MartinsGCMSCGF21</url>
+</article>
+</r>
+<r><article key="journals/sensors/MarquesMNFWGZRC21" mdate="2023-08-28">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author orcid="0000-0001-5451-3109" pid="201/2424">Walter Takashi Nakamura</author>
+<author orcid="0000-0003-2895-1054" pid="135/0908">Bruna Moraes Ferreira</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno F. Gadelha</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana Martinez Zaina</author>
+<author orcid="0000-0002-1370-7123" pid="84/6534">David F. Redmiles</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Understanding UX Better: A New Technique to Go beyond Emotion Assessment.</title>
+<pages>7183</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/s21217183</ee>
+<ee>https://www.wikidata.org/entity/Q114026672</ee>
+<url>db/journals/sensors/sensors21.html#MarquesMNFWGZRC21</url>
+</article>
+</r>
+<r><article key="journals/tlt/RamosRGO21" mdate="2022-02-08">
+<author orcid="0000-0003-3916-8081" pid="225/0642">Ilmara Monteverde Martins Ramos</author>
+<author orcid="0000-0003-0654-2225" pid="225/0649">David Brito Ramos</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Freitas Gadelha</author>
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine Harada Teixeira de Oliveira</author>
+<title>An Approach to Group Formation in Collaborative Learning Using Learning Paths in Learning Management Systems.</title>
+<pages>555-567</pages>
+<year>2021</year>
+<volume>14</volume>
+<journal>IEEE Trans. Learn. Technol.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/TLT.2021.3117916</ee>
+<url>db/journals/tlt/tlt14.html#RamosRGO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/iceis/FilhoNTSGC21" mdate="2021-05-31">
+<author pid="201/9881">Jos&#233; Cezar de Souza Filho</author>
+<author pid="201/2424">Walter Takashi Nakamura</author>
+<author pid="293/6800">L&#237;gia M&#225;rcia Teixeira</author>
+<author pid="293/7265">R&#243;genis Pereira da Silva</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Towards a Data-Driven Requirements Elicitation Tool through the Lens of Design Thinking.</title>
+<pages>283-290</pages>
+<year>2021</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0010443402830290</ee>
+<crossref>conf/iceis/2021-2</crossref>
+<url>db/conf/iceis/iceis2021-2.html#FilhoNTSGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/GomesRGCACCG21" mdate="2021-05-31">
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="293/6875">Isabelle R&#234;go</author>
+<author pid="293/7309">Moises Gomes</author>
+<author pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</author>
+<author pid="293/6837">Artur Andrade</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>It's a Match! A Knowledge based Recommendation System for Matching Technology with Events.</title>
+<pages>525-532</pages>
+<year>2021</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0010453605250532</ee>
+<crossref>conf/iceis/2021-2</crossref>
+<url>db/conf/iceis/iceis2021-2.html#GomesRGCACCG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/AlvesAMAMGC21" mdate="2022-02-17">
+<author pid="293/7356">Franciane Alves</author>
+<author pid="293/6790">Brenda Aguiar</author>
+<author pid="293/6861">Vin&#237;cius Monteiro</author>
+<author pid="293/7238">Elizamara Almeida</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Immersive UX: A UX Evaluation Framework for Digital Immersive Experiences in the Context of Entertainment.</title>
+<pages>541-548</pages>
+<year>2021</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0010455305410548</ee>
+<crossref>conf/iceis/2021-2</crossref>
+<url>db/conf/iceis/iceis2021-2.html#AlvesAMAMGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/KlismanMLMGCG21" mdate="2022-10-02">
+<author orcid="0000-0001-6041-8124" pid="293/6663">Victor Klisman</author>
+<author pid="293/6868">Luan Souza Marques</author>
+<author pid="293/6973">Jo&#227;o Pedro de Lima</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>LogMe: An Application for Generating Logs in Immersive Interactions for UX Evaluation.</title>
+<pages>549-556</pages>
+<year>2021</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0010460105490556</ee>
+<crossref>conf/iceis/2021-2</crossref>
+<url>db/conf/iceis/iceis2021-2.html#KlismanMLMGCG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC21" mdate="2021-07-05">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Buying time in software development: how estimates become commitments?</title>
+<pages>61-70</pages>
+<year>2021</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE52884.2021.00015</ee>
+<crossref>conf/icse/2021chase</crossref>
+<url>db/conf/icse/chase2021.html#MatsubaraSGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CunhaCG21" mdate="2022-08-18">
+<author pid="303/3985">Atac&#237;lio Cunha</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Code Review is just reviewing code? A qualitative study with practitioners in industry.</title>
+<pages>269-274</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3477063</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#CunhaCG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MatsubaraSMGC21" mdate="2022-08-18">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Trust yourself! Or maybe not: factors related to overconfidence and uncertainty assessments of software effort estimates.</title>
+<pages>452-461</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474643</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#MatsubaraSMGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/NakamuraFTSSGC21" mdate="2022-03-29">
+<author pid="201/2424">Walter Takashi Nakamura</author>
+<author pid="201/9881">Jos&#233; Cezar de Souza Filho</author>
+<author pid="293/6800">L&#237;gia M&#225;rcia Teixeira</author>
+<author pid="308/7565">Afonso Silva</author>
+<author pid="293/7265">R&#243;genis Pereira da Silva</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Requirements Behind Reviews: How do Software Practitioners See App User Reviews to Think of Requirements?</title>
+<pages>12</pages>
+<year>2021</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3493244.3493245</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/18574</ee>
+<crossref>conf/sbqs/2021</crossref>
+<url>db/conf/sbqs/sbqs2021.html#NakamuraFTSSGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CunhaCG21" mdate="2022-03-29">
+<author pid="303/3985">Atac&#237;lio Costa Cunha</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>What really matters in Code Review? A study about challenges and opportunities related to code review in industry.</title>
+<pages>18</pages>
+<year>2021</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3493244.3493255</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/18580</ee>
+<crossref>conf/sbqs/2021</crossref>
+<url>db/conf/sbqs/sbqs2021.html#CunhaCG21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/AlmeidaMAAMGC21" mdate="2023-12-21">
+<author pid="293/7238">Elizamara Almeida</author>
+<author pid="293/6861">Vin&#237;cius Monteiro</author>
+<author pid="293/7356">Franciane Alves</author>
+<author pid="293/6790">Brenda Aguiar</author>
+<author pid="229/5358">Leonardo C. Marques</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Thinking About Gender: Combinando Design Thinking e GenderMag na Elicita&#231;&#227;o de Requisitos para um Software de Apoio a Avalia&#231;&#227;o de UX.</title>
+<year>2021</year>
+<booktitle>WER</booktitle>
+<ee type="oa">https://doi.org/10.29327/1298728.24-16</ee>
+<crossref>conf/wer/2021</crossref>
+<url>db/conf/wer/wer2021.html#AlmeidaMAAMGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wer/BarbosaBACGCG21" mdate="2023-12-21">
+<author pid="313/9015">Mois&#233;s Barbosa</author>
+<author pid="313/9034">Isabelle Brilhante</author>
+<author pid="293/6837">Artur Andrade</author>
+<author pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Diversidade de G&#234;nero and Elicita&#231;&#227;o de Requisitos: Uso do GenderMag como Estrat&#233;gia de Identifica&#231;&#227;o de Requisitos de Usabilidade.</title>
+<year>2021</year>
+<booktitle>WER</booktitle>
+<ee type="oa">https://doi.org/10.29327/1298728.24-18</ee>
+<crossref>conf/wer/2021</crossref>
+<url>db/conf/wer/wer2021.html#BarbosaBACGCG21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08018" mdate="2021-05-18">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Buying time in software development: how estimates become commitments?</title>
+<year>2021</year>
+<volume>abs/2105.08018</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08018</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08018</url>
+</article>
+</r>
+<r><article key="journals/iet-sen/CamposLOGC20" mdate="2025-01-19">
+<author pid="229/5356">Ursula Campos</author>
+<author orcid="0000-0002-0072-6958" pid="166/2222">Adriana Lopes</author>
+<author pid="166/0998">Edson Oliveira 0001</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>e-VOL BPMN: a technique to support the evolution and learning of BPMN diagrams.</title>
+<pages>50-58</pages>
+<year>2020</year>
+<volume>14</volume>
+<journal>IET Softw.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1049/iet-sen.2019.0132</ee>
+<ee>https://www.wikidata.org/entity/Q126979367</ee>
+<url>db/journals/iet-sen/iet-sen14.html#CamposLOGC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/clei/ConceicaoFGKAC20" mdate="2022-10-02">
+<author pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0002-1853-9878" pid="296/2656">Jo&#227;o Gustavo Kienen</author>
+<author pid="296/3029">S&#233;rgio Anders</author>
+<author pid="296/2217">Brendo Cavalcante</author>
+<title>Applying supervised learning techniques to Brazilian music genre classification.</title>
+<pages>102-107</pages>
+<year>2020</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI52000.2020.00019</ee>
+<crossref>conf/clei/2020</crossref>
+<url>db/conf/clei/clei2020.html#ConceicaoFGKAC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/clei/MartinsFG20" mdate="2021-07-06">
+<author pid="296/2494">Gustavo de Freitas Martins</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>A mobile game based on participatory sensing with real-time client-server architecture for large entertainment events.</title>
+<pages>332-339</pages>
+<year>2020</year>
+<booktitle>CLEI</booktitle>
+<ee>https://doi.org/10.1109/CLEI52000.2020.00045</ee>
+<crossref>conf/clei/2020</crossref>
+<url>db/conf/clei/clei2020.html#MartinsFG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iceis/CavalcanteGOC20" mdate="2024-10-06">
+<author orcid="0000-0002-5502-7070" pid="37/2399">S&#233;rgio Cavalcante</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="166/0998">Edson C&#233;sar Cunha de Oliveira</author>
+<author pid="48/5">Tayana Conte</author>
+<title>How to Better Form Software Development Teams? An Analysis of Different Formation Criteria.</title>
+<pages>90-100</pages>
+<year>2020</year>
+<booktitle>ICEIS (2)</booktitle>
+<ee>https://doi.org/10.5220/0009388000900100</ee>
+<crossref>conf/iceis/2020-2</crossref>
+<url>db/conf/iceis/iceis2020-2.html#CavalcanteGOC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SilvaGSC20" mdate="2023-09-30">
+<author orcid="0000-0003-1849-2675" pid="166/2228">Williamson Silva</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Towards an open repository for teaching software modeling applying active learning strategies.</title>
+<pages>162-172</pages>
+<year>2020</year>
+<booktitle>ICSE (SEET)</booktitle>
+<ee>https://doi.org/10.1145/3377814.3381709</ee>
+<ee>https://ieeexplore.ieee.org/document/9292027</ee>
+<crossref>conf/icse/2020seet</crossref>
+<url>db/conf/icse/seet2020.html#SilvaGSC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/MartinsGCMSCGF20" mdate="2021-10-14">
+<author pid="296/2494">Gustavo de Freitas Martins</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</author>
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="283/4020">Dan da Silva</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<title>Enhanced interaction: audience engagement in entertainment events through the Bumbometer app.</title>
+<pages>13:1-13:9</pages>
+<year>2020</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3424953.3426492</ee>
+<crossref>conf/ihc/2020</crossref>
+<url>db/conf/ihc/ihc2020.html#MartinsGCMSCGF20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/AraujoVCG20" mdate="2021-01-20">
+<author pid="283/4231">Ada Suzany Franco de Ara&#250;jo</author>
+<author pid="33/10916">Katia Vega</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Beauty tech nails: towards interaction and functionality.</title>
+<pages>41:1-41:6</pages>
+<year>2020</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3424953.3426549</ee>
+<crossref>conf/ihc/2020</crossref>
+<url>db/conf/ihc/ihc2020.html#AraujoVCG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/GomesFCG20" mdate="2021-01-20">
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>InteraHeu: heuristics for technological interaction on events.</title>
+<pages>50:1-50:6</pages>
+<year>2020</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3424953.3426541</ee>
+<crossref>conf/ihc/2020</crossref>
+<url>db/conf/ihc/ihc2020.html#GomesFCG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/MarquesACAZGC20" mdate="2025-04-01">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="222/9240">Mauro Amazonas</author>
+<author pid="88/1084">Thais Castro</author>
+<author orcid="0000-0002-0552-9013" pid="249/9655">Willian Assun&#231;&#227;o</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana A. M. Zaina</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>UX trek: a post-interaction journey from immersive experience logs.</title>
+<pages>60:1-60:6</pages>
+<year>2020</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3424953.3426547</ee>
+<crossref>conf/ihc/2020</crossref>
+<url>db/conf/ihc/ihc2020.html#MarquesACAZGC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LimaOCG20" mdate="2022-08-18">
+<author pid="249/1753">M&#225;rcia Lima</author>
+<author pid="166/0998">Edson Oliveira 0001</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Clouds are heavy!: A storm of relevant project-related terms to support newcomers' onboarding.</title>
+<pages>319-324</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422455</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#LimaOCG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MarquesMFGGC20" mdate="2022-03-29">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="201/9881">Jos&#233; Cezar de Souza Filho</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Challenges and Learning from Remote Teaching of Usability and UX: An Experience Report.</title>
+<pages>42</pages>
+<year>2020</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3439961.3440003</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/14237</ee>
+<crossref>conf/sbqs/2020</crossref>
+<url>db/conf/sbqs/sbqs2020.html#MarquesMFGGC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/esem/LimaACNOG19" mdate="2020-10-25">
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author pid="57/5553">Iftekhar Ahmed 0001</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author pid="185/0255">Elizamary Nascimento</author>
+<author pid="166/0998">Edson Oliveira 0001</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Land of Lost Knowledge: An Initial Investigation into Projects Lost Knowledge.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1109/ESEM.2019.8870171</ee>
+<crossref>conf/esem/2019</crossref>
+<url>db/conf/esem/esem2019.html#LimaACNOG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/FontaoGJ19" mdate="2021-07-12">
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="61/2142">Alberto Nogueira de Castro J&#250;nior</author>
+<title>Balancing Theory and Practice in Software Engineering Education - A PBL, toolset based approach.</title>
+<pages>1-8</pages>
+<year>2019</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE43999.2019.9028606</ee>
+<crossref>conf/fie/2019</crossref>
+<url>db/conf/fie/fie2019.html#FontaoGJ19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/VianaCG19" mdate="2021-02-25">
+<author pid="286/2700">Lucas Viana</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Identifying Cognitive Profiles in Blended Learning using the Multiple Intelligences Theory.</title>
+<pages>1-7</pages>
+<year>2019</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE43999.2019.9028470</ee>
+<crossref>conf/fie/2019</crossref>
+<url>db/conf/fie/fie2019.html#VianaCG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/VasconcelosACRF19" mdate="2019-07-10">
+<author pid="222/9191">Victor Vasconcelos</author>
+<author pid="222/9240">Mauro Amazonas</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="47/7842">Rosiane Rodrigues</author>
+<author pid="21/5671">Hugo Fuks</author>
+<author pid="33/10916">Katia Vega</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Redefining Audience Role in Live Performances.</title>
+<pages>358-377</pages>
+<year>2019</year>
+<booktitle>HCI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-22646-6_26</ee>
+<crossref>conf/hci/2019-1</crossref>
+<url>db/conf/hci/hci2019-1.html#VasconcelosACRF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/ChourioACG19" mdate="2025-01-19">
+<author pid="249/1724">Patricia Chourio</author>
+<author pid="249/1732">Romualdo Azevedo</author>
+<author pid="77/4832">Alberto Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Most common errors in software modeling using UML.</title>
+<pages>244-253</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3353820</ee>
+<ee>https://www.wikidata.org/entity/Q130976185</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#ChourioACG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LimaVCLG19" mdate="2025-01-19">
+<author orcid="0000-0002-4913-7513" pid="249/1753">M&#225;rcia Lima</author>
+<author pid="249/1710">Victor Valle</author>
+<author pid="129/2344">Estev&#227;o Costa</author>
+<author pid="249/1700">Fylype Lira</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Software Engineering Repositories: Expanding the PROMISE Database.</title>
+<pages>427-436</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350776</ee>
+<ee>https://www.wikidata.org/entity/Q130896757</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#LimaVCLG19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/AmazonasVBKCGF18" mdate="2018-07-12">
+<author pid="222/9240">Mauro Amazonas</author>
+<author pid="222/9191">Victor Vasconcelos</author>
+<author pid="222/9120">Adriano Brand&#227;o</author>
+<author pid="222/9144">Gustavo Kienem</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="21/5671">Hugo Fuks</author>
+<title>Collaborative Music Composition Based on Sonic Interaction Design.</title>
+<pages>335-346</pages>
+<year>2018</year>
+<booktitle>HCI (21)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-91125-0_28</ee>
+<crossref>conf/hci/2018-21</crossref>
+<url>db/conf/hci/hci2018-21.html#AmazonasVBKCGF18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ihc/VasconcelosACFG18" mdate="2021-01-20">
+<author pid="222/9191">Victor Vasconcelos</author>
+<author pid="222/9240">Mauro Amazonas</author>
+<author pid="88/1084">Thais Castro</author>
+<author pid="47/7842">Rosiane de Freitas</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Watch or Immerse?: Redefining Your Role in Big Shows.</title>
+<pages>41:1-41:9</pages>
+<year>2018</year>
+<booktitle>IHC</booktitle>
+<ee>https://doi.org/10.1145/3274192.3274233</ee>
+<crossref>conf/ihc/2018</crossref>
+<url>db/conf/ihc/ihc2018.html#VasconcelosACFG18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaGSC18" mdate="2023-09-30">
+<author orcid="0000-0003-1849-2675" pid="166/2228">Williamson Silva</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>What are the differences between group and individual modeling when learning UML?</title>
+<pages>308-317</pages>
+<year>2018</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3266237.3266255</ee>
+<crossref>conf/sbes/2018</crossref>
+<url>db/conf/sbes/sbes2018.html#SilvaGSC18</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cibse/NascimentoSFGC17" mdate="2018-02-19">
+<author pid="185/0255">Elizamary Nascimento</author>
+<author pid="166/2228">Williamson Silva</author>
+<author pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Um Modelo sobre as Dificuldades para Especificar Casos de Uso.</title>
+<pages>263-276</pages>
+<year>2017</year>
+<booktitle>CIbSE</booktitle>
+<crossref>conf/cibse/2017</crossref>
+<url>db/conf/cibse/cibse2017.html#NascimentoSFGC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hefa/OliveiraCOGLRRN17" mdate="2026-06-01">
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine H. T. Oliveira</author>
+<author orcid="0000-0002-3828-7233" pid="160/1995">Jos&#233; Reginaldo Hughes Carvalho</author>
+<author orcid="0000-0001-9777-3947" pid="14/5675">Horacio A. B. Fernandes de Oliveira</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno F. Gadelha</author>
+<author orcid="0000-0002-6510-2986" pid="193/3623">Ketlen K. Teles Lucena</author>
+<author orcid="0000-0003-0654-2225" pid="225/0649">David Brito Ramos</author>
+<author orcid="0000-0003-3916-8081" pid="225/0642">Ilmara Monteverde Martins Ramos</author>
+<author orcid="0000-0002-1487-111X" pid="225/0648">Priscilla B. Nascimento</author>
+<author orcid="0000-0001-5592-8592" pid="193/1285">Irene Andrea V. A. Carvalho</author>
+<title>Higher Education in the Amazon: Challenges and Initiatives.</title>
+<pages>17-31</pages>
+<year>2017</year>
+<booktitle>HEFA</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-97934-2_2</ee>
+<crossref>conf/hefa/2017</crossref>
+<url>db/conf/hefa/hefa2017.html#OliveiraCOGLRRN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/GadelhaC17" mdate="2018-11-06">
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="77/4832">Alberto Castro</author>
+<title>A Reference Model for Teaching Collaborative Mobile Systems.</title>
+<pages>374-383</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131183</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#GadelhaC17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hci/NascimentoSGC16" mdate="2023-09-30">
+<author pid="182/3336">Ingrid Nascimento</author>
+<author orcid="0000-0003-1849-2675" pid="166/2228">Williamson Silva</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>Userbility: A Technique for the Evaluation of User Experience and Usability on Mobile Applications.</title>
+<pages>372-383</pages>
+<year>2016</year>
+<booktitle>HCI (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-39510-4_35</ee>
+<crossref>conf/hci/2016-1</crossref>
+<url>db/conf/hci/hci2016-1.html#NascimentoSGC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/XavierVG16" mdate="2022-05-04">
+<author pid="266/3457">Daniel Xavier</author>
+<author pid="117/5583">Davi Viana</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<title>Um estudo sobre a rela&#231;&#227;o entre Processo e Motiva&#231;&#227;o em Equipes de Desenvolvimento de Software [A Study on the Relationship Between Process and Motivation in Software Development Teams].</title>
+<pages>76-83</pages>
+<year>2016</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2016.5948</ee>
+<ee>https://dl.acm.org/doi/10.5555/3021955.3021969</ee>
+<crossref>conf/sbsi/2016</crossref>
+<url>db/conf/sbsi/sbsi2016.html#XavierVG16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/seke/CostaSLRGOC16" mdate="2024-05-07">
+<author pid="135/0958">Ingrid Costa</author>
+<author orcid="0000-0003-1849-2675" pid="166/2228">Williamson Silva</author>
+<author pid="166/2222">Adriana Lopes</author>
+<author orcid="0000-0001-6008-6537" pid="117/5548">Luis Rivero 0001</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="193/1016">Elaine Harada T. de Oliveira</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>An Empirical Study to Evaluate the Feasibility of a UX and Usability Inspection Technique for Mobile Applications.</title>
+<pages>595-599</pages>
+<year>2016</year>
+<booktitle>SEKE</booktitle>
+<ee type="oa">https://doi.org/10.18293/SEKE2016-127</ee>
+<crossref>conf/seke/2016</crossref>
+<url>db/conf/seke/seke2016.html#CostaSLRGOC16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fie/LucenaSBOG14" mdate="2023-03-24">
+<author pid="193/3623">Ketlen K. Teles Lucena</author>
+<author pid="193/3633">Jath da S. e Silva</author>
+<author orcid="0000-0003-1073-756X" pid="125/1852">Vitor Bremgartner</author>
+<author orcid="0000-0003-2884-9359" pid="193/1016">Elaine Harada T. de Oliveira</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<title>MobiMonitor: A mobile app for monitoring distance courses in the Amazon region.</title>
+<pages>1-8</pages>
+<year>2014</year>
+<booktitle>FIE</booktitle>
+<ee>https://doi.org/10.1109/FIE.2014.7044341</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/FIE.2014.7044341</ee>
+<crossref>conf/fie/2014</crossref>
+<url>db/conf/fie/fie2014.html#LucenaSBOG14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mum/RaposoRLGC14" mdate="2018-11-06">
+<author pid="154/1753">Natacsha Raposo</author>
+<author pid="154/1858">H&#233;lio Rios</author>
+<author pid="123/4097">David Lima</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="88/1084">Thais Castro</author>
+<title>An application of mobility aids for the visually impaired.</title>
+<pages>180-189</pages>
+<year>2014</year>
+<booktitle>MUM</booktitle>
+<ee>https://doi.org/10.1145/2677972.2677991</ee>
+<crossref>conf/mum/2014</crossref>
+<url>db/conf/mum/mum2014.html#RaposoRLGC14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/splc/GadelhaCGCFL10" mdate="2018-11-14">
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="49/1805">Elder Cirilo</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="77/4832">Alberto Castro</author>
+<author pid="21/5671">Hugo Fuks</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>An Approach for Developing Component-Based Groupware Product Lines Using the Groupware Workbench.</title>
+<pages>446-450</pages>
+<year>2010</year>
+<booktitle>SPLC</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-15579-6_34</ee>
+<ee>https://www.wikidata.org/entity/Q58051543</ee>
+<crossref>conf/splc/2010</crossref>
+<url>db/conf/splc/splc2010.html#GadelhaCGCFL10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/criwg/GadelhaNFL09" mdate="2017-06-02">
+<author pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0002-6879-5829" pid="48/5352">Ingrid Nunes</author>
+<author pid="21/5671">Hugo Fuks</author>
+<author pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</author>
+<title>An Approach for Developing Groupware Product Lines Based on the 3C Collaboration Model.</title>
+<pages>328-343</pages>
+<year>2009</year>
+<booktitle>CRIWG</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-04216-4_28</ee>
+<crossref>conf/criwg/2009</crossref>
+<url>db/conf/criwg/criwg2009.html#GadelhaNFL09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsc/GadelhaGFJ08" mdate="2023-03-24">
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="85/7640">Sionise Gomes</author>
+<author pid="21/5671">Hugo Fuks</author>
+<author pid="61/2142">Alberto Nogueira de Castro J&#250;nior</author>
+<title>FLOCOS: Sistema Colaborativo A Construcao de Objetos de Aprendizagem Funcionais.</title>
+<pages>215-223</pages>
+<year>2008</year>
+<booktitle>SBSC</booktitle>
+<ee>https://doi.org/10.1109/SBSC.2008.27</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/SBSC.2008.27</ee>
+<crossref>conf/sbsc/2008</crossref>
+<url>db/conf/sbsc/sbsc2008.html#GadelhaGFJ08</url>
+</inproceedings>
+</r>
+<coauthors n="176" nc="2">
+<co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
+<co c="0"><na f="a/Aguiar:Brenda" pid="293/6790">Brenda Aguiar</na></co>
+<co c="0"><na f="a/Ahmed_0001:Iftekhar" pid="57/5553">Iftekhar Ahmed 0001</na></co>
+<co c="0"><na f="a/Albuquerque:Adriano_Bessa" pid="64/6515">Adriano Bessa Albuquerque</na></co>
+<co c="0"><na f="a/Almeida:Elizamara" pid="293/7238">Elizamara Almeida</na></co>
+<co c="0"><na f="a/Alves:Franciane" pid="293/7356">Franciane Alves</na></co>
+<co c="0"><na f="a/Amazonas:Mauro" pid="222/9240">Mauro Amazonas</na></co>
+<co c="0"><na f="a/Anders:S=eacute=rgio" pid="296/3029">S&#233;rgio Anders</na></co>
+<co c="0"><na f="a/Andrade:Artur" pid="293/6837">Artur Andrade</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Ada_Suzany_Franco_de" pid="283/4231">Ada Suzany Franco de Ara&#250;jo</na></co>
+<co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Willian_Garcias_de" pid="249/9655">Willian Garcias de Assun&#231;&#227;o</na><na>Willian Assun&#231;&#227;o</na></co>
+<co c="0" n="2"><na f="a/Azevedo:Romualdo" pid="249/1732">Romualdo Azevedo</na><na>Romualdo Costa de Azevedo</na></co>
+<co c="0"><na f="b/Baranauskas:Maria_Cec=iacute=lia_Calani" pid="b/MCCBaranauskas">Maria Cec&#237;lia Calani Baranauskas</na></co>
+<co c="0"><na f="b/Barbosa:Max" pid="320/4411">Max Barbosa</na></co>
+<co c="0"><na f="b/Barbosa:Mois=eacute=s" pid="313/9015">Mois&#233;s Barbosa</na></co>
+<co c="0" n="3"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na><na>Monalessa P. Barcellos</na><na>Monalessa Barcellos</na></co>
+<co c="0"><na f="b/Barreto:Hannah" pid="419/1228">Hannah Barreto</na></co>
+<co c="0"><na f="b/Barreto:Leonardo" pid="49/1881">Leonardo Barreto</na></co>
+<co c="0"><na f="b/Bernardo:Jo=atilde=o" pid="64/328">Jo&#227;o Bernardo</na></co>
+<co c="0"><na f="b/Bezerra:Carla_I=_M=" pid="09/5610">Carla I. M. Bezerra</na></co>
+<co c="0"><na f="b/Brand=atilde=o:Adriano" pid="222/9120">Adriano Brand&#227;o</na></co>
+<co c="0"><na f="b/Bremgartner:Vitor" pid="125/1852">Vitor Bremgartner</na></co>
+<co c="0"><na f="b/Brilhante:Isabelle" pid="313/9034">Isabelle Brilhante</na></co>
+<co c="0"><na f="c/Campos:Brendo" pid="347/7136">Brendo Campos</na></co>
+<co c="0"><na f="c/Campos:Ursula" pid="229/5356">Ursula Campos</na></co>
+<co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
+<co c="1"><na f="c/Carvalho:Andr=eacute=" pid="10/480">Andr&#233; Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Irene_Andrea_V=_A=" pid="193/1285">Irene Andrea V. A. Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Joethe_Moraes_de" pid="280/6345">Joethe Moraes de Carvalho</na></co>
+<co c="0"><na f="c/Carvalho:Jos=eacute=_Reginaldo_Hughes" pid="160/1995">Jos&#233; Reginaldo Hughes Carvalho</na></co>
+<co c="0" n="2"><na f="c/Carvalho:Leandro_S=_G=" pid="48/91">Leandro S. G. Carvalho</na><na>Leandro Galv&#227;o 0001</na></co>
+<co c="0"><na f="c/Castro:Alberto" pid="77/4832">Alberto Castro</na></co>
+<co c="0"><na f="c/Castro:Miguel" pid="181/2804">Miguel Castro</na></co>
+<co c="0" n="2"><na f="c/Castro:Thais_Helena_Chaves_de" pid="88/1084">Thais Helena Chaves de Castro</na><na>Thais Castro</na></co>
+<co c="0"><na f="c/Cavalcante:Brendo" pid="296/2217">Brendo Cavalcante</na></co>
+<co c="0" n="2"><na f="c/Cavalcante:S=eacute=rgio" pid="37/2399">S&#233;rgio Cavalcante</na><na>S&#233;rgio Ricardo De Oliveira Cavalcante</na></co>
+<co c="0"><na f="c/Chourio:Patricia" pid="249/1724">Patricia Chourio</na></co>
+<co c="0"><na f="c/Cirilo:Elder" pid="49/1805">Elder Cirilo</na></co>
+<co c="0"><na f="c/Concei=ccedil==atilde=o:J=uacute=lia_Luiza" pid="283/4227">J&#250;lia Luiza Concei&#231;&#227;o</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="c/Costa:Andriele_O=" pid="326/8917">Andriele O. Costa</na></co>
+<co c="0"><na f="c/Costa:Estev=atilde=o" pid="129/2344">Estev&#227;o Costa</na></co>
+<co c="0"><na f="c/Costa:Ingrid" pid="135/0958">Ingrid Costa</na></co>
+<co c="0"><na f="c/Costa:Jo=atilde=o" pid="61/8915">Jo&#227;o Costa</na></co>
+<co c="0"><na f="c/Costa:Simone_Dornelas" pid="189/5932">Simone Dornelas Costa</na></co>
+<co c="0"><na f="c/Cristo:Alexandre" pid="347/7117">Alexandre Cristo</na></co>
+<co c="0" n="2"><na f="c/Cunha:Atac=iacute=lio" pid="303/3985">Atac&#237;lio Cunha</na><na>Atac&#237;lio Costa Cunha</na></co>
+<co c="0"><na f="d/Damian:Adriana" pid="338/8615">Adriana Damian</na></co>
+<co c="0" n="2"><na f="d/Damian:Adriana_Lopes" pid="166/2222">Adriana Lopes Damian</na><na>Adriana Lopes</na></co>
+<co c="0"><na f="d/Duarte:Jos=eacute=_Carlos" pid="313/9084">Jos&#233; Carlos Duarte</na></co>
+<co c="0"><na f="d/Duval:Jared" pid="201/9199">Jared Duval</na></co>
+<co c="0"><na f="e/Etchie:Misan_Paul" pid="410/7084">Misan Paul Etchie</na></co>
+<co c="0"><na f="f/Fa=ccedil=anha:Carla" pid="357/5490">Carla Fa&#231;anha</na></co>
+<co c="0" n="2"><na f="f/Ferreira:Bruna" pid="135/0908">Bruna Ferreira</na><na>Bruna Moraes Ferreira</na></co>
+<co c="1"><na f="f/Ferreira:Paulo" pid="181/2728">Paulo Ferreira</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_Cezar_de_Souza" pid="201/9881">Jos&#233; Cezar de Souza Filho</na></co>
+<co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
+<co c="0"><na f="f/Ford:Denae" pid="166/1017">Denae Ford</na></co>
+<co c="0" n="3"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na><na>Breno de Fran&#231;a</na></co>
+<co c="0"><na f="f/Freire:S=aacute=vio" pid="117/6111">S&#225;vio Freire</na></co>
+<co c="0"><na f="f/Freitas:Gabriel_da_Silva" pid="438/9500">Gabriel da Silva Freitas</na></co>
+<co c="0" n="2"><na f="f/Freitas:Rosiane_de" pid="47/7842">Rosiane de Freitas</na><na>Rosiane Rodrigues</na></co>
+<co c="0"><na f="f/Frota:Jo=atilde=o" pid="407/8421">Jo&#227;o Frota</na></co>
+<co c="0"><na f="f/Fuks:Hugo" pid="21/5671">Hugo Fuks</na></co>
+<co c="0" n="2"><na f="g/Garcia:Vinicius_Cardoso" pid="g/ViniciusCardosoGarcia">Vinicius Cardoso Garcia</na><na>Vinicius C. Garcia</na></co>
+<co c="0"><na f="g/Gasparini:Isabela" pid="83/667">Isabela Gasparini</na></co>
+<co c="0"><na f="g/Geovane:Miguel" pid="347/7815">Miguel Geovane</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gomes:Genildo" pid="283/4200">Genildo Gomes</na></co>
+<co c="0"><na f="g/Gomes:Moises" pid="293/7309">Moises Gomes</na></co>
+<co c="0"><na f="g/Gomes:Sionise" pid="85/7640">Sionise Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Ludimila" pid="385/1257">Ludimila Gon&#231;alves</na></co>
+<co c="0"><na f="g/Gustavo:Paulo" pid="320/4115">Paulo Gustavo</na></co>
+<co c="0"><na f="h/Haydar:Gabriel" pid="364/8045">Gabriel Haydar</na></co>
+<co c="0"><na f="i/Isotani:Seiji" pid="83/1033">Seiji Isotani</na></co>
+<co c="0"><na f="j/J=uacute=nior:Alberto_Nogueira_de_Castro" pid="61/2142">Alberto Nogueira de Castro J&#250;nior</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Ivaldir_H=_de_Farias" pid="00/7316">Ivaldir H. de Farias J&#250;nior</na><na>Ivaldir de Farias J&#250;nior</na></co>
+<co c="0"><na f="k/Kienem:Gustavo" pid="222/9144">Gustavo Kienem</na></co>
+<co c="0"><na f="k/Kienen:Jo=atilde=o_Gustavo" pid="296/2656">Jo&#227;o Gustavo Kienen</na></co>
+<co c="0"><na f="k/Klisman:Victor" pid="293/6663">Victor Klisman</na></co>
+<co c="0"><na f="k/Kulesza:Uir=aacute=" pid="78/6010">Uir&#225; Kulesza</na></co>
+<co c="0"><na f="l/Lauschner:Tanara" pid="55/7524">Tanara Lauschner</na></co>
+<co c="0"><na f="l/Lima:David" pid="123/4097">David Lima</na></co>
+<co c="0"><na f="l/Lima:Jo=atilde=o_Pedro_de" pid="293/6973">Jo&#227;o Pedro de Lima</na></co>
+<co c="0"><na f="l/Lima:M=aacute=rcia" pid="249/1753">M&#225;rcia Lima</na></co>
+<co c="0"><na f="l/Lima:Rayfran_Rocha" pid="308/7430">Rayfran Rocha Lima</na></co>
+<co c="0"><na f="l/Lira:Fylype" pid="249/1700">Fylype Lira</na></co>
+<co c="0"><na f="l/Liu:Evangeline" pid="322/8603">Evangeline Liu</na></co>
+<co c="0"><na f="l/Lopes:Fabian_Oliveira" pid="338/8522">Fabian Oliveira Lopes</na></co>
+<co c="0"><na f="l/Lucena:Carlos_Jos=eacute=_Pereira_de" pid="l/CarlosJosePereiradeLucena">Carlos Jos&#233; Pereira de Lucena</na></co>
+<co c="0"><na f="l/Lucena:Ketlen_K=_Teles" pid="193/3623">Ketlen K. Teles Lucena</na></co>
+<co c="0" n="2"><na f="m/Macedo:Gretchen_T=" pid="23/2454">Gretchen T. Macedo</na><na>Gretchen Torres de Macedo</na></co>
+<co c="0"><na f="m/Macedo:Isabella" pid="419/1300">Isabella Macedo</na></co>
+<co c="0" n="2"><na f="m/Machado:Ivan_do_Carmo" pid="33/9369">Ivan do Carmo Machado</na><na>Ivan Machado 0001</na></co>
+<co c="0"><na f="m/Magalh=atilde=es:S=acirc=mila" pid="403/6661">S&#226;mila Magalh&#227;es</na></co>
+<co c="0"><na f="m/Maia:Nayane" pid="121/2239">Nayane Maia</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0"><na f="m/Malucelli:Andreia" pid="82/191">Andreia Malucelli</na></co>
+<co c="0"><na f="m/Manso:Carolina_De_Freitas" pid="366/5921">Carolina De Freitas Manso</na></co>
+<co c="0"><na f="m/Marques:Johnny" pid="381/7558">Johnny Marques</na></co>
+<co c="0" n="2"><na f="m/Marques:Leonardo_C=" pid="229/5358">Leonardo C. Marques</na><na>Leonardo Carneiro Marques</na></co>
+<co c="0"><na f="m/Marques:Luan_Souza" pid="293/6868">Luan Souza Marques</na></co>
+<co c="0"><na f="m/Martins:Gustavo_de_Freitas" pid="296/2494">Gustavo de Freitas Martins</na></co>
+<co c="0" n="3"><na f="m/Matsubara:Patr=iacute=cia" pid="249/1704">Patr&#237;cia Matsubara</na><na>Patr&#237;cia G. F. Matsubara</na><na>Patr&#237;cia Gomes Fernandes Matsubara</na></co>
+<co c="0" n="2"><na f="m/Meireles:Maria_A=_C=" pid="266/3551">Maria A. C. Meireles</na><na>Maria Alcimar Costa Meireles</na></co>
+<co c="0"><na f="m/Melo:Rafaela" pid="248/4163">Rafaela Melo</na></co>
+<co c="0"><na f="m/Monteiro:Vin=iacute=cius" pid="293/6861">Vin&#237;cius Monteiro</na></co>
+<co c="0"><na f="m/Moreira:Eliana_Alves" pid="215/6896">Eliana Alves Moreira</na></co>
+<co c="0"><na f="n/Nakamura:Walter_Takashi" pid="201/2424">Walter Takashi Nakamura</na></co>
+<co c="0"><na f="n/Nascimento:Elizamary" pid="185/0255">Elizamary Nascimento</na></co>
+<co c="0"><na f="n/Nascimento:Ingrid" pid="182/3336">Ingrid Nascimento</na></co>
+<co c="0"><na f="n/Nascimento:Priscilla_B=" pid="225/0648">Priscilla B. Nascimento</na></co>
+<co c="0"><na f="n/Nery:Barbara" pid="320/4108">Barbara Nery</na></co>
+<co c="0"><na f="n/Neto:Adolfo_Gustavo_Serra_Seca" pid="84/2417">Adolfo Gustavo Serra Seca Neto</na></co>
+<co c="0" n="2"><na f="n/Neto:Crescencio_Rodrigues_Lima" pid="65/10587">Crescencio Rodrigues Lima Neto</na><na>Crescencio Lima</na></co>
+<co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
+<co c="0"><na f="o/Oliveira:David_B=_F=" pid="269/7014">David B. F. Oliveira</na></co>
+<co c="0" n="2"><na f="o/Oliveira_0001:Edson" pid="166/0998">Edson Oliveira 0001</na><na>Edson C&#233;sar Cunha de Oliveira</na></co>
+<co c="0" n="3"><na f="o/Oliveira:Elaine_Harada_T=_de" pid="193/1016">Elaine Harada T. de Oliveira</na><na>Elaine Harada Teixeira de Oliveira</na><na>Elaine H. T. Oliveira</na></co>
+<co c="0" n="3"><na f="o/Oliveira:Horacio_A=_B=_F=_de" pid="14/5675">Horacio A. B. F. de Oliveira</na><na>Hor&#225;cio A. B. F. Oliveira</na><na>Horacio A. B. Fernandes de Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Pedro" pid="32/2405">Pedro Oliveira</na></co>
+<co c="0"><na f="o/Oliveira:Solano" pid="320/3539">Solano Oliveira</na></co>
+<co c="0"><na f="o/Oran:Ana_Carolina" pid="172/1825">Ana Carolina Oran</na></co>
+<co c="0"><na f="p/Paiva:La=iacute=sa_O=" pid="306/9205">La&#237;sa O. Paiva</na></co>
+<co c="0"><na f="p/Parizi_0001:Rafael" pid="237/7202">Rafael Parizi 0001</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="p/Pessoa:Marcela" pid="91/10360">Marcela Pessoa</na></co>
+<co c="0"><na f="p/Pessoa:Thais" pid="407/9868">Thais Pessoa</na></co>
+<co c="0"><na f="p/Pires_0001:Fernanda" pid="248/4027">Fernanda Pires 0001</na></co>
+<co c="0"><na f="q/Queiroz:Thiago" pid="421/2942">Thiago Queiroz</na></co>
+<co c="0"><na f="r/Ramos:David_Brito" pid="225/0649">David Brito Ramos</na></co>
+<co c="0" n="2"><na f="r/Ramos:Ilmara_M=_M=" pid="225/0642">Ilmara M. M. Ramos</na><na>Ilmara Monteverde Martins Ramos</na></co>
+<co c="0" n="2"><na f="r/Raposo:Natacsha_Ordones" pid="154/1753">Natacsha Ordones Raposo</na><na>Natacsha Raposo</na></co>
+<co c="0"><na f="r/Redmiles:David_F=" pid="84/6534">David F. Redmiles</na></co>
+<co c="0"><na f="r/R=ecirc=go:Isabelle" pid="293/6875">Isabelle R&#234;go</na></co>
+<co c="0"><na f="r/Reinehr:Sheila_S=" pid="05/2483">Sheila S. Reinehr</na></co>
+<co c="0" n="2"><na f="r/Ribeiro:Danilo_Monteiro" pid="150/8954">Danilo Monteiro Ribeiro</na><na>Danilo Monteiro 0001</na></co>
+<co c="0"><na f="r/Rios:H=eacute=lio" pid="154/1858">H&#233;lio Rios</na></co>
+<co c="0"><na f="r/Rivero_0001:Luis" pid="117/5548">Luis Rivero 0001</na></co>
+<co c="0"><na f="r/Rocha:Concei=ccedil==atilde=o" pid="138/9876">Concei&#231;&#227;o Rocha</na></co>
+<co c="0"><na f="r/Rocha_0002:Larissa" pid="391/1439">Larissa Rocha 0002</na></co>
+<co c="0" n="2"><na f="r/Rocha:Sabrina" pid="338/8490">Sabrina Rocha</na><na>Sabrina Rocha de Souza</na></co>
+<co c="0"><na f="r/Rodrigues:Luiz_A=_L=" pid="228/2395">Luiz A. L. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Myrian" pid="320/3887">Myrian Rodrigues</na></co>
+<co c="0"><na f="s/Saleeman:Ganiyat" pid="438/9780">Ganiyat Saleeman</na></co>
+<co c="0"><na f="s/Santos:Gleison" pid="78/2800">Gleison Santos</na></co>
+<co c="0"><na f="s/Santos:Ismayle_de_Sousa" pid="98/10587">Ismayle de Sousa Santos</na></co>
+<co c="0"><na f="s/Santos:Reine" pid="403/7031">Reine Santos</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0"><na f="s/Silva:Afonso" pid="308/7565">Afonso Silva</na></co>
+<co c="0"><na f="s/Silva:Dan_da" pid="283/4020">Dan da Silva</na></co>
+<co c="0"><na f="s/Silva:Jath_da_S=_e" pid="193/3633">Jath da S. e Silva</na></co>
+<co c="0"><na f="s/Silva:Miguel" pid="08/1230">Miguel Silva</na></co>
+<co c="0"><na f="s/Silva:Nabson" pid="392/9889">Nabson Silva</na></co>
+<co c="0"><na f="s/Silva:Paulo" pid="39/6329">Paulo Silva</na></co>
+<co c="0"><na f="s/Silva:R=oacute=genis_Pereira_da" pid="293/7265">R&#243;genis Pereira da Silva</na></co>
+<co c="0"><na f="s/Silva:Roseno" pid="347/6691">Roseno Silva</na></co>
+<co c="0"><na f="s/Silva:Williamson" pid="166/2228">Williamson Silva</na></co>
+<co c="0" n="2"><na f="s/Soares:Larissa_Rocha" pid="155/7275">Larissa Rocha Soares</na><na>Larissa Rocha 0001</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Souza:Cleidson_R=_B=_de" pid="29/7640">Cleidson R. B. de Souza</na></co>
+<co c="0"><na f="s/Souza:Eriky" pid="357/5431">Eriky Souza</na></co>
+<co c="0"><na f="s/Souza:Kethelen_do_Carmo" pid="381/7550">Kethelen do Carmo Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Teixeira:L=iacute=gia_M=aacute=rcia" pid="293/6800">L&#237;gia M&#225;rcia Teixeira</na></co>
+<co c="0"><na f="v/Valle:Victor" pid="249/1710">Victor Valle</na></co>
+<co c="0"><na f="v/Vasconcelos:Victor" pid="222/9191">Victor Vasconcelos</na></co>
+<co c="0"><na f="v/Vega:Katia" pid="33/10916">Katia Vega</na></co>
+<co c="0"><na f="v/Veiga:Emerson" pid="403/6739">Emerson Veiga</na></co>
+<co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
+<co c="0"><na f="v/Viana:Lucas" pid="286/2700">Lucas Viana</na></co>
+<co c="0"><na f="v/Vorreuter:Grace" pid="322/8728">Grace Vorreuter</na></co>
+<co c="0"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na></co>
+<co c="0"><na f="x/Xavier:Andr=eacute=" pid="347/7847">Andr&#233; Xavier</na></co>
+<co c="0"><na f="x/Xavier:Daniel" pid="266/3457">Daniel Xavier</na></co>
+<co c="0" n="2"><na f="z/Zaina:Luciana_A=_M=" pid="71/8694">Luciana A. M. Zaina</na><na>Luciana Martinez Zaina</na></co>
+</coauthors>
+</dblpperson>
+
