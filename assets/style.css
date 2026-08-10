@@ -185,7 +185,10 @@ h1.wordmark .lab {
 .masthead .btn-row { margin-top: 26px; }
 
 /* full-bleed contribution strip pinned to the bottom of the masthead */
-.masthead .strip { margin-top: 44px; }
+.masthead .strip {
+  margin-top: 44px; max-width: var(--max); margin-left: auto; margin-right: auto;
+  padding: 0 24px; box-sizing: border-box;
+}
 .masthead .strip .contrib { margin: 0; }
 .masthead .caption { padding-bottom: 26px; }
 

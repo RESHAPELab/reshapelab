@@ -139,6 +139,53 @@ GROUP_ORDER = [
     ("alumni", "Alumni"),
 ]
 
+# Alumni are one CSV group, but read best split by what they were before they
+# left — classified from the free-text `role` column rather than a second
+# CSV field, since the roles were already being kept precise for the member's
+# own page. Order here is the order subsections render in.
+ALUMNI_SUBGROUP_ORDER = [
+    "PhD Alumni",
+    "MSc Alumni",
+    "Undergraduate Alumni",
+    "Former Visiting Scholar",
+    "Former PhD Visiting Intern",
+    "Former Postdoctoral Scholars",
+    "Alumni",  # catch-all for a role string that matches none of the above
+]
+
+
+def valid_year(s: str) -> bool:
+    """A real 4-digit year, not an empty-placeholder '0' some rows use."""
+    return s.isdigit() and len(s) == 4
+
+
+def member_date_span(m) -> str:
+    """'2019–2024', '2025–current', or '' if neither date is a real year."""
+    st = m["started"] if valid_year(m["started"]) else ""
+    en = m["ended"] if valid_year(m["ended"]) else ""
+    if st and en:
+        return f"{st}–{en}"
+    if st:
+        return f"{st}–current"
+    return en
+
+
+def alumni_subgroup(role: str) -> str:
+    r = (role or "").lower()
+    if "phd alumn" in r:
+        return "PhD Alumni"
+    if "ms alumn" in r or "msc alumn" in r:
+        return "MSc Alumni"
+    if "undergraduate alumn" in r:
+        return "Undergraduate Alumni"
+    if "former postdoctoral" in r or "former postdoc" in r:
+        return "Former Postdoctoral Scholars"
+    if "former phd visiting intern" in r:
+        return "Former PhD Visiting Intern"
+    if "former visiting scholar" in r:
+        return "Former Visiting Scholar"
+    return "Alumni"
+
 NAV = [
     ("index.html", "Home"),
     ("people.html", "People"),
@@ -1272,6 +1319,25 @@ def build_home(members, projects, news, pubs, pubs_by_year, research, projects_b
 
 
 def build_people(members, pubs_by_member):
+    def card(m):
+        n = len(pubs_by_member.get(m["slug"], []))
+        meta = []
+        span = member_date_span(m)
+        if span:
+            meta.append(esc(span))
+        if m["affiliation"]:
+            meta.append(esc(m["affiliation"]))
+        if n:
+            meta.append(f"{n} paper{'s' if n != 1 else ''}")
+        return (
+            f'<div class="person"><a class="card" href="people/{esc(m["slug"])}.html">'
+            f'{photo_html(m)}'
+            f'<div class="pname">{esc(m["name"])}</div>'
+            f'<div class="prole">{esc(m["role"])}</div>'
+            + (f'<div class="pmeta">{" · ".join(meta)}</div>' if meta else "")
+            + "</a></div>"
+        )
+
     groups = defaultdict(list)
     for m in members:
         groups[m["group"]].append(m)
@@ -1280,25 +1346,24 @@ def build_people(members, pubs_by_member):
 
     sections = []
     for g, label in ordered:
-        cards = []
-        for m in groups[g]:
-            n = len(pubs_by_member.get(m["slug"], []))
-            meta = []
-            if m["affiliation"]:
-                meta.append(esc(m["affiliation"]))
-            if n:
-                meta.append(f"{n} paper{'s' if n != 1 else ''}")
-            cards.append(
-                f'<div class="person"><a class="card" href="people/{esc(m["slug"])}.html">'
-                f'{photo_html(m)}'
-                f'<div class="pname">{esc(m["name"])}</div>'
-                f'<div class="prole">{esc(m["role"])}</div>'
-                + (f'<div class="pmeta">{" · ".join(meta)}</div>' if meta else "")
-                + "</a></div>"
-            )
+        if g == "alumni":
+            sub = defaultdict(list)
+            for m in groups[g]:
+                sub[alumni_subgroup(m["role"])].append(m)
+            sub_html = []
+            for sub_label in ALUMNI_SUBGROUP_ORDER:
+                if not sub[sub_label]:
+                    continue
+                sub_html.append(
+                    f'<h3 class="sub-h">{esc(sub_label)}</h3>\n<div class="people-grid">\n'
+                    + "\n".join(card(m) for m in sub[sub_label]) + "\n</div>"
+                )
+            sections.append(f'<section>\n<h2>{esc(label)}</h2>\n' + "\n".join(sub_html) + "\n</section>")
+            continue
+        cards = "\n".join(card(m) for m in groups[g])
         sections.append(
             f'<section>\n<h2>{esc(label)}</h2>\n<div class="people-grid">\n'
-            + "\n".join(cards) + "\n</div>\n</section>"
+            + cards + "\n</div>\n</section>"
         )
 
     intro = """<section>
@@ -1321,7 +1386,7 @@ def build_member_pages(members, pubs_by_member, projects, members_by_slug, proje
         facts = []
         if m["affiliation"]:
             facts.append(esc(m["affiliation"]))
-        span = f'{m["started"]}–{m["ended"] or "current"}' if m["started"] else m["ended"]
+        span = member_date_span(m)
         if span:
             facts.append(esc(span))
         links = []
