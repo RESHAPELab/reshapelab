@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="&#205;talo Santos" pid="203/0063" n="55">
+<dblpperson name="&#205;talo Santos" pid="203/0063" n="56">
 <person key="homepages/203/0063" mdate="2019-06-19">
 <author pid="203/0063">&#205;talo Santos</author>
 </person>
@@ -203,6 +203,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://doi.org/10.48550/arXiv.2607.12326</ee>
 <url>db/journals/corr/corr2607.html#abs-2607-12326</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2607-23805" mdate="2026-08-11">
+<author pid="128/2872">Ronnie de Souza Santos</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="73/1559">Maria Teresa Baldassarre</author>
+<author pid="441/2048">Cleyton Magalh&#227;es</author>
+<author pid="205/9369">Mairieli Wessel</author>
+<title>The Influence of Fraudulent AI-Generated Responses on Software Engineering Surveys.</title>
+<year>2026</year>
+<month>July</month>
+<volume>abs/2607.23805</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2607.23805</ee>
+<url>db/journals/corr/corr2607.html#abs-2607-23805</url>
 <stream>streams/journals/corr</stream>
 </article>
 </r>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Daniel Coutinho" pid="87/1273" n="36">
+<dblpperson name="Daniel Coutinho" pid="87/1273" n="37">
 <person key="homepages/87/1273" mdate="2009-06-09">
 <author pid="87/1273">Daniel Coutinho</author>
 </person>
@@ -40,6 +40,21 @@
 <crossref>conf/icse-chase/2026</crossref>
 <url>db/conf/icse-chase/chase2026.html#CanutoSMUCUP26</url>
 </inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2607-21087" mdate="2026-08-08">
+<author pid="164/1242">Philipp Braun</author>
+<author pid="87/1273">Daniel Coutinho</author>
+<author pid="123/0877">Timothy L. Molloy</author>
+<author pid="56/4268">Iman Shames</author>
+<title>Semi-Explicit Solutions to the Prying-Pedestrian Surveillance-Evasion Differential Game and Extensions to Two Pursuers.</title>
+<year>2026</year>
+<month>July</month>
+<volume>abs/2607.21087</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2607.21087</ee>
+<url>db/journals/corr/corr2607.html#abs-2607-21087</url>
+<stream>streams/journals/corr</stream>
+</article>
 </r>
 <r><article key="journals/imamci/CarvalhoCAMP25" mdate="2026-01-04">
 <author orcid="0000-0002-2383-0707" pid="398/7502">Franthiescolly Vieira de Carvalho</author>
@@ -676,7 +691,7 @@
 <url>db/conf/icaart/icaart2009.html#CoutinhoSR09</url>
 </inproceedings>
 </r>
-<coauthors n="95" nc="5">
+<coauthors n="98" nc="6">
 <co c="0"><na f="a/Amaral:Guilherme" pid="245/8726">Guilherme Amaral</na></co>
 <co c="2"><na f="a/Andrade:Gustavo_Artur_de" pid="181/5576">Gustavo Artur de Andrade</na></co>
 <co c="0"><na f="a/Arantes:Beatriz" pid="378/0872">Beatriz Arantes</na></co>
@@ -688,6 +703,7 @@
 <co c="3"><na f="b/Banderchuk:Ana" pid="342/9361">Ana Banderchuk</na></co>
 <co c="0" n="2"><na f="b/Barbosa:Caio" pid="221/1638">Caio Barbosa</na><na>Caio Barbosa Vieira da Silva</na></co>
 <co c="0"><na f="b/Bibiano:Ana_Carla" pid="221/1533">Ana Carla Bibiano</na></co>
+<co c="5"><na f="b/Braun:Philipp" pid="164/1242">Philipp Braun</na></co>
 <co c="0"><na f="b/Brito:Hyago_H=_S=" pid="282/4673">Hyago H. S. Brito</na></co>
 <co c="3"><na f="c/Camponogara:Eduardo" pid="13/493">Eduardo Camponogara</na></co>
 <co c="0"><na f="c/Canuto:Theo" pid="436/5142">Theo Canuto</na></co>
@@ -733,6 +749,7 @@
 <co c="0"><na f="m/Martins:Vinicius" pid="67/3853">Vinicius Martins</na></co>
 <co c="0"><na f="m/Meireles:Maria_A=_C=" pid="266/3551">Maria A. C. Meireles</na></co>
 <co c="0"><na f="m/Mello:Rafael_Maiani_de" pid="121/2507">Rafael Maiani de Mello</na></co>
+<co c="5" n="2"><na f="m/Molloy:Timothy" pid="123/0877">Timothy Molloy</na><na>Timothy L. Molloy</na></co>
 <co c="0" n="2"><na f="n/Neto:Baldoino_Fonseca_dos_Santos" pid="22/7095">Baldoino Fonseca dos Santos Neto</na><na>Baldoino Fonseca</na></co>
 <co c="0" n="2"><na f="n/Neves:Breno_Braga" pid="388/4308">Breno Braga Neves</na><na>Breno Braga 0001</na></co>
 <co c="0"><na f="n/Nicholson:Morgan_C=" pid="380/0840">Morgan C. Nicholson</na></co>
@@ -759,6 +776,7 @@
 <co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
 <co c="0"><na f="s/Schots:Marcelo" pid="08/9051">Marcelo Schots</na></co>
 <co c="4"><na f="s/Scopigno:Roberto" pid="64/4471">Roberto Scopigno</na></co>
+<co c="5"><na f="s/Shames:Iman" pid="56/4268">Iman Shames</na></co>
 <co c="0"><na f="s/Silva:Caio" pid="137/6628">Caio Silva</na></co>
 <co c="1"><na f="s/Silva_0001:Catarina" pid="31/3867-1">Catarina Silva 0001</na></co>
 <co c="1"><na f="s/Silva:Jorge_S=aacute=" pid="01/4877">Jorge S&#225; Silva</na></co>
