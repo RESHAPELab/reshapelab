@@ -95,8 +95,8 @@
 <url>db/conf/msr/msr2026.html#DestefanisSOW26</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/msr/RooijendijkTW26" mdate="2026-08-03">
-<author pid="427/8901">Pien Rooijendijk</author>
+<r><inproceedings key="conf/msr/RooijendijkTW26" mdate="2026-08-15">
+<author orcid="0009-0007-7339-6711" pid="427/8901">Pien Rooijendijk</author>
 <author pid="29/1074">Christoph Treude</author>
 <author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
 <title>Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests.</title>

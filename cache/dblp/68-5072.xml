@@ -3550,10 +3550,10 @@
 <url>db/conf/iwpse/iwpse2013.html#OlivaSWG13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sac/CampioloSBG13" mdate="2022-10-02">
+<r><inproceedings key="conf/sac/CampioloSBG13" mdate="2026-08-15">
 <author orcid="0000-0001-7160-7262" pid="53/4307">Rodrigo Campiolo</author>
 <author pid="123/7890">Luiz Arthur F. Santos</author>
-<author pid="20/833">Daniel Mac&#234;do Batista</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
 <author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
 <title>Evaluating the utilization of Twitter messages as a source of security alerts.</title>
 <pages>942-943</pages>
@@ -3689,11 +3689,11 @@
 <url>db/conf/sbes/sbes2012.html#AnicheG12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sbsc/SantosCGB12" mdate="2023-03-24">
+<r><inproceedings key="conf/sbsc/SantosCGB12" mdate="2026-08-15">
 <author pid="123/7890">Luiz Arthur F. Santos</author>
 <author orcid="0000-0001-7160-7262" pid="53/4307">Rodrigo Campiolo</author>
 <author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
-<author pid="20/833">Daniel Mac&#234;do Batista</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel Mac&#234;do Batista</author>
 <title>Analysis of Security Messages Posted on Twitter.</title>
 <pages>20-28</pages>
 <year>2012</year>
