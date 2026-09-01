@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Bruno Gadelha" pid="77/7361" n="103">
+<dblpperson name="Bruno Gadelha" pid="77/7361" n="104">
 <person key="homepages/77/7361" mdate="2025-01-10">
 <author pid="77/7361">Bruno Gadelha</author>
 <author pid="77/7361">Bruno F. Gadelha</author>
@@ -20,6 +20,28 @@
 <number>1</number>
 <ee type="oa">https://doi.org/10.5753/jbcs.2026.5101</ee>
 <url>db/journals/jbcs/jbcs32.html#AzevedoLCG26</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
+<r><article key="journals/jbcs/GomesNKSSGLSCG26" mdate="2026-08-22">
+<author orcid="0000-0002-2901-3994" pid="283/4200">Genildo Gomes</author>
+<author pid="41/347">Fernando Nogueira</author>
+<author orcid="0000-0002-1853-9878" pid="296/2656">Jo&#227;o Gustavo Kienen</author>
+<author pid="443/7202">Bernardo Scarambone</author>
+<author orcid="0000-0003-1065-2603" pid="443/7051">Desiree Scarambone</author>
+<author orcid="0000-0003-2970-2084" pid="48/91">Leandro Galv&#227;o 0001</author>
+<author orcid="0000-0001-7104-9432" pid="55/7524">Tanara Lauschner</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>FeelIt: A Tool for Expressing Real-Time Emotions and Its Influence on the Audience Experience.</title>
+<year>2026</year>
+<pages>1812-1826</pages>
+<volume>32</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.5753/jbcs.2026.6576</ee>
+<url>db/journals/jbcs/jbcs32.html#GomesNKSSGLSCG26</url>
 <stream>streams/journals/jbcs</stream>
 </article>
 </r>
@@ -1648,7 +1670,7 @@
 <url>db/conf/sbsc/sbsc2008.html#GadelhaGFJ08</url>
 </inproceedings>
 </r>
-<coauthors n="176" nc="2">
+<coauthors n="179" nc="2">
 <co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
 <co c="0"><na f="a/Aguiar:Brenda" pid="293/6790">Brenda Aguiar</na></co>
 <co c="0"><na f="a/Ahmed_0001:Iftekhar" pid="57/5553">Iftekhar Ahmed 0001</na></co>
@@ -1764,6 +1786,7 @@
 <co c="0"><na f="n/Nery:Barbara" pid="320/4108">Barbara Nery</na></co>
 <co c="0"><na f="n/Neto:Adolfo_Gustavo_Serra_Seca" pid="84/2417">Adolfo Gustavo Serra Seca Neto</na></co>
 <co c="0" n="2"><na f="n/Neto:Crescencio_Rodrigues_Lima" pid="65/10587">Crescencio Rodrigues Lima Neto</na><na>Crescencio Lima</na></co>
+<co c="0"><na f="n/Nogueira:Fernando" pid="41/347">Fernando Nogueira</na></co>
 <co c="0"><na f="n/Nunes:Ingrid" pid="48/5352">Ingrid Nunes</na></co>
 <co c="0"><na f="o/Oliveira:David_B=_F=" pid="269/7014">David B. F. Oliveira</na></co>
 <co c="0" n="2"><na f="o/Oliveira_0001:Edson" pid="166/0998">Edson Oliveira 0001</na><na>Edson C&#233;sar Cunha de Oliveira</na></co>
@@ -1798,6 +1821,8 @@
 <co c="0"><na f="s/Santos:Ismayle_de_Sousa" pid="98/10587">Ismayle de Sousa Santos</na></co>
 <co c="0"><na f="s/Santos:Reine" pid="403/7031">Reine Santos</na></co>
 <co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="0"><na f="s/Scarambone:Bernardo" pid="443/7202">Bernardo Scarambone</na></co>
+<co c="0"><na f="s/Scarambone:Desiree" pid="443/7051">Desiree Scarambone</na></co>
 <co c="0"><na f="s/Silva:Afonso" pid="308/7565">Afonso Silva</na></co>
 <co c="0"><na f="s/Silva:Dan_da" pid="283/4020">Dan da Silva</na></co>
 <co c="0"><na f="s/Silva:Jath_da_S=_e" pid="193/3633">Jath da S. e Silva</na></co>

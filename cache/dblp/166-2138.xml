@@ -8,10 +8,10 @@
 <url>https://orcid.org/0000-0001-7302-6082</url>
 <url>https://www.wikidata.org/entity/Q130840789</url>
 </person>
-<r><inproceedings key="conf/nlbse/KadiyalaST26" mdate="2026-08-03">
-<author pid="441/2069">Satyanarayanachowdary Kadiyala</author>
+<r><inproceedings key="conf/nlbse/KadiyalaST26" mdate="2026-08-18">
+<author orcid="0009-0002-3020-8438" pid="441/2069">Satyanarayanachowdary Kadiyala</author>
 <author orcid="0000-0001-6440-7596" pid="274/7065">Jaydeb Sarker</author>
-<author pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
 <title>How should self-deprecation comments be classified? A toxicity analysis study on Zephyr.</title>
 <pages>12-16</pages>
 <year>2026</year>

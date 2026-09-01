@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Marco Aur&#233;lio Gerosa" pid="68/5072" n="259">
+<dblpperson name="Marco Aur&#233;lio Gerosa" pid="68/5072" n="260">
 <person key="homepages/68/5072" mdate="2025-12-14">
 <author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
 <url>https://www.ime.usp.br/~gerosa/</url>
@@ -104,6 +104,21 @@
 <crossref>conf/sigsoft/2026c</crossref>
 <url>db/conf/sigsoft/fse2026c.html#AcharyaCPOEDGGS26</url>
 </inproceedings>
+</r>
+<r><data key="data/12/UtzingerOCSG26" mdate="2026-08-28">
+<author orcid="0009-0008-8145-3170" pid="444/4109">Samuel Utzinger</author>
+<author pid="32/2405">Pedro Oliveira</author>
+<author orcid="0000-0003-2654-1588" pid="48/5662">Fabio Calefato</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>DisTrac: Disengagement Tracking Tool in Open Source Projects.</title>
+<publisher>Zenodo</publisher>
+<year>2026</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.20435459</ee>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 1" uri="https://doi.org/10.5281/zenodo.20435458" type="versionOf"></rel>
+</data>
 </r>
 <r><article publtype="informal" key="journals/corr/abs-2601-13466" mdate="2026-02-16">
 <author pid="32/2405">Pedro Oliveira</author>
@@ -535,8 +550,8 @@
 <stream>streams/conf/icse-chase</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icsm/OliveiraAHGS25" mdate="2025-11-18">
-<author pid="32/2405">Pedro Oliveira</author>
+<r><inproceedings key="conf/icsm/OliveiraAHGS25" mdate="2026-08-22">
+<author orcid="0000-0002-6048-1788" pid="32/2405">Pedro Oliveira</author>
 <author pid="413/6117">Doris Amoakohene</author>
 <author pid="89/10624">Toby Hocking</author>
 <author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
@@ -1680,13 +1695,13 @@
 <url>db/journals/tosem/tosem31.html#TrinkenreichWSG22</url>
 </article>
 </r>
-<r><article key="journals/tse/PadalaMFSSHHHSB22" mdate="2025-03-03">
+<r><article key="journals/tse/PadalaMFSSHHHSB22" mdate="2026-08-22">
 <author pid="222/5904">Hema Susmita Padala</author>
 <author pid="179/4650">Christopher J. Mendez</author>
 <author orcid="0000-0003-2104-6676" pid="241/4795">Felipe Fronchetti</author>
 <author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
 <author pid="222/5895">Zoe Steine-Hanson</author>
-<author pid="210/1015">Claudia Hilderbrand</author>
+<author orcid="0009-0003-9064-0828" pid="210/1015">Claudia Hilderbrand</author>
 <author pid="136/7431">Amber Horvath</author>
 <author pid="10/2702">Charles Hill 0001</author>
 <author pid="215/9935">Logan Simpson</author>
@@ -4145,7 +4160,7 @@
 <url>db/conf/criwg/criwg2001.html#GerosaFL01</url>
 </inproceedings>
 </r>
-<coauthors n="258" nc="2">
+<coauthors n="259" nc="2">
 <co c="0"><na f="a/Abdellatif:Ahmad" pid="241/5936">Ahmad Abdellatif</na></co>
 <co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
 <co c="0"><na f="a/Amini:Winifred_Kula" pid="254/0828">Winifred Kula Amini</na></co>
@@ -4382,6 +4397,7 @@
 <co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
 <co c="0"><na f="t/Trinkereinch:Bianca" pid="405/7368">Bianca Trinkereinch</na></co>
 <co c="0"><na f="u/Utzerath:Jack" pid="398/4739">Jack Utzerath</na></co>
+<co c="0"><na f="u/Utzinger:Samuel" pid="444/4109">Samuel Utzinger</na></co>
 <co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
 <co c="0"><na f="v/Vassileva:Julita" pid="28/6667">Julita Vassileva</na></co>
 <co c="0"><na f="v/Vassiliadis:Panos" pid="13/1242">Panos Vassiliadis</na></co>

@@ -23,13 +23,13 @@
 <stream>streams/journals/jss</stream>
 </article>
 </r>
-<r><inproceedings key="conf/icse/BarcombBDLMSW26" mdate="2026-08-03">
+<r><inproceedings key="conf/icse/BarcombBDLMSW26" mdate="2026-08-18">
 <author orcid="0000-0003-2126-9511" pid="159/6043">Ann Barcomb</author>
 <author orcid="0000-0001-5125-0294" pid="59/10579">Mariana P. Bento</author>
 <author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
 <author orcid="0000-0001-7318-2421" pid="119/0498">Sherlock A. Licorish</author>
 <author orcid="0009-0005-3051-7232" pid="128/2725">Cleyton Vanut Cordeiro de Magalh&#227;es</author>
-<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
 <author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
 <title>How Fair is Software Fairness Testing?</title>
 <pages>42-47</pages>
@@ -81,9 +81,9 @@
 <url>db/conf/ide/ide2026.html#KulaTHBBBCCCFGG26</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/msr/DestefanisSOW26" mdate="2026-08-03">
+<r><inproceedings key="conf/msr/DestefanisSOW26" mdate="2026-08-18">
 <author orcid="0000-0003-3982-6355" pid="30/11498">Giuseppe Destefanis</author>
-<author pid="128/2872">Ronnie de Souza Santos</author>
+<author orcid="0000-0003-3235-6530" pid="128/2872">Ronnie de Souza Santos</author>
 <author orcid="0000-0003-4191-5058" pid="130/6495">Marco Ortu</author>
 <author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
 <title>The Dose Makes the Agent: Therapeutic Index Analysis of AI Coding Contributions.</title>
@@ -95,9 +95,9 @@
 <url>db/conf/msr/msr2026.html#DestefanisSOW26</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/msr/RooijendijkTW26" mdate="2026-08-15">
+<r><inproceedings key="conf/msr/RooijendijkTW26" mdate="2026-08-18">
 <author orcid="0009-0007-7339-6711" pid="427/8901">Pien Rooijendijk</author>
-<author pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
 <author orcid="0000-0001-8619-726X" pid="205/9369">Mairieli Wessel</author>
 <title>Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests.</title>
 <pages>994-998</pages>

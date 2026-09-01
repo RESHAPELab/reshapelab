@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<dblpperson name="Tayana Conte" pid="48/5" n="369">
+<dblpperson name="Tayana Conte" pid="48/5" n="371">
 <person key="homepages/48/5" mdate="2025-01-10">
 <author pid="48/5">Tayana Conte</author>
 <author pid="48/5">Tayana Uch&#244;a Conte</author>
@@ -22,6 +22,28 @@
 <stream>streams/journals/ese</stream>
 </article>
 </r>
+<r><article key="journals/jbcs/GomesNKSSGLSCG26" mdate="2026-08-22">
+<author orcid="0000-0002-2901-3994" pid="283/4200">Genildo Gomes</author>
+<author pid="41/347">Fernando Nogueira</author>
+<author orcid="0000-0002-1853-9878" pid="296/2656">Jo&#227;o Gustavo Kienen</author>
+<author pid="443/7202">Bernardo Scarambone</author>
+<author orcid="0000-0003-1065-2603" pid="443/7051">Desiree Scarambone</author>
+<author orcid="0000-0003-2970-2084" pid="48/91">Leandro Galv&#227;o 0001</author>
+<author orcid="0000-0001-7104-9432" pid="55/7524">Tanara Lauschner</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<title>FeelIt: A Tool for Expressing Real-Time Emotions and Its Influence on the Audience Experience.</title>
+<year>2026</year>
+<pages>1812-1826</pages>
+<volume>32</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee>https://doi.org/10.5753/jbcs.2026.6576</ee>
+<url>db/journals/jbcs/jbcs32.html#GomesNKSSGLSCG26</url>
+<stream>streams/journals/jbcs</stream>
+</article>
+</r>
 <r><article key="journals/jserd/SilvaRC26" mdate="2026-07-04">
 <author orcid="0000-0001-8617-4201" pid="392/9889">Nabson Silva</author>
 <author orcid="0009-0003-7775-8549" pid="393/0933">Eriky Rodrigues</author>
@@ -35,6 +57,20 @@
 <ee type="oa">https://doi.org/10.5753/jserd.2026.7762</ee>
 <url>db/journals/jserd/jserd14.html#SilvaRC26</url>
 <stream>streams/journals/jserd</stream>
+</article>
+</r>
+<r><article key="journals/rbie/SilvaCV26" mdate="2026-08-24">
+<author pid="350/0787">Deivid Eive dos Santos Silva</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<author pid="135/0795">Natasha M. Costa Valentim</author>
+<title>A Conceptual Framework for the Design and Evaluation of Learner Experience Across the Learning Lifecycle.</title>
+<year>2026</year>
+<pages>1214-1244</pages>
+<volume>34</volume>
+<journal>Revista Brasileira de Inform&#225;tica na Educ.</journal>
+<ee type="oa">https://doi.org/10.5753/rbie.2026.7845</ee>
+<url>db/journals/rbie/rbie34.html#SilvaCV26</url>
+<stream>streams/journals/rbie</stream>
 </article>
 </r>
 <r><inproceedings key="conf/iceis/PaschoalCS26" mdate="2026-07-02">
@@ -5730,7 +5766,7 @@
 <url>db/conf/sbqs/sbqs2003.html#VianaTC03</url>
 </inproceedings>
 </r>
-<coauthors n="431" nc="2">
+<coauthors n="434" nc="2">
 <co c="0"><na f="a/Abdellatif:Ahmad" pid="241/5936">Ahmad Abdellatif</na></co>
 <co c="0"><na f="a/Abrahamsson:Pekka" pid="71/5809">Pekka Abrahamsson</na></co>
 <co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
@@ -5903,6 +5939,7 @@
 <co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
 <co c="0"><na f="k/Katsurayama:Anne_Elise" pid="41/7617">Anne Elise Katsurayama</na></co>
 <co c="0"><na f="k/Kawakami:Guto" pid="156/6293">Guto Kawakami</na></co>
+<co c="0"><na f="k/Kienen:Jo=atilde=o_Gustavo" pid="296/2656">Jo&#227;o Gustavo Kienen</na></co>
 <co c="0"><na f="k/Klisman:Victor" pid="293/6663">Victor Klisman</na></co>
 <co c="0"><na f="k/Kl=uuml=nder:Jil" pid="184/6405">Jil Kl&#252;nder</na></co>
 <co c="0"><na f="k/Knauss:Eric" pid="k/EricKnauss">Eric Knauss</na></co>
@@ -6084,6 +6121,8 @@
 <co c="0"><na f="s/Saraiva:Juliana" pid="30/8384">Juliana Saraiva</na></co>
 <co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
 <co c="0"><na f="s/Sauer_0001:Stefan" pid="07/2093-1">Stefan Sauer 0001</na></co>
+<co c="0"><na f="s/Scarambone:Bernardo" pid="443/7202">Bernardo Scarambone</na></co>
+<co c="0"><na f="s/Scarambone:Desiree" pid="443/7051">Desiree Scarambone</na></co>
 <co c="0"><na f="s/Schekelmann:Andr=eacute=" pid="06/2897">Andr&#233; Schekelmann</na></co>
 <co c="0"><na f="s/Schneider:Kurt" pid="s/KurtSchneider">Kurt Schneider</na></co>
 <co c="0"><na f="s/Scott:Ezequiel" pid="144/9664">Ezequiel Scott</na></co>

@@ -31,11 +31,11 @@
 <url>db/conf/icse-seet/seet2026.html#CasseeRSSS26</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sessos/BarrosFCSKN26" mdate="2026-08-03">
+<r><inproceedings key="conf/sessos/BarrosFCSKN26" mdate="2026-08-18">
 <author orcid="0009-0000-9086-992X" pid="441/7581">Talles Netto Barros</author>
 <author orcid="0000-0003-3740-7560" pid="60/6123">Rafael Z. Frantz</author>
 <author pid="17/8995">Tom&#225;s Cern&#253;</author>
-<author pid="203/0063">&#205;talo Santos</author>
+<author orcid="0000-0002-7545-6104" pid="203/0063">&#205;talo Santos</author>
 <author orcid="0000-0002-3647-8511" pid="55/391">Mohamad Kassab</author>
 <author orcid="0000-0003-2190-5477" pid="151/3182">Valdemar Vicente Graciano Neto</author>
 <title>Trusted Execution Environments in Systems-of-Systems: A Systematic Mapping Study.</title>

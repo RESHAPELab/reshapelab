@@ -80,10 +80,10 @@
 <stream>streams/conf/esem</stream>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/esem/HannanRRS25" mdate="2026-02-03">
+<r><inproceedings key="conf/esem/HannanRRS25" mdate="2026-08-22">
 <author pid="420/4219">Md Abdul Hannan</author>
 <author pid="285/3927">Mohammad Habibullah Rakib</author>
-<author pid="314/1465">Khondaker Masfiq Reza</author>
+<author orcid="0009-0007-9190-8952" pid="314/1465">Khondaker Masfiq Reza</author>
 <author pid="289/0005">Fabio Santos</author>
 <title>Contribution History as a Key Feature in OSS Task Recommendation: An LLM-Based Empirical Study.</title>
 <pages>365-371</pages>

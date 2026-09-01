@@ -1,8 +1,8 @@
 # Publications left out of the list
 
-`scripts/build_site.py` dropped 965 paper(s) total:
+`scripts/build_site.py` dropped 966 paper(s) total:
 - 821 dropped because no author was in the lab at the time
-- 144 dropped because no faculty member (Igor / Marco) was an author
+- 145 dropped because no faculty member (Igor / Marco) was an author
 
 If one of these belongs on the site, add its DBLP key to
 `data/include_pubs.txt` and it will be kept on the next build.
@@ -1181,10 +1181,11 @@ If one of these belongs on the site, add its DBLP key to
 
 - `conf/sbcars/FreireTBSCFAOC21` — 2021 — **On the configuration of multi-objective evolutionary algorithms for PLA design optimization** — *SBCARS*
 
-### Tayana Conte (41)
+### Tayana Conte (42)
 
 - `journals/ese/MatsubaraC26` — 2026 — **The unfinished business of evidence strength in software engineering: Current practices and future directions** — *Empir. Softw. Eng.*
 - `journals/jserd/SilvaRC26` — 2026 — **Teaching Micro Frontends: Insights from Two Controlled Experiments on Guidelines and Anti-patterns** — *J. Softw. Eng. Res. Dev.*
+- `journals/rbie/SilvaCV26` — 2026 — **A Conceptual Framework for the Design and Evaluation of Learner Experience Across the Learning Lifecycle** — *Revista Brasileira de Informática na Educ.*
 - `conf/iceis/PaschoalCS26` — 2026 — **XFrameTool: A Supporting Tool for Experimental Frameworks** — *ICEIS (2)*
 - `journals/ijhci/GomesCG25` — 2025 — **Evaluating the Impact of Interaction Technology on Audience Experience Across Event Contexts: An Empirical Study** — *Int. J. Hum. Comput. Interact.*
 - `journals/jss/SouzaRMLCMC25` — 2025 — **Techniques for eliciting IoT requirements: Sensorina Map and Mind IoT** — *J. Syst. Softw.*
