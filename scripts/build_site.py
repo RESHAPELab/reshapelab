@@ -1792,7 +1792,8 @@ def build_funding(projects):
   <p class="eyebrow">funding</p>
   <h1 class="page-title">Funding</h1>
   <p class="lead">Grants and awards supporting the lab's work, grouped by funder.
-  Every entry links to its project page. Totals reflect the amounts routed to the lab.</p>
+  Every entry links to its project page. Amounts are award totals; for awards
+  shared with partner institutions, the project page says so.</p>
   <p class="contrib-caption">// {len(funded)} awards &middot; {money(str(total))} total</p>
 </section>
 <section>
