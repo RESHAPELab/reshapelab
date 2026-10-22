@@ -717,9 +717,13 @@ def load_news():
         if not title:
             continue
         slug = r.get("slug") or slugify(title)[:60]
+        day = parse_news_date(r.get("date", ""))
         items.append({
             "slug": slug,
             "date": r.get("date", ""),
+            "day": day,
+            # "Apr 9, 2026" reads the same everywhere; "4/9/26" does not.
+            "date_label": f"{day:%b} {day.day}, {day.year}" if day != date.min else r.get("date", ""),
             "title": title,
             "tag": r.get("tag", ""),
             "url": r.get("url", ""),
@@ -728,7 +732,7 @@ def load_news():
             "projects": split_list(r.get("projects", "")),
             "body": read_body(DATA / "news" / f"{slug}.md"),
         })
-    items.sort(key=lambda n: parse_news_date(n["date"]), reverse=True)
+    items.sort(key=lambda n: n["day"], reverse=True)
     return items
 
 
@@ -1842,7 +1846,7 @@ def news_item_html(n, projects_by_slug, *, depth=0, hidden_batch=None):
         batch_attr = f' data-batch="{hidden_batch}"'
 
     return (
-        f'<div class="{cls}"{batch_attr}><div class="date">{esc(n["date"])}</div>{thumb}<div>'
+        f'<div class="{cls}"{batch_attr}><div class="date">{esc(n["date_label"])}</div>{thumb}<div>'
         f'{tag}'
         f'<h3><a href="{up}news/{esc(n["slug"])}.html">{esc(n["title"])}</a></h3>'
         f"{teaser}{chip_row}</div></div>"
@@ -1943,14 +1947,14 @@ def build_news_pages(news, projects_by_slug):
                        + " ".join(nav) + "\n  </div>\n</section>")
 
         content = md_to_html(n["body"]) if n["body"] else f'<p>{esc(n["summary"])}</p>'
-        meta = esc(n["date"]) + (f' &middot; {esc(n["tag"])}' if n["tag"] else "")
+        meta = esc(n["date_label"]) + (f' &middot; {esc(n["tag"])}' if n["tag"] else "")
         hero = ""
         if n["image"]:
             hero = f'  <img class="news-hero" src="../{esc(n["image"])}" alt="" loading="lazy">\n'
 
         item_body = (
             '<section>\n'
-            f'  <p class="eyebrow"><a href="../news.html">news</a> / {esc(n["date"])}</p>\n'
+            f'  <p class="eyebrow"><a href="../news.html">news</a> / {esc(n["date_label"])}</p>\n'
             f'  <h1 class="page-title">{esc(n["title"])}</h1>\n'
             '  <p class="mono" style="font-size:12.5px;color:var(--slate);margin:0 0 20px">'
             f'{meta}</p>\n'
