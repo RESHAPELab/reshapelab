@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 92" role="img" aria-label="RESHAPE Lab — Research in Software: Human Aspects, Practices and Education">
+  <title>RESHAPE Lab</title>
+  <g transform="translate(0,5)">
+    <path d="M40,2 L73,21 L73,32" fill="none" stroke="#1d3329" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M73,48 L73,59 L40,78 L7,59 L7,21 L40,2" fill="none" stroke="#1d3329" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect x="26" y="25" width="11" height="11" rx="2" fill="#216e39"/>
+    <rect x="26" y="42" width="11" height="11" rx="2" fill="#30a14e"/>
+    <rect x="42" y="33" width="11" height="11" rx="2" fill="#30a14e"/>
+    <rect x="67.5" y="34" width="11" height="11" rx="2" fill="#40c463"/>
+  </g>
+  <text x="100" y="46" font-family="Space Grotesk, Helvetica Neue, sans-serif" font-weight="700" font-size="36" letter-spacing="-0.7" fill="#1b1f24">RESHAPE</text>
+  <text x="290" y="46" font-family="JetBrains Mono, monospace" font-weight="500" font-size="21" fill="#1a7f37">lab</text>
+  <text x="101" y="68" font-family="JetBrains Mono, monospace" font-size="11.5" letter-spacing="0.55" fill="#57606a">research in software · human aspects,</text>
+  <text x="101" y="84" font-family="JetBrains Mono, monospace" font-size="11.5" letter-spacing="0.55" fill="#57606a">practices, education</text>
+</svg>

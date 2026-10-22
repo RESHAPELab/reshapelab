@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<dblpperson name="Jacob Penney" pid="344/0963" n="13">
+<person key="homepages/344/0963" mdate="2025-01-10">
+<author pid="344/0963">Jacob Penney</author>
+<author pid="344/0963">Jacob McAuley Penney</author>
+<url>https://scholar.google.com/citations?user=4maC0rUAAAAJ</url>
+<url>https://orcid.org/0009-0004-1629-5883</url>
+<url>https://www.wikidata.org/entity/Q130820684</url>
+</person>
+<r><inproceedings key="conf/sigsoft/AcharyaCPOEDGGS26" mdate="2026-07-21">
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0000-0002-6048-1788" pid="32/2405">Pedro Oliveira</author>
+<author orcid="0009-0003-3920-4246" pid="410/7084">Misan Paul Etchie</author>
+<author orcid="0000-0002-5125-0566" pid="201/9199">Jared Duval</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Shh! Don't Tell Them I Use GenAI: Exploring How Participants Use Generative AI in Hackathons.</title>
+<pages>1842-1850</pages>
+<year>2026</year>
+<booktitle>SIGSOFT FSE Companion</booktitle>
+<ee>https://doi.org/10.1145/3803437.3806711</ee>
+<crossref>conf/sigsoft/2026c</crossref>
+<url>db/conf/sigsoft/fse2026c.html#AcharyaCPOEDGGS26</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/comped/PenneyAHPSSG25" mdate="2026-02-01">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0009-0003-6797-7510" pid="410/1459">Peter Hilbert</author>
+<author orcid="0000-0001-9297-5873" pid="291/5027">Priyanka Parekh</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Understanding Programming Students' Help-Seeking Preferences in the Era of Generative AI.</title>
+<pages>15-21</pages>
+<year>2025</year>
+<booktitle>CompEd (1)</booktitle>
+<ee>https://doi.org/10.1145/3736181.3747165</ee>
+<crossref>conf/comped/2025-1</crossref>
+<url>db/conf/comped/comped2025-1.html#PenneyAHPSSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cui/PenneyAHPSSG25" mdate="2025-08-09">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author orcid="0009-0003-6797-7510" pid="410/1459">Peter Hilbert</author>
+<author orcid="0000-0001-9297-5873" pid="291/5027">Priyanka Parekh</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Outcomes, Perceptions, and Interaction Strategies of Novice Programmers Studying with ChatGPT.</title>
+<pages>73:1-73:15</pages>
+<year>2025</year>
+<booktitle>CUI</booktitle>
+<ee>https://doi.org/10.1145/3719160.3736625</ee>
+<crossref>conf/cui/2025</crossref>
+<url>db/conf/cui/cui2025.html#PenneyAHPSSG25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nlbse/CarterCVAUFJJPSGS25" mdate="2026-04-21">
+<author orcid="0009-0008-9126-8163" pid="398/4252">Benjamin C. Carter</author>
+<author pid="398/3539">Jonathan Rivas Contreras</author>
+<author pid="398/4204">Carlos A. Llanes Villegas</author>
+<author orcid="0009-0003-9590-8045" pid="398/3879">Pawan Acharya</author>
+<author pid="398/4739">Jack Utzerath</author>
+<author pid="398/4645">Adonijah O. Farner</author>
+<author pid="398/5024">Hunter Jenkins</author>
+<author pid="207/1848">Dylan Johnson</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="289/0005">Fabio Santos</author>
+<title>SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub.</title>
+<pages>9-12</pages>
+<year>2025</year>
+<booktitle>NLBSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/NLBSE66842.2025.00007</ee>
+<crossref>conf/nlbse/2025</crossref>
+<url>db/conf/nlbse/nlbse2025.html#CarterCVAUFJJPSGS25</url>
+<stream>streams/conf/nlbse</stream>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2501-15922" mdate="2025-02-26">
+<author pid="398/4252">Benjamin C. Carter</author>
+<author pid="398/3539">Jonathan Rivas Contreras</author>
+<author pid="398/4204">Carlos A. Llanes Villegas</author>
+<author pid="398/3879">Pawan Acharya</author>
+<author pid="398/4739">Jack Utzerath</author>
+<author pid="398/4645">Adonijah O. Farner</author>
+<author pid="398/5024">Hunter Jenkins</author>
+<author pid="207/1848">Dylan Johnson</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="289/0005">Fabio Santos</author>
+<title>SkillScope: A Tool to Predict Fine-Grained Skills Needed to Solve Issues on GitHub.</title>
+<year>2025</year>
+<month>January</month>
+<volume>abs/2501.15922</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2501.15922</ee>
+<url>db/journals/corr/corr2501.html#abs-2501-15922</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/esem/SteinmacherPF0G24" mdate="2025-01-19">
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob McAuley Penney</author>
+<author orcid="0000-0001-9080-4165" pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Can ChatGPT emulate humans in software engineering surveys?</title>
+<pages>414-419</pages>
+<year>2024</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3674805.3690744</ee>
+<ee>https://www.wikidata.org/entity/Q130820686</ee>
+<crossref>conf/esem/2024</crossref>
+<url>db/conf/esem/esem2024.html#SteinmacherPF0G24</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/conversations/PenneyPSG23" mdate="2024-04-15">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Anticipating User Needs: Insights from Design Fiction on Conversational Agents for Computational Thinking.</title>
+<pages>204-219</pages>
+<year>2023</year>
+<booktitle>CONVERSATIONS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-54975-5_12</ee>
+<crossref>conf/conversations/2023</crossref>
+<url>db/conf/conversations/conversations2023.html#PenneyPSG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/VargovichSPGS23" mdate="2023-07-19">
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>GiveMeLabeledIssues: An Open Source Issue Recommendation System.</title>
+<pages>402-406</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00061</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#VargovichSPGS23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosPPWSG23" mdate="2023-07-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills.</title>
+<pages>611-623</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00087</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#SantosPPWSG23</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2303-13418" mdate="2023-04-13">
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>GiveMeLabeledIssues: An Open Source Issue Recommendation System.</title>
+<year>2023</year>
+<volume>abs/2303.13418</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2303.13418</ee>
+<url>db/journals/corr/corr2303.html#abs-2303-13418</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-06887" mdate="2023-11-15">
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Anticipating User Needs: Insights from Design Fiction on Conversational Agents for Computational Thinking.</title>
+<year>2023</year>
+<volume>abs/2311.06887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.06887</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-06887</url>
+</article>
+</r>
+<coauthors n="27" nc="1">
+<co c="0"><na f="a/Acharya:Pawan" pid="398/3879">Pawan Acharya</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="c/Carter:Benjamin_C=" pid="398/4252">Benjamin C. Carter</na></co>
+<co c="0"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na></co>
+<co c="0"><na f="c/Contreras:Jonathan_Rivas" pid="398/3539">Jonathan Rivas Contreras</na></co>
+<co c="0"><na f="d/Duval:Jared" pid="201/9199">Jared Duval</na></co>
+<co c="0"><na f="e/Etchie:Misan_Paul" pid="410/7084">Misan Paul Etchie</na></co>
+<co c="0"><na f="f/Farner:Adonijah_O=" pid="398/4645">Adonijah O. Farner</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na></co>
+<co c="0"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="h/Hilbert:Peter" pid="410/1459">Peter Hilbert</na></co>
+<co c="0"><na f="j/Jenkins:Hunter" pid="398/5024">Hunter Jenkins</na></co>
+<co c="0"><na f="j/Johnson:Dylan" pid="207/1848">Dylan Johnson</na></co>
+<co c="0"><na f="o/Oliveira:Pedro" pid="32/2405">Pedro Oliveira</na></co>
+<co c="0"><na f="p/Parekh:Priyanka" pid="291/5027">Priyanka Parekh</na></co>
+<co c="0"><na f="p/Pimentel:Jo=atilde=o_Felipe" pid="161/7127">Jo&#227;o Felipe Pimentel</na></co>
+<co c="0"><na f="s/Santos:Fabio" pid="289/0005">Fabio Santos</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="u/Utzerath:Jack" pid="398/4739">Jack Utzerath</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Villegas:Carlos_A=_Llanes" pid="398/4204">Carlos A. Llanes Villegas</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,640 @@
+<?xml version="1.0"?>
+<dblpperson name="Jo&#227;o Felipe Pimentel" pid="161/7127" n="35">
+<person key="homepages/161/7127" mdate="2025-09-10">
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="161/7127">Jo&#227;o Felipe N. Pimentel</author>
+<author pid="161/7127">Jo&#227;o Felipe Nicolaci Pimentel</author>
+<note type="affiliation">Universidade Federal Fluminense, Niter&#243;i, RJ, Brazil</note>
+<note type="affiliation">Northern Arizona University, Flagstaff, AZ, USA</note>
+<url>https://ieeexplore.ieee.org/author/37089904620</url>
+<url>https://orcid.org/0000-0001-6680-7470</url>
+<url>https://www.wikidata.org/entity/Q130926923</url>
+</person>
+<r><proceedings key="conf/edbt/2026" mdate="2025-08-05">
+<editor pid="l/WLehner">Wolfgang Lehner</editor>
+<editor pid="84/2055">Vanessa Braganholo</editor>
+<editor pid="76/3486">Kostas Stefanidis</editor>
+<editor pid="32/6371">Zheying Zhang</editor>
+<editor pid="40/7792-1">Alexander Krause 0001</editor>
+<editor pid="161/7127">Jo&#227;o Felipe Nicolaci Pimentel</editor>
+<title>Proceedings 29th International Conference on Extending Database Technology, EDBT 2026, Tampere, Finland, March 24-27, 2026.</title>
+<booktitle>EDBT</booktitle>
+<publisher>OpenProceedings.org</publisher>
+<year>2026</year>
+<url>db/conf/edbt/edbt2026.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/edbt/2026w" mdate="2026-04-20">
+<editor pid="40/7792-1">Alexander Krause 0001</editor>
+<editor pid="161/7127">Jo&#227;o Felipe Pimentel</editor>
+<title>Proceedings of the Workshops of the EDBT/ICDT 2026 Joint Conference co-located with the EDBT/ICDT 2025 Joint Conference, Tampere, Finland, March 24, 2026.</title>
+<booktitle>EDBT/ICDT Workshops</booktitle>
+<publisher>CEUR-WS.org</publisher>
+<year>2026</year>
+<series href="db/series/ceurws/index.html">CEUR Workshop Proceedings</series>
+<volume>4192</volume>
+<ee type="oa">https://ceur-ws.org/Vol-4192</ee>
+<ee>https://nbn-resolving.org/urn:nbn:de:0074-4192-x</ee>
+<url>db/conf/edbt/edbt2026w.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2605-06817" mdate="2026-06-08">
+<author pid="398/3707">Camila A. Paiva</author>
+<author pid="398/4277">Raquel Maximino</author>
+<author pid="398/4870">Frederico Paiva</author>
+<author pid="398/5046">Rafael Accetta Vieira</author>
+<author pid="398/4898">Nicole Espanha</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<title>Analyzing the Adoption of Database Management Systems Throughout the History of Open Source Projects.</title>
+<year>2026</year>
+<month>May</month>
+<volume>abs/2605.06817</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2605.06817</ee>
+<url>db/journals/corr/corr2605.html#abs-2605-06817</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/ese/PaivaMPVEPWGSMB25" mdate="2025-03-07">
+<author pid="398/3707">Camila A. Paiva</author>
+<author pid="398/4277">Raquel Maximino</author>
+<author pid="398/4870">Frederico Paiva</author>
+<author pid="398/5046">Rafael Accetta Vieira</author>
+<author pid="398/4898">Nicole Espanha</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<title>Analyzing the adoption of database management systems throughout the history of open source projects.</title>
+<pages>71</pages>
+<year>2025</year>
+<month>June</month>
+<volume>30</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10664-025-10627-z</ee>
+<url>db/journals/ese/ese30.html#PaivaMPVEPWGSMB25</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse/GarciaPFGSS24" mdate="2025-01-19">
+<author orcid="0009-0005-1070-3759" pid="364/4389">Emily Judith Arteaga Garcia</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Nicolaci Pimentel</author>
+<author orcid="0000-0001-9163-6853" pid="287/4912">Zixuan Feng</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>How to Support ML End-User Programmers through a Conversational Agent.</title>
+<pages>53:1-53:12</pages>
+<year>2024</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1145/3597503.3608130</ee>
+<ee>https://www.wikidata.org/entity/Q131125133</ee>
+<crossref>conf/icse/2024</crossref>
+<url>db/conf/icse/icse2024.html#GarciaPFGSS24</url>
+</inproceedings>
+</r>
+<r><data publtype="version" key="data/11/ArteagaPFGSS24" mdate="2025-02-19">
+<author orcid="0009-0005-1070-3759" pid="364/4389">Emily Judith Arteaga</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0001-9163-6853" pid="287/4912">Zixuan Feng</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>Replication Package for ML-EUP Conversational Agent Study.</title>
+<year>2024</year>
+<month>January</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.10459420</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.7780222" type="versionOf">data/10/GarciaPFGSS23a</rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2404-06672" mdate="2025-03-03">
+<author pid="375/3308">Andrew Nesbitt</author>
+<author pid="246/7174">Boris Veytsman</author>
+<author pid="71/8396">Daniel Mietchen</author>
+<author pid="341/3446">Eva Maxfield Brown</author>
+<author orcid="0000-0002-5702-149X" pid="11/2108">James Howison</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="57/9222">Laurent H&#233;bert-Dufresne</author>
+<author orcid="0000-0003-4925-7248" pid="154/4420">Stephan Druskat</author>
+<title>Biomedical Open Source Software: Crucial Packages and Hidden Heroes.</title>
+<year>2024</year>
+<volume>abs/2404.06672</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2404.06672</ee>
+<url>db/journals/corr/corr2404.html#abs-2404-06672</url>
+</article>
+</r>
+<r><article key="journals/ese/SantosVTSPBPWSSG23" mdate="2023-10-14">
+<author orcid="0000-0001-8069-3158" pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: applying API-domain labels in issue tracking systems.</title>
+<pages>116</pages>
+<year>2023</year>
+<month>October</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10664-023-10329-4</ee>
+<url>db/journals/ese/ese28.html#SantosVTSPBPWSSG23</url>
+</article>
+</r>
+<r><inproceedings key="conf/conversations/PenneyPSG23" mdate="2024-04-15">
+<author orcid="0009-0004-1629-5883" pid="344/0963">Jacob Penney</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Anticipating User Needs: Insights from Design Fiction on Conversational Agents for Computational Thinking.</title>
+<pages>204-219</pages>
+<year>2023</year>
+<booktitle>CONVERSATIONS</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-54975-5_12</ee>
+<crossref>conf/conversations/2023</crossref>
+<url>db/conf/conversations/conversations2023.html#PenneyPSG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/SantosPWSSG23" mdate="2023-07-20">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<pages>1-12</pages>
+<year>2023</year>
+<booktitle>ICSE (SEIS)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEIS58686.2023.00007</ee>
+<crossref>conf/icse/2023seis</crossref>
+<url>db/conf/icse/seis2023.html#SantosPWSSG23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msr/SantosPPWSG23" mdate="2023-07-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tell Me Who Are You Talking to and I Will Tell You What Issues Need Your Skills.</title>
+<pages>611-623</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00087</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#SantosPPWSG23</url>
+</inproceedings>
+</r>
+<r><data publtype="version" key="data/10/GarciaPFGSS23" mdate="2025-02-19">
+<author orcid="0009-0005-1070-3759" pid="364/4389">Emily Judith Arteaga Garcia</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0001-9163-6853" pid="287/4912">Zixuan Feng</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<title>Replication Package for ML-EUP Conversational Agent Study.</title>
+<year>2023</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.8327190</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="1" label="Version 2" uri="https://doi.org/10.5281/zenodo.7780222" type="versionOf">data/10/GarciaPFGSS23a</rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2301-10912" mdate="2023-01-31">
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Designing for Cognitive Diversity: Improving the GitHub Experience for Newcomers.</title>
+<year>2023</year>
+<volume>abs/2301.10912</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2301.10912</ee>
+<url>db/journals/corr/corr2301.html#abs-2301-10912</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2304-02877" mdate="2023-04-18">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="260/0391">Joseph Vargovich</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="203/0063">&#205;talo Santos</author>
+<author pid="344/0963">Jacob Penney</author>
+<author pid="117/4593">Ricardo Britto 0001</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Tag that issue: Applying API-domain labels in issue tracking systems.</title>
+<year>2023</year>
+<volume>abs/2304.02877</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.02877</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-02877</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2311-06887" mdate="2023-11-15">
+<author pid="344/0963">Jacob Penney</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Anticipating User Needs: Insights from Design Fiction on Conversational Agents for Computational Thinking.</title>
+<year>2023</year>
+<volume>abs/2311.06887</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2311.06887</ee>
+<url>db/journals/corr/corr2311.html#abs-2311-06887</url>
+</article>
+</r>
+<r><article key="journals/jidm/LemosPEB22" mdate="2023-09-30">
+<author orcid="0000-0003-1290-5192" pid="330/8646">Vitor Gama Lemos</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="330/8849">Bruno Erbisti</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<title>P+RProv: Prospective+Retrospective Provenance Graphs of Python Scripts.</title>
+<year>2022</year>
+<volume>13</volume>
+<journal>J. Inf. Data Manag.</journal>
+<number>4</number>
+<ee>https://doi.org/10.5753/jidm.2022.2059</ee>
+<ee>https://www.wikidata.org/entity/Q120763880</ee>
+<url>db/journals/jidm/jidm13.html#LemosPEB22</url>
+</article>
+</r>
+<r><inproceedings key="conf/esem/SantosTPWSSG22" mdate="2025-01-19">
+<author pid="289/0005">Fabio Santos</author>
+<author pid="166/2138">Bianca Trinkenreich</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How to Choose a Task? Mismatches in Perspectives of Newcomers and Existing Contributors.</title>
+<pages>114-124</pages>
+<year>2022</year>
+<booktitle>ESEM</booktitle>
+<ee>https://doi.org/10.1145/3544902.3546236</ee>
+<ee>https://www.wikidata.org/entity/Q130837901</ee>
+<crossref>conf/esem/2022</crossref>
+<url>db/conf/esem/esem2022.html#SantosTPWSSG22</url>
+</inproceedings>
+</r>
+<r><article key="journals/ese/PimentelMBF21" mdate="2022-03-16">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<title>Understanding and improving the quality and reproducibility of Jupyter notebooks.</title>
+<pages>65</pages>
+<year>2021</year>
+<volume>26</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-021-09961-9</ee>
+<ee>https://www.wikidata.org/entity/Q108126849</ee>
+<url>db/journals/ese/ese26.html#PimentelMBF21</url>
+</article>
+</r>
+<r><article key="journals/jserd/MenezesTP00C21" mdate="2025-08-27">
+<author orcid="0000-0003-4326-5351" pid="282/4796">Jos&#233; William Menezes</author>
+<author orcid="0000-0001-9000-3739" pid="275/2845">Bruno Trindade</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0003-4039-0915" pid="54/401">Alexandre Plastino 0001</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-8851-1563" pid="362/4538">Catarina de Souza Costa</author>
+<title>Attributes that may raise the occurrence of merge conflicts.</title>
+<pages>14:1-14:14</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>J. Softw. Eng. Res. Dev.</journal>
+<ee type="oa">https://doi.org/10.5753/jserd.2021.1911</ee>
+<ee>https://www.wikidata.org/entity/Q111925536</ee>
+<url>db/journals/jserd/jserd9.html#MenezesTP00C21</url>
+</article>
+</r>
+<r><article key="journals/tse/CostaFPSM21" mdate="2025-08-27">
+<author orcid="0000-0002-8851-1563" pid="362/4538">Catarina de Souza Costa</author>
+<author pid="19/10512">Jair Figueiredo</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-1859-1692" pid="26/6565">Anita Sarma</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<title>Recommending Participants for Collaborative Merge Sessions.</title>
+<pages>1198-1210</pages>
+<year>2021</year>
+<volume>47</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TSE.2019.2917191</ee>
+<ee>https://www.wikidata.org/entity/Q127873896</ee>
+<url>db/journals/tse/tse47.html#CostaFPSM21</url>
+</article>
+</r>
+<r><article key="journals/infsof/MouraoPMKMW20" mdate="2022-10-02">
+<author orcid="0000-0001-7916-0143" pid="205/0082">&#201;rica Mour&#227;o</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0003-1445-3425" pid="38/3792">Marcos Kalinowski</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author orcid="0000-0003-0460-5253" pid="w/ClaesWohlin">Claes Wohlin</author>
+<title>On the performance of hybrid search strategies for systematic literature reviews in software engineering.</title>
+<pages>106294</pages>
+<year>2020</year>
+<volume>123</volume>
+<journal>Inf. Softw. Technol.</journal>
+<ee>https://doi.org/10.1016/j.infsof.2020.106294</ee>
+<ee>https://www.wikidata.org/entity/Q113316730</ee>
+<url>db/journals/infsof/infsof123.html#MouraoPMKMW20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/MenezesTPMPMC20" mdate="2025-01-19">
+<author pid="282/4796">Jos&#233; William Menezes</author>
+<author pid="275/2845">Bruno Trindade</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="230/7700">Tayane Silva Fernandes de Moura</author>
+<author pid="54/401">Alexandre Plastino 0001</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="36/10438">Catarina Costa</author>
+<title>What causes merge conflicts?</title>
+<pages>203-212</pages>
+<year>2020</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3422392.3422440</ee>
+<ee>https://www.wikidata.org/entity/Q131116289</ee>
+<crossref>conf/sbes/2020</crossref>
+<url>db/conf/sbes/sbes2020.html#MenezesTPMPMC20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2004-09741" mdate="2021-05-12">
+<author pid="205/0082">&#201;rica Mour&#227;o</author>
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="m/EMendes">Emilia Mendes</author>
+<author pid="w/ClaesWohlin">Claes Wohlin</author>
+<title>On the Performance of Hybrid Search Strategies for Systematic Literature Reviews in Software Engineering.</title>
+<year>2020</year>
+<volume>abs/2004.09741</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2004.09741</ee>
+<url>db/journals/corr/corr2004.html#abs-2004-09741</url>
+</article>
+</r>
+<r><article key="journals/csur/PimentelFMB19" mdate="2023-08-28">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<title>A Survey on Collecting, Managing, and Analyzing Provenance from Scripts.</title>
+<pages>47:1-47:38</pages>
+<year>2019</year>
+<volume>52</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3311955</ee>
+<ee>https://www.wikidata.org/entity/Q120101985</ee>
+<url>db/journals/csur/csur52.html#PimentelFMB19</url>
+</article>
+</r>
+<r><inproceedings key="conf/msr/PimentelMBF19" mdate="2022-03-16">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<title>A large-scale study about quality and reproducibility of jupyter notebooks.</title>
+<pages>507-517</pages>
+<year>2019</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR.2019.00077</ee>
+<ee>https://dl.acm.org/citation.cfm?id=3341964</ee>
+<ee>https://www.wikidata.org/entity/Q108934104</ee>
+<crossref>conf/msr/2019</crossref>
+<url>db/conf/msr/msr2019.html#PimentelMBF19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/LinharesPKM19" mdate="2022-08-18">
+<author pid="249/1745">Henrique Linhares</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-5183-473X" pid="123/3298">Troy C. Kohwalter</author>
+<author pid="25/3645">Leonardo Gresta Paulino Murta</author>
+<title>Provenance-enhanced Algorithmic Debugging.</title>
+<pages>203-212</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350777</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#LinharesPKM19</url>
+</inproceedings>
+</r>
+<r><data publtype="version" key="data/10/PimentelMBF19" mdate="2024-12-12">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<title>Dataset of A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks.</title>
+<year>2019</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.2592524</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="2" label="Version 3" uri="https://doi.org/10.5281/zenodo.2538876" type="versionOf">data/10/PimentelMBF19b</rel>
+</data>
+</r>
+<r><data publtype="version" key="data/10/PimentelMBF19a" mdate="2024-12-12">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<title>Dataset of A Large-scale Study about Quality and Reproducibility of Jupyter Notebooks / Understanding and Improving the Quality and Reproducibility of Jupyter Notebooks.</title>
+<year>2019</year>
+<month>March</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.3519618</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="3" label="Version 4" uri="https://doi.org/10.5281/zenodo.2538876" type="versionOf">data/10/PimentelMBF19b</rel>
+</data>
+</r>
+<r><inproceedings key="conf/ipaw/PimentelMMB18" mdate="2021-05-12">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe N. Pimentel</author>
+<author orcid="0000-0002-0978-2446" pid="28/1062">Paolo Missier</author>
+<author orcid="0000-0002-5173-1247" pid="25/3645">Leonardo Murta 0001</author>
+<author orcid="0000-0002-1184-8192" pid="84/2055">Vanessa Braganholo</author>
+<title>Versioned-PROV: A PROV Extension to Support Mutable Data Entities.</title>
+<pages>87-100</pages>
+<year>2018</year>
+<booktitle>IPAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98379-0_7</ee>
+<crossref>conf/ipaw/2018</crossref>
+<url>db/conf/ipaw/ipaw2018.html#PimentelMMB18</url>
+</inproceedings>
+</r>
+<r><article key="journals/pvldb/PimentelMBF17" mdate="2022-08-16">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<title>noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts.</title>
+<pages>1841-1844</pages>
+<year>2017</year>
+<volume>10</volume>
+<journal>Proc. VLDB Endow.</journal>
+<number>12</number>
+<ee type="oa">http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf</ee>
+<ee>https://doi.org/10.14778/3137765.3137789</ee>
+<ee>https://www.wikidata.org/entity/Q113237154</ee>
+<url>db/journals/pvldb/pvldb10.html#PimentelMBF17</url>
+</article>
+</r>
+<r><inproceedings key="conf/ipaw/PimentelFBM16" mdate="2021-05-12">
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<title>Tracking and Analyzing the Evolution of Provenance from Scripts.</title>
+<pages>16-28</pages>
+<year>2016</year>
+<booktitle>IPAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40593-3_2</ee>
+<ee>https://www.wikidata.org/entity/Q60396773</ee>
+<crossref>conf/ipaw/2016</crossref>
+<url>db/conf/ipaw/ipaw2016.html#PimentelFBM16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/PimentelDMBKMBL16" mdate="2021-05-12">
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="25/9884">Saumen C. Dey</author>
+<author pid="17/1047">Timothy M. McPhillips</author>
+<author pid="39/3585">Khalid Belhajjame</author>
+<author pid="54/1720">David Koop</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="l/BertramLudascher">Bertram Lud&#228;scher</author>
+<title>Yin &#38; Yang: Demonstrating Complementary Provenance from noWorkflow &#38; YesWorkflow.</title>
+<pages>161-165</pages>
+<year>2016</year>
+<booktitle>IPAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40593-3_13</ee>
+<crossref>conf/ipaw/2016</crossref>
+<url>db/conf/ipaw/ipaw2016.html#PimentelDMBKMBL16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ipaw/PimentelFMB16" mdate="2021-05-12">
+<author pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author orcid="0000-0003-3915-7075" pid="f/JulianaFreire">Juliana Freire</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<title>Fine-Grained Provenance Collection over Scripts Through Program Slicing.</title>
+<pages>199-203</pages>
+<year>2016</year>
+<booktitle>IPAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-40593-3_21</ee>
+<ee>https://www.wikidata.org/entity/Q60396729</ee>
+<crossref>conf/ipaw/2016</crossref>
+<url>db/conf/ipaw/ipaw2016.html#PimentelFMB16</url>
+</inproceedings>
+</r>
+<r><article key="journals/jss/SantosPSM15" mdate="2022-01-03">
+<author pid="161/7134">Heliomar Santos</author>
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="72/2728">Viviane Torres da Silva</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<title>Software rejuvenation via a multi-agent approach.</title>
+<pages>41-59</pages>
+<year>2015</year>
+<volume>104</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2015.02.017</ee>
+<url>db/journals/jss/jss104.html#SantosPSM15</url>
+</article>
+</r>
+<r><inproceedings key="conf/tapp/PimentelBMF15" mdate="2022-01-03">
+<author orcid="0000-0001-6680-7470" pid="161/7127">Jo&#227;o Felipe Pimentel</author>
+<author pid="84/2055">Vanessa Braganholo</author>
+<author pid="25/3645">Leonardo Murta 0001</author>
+<author pid="f/JulianaFreire">Juliana Freire</author>
+<title>Collecting and Analyzing Provenance on Interactive Notebooks: When IPython Meets noWorkflow.</title>
+<year>2015</year>
+<booktitle>TaPP</booktitle>
+<ee type="oa">https://www.usenix.org/conference/tapp15/workshop-program/presentation/pimentel</ee>
+<crossref>conf/tapp/2015</crossref>
+<url>db/conf/tapp/tapp2015.html#PimentelBMF15</url>
+</inproceedings>
+</r>
+<coauthors n="54" nc="1">
+<co c="0" n="2"><na f="a/Arteaga:Emily_Judith" pid="364/4389">Emily Judith Arteaga</na><na>Emily Judith Arteaga Garcia</na></co>
+<co c="0"><na f="b/Belhajjame:Khalid" pid="39/3585">Khalid Belhajjame</na></co>
+<co c="0"><na f="b/Braganholo:Vanessa" pid="84/2055">Vanessa Braganholo</na></co>
+<co c="0"><na f="b/Britto_0001:Ricardo" pid="117/4593">Ricardo Britto 0001</na></co>
+<co c="0"><na f="b/Brown:Eva_Maxfield" pid="341/3446">Eva Maxfield Brown</na></co>
+<co c="0"><na f="c/Costa:Catarina" pid="36/10438">Catarina Costa</na></co>
+<co c="0"><na f="c/Costa:Catarina_de_Souza" pid="362/4538">Catarina de Souza Costa</na></co>
+<co c="0"><na f="d/Dey:Saumen_C=" pid="25/9884">Saumen C. Dey</na></co>
+<co c="0"><na f="d/Druskat:Stephan" pid="154/4420">Stephan Druskat</na></co>
+<co c="0"><na f="e/Erbisti:Bruno" pid="330/8849">Bruno Erbisti</na></co>
+<co c="0"><na f="e/Espanha:Nicole" pid="398/4898">Nicole Espanha</na></co>
+<co c="0"><na f="f/Feng:Zixuan" pid="287/4912">Zixuan Feng</na></co>
+<co c="0"><na f="f/Figueiredo:Jair" pid="19/10512">Jair Figueiredo</na></co>
+<co c="0"><na f="f/Freire:Juliana" pid="f/JulianaFreire">Juliana Freire</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="h/H=eacute=bert=Dufresne:Laurent" pid="57/9222">Laurent H&#233;bert-Dufresne</na></co>
+<co c="0"><na f="h/Howison:James" pid="11/2108">James Howison</na></co>
+<co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
+<co c="0"><na f="k/Kohwalter:Troy_C=" pid="123/3298">Troy C. Kohwalter</na></co>
+<co c="0"><na f="k/Koop:David" pid="54/1720">David Koop</na></co>
+<co c="0"><na f="k/Krause_0001:Alexander" pid="40/7792-1">Alexander Krause 0001</na></co>
+<co c="0"><na f="l/Lehner:Wolfgang" pid="l/WLehner">Wolfgang Lehner</na></co>
+<co c="0"><na f="l/Lemos:Vitor_Gama" pid="330/8646">Vitor Gama Lemos</na></co>
+<co c="0"><na f="l/Linhares:Henrique" pid="249/1745">Henrique Linhares</na></co>
+<co c="0"><na f="l/Lud=auml=scher:Bertram" pid="l/BertramLudascher">Bertram Lud&#228;scher</na></co>
+<co c="0"><na f="m/Maximino:Raquel" pid="398/4277">Raquel Maximino</na></co>
+<co c="0"><na f="m/McPhillips:Timothy_M=" pid="17/1047">Timothy M. McPhillips</na></co>
+<co c="0"><na f="m/Mendes:Emilia" pid="m/EMendes">Emilia Mendes</na></co>
+<co c="0"><na f="m/Menezes:Jos=eacute=_William" pid="282/4796">Jos&#233; William Menezes</na></co>
+<co c="0"><na f="m/Mietchen:Daniel" pid="71/8396">Daniel Mietchen</na></co>
+<co c="0"><na f="m/Missier:Paolo" pid="28/1062">Paolo Missier</na></co>
+<co c="0"><na f="m/Moura:Tayane_Silva_Fernandes_de" pid="230/7700">Tayane Silva Fernandes de Moura</na></co>
+<co c="0"><na f="m/Mour=atilde=o:=Eacute=rica" pid="205/0082">&#201;rica Mour&#227;o</na></co>
+<co c="0" n="2"><na f="m/Murta_0001:Leonardo" pid="25/3645">Leonardo Murta 0001</na><na>Leonardo Gresta Paulino Murta</na></co>
+<co c="0"><na f="n/Nesbitt:Andrew" pid="375/3308">Andrew Nesbitt</na></co>
+<co c="0"><na f="p/Paiva:Camila_A=" pid="398/3707">Camila A. Paiva</na></co>
+<co c="0"><na f="p/Paiva:Frederico" pid="398/4870">Frederico Paiva</na></co>
+<co c="0"><na f="p/Penney:Jacob" pid="344/0963">Jacob Penney</na></co>
+<co c="0"><na f="p/Plastino_0001:Alexandre" pid="54/401">Alexandre Plastino 0001</na></co>
+<co c="0"><na f="s/Santos:Fabio" pid="289/0005">Fabio Santos</na></co>
+<co c="0"><na f="s/Santos:Heliomar" pid="161/7134">Heliomar Santos</na></co>
+<co c="0"><na f="s/Santos:=Iacute=talo" pid="203/0063">&#205;talo Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Silva:Viviane_Torres_da" pid="72/2728">Viviane Torres da Silva</na></co>
+<co c="0"><na f="s/Stefanidis:Kostas" pid="76/3486">Kostas Stefanidis</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Trindade:Bruno" pid="275/2845">Bruno Trindade</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="v/Vargovich:Joseph" pid="260/0391">Joseph Vargovich</na></co>
+<co c="0"><na f="v/Veytsman:Boris" pid="246/7174">Boris Veytsman</na></co>
+<co c="0"><na f="v/Vieira:Rafael_Accetta" pid="398/5046">Rafael Accetta Vieira</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0"><na f="w/Wohlin:Claes" pid="w/ClaesWohlin">Claes Wohlin</na></co>
+<co c="0"><na f="z/Zhang:Zheying" pid="32/6371">Zheying Zhang</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<dblpperson name="Jefferson De Oliveira Silva" pid="208/6922" n="5">
+<person key="homepages/208/6922" mdate="2017-11-16">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+</person>
+<r><article key="journals/jss/SilvaWGTGS20" mdate="2025-01-19">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Google summer of code: Student motivations and contributions.</title>
+<year>2020</year>
+<volume>162</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2019.110487</ee>
+<ee>https://www.wikidata.org/entity/Q126645656</ee>
+<url>db/journals/jss/jss162.html#SilvaWGTGS20</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigsoft/SilvaWGTGS20" mdate="2022-01-13">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author orcid="0000-0002-6919-2149" pid="29/1074">Christoph Treude</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>A theory of the engagement in open source projects via summer of code programs.</title>
+<pages>421-431</pages>
+<year>2020</year>
+<booktitle>ESEC/SIGSOFT FSE</booktitle>
+<ee>https://doi.org/10.1145/3368089.3409724</ee>
+<crossref>conf/sigsoft/2020</crossref>
+<url>db/conf/sigsoft/fse2020.html#SilvaWGTGS20</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1910-05798" mdate="2020-01-30">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="29/1074">Christoph Treude</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Google Summer of Code: Student Motivations and Contributions.</title>
+<year>2019</year>
+<volume>abs/1910.05798</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1910.05798</ee>
+<url>db/journals/corr/corr1910.html#abs-1910-05798</url>
+</article>
+</r>
+<r><inproceedings key="conf/icsm/SilvaWGSG17" mdate="2023-03-24">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="g/DanielMGerman">Daniel M. Germ&#225;n</author>
+<author pid="70/3474">Igor Fabio Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>How Long and How Much: What to Expect from Summer of Code Participants?</title>
+<pages>69-79</pages>
+<year>2017</year>
+<booktitle>ICSME</booktitle>
+<ee>https://doi.org/10.1109/ICSME.2017.81</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSME.2017.81</ee>
+<crossref>conf/icsm/2017</crossref>
+<url>db/conf/icsm/icsme2017.html#SilvaWGSG17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/SilvaWSG17" mdate="2020-01-30">
+<author pid="208/6922">Jefferson De Oliveira Silva</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<title>Students' Engagement in Open Source Projects: An Analysis of Google Summer of Code.</title>
+<pages>224-233</pages>
+<year>2017</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3131151.3131156</ee>
+<crossref>conf/sbes/2017</crossref>
+<url>db/conf/sbes/sbes2017.html#SilvaWSG17</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="g/Germ=aacute=n:Daniel_M=" pid="g/DanielMGerman">Daniel M. Germ&#225;n</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0" n="2"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na><na>Igor Fabio Steinmacher</na></co>
+<co c="0"><na f="t/Treude:Christoph" pid="29/1074">Christoph Treude</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,1 @@
+I am a senior Computer Science student with minors in Cybersecurity and Informatics! I'm particularly drawn to automation, DevOps, and AI research, where I can combine my love for problem-solving with efficient, scalable solutions.

@@ -1,0 +1,1 @@
+I hold a BSc (2014) and PhD (2014) in Computer Science from the University of São Paulo. I was a visiting scholar (2016) at Arizona State University. Currently, I am an Assistant Professor at the Aeronautics Institute of Technology in São José dos Campos, São Paulo, Brazil.

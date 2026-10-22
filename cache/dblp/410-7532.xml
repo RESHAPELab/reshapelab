@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<dblpperson name="Hunter Beach" pid="410/7532" n="1">
+<person key="homepages/410/7532" mdate="2025-07-14">
+<author pid="410/7532">Hunter Beach</author>
+</person>
+<r><inproceedings key="conf/botse-ws/EtchieBFS25" mdate="2025-07-14">
+<author pid="410/7084">Misan Paul Etchie</author>
+<author pid="410/7532">Hunter Beach</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Towards a Dataset to Assess Conversational Agent's Efficacy in Mentoring Newcomer Developers.</title>
+<pages>48-52</pages>
+<year>2025</year>
+<booktitle>BotSE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/BotSE67031.2025.00018</ee>
+<crossref>conf/botse-ws/2025</crossref>
+<url>db/conf/botse-ws/botse-ws2025.html#EtchieBFS25</url>
+<stream>streams/conf/botse-ws</stream>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="e/Etchie:Misan_Paul" pid="410/7084">Misan Paul Etchie</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+</coauthors>
+</dblpperson>
+

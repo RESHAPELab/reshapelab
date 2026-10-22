@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<dblpperson name="Morgan C. Nicholson" pid="380/0840" n="2">
+<person key="homepages/380/0840" mdate="2024-07-11">
+<author pid="380/0840">Morgan C. Nicholson</author>
+</person>
+<r><inproceedings key="conf/aiware/CorreiaNCBCG0S24" mdate="2024-07-19">
+<author orcid="0009-0005-1040-2577" pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author orcid="0009-0004-9149-9288" pid="380/0840">Morgan C. Nicholson</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author orcid="0000-0003-4288-3713" pid="221/1638">Caio Barbosa</author>
+<author orcid="0000-0002-3285-5121" pid="167/4096">Marco Castelluccio</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla's PDF.js Project.</title>
+<year>2024</year>
+<booktitle>AIware</booktitle>
+<ee>https://doi.org/10.1145/3664646.3664758</ee>
+<crossref>conf/aiware/2024</crossref>
+<url>db/conf/aiware/aiware2024.html#CorreiaNCBCG0S24</url>
+</inproceedings>
+</r>
+<r><data key="data/11/CorreiaNCBCGGS24" mdate="2025-02-20">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="380/0840">Morgan C. Nicholson</author>
+<author pid="87/1273">Daniel Coutinho</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="167/4096">Marco Castelluccio</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>RESHAPELab/DevMentorAI-PDF.js-replication: camera-ready.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11211922</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version camera-ready" uri="https://doi.org/10.5281/zenodo.11211921" type="versionOf"></rel>
+</data>
+</r>
+<coauthors n="7" nc="1">
+<co c="0"><na f="b/Barbosa:Caio" pid="221/1638">Caio Barbosa</na></co>
+<co c="0"><na f="c/Castelluccio:Marco" pid="167/4096">Marco Castelluccio</na></co>
+<co c="0"><na f="c/Correia:Jo=atilde=o_Lucas" pid="221/1636">Jo&#227;o Lucas Correia</na></co>
+<co c="0"><na f="c/Coutinho:Daniel" pid="87/1273">Daniel Coutinho</na></co>
+<co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+</coauthors>
+</dblpperson>
+

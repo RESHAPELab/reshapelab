@@ -1,0 +1,1 @@
+I am currently Ph.D. Student at Pontifical Catholic University of Rio de Janeiro - PUC-Rio, concurrently enrolled in a sandwich doctorate program at Northern Arizona University - NAU. My research focuses on exploring non-functional requirements and human factors within the realm of open source software.

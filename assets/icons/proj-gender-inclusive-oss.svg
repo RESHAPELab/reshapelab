@@ -1,0 +1,12 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gender-Inclusive Open Source through Gender-Inclusive Tools">
+<title>Gender-Inclusive Open Source through Gender-Inclusive Tools</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<circle cx="40" cy="38" r="10" fill="none" stroke="#1d3329" stroke-width="3.5"/>
+<path d="M47,31 L56,22 M56,22 L56,29 M56,22 L49,22" fill="none" stroke="#1d3329"
+      stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="56" cy="58" r="10" fill="none" stroke="#1d3329" stroke-width="3.5"/>
+<path d="M56,68 L56,78 M50,72 L62,72" fill="none" stroke="#1d3329"
+      stroke-width="3.5" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<dblpperson name="Anderson Bergamini de Neira" pid="232/8599" n="16">
+<person key="homepages/232/8599" mdate="2024-04-10">
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<url>https://orcid.org/0000-0003-2742-7568</url>
+</person>
+<r><article key="journals/cn/FariasNBN25" mdate="2025-08-05">
+<author orcid="0000-0002-6380-3594" pid="93/5973">Euclides Peres Farias</author>
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="271/5597">Ligia Francielle Borges</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Transformers model for DDoS attack detection: A survey.</title>
+<pages>111433</pages>
+<year>2025</year>
+<volume>270</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2025.111433</ee>
+<url>db/journals/cn/cn270.html#FariasNBN25</url>
+<stream>streams/journals/cn</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icc/BorgesNAN25" mdate="2025-10-18">
+<author pid="271/5597">Ligia F. Borges</author>
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="383/6236">Lucas Albano</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Unsupervised Online Automl for Ddos of Things Prediction by Multimodal Analysis.</title>
+<pages>5791-5796</pages>
+<year>2025</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC52391.2025.11162070</ee>
+<crossref>conf/icc/2025</crossref>
+<url>db/conf/icc/icc2025.html#BorgesNAN25</url>
+<stream>streams/conf/icc</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/CarvalhoBNN25" mdate="2026-03-28">
+<author pid="430/7569">Caroline C. Carvalho</author>
+<author pid="271/5597">Ligia F. Borges</author>
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>A Generalized Anonymization Method For Prefix-Preserving Data Using Prefix Tree and Differential Privacy.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM67778.2025.11345388</ee>
+<crossref>conf/latincom/2025</crossref>
+<url>db/conf/latincom/latincom2025.html#CarvalhoBNN25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/BorgesNAN24" mdate="2025-03-03">
+<author pid="271/5597">Ligia F. Borges</author>
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author orcid="0009-0006-2285-421X" pid="383/6236">Lucas Albano</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Multifaceted DDoS Attack Prediction by Multivariate Time Series and Ordinal Patterns.</title>
+<pages>427-432</pages>
+<year>2024</year>
+<booktitle>ICC Workshops</booktitle>
+<ee>https://doi.org/10.1109/ICCWorkshops59551.2024.10615918</ee>
+<crossref>conf/icc/2024w</crossref>
+<url>db/conf/icc/icc2024w.html#BorgesNAN24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/NeiraBBN24" mdate="2025-05-01">
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="271/5597">Ligia F. Borges</author>
+<author orcid="0000-0002-4865-5896" pid="20/833">Daniel M. Batista</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Unsupervised AutoML and Dimensionality Reduction for Autonomous DDoS Attack Prediction.</title>
+<pages>1-6</pages>
+<year>2024</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM62985.2024.10770668</ee>
+<crossref>conf/latincom/2024</crossref>
+<url>db/conf/latincom/latincom2024.html#NeiraBBN24</url>
+</inproceedings>
+</r>
+<r><article key="journals/cn/NeiraKN23" mdate="2023-03-28">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="33/3823">Burak Kantarci</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Distributed denial of service attack prediction: Challenges, open issues and opportunities.</title>
+<pages>109553</pages>
+<year>2023</year>
+<month>February</month>
+<volume>222</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2022.109553</ee>
+<url>db/journals/cn/cn222.html#NeiraKN23</url>
+</article>
+</r>
+<r><article key="journals/dcan/AraujoNN23" mdate="2024-03-22">
+<author pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Autonomous machine learning for early bot detection in the internet of things.</title>
+<pages>1301-1309</pages>
+<year>2023</year>
+<month>December</month>
+<volume>9</volume>
+<journal>Digit. Commun. Networks</journal>
+<number>6</number>
+<ee type="oa">https://doi.org/10.1016/j.dcan.2022.05.011</ee>
+<url>db/journals/dcan/dcan9.html#AraujoNN23</url>
+</article>
+</r>
+<r><article key="journals/tnsm/NeiraAN23" mdate="2023-07-07">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author orcid="0000-0002-2911-8526" pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0001-5427-2384" pid="22/4022">Michele Nogueira</author>
+<title>An Intelligent System for DDoS Attack Prediction Based on Early Warning Signals.</title>
+<pages>1254-1266</pages>
+<year>2023</year>
+<month>June</month>
+<volume>20</volume>
+<journal>IEEE Trans. Netw. Serv. Manag.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNSM.2022.3223881</ee>
+<url>db/journals/tnsm/tnsm20.html#NeiraAN23</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/NeiraBAN23" mdate="2024-03-10">
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="271/5597">Ligia F. Borges</author>
+<author pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Unsupervised Feature Engineering Approach to Predict DDoS Attacks.</title>
+<pages>1644-1649</pages>
+<year>2023</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM54140.2023.10437029</ee>
+<crossref>conf/globecom/2023</crossref>
+<url>db/conf/globecom/globecom2023.html#NeiraBAN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/BritoNBN23" mdate="2024-01-23">
+<author pid="366/2696">Davi Brito</author>
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="271/5597">Ligia F. Borges</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>An Autonomous System for Predicting DDoS Attacks on Local Area Networks and the Internet.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM59467.2023.10361878</ee>
+<crossref>conf/latincom/2023</crossref>
+<url>db/conf/latincom/latincom2023.html#BritoNBN23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/AraujoNN22" mdate="2023-05-01">
+<author pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Lifelong Autonomous Botnet Detection.</title>
+<pages>3742-3747</pages>
+<year>2022</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM48099.2022.10001436</ee>
+<crossref>conf/globecom/2022</crossref>
+<url>db/conf/globecom/globecom2022.html#AraujoNN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/latincom/SilvaNN22" mdate="2024-04-10">
+<author pid="337/0730">Gabriel Lucas F. M. e Silva</author>
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>A Deep Learning-based System for DDoS Attack Anticipation.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LATINCOM</booktitle>
+<ee>https://doi.org/10.1109/LATINCOM56090.2022.10000427</ee>
+<crossref>conf/latincom/2022</crossref>
+<url>db/conf/latincom/latincom2022.html#SilvaNN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/SilvaNN22" mdate="2024-04-10">
+<author pid="337/0730">Gabriel Lucas F. M. e Silva</author>
+<author pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Aprendizado Profundo para a Predi&#231;&#227;o de Ataques de Nega&#231;&#227;o de Servi&#231;o Distribu&#237;do.</title>
+<pages>475-488</pages>
+<year>2022</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbrc/article/view/21191</ee>
+<crossref>conf/sbrc/2022</crossref>
+<url>db/conf/sbrc/sbrc2022.html#SilvaNN22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/msn/NeiraAN20" mdate="2023-05-01">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Early Botnet Detection for the Internet and the Internet of Things by Autonomous Machine Learning.</title>
+<pages>516-523</pages>
+<year>2020</year>
+<booktitle>MSN</booktitle>
+<ee>https://doi.org/10.1109/MSN50589.2020.00087</ee>
+<crossref>conf/msn/2020</crossref>
+<url>db/conf/msn/msn2020.html#NeiraAN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbrc/NeiraMN20" mdate="2023-06-26">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="337/8485">Alex Medeiros de Ara&#250;jo</author>
+<author pid="22/4022">Michele Nogueira</author>
+<title>Identifica&#231;&#227;o Antecipada de Botnets por Aprendizagem de M&#225;quina.</title>
+<pages>896-909</pages>
+<year>2020</year>
+<booktitle>SBRC</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbrc.2020.12333</ee>
+<crossref>conf/sbrc/2020</crossref>
+<url>db/conf/sbrc/sbrc2020.html#NeiraMN20</url>
+</inproceedings>
+</r>
+<r><article key="journals/jbcs/NeiraSW18" mdate="2023-05-01">
+<author orcid="0000-0003-2742-7568" pid="232/8599">Anderson Bergamini de Neira</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<title>Characterizing the hyperspecialists in the context of crowdsourcing software development.</title>
+<pages>17:1-17:16</pages>
+<year>2018</year>
+<volume>24</volume>
+<journal>J. Braz. Comput. Soc.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1186/s13173-018-0082-2</ee>
+<url>db/journals/jbcs/jbcs24.html#NeiraSW18</url>
+</article>
+</r>
+<coauthors n="12" nc="2">
+<co c="0"><na f="a/Albano:Lucas" pid="383/6236">Lucas Albano</na></co>
+<co c="0"><na f="a/Ara=uacute=jo:Alex_Medeiros_de" pid="337/8485">Alex Medeiros de Ara&#250;jo</na></co>
+<co c="0"><na f="b/Batista:Daniel_M=" pid="20/833">Daniel M. Batista</na></co>
+<co c="0" n="2"><na f="b/Borges:Ligia_F=" pid="271/5597">Ligia F. Borges</na><na>Ligia Francielle Borges</na></co>
+<co c="0"><na f="b/Brito:Davi" pid="366/2696">Davi Brito</na></co>
+<co c="0"><na f="c/Carvalho:Caroline_C=" pid="430/7569">Caroline C. Carvalho</na></co>
+<co c="0"><na f="f/Farias:Euclides_Peres" pid="93/5973">Euclides Peres Farias</na></co>
+<co c="0"><na f="k/Kantarci:Burak" pid="33/3823">Burak Kantarci</na></co>
+<co c="0" n="2"><na f="l/Lima:Michele_Nogueira" pid="22/4022">Michele Nogueira Lima</na><na>Michele Nogueira</na></co>
+<co c="0"><na f="s/Silva:Gabriel_Lucas_F=_M=_e" pid="337/0730">Gabriel Lucas F. M. e Silva</na></co>
+<co c="1"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="1"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na></co>
+</coauthors>
+</dblpperson>
+

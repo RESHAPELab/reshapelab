@@ -1,0 +1,11 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software Engineering Education">
+<title>Software Engineering Education</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<polygon points="48,22 74,38 48,54 22,38" fill="#40c463" stroke="#1d3329"
+         stroke-width="3" stroke-linejoin="round"/>
+<rect x="40" y="38" width="16" height="14" rx="2" fill="#fafbfc" stroke="#1d3329" stroke-width="3"/>
+<path d="M61,30 L70,52" fill="none" stroke="#1d3329" stroke-width="3" stroke-linecap="round"/>
+<circle cx="70" cy="55" r="3.5" fill="#9a6700"/>
+
+</svg>

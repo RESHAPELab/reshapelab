@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<dblpperson name="Marcus Vinicius Bertoncello" pid="262/9432" n="1">
+<person key="homepages/262/9432" mdate="2020-04-16">
+<author pid="262/9432">Marcus Vinicius Bertoncello</author>
+</person>
+<r><inproceedings key="conf/wcre/Bertoncello0WS20" mdate="2020-04-16">
+<author pid="262/9432">Marcus Vinicius Bertoncello</author>
+<author pid="36/11116-1">Gustavo Pinto 0001</author>
+<author pid="06/10439">Igor Scaliante Wiese</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Pull Requests or Commits? Which Method Should We Use to Study Contributors' Behavior?</title>
+<pages>592-601</pages>
+<year>2020</year>
+<booktitle>SANER</booktitle>
+<ee>https://doi.org/10.1109/SANER48275.2020.9054855</ee>
+<crossref>conf/wcre/2020</crossref>
+<url>db/conf/wcre/saner2020.html#Bertoncello0WS20</url>
+</inproceedings>
+</r>
+<coauthors n="3" nc="1">
+<co c="0"><na f="p/Pinto_0001:Gustavo" pid="36/11116-1">Gustavo Pinto 0001</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na></co>
+</coauthors>
+</dblpperson>
+

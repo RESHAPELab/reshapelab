@@ -1,0 +1,9 @@
+# DBLP keys to keep even though the alumni rule would drop them, one per line.
+# Anything after a # is a comment.
+#
+# The rule: a paper harvested from an alumnus's DBLP record is dropped when no
+# other lab member is an author. That is usually right — it is work they did
+# after moving on. When it is wrong, list the key here.
+#
+# `dropped_pubs.md` (regenerated every build) lists every paper the rule
+# removed, with its key, so this file is easy to fill in.

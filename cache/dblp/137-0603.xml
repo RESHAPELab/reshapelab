@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<dblpperson name="Ana Claudia Maciel" pid="137/0603" n="1">
+<person key="homepages/137/0603" mdate="2025-11-03">
+<author pid="137/0603">Ana Claudia Maciel</author>
+<note type="affiliation">Technological University of Paran&#225;, Campo Mourao, Brazil</note>
+</person>
+<r><inproceedings key="conf/eidwt/KraemerOSMGC13" mdate="2023-03-24">
+<author pid="137/0505">Alessandro Kraemer</author>
+<author pid="137/0524">Junior Cesar de Oliveira</author>
+<author pid="137/0561">Fabio Andre Garaluz dos Santos</author>
+<author pid="137/0603">Ana Claudia Maciel</author>
+<author orcid="0000-0001-5746-4154" pid="g/AlfredoGoldman">Alfredo Goldman</author>
+<author orcid="0000-0003-4971-7355" pid="50/6986">Daniel Cordeiro</author>
+<title>Dynamic Creation of BSP/CGM Clusters on Cloud Computing Platforms.</title>
+<pages>767-772</pages>
+<year>2013</year>
+<crossref>conf/eidwt/2013</crossref>
+<booktitle>EIDWT</booktitle>
+<ee>https://doi.org/10.1109/EIDWT.2013.140</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/EIDWT.2013.140</ee>
+<url>db/conf/eidwt/eidwt2013.html#KraemerOSMGC13</url>
+</inproceedings>
+</r>
+<coauthors n="5" nc="1">
+<co c="0"><na f="c/Cordeiro:Daniel" pid="50/6986">Daniel Cordeiro</na></co>
+<co c="0"><na f="g/Goldman:Alfredo" pid="g/AlfredoGoldman">Alfredo Goldman</na></co>
+<co c="0"><na f="k/Kraemer:Alessandro" pid="137/0505">Alessandro Kraemer</na></co>
+<co c="0"><na f="o/Oliveira:Junior_Cesar_de" pid="137/0524">Junior Cesar de Oliveira</na></co>
+<co c="0"><na f="s/Santos:Fabio_Andre_Garaluz_dos" pid="137/0561">Fabio Andre Garaluz dos Santos</na></co>
+</coauthors>
+</dblpperson>
+

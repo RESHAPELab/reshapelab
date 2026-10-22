@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<dblpperson name="Wellynton Diniz" pid="388/4060" n="1">
+<person key="homepages/388/4060" mdate="2024-10-22">
+<author pid="388/4060">Wellynton Diniz</author>
+</person>
+<r><inproceedings key="conf/sbes/DinizVFSP24" mdate="2024-11-06">
+<author orcid="0000-0002-6268-1513" pid="388/4060">Wellynton Diniz</author>
+<author pid="388/4795">Marcela Valen&#231;a</author>
+<author pid="150/9014">C&#233;sar Fran&#231;a</author>
+<author pid="303/3325">Alessandro Santos</author>
+<author pid="388/4619">Mariana Pincovsky</author>
+<title>The Skill Gap in Software Industry: A Mapping Study.</title>
+<pages>192-200</pages>
+<year>2024</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2024.3351</ee>
+<crossref>conf/sbes/2024</crossref>
+<url>db/conf/sbes/sbes2024.html#DinizVFSP24</url>
+</inproceedings>
+</r>
+<coauthors n="4" nc="1">
+<co c="0" n="2"><na f="f/Fran=ccedil=a:A=_C=eacute=sar_C=" pid="150/9014">A. C&#233;sar C. Fran&#231;a</na><na>C&#233;sar Fran&#231;a</na></co>
+<co c="0"><na f="p/Pincovsky:Mariana" pid="388/4619">Mariana Pincovsky</na></co>
+<co c="0"><na f="s/Santos:Alessandro" pid="303/3325">Alessandro Santos</na></co>
+<co c="0"><na f="v/Valen=ccedil=a:Marcela" pid="388/4795">Marcela Valen&#231;a</na></co>
+</coauthors>
+</dblpperson>
+

@@ -1,0 +1,54 @@
+name: Check links
+
+# Monthly check of every link on the site. If any are broken, opens (or
+# updates) a GitHub issue titled "Broken links" listing them.
+on:
+  schedule:
+    - cron: "0 7 2 * *"   # 07:00 UTC on the 2nd of every month
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Publisher sites (ACM, IEEE, Springer…) and LinkedIn often block bots
+          # with 403/429/999 even when the link works, so those count as OK.
+          args: >-
+            --no-progress
+            --max-concurrency 8
+            --max-retries 3
+            --timeout 30
+            --accept "200..=299,403,429,999"
+            --exclude "linkedin\.com"
+            --exclude "^mailto:"
+            --root-dir "${{ github.workspace }}"
+            "./*.html" "./people/*.html" "./projects/*.html" "./news/*.html"
+          output: ./lychee/out.md
+          fail: false
+
+      - name: Find an open "Broken links" issue
+        id: existing
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          num=$(gh issue list --state open --search 'in:title "Broken links"' --json number --jq '.[0].number // empty')
+          echo "number=$num" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.existing.outputs.number }}

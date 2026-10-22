@@ -1,0 +1,297 @@
+<?xml version="1.0"?>
+<dblpperson name="Jo&#227;o Lucas Correia" pid="221/1636" n="12">
+<person key="homepages/221/1636" mdate="2025-11-06">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="221/1636">Jo&#227;o Lucas Marques Correia</author>
+<note type="affiliation">Pontifical Catholic University of Rio de Janeiro, Rio de Janeiro, Brazil</note>
+</person>
+<r><inproceedings key="conf/issre/FernandesRWCFPBFR25" mdate="2026-03-24">
+<author orcid="0000-0001-9090-2232" pid="207/7225">Leo Fernandes</author>
+<author pid="425/9898">Jo&#227;o Vitor Souza Rocha</author>
+<author pid="06/10439">Igor Wiese</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="381/9611">Ismael Trindade Fraga</author>
+<author pid="426/0255">Renato Torres Pinto</author>
+<author pid="125/1899">Erick A. Barboza</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<title>Case Study: Applying Fuzzing to REST APIs in a Large-Scale Industrial Setting.</title>
+<pages>45-50</pages>
+<year>2025</year>
+<booktitle>ISSREW</booktitle>
+<ee>https://doi.org/10.1109/ISSREW67781.2025.00044</ee>
+<crossref>conf/issre/2025w</crossref>
+<url>db/conf/issre/issre2025w.html#FernandesRWCFPBFR25</url>
+<stream>streams/conf/issre</stream>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/CoutinhoPNCBASG25" mdate="2025-11-04">
+<author pid="87/1273">Daniel Coutinho</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="388/4308">Breno Braga Neves</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="63/8008">Augusto Baffa</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<title>PRemo: A Dataset of Emotions Found on Pull Request Discussions.</title>
+<pages>326-336</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.9936</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#CoutinhoPNCBASG25</url>
+</inproceedings>
+</r>
+<r><data key="data/11/CoutinhoPNCSASGBG25" mdate="2025-11-06">
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author orcid="0000-0002-0799-2829" pid="139/6642">Juliana Alves Pereira</author>
+<author orcid="0009-0007-9447-9858" pid="388/4308">Breno Braga Neves</author>
+<author pid="221/1636">Jo&#227;o Lucas Marques Correia</author>
+<author pid="221/1638">Caio Barbosa Vieira da Silva</author>
+<author orcid="0000-0002-7557-9091" pid="90/9459">Wesley Klewerton Guez Assun&#231;&#227;o</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0003-1399-7535" pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0002-7039-4477" pid="63/8008">Augusto Baffa</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<title>opus-research/sentiment-dataset: CBSOFT 2025 Artifacts Festival version.</title>
+<year>2025</year>
+<month>July</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.15810811</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="3" label="Version cbsoft-2025" uri="https://doi.org/10.5281/zenodo.15810713" type="versionOf"></rel>
+</data>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2510-21933" mdate="2025-11-16">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="87/1273">Daniel Coutinho</author>
+<author pid="167/4096">Marco Castelluccio</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="121/2507">Rafael Maiani de Mello</author>
+<author pid="26/6565">Anita Sarma</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>A Comparison of Conversational Models and Humans in Answering Technical Questions: the Firefox Case.</title>
+<year>2025</year>
+<month>October</month>
+<volume>abs/2510.21933</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2510.21933</ee>
+<url>db/journals/corr/corr2510.html#abs-2510-21933</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/pacmse/OliveiraCAPMCBL24" mdate="2024-08-04">
+<author orcid="0000-0002-2530-8242" pid="206/5735">Anderson Oliveira</author>
+<author orcid="0009-0005-1040-2577" pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author orcid="0000-0002-7557-9091" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<author orcid="0000-0002-0799-2829" pid="139/6642">Juliana Alves Pereira</author>
+<author orcid="0000-0002-9877-3946" pid="121/2507">Rafael Maiani de Mello</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author orcid="0000-0003-4288-3713" pid="221/1638">Caio Barbosa</author>
+<author orcid="0009-0006-0567-2908" pid="378/0816">Paulo V&#237;tor C. F. Lib&#243;rio</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<title>Understanding Developers' Discussions and Perceptions on Non-functional Requirements: The Case of the Spring Ecosystem.</title>
+<pages>517-538</pages>
+<year>2024</year>
+<volume>1</volume>
+<journal>Proc. ACM Softw. Eng.</journal>
+<number>FSE</number>
+<ee>https://doi.org/10.1145/3643750</ee>
+<url>db/journals/pacmse/pacmse1.html#OliveiraCAPMCBL24</url>
+</article>
+</r>
+<r><inproceedings key="conf/aiware/CorreiaNCBCG0S24" mdate="2024-07-19">
+<author orcid="0009-0005-1040-2577" pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author orcid="0009-0004-9149-9288" pid="380/0840">Morgan C. Nicholson</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author orcid="0000-0003-4288-3713" pid="221/1638">Caio Barbosa</author>
+<author orcid="0000-0002-3285-5121" pid="167/4096">Marco Castelluccio</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author orcid="0000-0001-5788-5215" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla's PDF.js Project.</title>
+<year>2024</year>
+<booktitle>AIware</booktitle>
+<ee>https://doi.org/10.1145/3664646.3664758</ee>
+<crossref>conf/aiware/2024</crossref>
+<url>db/conf/aiware/aiware2024.html#CorreiaNCBCG0S24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/scam/CorreiaCGMBOAPSGSA24" mdate="2025-07-04">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="121/2507">Rafael Maiani de Mello</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="206/5735">Anderson Oliveira</author>
+<author pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="249/1749">Jairo Souza</author>
+<author pid="376/0229">Johny Arriel</author>
+<title>On the Investigation of Exception Pull Request Characteristics: Exploring the Apache Ecosystem.</title>
+<pages>143-153</pages>
+<year>2024</year>
+<booktitle>SCAM</booktitle>
+<ee>https://doi.org/10.1109/SCAM63643.2024.00023</ee>
+<crossref>conf/scam/2024</crossref>
+<url>db/conf/scam/scam2024.html#CorreiaCGMBOAPSGSA24</url>
+<stream>streams/conf/scam</stream>
+</inproceedings>
+</r>
+<r><data key="data/11/CorreiaNCBCGGS24" mdate="2025-02-20">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="380/0840">Morgan C. Nicholson</author>
+<author pid="87/1273">Daniel Coutinho</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="167/4096">Marco Castelluccio</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<title>RESHAPELab/DevMentorAI-PDF.js-replication: camera-ready.</title>
+<year>2024</year>
+<month>May</month>
+<ee type="oa">https://doi.org/10.5281/zenodo.11211922</ee>
+<publisher>Zenodo</publisher>
+<stream>streams/repo/zenodo</stream>
+<rel sort="0" label="Version camera-ready" uri="https://doi.org/10.5281/zenodo.11211921" type="versionOf"></rel>
+</data>
+</r>
+<r><inproceedings key="conf/msr/OliveiraCSACGOBUP23" mdate="2024-10-06">
+<author orcid="0000-0002-2530-8242" pid="206/5735">Anderson Oliveira</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="179/8618">Leonardo da Silva Sousa</author>
+<author orcid="0000-0002-7557-9091" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</author>
+<author orcid="0000-0002-8956-5272" pid="121/2856">Willian Nalepa Oizumi</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<title>Don't Forget the Exception! : Considering Robustness Changes to Identify Design Problems.</title>
+<pages>417-429</pages>
+<year>2023</year>
+<booktitle>MSR</booktitle>
+<ee>https://doi.org/10.1109/MSR59073.2023.00064</ee>
+<crossref>conf/msr/2023</crossref>
+<url>db/conf/msr/msr2023.html#OliveiraCSACGOBUP23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwpc/BibianoSCFCSOGG20" mdate="2022-01-03">
+<author pid="221/1533">Ana Carla Bibiano</author>
+<author pid="282/5183">Vin&#237;cius Soares</author>
+<author orcid="0000-0003-4226-2458" pid="87/1273">Daniel Coutinho</author>
+<author orcid="0000-0002-1222-2247" pid="120/0272">Eduardo Fernandes</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="274/4606">Kleber Santos</author>
+<author pid="206/5735">Anderson Oliveira</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="10/3240">Rohit Gheyi</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="32/1293-5">Daniel Oliveira 0005</author>
+<title>How Does Incomplete Composite Refactoring Affect Internal Quality Attributes?</title>
+<pages>149-159</pages>
+<year>2020</year>
+<booktitle>ICPC</booktitle>
+<ee>https://doi.org/10.1145/3387904.3389264</ee>
+<crossref>conf/iwpc/2020</crossref>
+<url>db/conf/iwpc/icpc2020.html#BibianoSCFCSOGG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/CorreiaPMGFRGKC20" mdate="2022-03-29">
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="139/6642">Juliana Alves Pereira</author>
+<author pid="121/2507">Rafael Maiani de Mello</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</author>
+<author pid="10/3240">Rohit Gheyi</author>
+<author pid="38/3792">Marcos Kalinowski</author>
+<author pid="165/3587">Renato Cerqueira</author>
+<author pid="122/2366">Willy Tiengo</author>
+<title>Brazilian Data Scientists: Revealing their Challenges and Practices on Machine Learning Model Development.</title>
+<pages>10</pages>
+<year>2020</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3439961.3439971</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/14205</ee>
+<crossref>conf/sbqs/2020</crossref>
+<url>db/conf/sbqs/sbqs2020.html#CorreiaPMGFRGKC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/FerreiraFCUBGCS18" mdate="2022-01-03">
+<author pid="192/8909">Isabella Ferreira</author>
+<author orcid="0000-0002-1222-2247" pid="120/0272">Eduardo Fernandes</author>
+<author pid="179/8636">Diego Cedrim</author>
+<author orcid="0000-0002-6847-5569" pid="199/5439">Anderson G. Uch&#244;a</author>
+<author pid="221/1533">Ana Carla Bibiano</author>
+<author pid="g/AlessandroFGarcia">Alessandro Garcia 0001</author>
+<author pid="221/1636">Jo&#227;o Lucas Correia</author>
+<author pid="02/2287">Filipe Santos</author>
+<author pid="221/1543">Gabriel Nunes</author>
+<author pid="221/1638">Caio Barbosa</author>
+<author pid="22/7095">Baldoino Fonseca</author>
+<author orcid="0000-0002-9877-3946" pid="121/2507">Rafael Maiani de Mello</author>
+<title>The buggy side of code refactoring: understanding the relationship between refactorings and bugs.</title>
+<pages>406-407</pages>
+<year>2018</year>
+<booktitle>ICSE (Companion Volume)</booktitle>
+<ee>https://doi.org/10.1145/3183440.3195030</ee>
+<ee>https://ieeexplore.ieee.org/document/8449599</ee>
+<crossref>conf/icse/2018c</crossref>
+<url>db/conf/icse/icse2018c.html#FerreiraFCUBGCS18</url>
+</inproceedings>
+</r>
+<coauthors n="41" nc="1">
+<co c="0"><na f="a/Arriel:Johny" pid="376/0229">Johny Arriel</na></co>
+<co c="0" n="2"><na f="a/Assun=ccedil==atilde=o:Wesley_K=_G=" pid="90/9459">Wesley K. G. Assun&#231;&#227;o</na><na>Wesley Klewerton Guez Assun&#231;&#227;o</na></co>
+<co c="0"><na f="b/Baffa:Augusto" pid="63/8008">Augusto Baffa</na></co>
+<co c="0" n="2"><na f="b/Barbosa:Caio" pid="221/1638">Caio Barbosa</na><na>Caio Barbosa Vieira da Silva</na></co>
+<co c="0"><na f="b/Barboza:Erick_A=" pid="125/1899">Erick A. Barboza</na></co>
+<co c="0"><na f="b/Bibiano:Ana_Carla" pid="221/1533">Ana Carla Bibiano</na></co>
+<co c="0"><na f="c/Castelluccio:Marco" pid="167/4096">Marco Castelluccio</na></co>
+<co c="0"><na f="c/Cedrim:Diego" pid="179/8636">Diego Cedrim</na></co>
+<co c="0"><na f="c/Cerqueira:Renato" pid="165/3587">Renato Cerqueira</na></co>
+<co c="0"><na f="c/Coutinho:Daniel" pid="87/1273">Daniel Coutinho</na></co>
+<co c="0"><na f="f/Fernandes:Eduardo" pid="120/0272">Eduardo Fernandes</na></co>
+<co c="0" n="2"><na f="f/Fernandes:Leonardo" pid="207/7225">Leonardo Fernandes</na><na>Leo Fernandes</na></co>
+<co c="0"><na f="f/Ferreira:Isabella" pid="192/8909">Isabella Ferreira</na></co>
+<co c="0"><na f="f/Fraga:Ismael_Trindade" pid="381/9611">Ismael Trindade Fraga</na></co>
+<co c="0" n="2"><na f="g/Garcia_0001:Alessandro_F=" pid="g/AlessandroFGarcia">Alessandro F. Garcia 0001</na><na>Alessandro Garcia 0001</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gheyi:Rohit" pid="10/3240">Rohit Gheyi</na></co>
+<co c="0"><na f="k/Kalinowski:Marcos" pid="38/3792">Marcos Kalinowski</na></co>
+<co c="0"><na f="l/Lib=oacute=rio:Paulo_V=iacute=tor_C=_F=" pid="378/0816">Paulo V&#237;tor C. F. Lib&#243;rio</na></co>
+<co c="0"><na f="m/Mello:Rafael_Maiani_de" pid="121/2507">Rafael Maiani de Mello</na></co>
+<co c="0" n="2"><na f="n/Neto:Baldoino_Fonseca_dos_Santos" pid="22/7095">Baldoino Fonseca dos Santos Neto</na><na>Baldoino Fonseca</na></co>
+<co c="0"><na f="n/Neves:Breno_Braga" pid="388/4308">Breno Braga Neves</na></co>
+<co c="0"><na f="n/Nicholson:Morgan_C=" pid="380/0840">Morgan C. Nicholson</na></co>
+<co c="0"><na f="n/Nunes:Gabriel" pid="221/1543">Gabriel Nunes</na></co>
+<co c="0"><na f="o/Oizumi:Willian_Nalepa" pid="121/2856">Willian Nalepa Oizumi</na></co>
+<co c="0"><na f="o/Oliveira:Anderson" pid="206/5735">Anderson Oliveira</na></co>
+<co c="0"><na f="o/Oliveira_0005:Daniel" pid="32/1293-5">Daniel Oliveira 0005</na></co>
+<co c="0"><na f="p/Pereira:Juliana_Alves" pid="139/6642">Juliana Alves Pereira</na></co>
+<co c="0"><na f="p/Pinto:Renato_Torres" pid="426/0255">Renato Torres Pinto</na></co>
+<co c="0"><na f="r/Ribeiro_0001:M=aacute=rcio" pid="r/MarcioRibeiro">M&#225;rcio Ribeiro 0001</na></co>
+<co c="0"><na f="r/Rocha:Jo=atilde=o_Vitor_Souza" pid="425/9898">Jo&#227;o Vitor Souza Rocha</na></co>
+<co c="0"><na f="s/Santos:Filipe" pid="02/2287">Filipe Santos</na></co>
+<co c="0"><na f="s/Santos:Kleber" pid="274/4606">Kleber Santos</na></co>
+<co c="0"><na f="s/Sarma:Anita" pid="26/6565">Anita Sarma</na></co>
+<co c="0"><na f="s/Soares:Vin=iacute=cius" pid="282/5183">Vin&#237;cius Soares</na></co>
+<co c="0"><na f="s/Sousa:Leonardo_da_Silva" pid="179/8618">Leonardo da Silva Sousa</na></co>
+<co c="0"><na f="s/Souza:Jairo" pid="249/1749">Jairo Souza</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Tiengo:Willy" pid="122/2366">Willy Tiengo</na></co>
+<co c="0"><na f="u/Uch=ocirc=a:Anderson_G=" pid="199/5439">Anderson G. Uch&#244;a</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+</coauthors>
+</dblpperson>
+

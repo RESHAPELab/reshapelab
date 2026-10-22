@@ -1,0 +1,1 @@
+A PhD Student in PUC-Rio (Brazil), currently doing a sandwich doctorate in Northern Arizona University. In my masters degree, I studied design decay (code metrics, smells, and refactoring) by mining open-source repositories. Currently I'm working on mining open-source repositories to study human aspects of software engineering (e.g., toxicity, sentiment, personality, etc.).

@@ -1,0 +1,11 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OSS Sustainability &amp; Governance">
+<title>OSS Sustainability &amp; Governance</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<path d="M48,22 L68,30 L68,50 C68,62 58,70 48,74 C38,70 28,62 28,50 L28,30 Z"
+      fill="#fafbfc" stroke="#1d3329" stroke-width="4" stroke-linejoin="round"/>
+<path d="M48,64 L48,46" fill="none" stroke="#1a7f37" stroke-width="3" stroke-linecap="round"/>
+<path d="M48,50 C40,48 36,40 40,34 C46,38 48,44 48,50 Z" fill="#30a14e"/>
+<path d="M48,50 C56,48 60,40 56,34 C50,38 48,44 48,50 Z" fill="#40c463"/>
+
+</svg>

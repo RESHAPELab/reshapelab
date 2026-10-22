@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<dblpperson name="Filipe A. N. Verri" pid="174/2784" n="39">
+<person key="homepages/174/2784" mdate="2025-02-25">
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<note type="affiliation">Aeronautics Institute of Technology (ITA), Computer Science Division, S&#227;o Jos&#233; dos Campos, SP, Brazil</note>
+<note label="PhD" type="affiliation">University of S&#227;o Paulo, S&#227;o Carlos, SP, Brazil</note>
+<url>https://www.comp.ita.br/~verri/</url>
+<url>https://orcid.org/0000-0002-8240-5129</url>
+<url>https://scholar.google.com/citations?user=36FsgZ0AAAAJ</url>
+<url>https://www.linkedin.com/in/filipe-verri-01bba6181/</url>
+<url>https://github.com/verri</url>
+<url>https://www.wikidata.org/entity/Q96101244</url>
+<url>http://lattes.cnpq.br/0145582312635382</url>
+</person>
+<r><article key="journals/array/SilveiraLMLMLVR26" mdate="2026-07-29">
+<author pid="227/0625">Leonardo Silveira</author>
+<author pid="387/4346">Claudio A. S. Lelis</author>
+<author pid="128/9841">Johnny Cardoso Marques</author>
+<author pid="84/3548">Denis Silva Loubach</author>
+<author pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author pid="441/9147">Ana C. Lorena</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="86/2383">Val&#233;rio Rosset</author>
+<title>Deep sets of random neighbors with attention: An architecture for spatio-temporal machine learning.</title>
+<year>2026</year>
+<pages>101054</pages>
+<volume>31</volume>
+<journal>Array</journal>
+<ee type="oa">https://doi.org/10.1016/j.array.2026.101054</ee>
+<url>db/journals/array/array31.html#SilveiraLMLMLVR26</url>
+<stream>streams/journals/array</stream>
+</article>
+</r>
+<r><article key="journals/bspc/SouzaMVB26" mdate="2026-06-25">
+<author orcid="0000-0002-8155-1116" pid="437/1440">Alex Fernandes de Souza</author>
+<author orcid="0009-0002-6540-1430" pid="437/1151">Nat&#225;lia Vilas Boas Pappi Maciel</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-2772-0043" pid="29/11108">Pedro Paulo Balestrassi</author>
+<title>A five-layer clinical-AI engineering framework for severity risk stratification from hematological signals: Ensemble learning, uncertainty quantification, and SHAP explainability with application to COVID-19.</title>
+<year>2026</year>
+<pages>110479</pages>
+<volume>122</volume>
+<journal>Biomed. Signal Process. Control.</journal>
+<ee type="oa">https://doi.org/10.1016/j.bspc.2026.110479</ee>
+<url>db/journals/bspc/bspc122.html#SouzaMVB26</url>
+<stream>streams/journals/bspc</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-15736" mdate="2026-03-29">
+<author pid="381/2895">Jorge Luiz Franco</author>
+<author pid="430/8720">Thomas Peron</author>
+<author pid="205/6184">Alcebiades Dal Col</author>
+<author pid="71/6208">Fabiano Petronetto</author>
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="224/4768">Eric K. Tokuda</author>
+<author pid="431/0056">Luiz Gustavo Nonato</author>
+<title>SVD Incidence Centrality: A Unified Spectral Framework for Node and Edge Analysis in Directed Networks and Hypergraphs.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.15736</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.15736</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-15736</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/cor/FrancoCSV25" mdate="2025-04-08">
+<author orcid="0009-0001-3026-2840" pid="381/2895">Jorge Luiz Franco</author>
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<author orcid="0000-0002-6544-2964" pid="49/1464">Edson Luiz Fran&#231;a Senne</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<title>An exact method and a heuristic for last-mile delivery drones routing with centralized graph-based airspace control.</title>
+<pages>107006</pages>
+<year>2025</year>
+<volume>178</volume>
+<journal>Comput. Oper. Res.</journal>
+<ee>https://doi.org/10.1016/j.cor.2025.107006</ee>
+<url>db/journals/cor/cor178.html#FrancoCSV25</url>
+<stream>streams/journals/cor</stream>
+</article>
+</r>
+<r><inproceedings key="conf/ladc/SilveiraLMV25" mdate="2026-03-24">
+<author orcid="0000-0002-4468-6812" pid="227/0625">Leonardo Silveira</author>
+<author orcid="0000-0002-5307-3292" pid="387/4346">Claudio A. S. Lelis</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</author>
+<title>Source Code Vulnerability Detection and Interpretability with Language Models.</title>
+<pages>255-271</pages>
+<year>2025</year>
+<booktitle>LADC</booktitle>
+<ee>https://doi.org/10.1007/978-3-032-11539-3_15</ee>
+<crossref>conf/ladc/2025</crossref>
+<url>db/conf/ladc/ladc2025.html#SilveiraLMV25</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sibgrapi/MelloOMCSSDV25" mdate="2026-04-25">
+<author pid="231/9220">Alexandre Reeberg de Mello</author>
+<author pid="399/4135">Murilo M. Ozol</author>
+<author pid="421/5609">Bruno Mingoti</author>
+<author orcid="0009-0009-4370-2516" pid="421/5097">Leonardo Colussi</author>
+<author pid="421/5026">Kaique V. C. Souza</author>
+<author pid="421/4300">Jo&#227;o P. R. Storer</author>
+<author pid="421/4247">Carlos Duek</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<title>Small Object Detection in Drone Captured Images for Maritime Surveillance.</title>
+<pages>1-6</pages>
+<year>2025</year>
+<booktitle>SIBGRAPI</booktitle>
+<ee>https://doi.org/10.1109/SIBGRAPI67909.2025.11223341</ee>
+<crossref>conf/sibgrapi/2025</crossref>
+<url>db/conf/sibgrapi/sibgrapi2025.html#MelloOMCSSDV25</url>
+<stream>streams/conf/sibgrapi</stream>
+</inproceedings>
+</r>
+<r><proceedings key="conf/bracis/2024-1" mdate="2025-02-25">
+<editor orcid="0000-0002-9089-7303" pid="95/4928">Aline Paes</editor>
+<editor orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</editor>
+<title>Intelligent Systems - 34th Brazilian Conference, BRACIS 2024, Bel&#233;m do Par&#225;, Brazil, November 17-21, 2024, Proceedings, Part I</title>
+<booktitle>BRACIS (1)</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>15412</volume>
+<isbn>978-3-031-79028-7</isbn>
+<isbn>978-3-031-79029-4</isbn>
+<ee>https://doi.org/10.1007/978-3-031-79029-4</ee>
+<url>db/conf/bracis/bracis2024-1.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/bracis/2024-2" mdate="2025-02-25">
+<editor orcid="0000-0002-9089-7303" pid="95/4928">Aline Paes</editor>
+<editor orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</editor>
+<title>Intelligent Systems - 34th Brazilian Conference, BRACIS 2024, Bel&#233;m do Par&#225;, Brazil, November 17-21, 2024, Proceedings, Part II</title>
+<booktitle>BRACIS (2)</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>15413</volume>
+<isbn>978-3-031-79031-7</isbn>
+<isbn>978-3-031-79032-4</isbn>
+<ee>https://doi.org/10.1007/978-3-031-79032-4</ee>
+<url>db/conf/bracis/bracis2024-2.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/bracis/2024-3" mdate="2025-02-25">
+<editor orcid="0000-0002-9089-7303" pid="95/4928">Aline Paes</editor>
+<editor orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</editor>
+<title>Intelligent Systems - 34th Brazilian Conference, BRACIS 2024, Bel&#233;m do Par&#225;, Brazil, November 17-21, 2024, Proceedings, Part III</title>
+<booktitle>BRACIS (3)</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>15414</volume>
+<isbn>978-3-031-79034-8</isbn>
+<isbn>978-3-031-79035-5</isbn>
+<ee>https://doi.org/10.1007/978-3-031-79035-5</ee>
+<url>db/conf/bracis/bracis2024-3.html</url>
+</proceedings>
+</r>
+<r><proceedings key="conf/bracis/2024-4" mdate="2025-02-26">
+<editor orcid="0000-0002-9089-7303" pid="95/4928">Aline Paes</editor>
+<editor orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</editor>
+<title>Intelligent Systems - 34th Brazilian Conference, BRACIS 2024, Bel&#233;m do Par&#225;, Brazil, November 17-21, 2024, Proceedings, Part IV</title>
+<booktitle>BRACIS (4)</booktitle>
+<publisher>Springer</publisher>
+<year>2025</year>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>15415</volume>
+<isbn>978-3-031-79037-9</isbn>
+<isbn>978-3-031-79038-6</isbn>
+<ee>https://doi.org/10.1007/978-3-031-79038-6</ee>
+<url>db/conf/bracis/bracis2024-4.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2502-04233" mdate="2025-03-17">
+<author pid="381/2895">Jorge Luiz Franco</author>
+<author pid="399/8557">Manoel V. Machado Neto</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="72/10670">Diego R. Amancio</author>
+<title>Graph machine learning for flight delay prediction due to holding manouver.</title>
+<year>2025</year>
+<month>February</month>
+<volume>abs/2502.04233</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2502.04233</ee>
+<url>db/journals/corr/corr2502.html#abs-2502-04233</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article key="journals/access/LelisRSAMMLVCS24" mdate="2025-02-25">
+<author orcid="0000-0002-5307-3292" pid="387/4346">Claudio A. S. Lelis</author>
+<author orcid="0009-0000-9958-1754" pid="387/4342">Julio J. Roncal</author>
+<author orcid="0000-0002-4468-6812" pid="227/0625">Leonardo Silveira</author>
+<author orcid="0000-0002-8486-8354" pid="358/3331">Roberto Douglas Guimar&#227;es de Aquino</author>
+<author pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author pid="128/9841">Johnny Cardoso Marques</author>
+<author orcid="0000-0003-1595-3448" pid="84/3548">Denis Silva Loubach</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</author>
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<author orcid="0009-0003-7793-7897" pid="387/5971">Diego G. De Souza</author>
+<title>Drone-Based AI System for Wildfire Monitoring and Risk Prediction.</title>
+<pages>139865-139882</pages>
+<year>2024</year>
+<volume>12</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2024.3462436</ee>
+<url>db/journals/access/access12.html#LelisRSAMMLVCS24</url>
+<stream>streams/journals/access</stream>
+</article>
+</r>
+<r><article key="journals/ijcim/LopesSARSV24" mdate="2025-03-03">
+<author pid="369/4368">Paulo Victor Lopes</author>
+<author pid="227/0625">Leonardo Silveira</author>
+<author orcid="0000-0002-8486-8354" pid="358/3331">Roberto Douglas Guimar&#227;es de Aquino</author>
+<author pid="387/7601">Carlos Henrique Ribeiro</author>
+<author pid="85/6516">Anders Skoogh</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<title>Synthetic data generation for digital twins: enabling production systems analysis in the absence of data.</title>
+<pages>1252-1269</pages>
+<year>2024</year>
+<month>November</month>
+<volume>37</volume>
+<journal>Int. J. Comput. Integr. Manuf.</journal>
+<number>10-11</number>
+<ee type="oa">https://doi.org/10.1080/0951192x.2024.2322981</ee>
+<url>db/journals/ijcim/ijcim37.html#LopesSARSV24</url>
+<stream>streams/journals/ijcim</stream>
+</article>
+</r>
+<r><article key="journals/sensors/FaicalMV24" mdate="2025-02-25">
+<author orcid="0000-0002-9866-3712" pid="76/10286">Bruno S. Fai&#231;al</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</author>
+<title>SiaN-VO: Siamese Network for Visual Odometry.</title>
+<pages>973</pages>
+<year>2024</year>
+<month>February</month>
+<volume>24</volume>
+<journal>Sensors</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.3390/s24030973</ee>
+<ee>https://www.wikidata.org/entity/Q128784241</ee>
+<url>db/journals/sensors/sensors24.html#FaicalMV24</url>
+</article>
+</r>
+<r><inproceedings key="conf/ecms/LopesLVS24" mdate="2025-03-03">
+<author pid="369/4368">Paulo Victor Lopes</author>
+<author orcid="0000-0001-9625-6622" pid="235/4320">Giovanni Lugaresi</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="85/6516">Anders Skoogh</author>
+<title>Process Mining And Production Routing Fast Profiling For Data-Driven Digital Twins.</title>
+<pages>171-177</pages>
+<year>2024</year>
+<booktitle>ECMS</booktitle>
+<ee>https://doi.org/10.7148/2024-0171</ee>
+<crossref>conf/ecms/2024</crossref>
+<url>db/conf/ecms/ecms2024.html#LopesLVS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ecms/NishiuraLVS24" mdate="2025-03-03">
+<author pid="381/5316">Juliano Yoshiro Nishiura</author>
+<author pid="369/4368">Paulo Victor Lopes</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="85/6516">Anders Skoogh</author>
+<title>How To Evaluate Process Discovery For Digital Twins In Industry 4.0? Process Discovery, Hypothesis Testing, And Conformance Analysis.</title>
+<pages>178-184</pages>
+<year>2024</year>
+<booktitle>ECMS</booktitle>
+<ee>https://doi.org/10.7148/2024-0178</ee>
+<crossref>conf/ecms/2024</crossref>
+<url>db/conf/ecms/ecms2024.html#NishiuraLVS24</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/AquinoCV23" mdate="2023-10-27">
+<author orcid="0000-0002-8486-8354" pid="358/3331">Roberto Douglas Guimar&#227;es de Aquino</author>
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<title>A Clustering Validation Index Based on Semantic Description.</title>
+<pages>315-328</pages>
+<year>2023</year>
+<booktitle>BRACIS (3)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-45392-2_21</ee>
+<crossref>conf/bracis/2023-3</crossref>
+<url>db/conf/bracis/bracis2023-3.html#AquinoCV23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/lacci/AquinoBRVF23" mdate="2025-03-03">
+<author orcid="0000-0002-8486-8354" pid="358/3331">Roberto Douglas Guimar&#227;es de Aquino</author>
+<author orcid="0000-0001-9808-4430" pid="354/6718">Joniel Bastos Barreto</author>
+<author pid="368/8153">Aline Do Nascimento Rodrigues</author>
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="70/2969">Carlos Henrique Quartucci Forster</author>
+<title>CNN classification subject to practical aspects of Search and Rescue UAV missions.</title>
+<pages>1-6</pages>
+<year>2023</year>
+<booktitle>LA-CCI</booktitle>
+<ee>https://doi.org/10.1109/LA-CCI58595.2023.10409392</ee>
+<crossref>conf/lacci/2023</crossref>
+<url>db/conf/lacci/lacci2023.html#AquinoBRVF23</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/MoreiraVY22" mdate="2022-02-08">
+<author orcid="0000-0001-8697-0566" pid="312/4146">Filipe Rodrigues De Souza Moreira</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0001-5375-1076" pid="38/1181">Takashi Yoneyama</author>
+<title>Maximum Visibility: A Novel Approach for Time Series Forecasting Based on Complex Network Theory.</title>
+<pages>8960-8973</pages>
+<year>2022</year>
+<volume>10</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2022.3143106</ee>
+<url>db/journals/access/access10.html#MoreiraVY22</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/FreitasMV22" mdate="2025-02-25">
+<author pid="337/9024">Guilherme Corr&#234;a de Freitas</author>
+<author pid="277/2182">Marcos R. O. de A. M&#225;ximo</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<title>Semi-Supervised Learning for Intelligent Surveillance.</title>
+<pages>1-6</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995785</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#FreitasMV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/BernardoVRLMLSV22" mdate="2025-02-25">
+<author orcid="0000-0002-3666-420X" pid="337/9128">Guilherme T. T. Bernardo</author>
+<author orcid="0000-0002-2854-6342" pid="378/0877">Luan Mateus Bocalan Vog&#225;s</author>
+<author pid="337/9209">Sargon D. S. Rodrigues</author>
+<author pid="337/9033">Thiago G. G. Lopes</author>
+<author pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0003-1595-3448" pid="84/3548">Denis Silva Loubach</author>
+<author pid="220/8910">Elton Felipe Sbruzzi</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="128/9841">Johnny Cardoso Marques</author>
+<author pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</author>
+<author pid="277/2182">Marcos R. O. de A. M&#225;ximo</author>
+<author pid="173/5861">Vitor Venceslau Curtis</author>
+<title>A-Star Based Algorithm Applied to Target Search and Rescue by a UAV Swarm.</title>
+<pages>49-54</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9996054</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#BernardoVRLMLSV22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/larc/SilveiraRFSMMV22" mdate="2025-02-25">
+<author pid="227/0625">Leonardo Silveira</author>
+<author pid="343/6829">Mateus Rodrigues de Barros</author>
+<author pid="76/10286">Bruno S. Fai&#231;al</author>
+<author pid="337/9253">Alexandre S. Quirino da Silva</author>
+<author pid="82/9870">Cesar Marcondes</author>
+<author pid="277/2182">Marcos R. O. de A. M&#225;ximo</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<title>Navigation Aids Based on Optical Flow and Convolutional Neural Network.</title>
+<pages>318-323</pages>
+<year>2022</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE56824.2022.9995889</ee>
+<crossref>conf/larc/2022</crossref>
+<url>db/conf/larc/lars2022.html#SilveiraRFSMMV22</url>
+</inproceedings>
+</r>
+<r><article key="journals/access/KamoiJVMFMC21" mdate="2021-05-16">
+<author pid="290/3720">Roger Nobuyuki Kamoi</author>
+<author orcid="0000-0002-9682-0075" pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author pid="191/5948">Carlos Henrique Gomes Ferreira</author>
+<author orcid="0000-0003-2982-4006" pid="123/3499">Rodolfo Ipolito Meneguette</author>
+<author orcid="0000-0003-2399-5066" pid="11/1271">Adilson Marques da Cunha</author>
+<title>Platoon Grouping Network Offloading Mechanism for VANETs.</title>
+<pages>53936-53951</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3071085</ee>
+<url>db/journals/access/access9.html#KamoiJVMFMC21</url>
+</article>
+</r>
+<r><article key="journals/access/BertoliJSSVMBRO21" mdate="2025-03-03">
+<author orcid="0000-0003-1940-8295" pid="298/2263">Gustavo de Carvalho Bertoli</author>
+<author orcid="0000-0002-9682-0075" pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</author>
+<author orcid="0000-0002-1568-9299" pid="70/2216">Osamu Saotome</author>
+<author pid="85/7266">Aldri L. dos Santos</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0001-9090-9469" pid="298/9254">Sidnei Barbieri</author>
+<author pid="298/9197">Moises S. Rodrigues</author>
+<author pid="50/4449">Jos&#233; M. Parente de Oliveira</author>
+<title>An End-to-End Framework for Machine Learning-Based Network Intrusion Detection System.</title>
+<pages>106790-106805</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3101188</ee>
+<url>db/journals/access/access9.html#BertoliJSSVMBRO21</url>
+</article>
+</r>
+<r><inproceedings key="conf/larc/GiacomossiSCCFM21" mdate="2025-02-25">
+<author pid="337/9336">Luiz Giacomossi</author>
+<author pid="356/5541">Flavio Souza</author>
+<author pid="311/0350">Raphael Gomes Cortes</author>
+<author pid="356/4762">Huascar Mirko Montecinos Cortez</author>
+<author pid="356/4309">Caue Ferreira</author>
+<author pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0003-1595-3448" pid="84/3548">Denis Silva Loubach</author>
+<author pid="220/8910">Elton Felipe Sbruzzi</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="128/9841">Johnny Cardoso Marques</author>
+<author orcid="0000-0002-9682-0075" pid="277/2443">Louren&#231;o Alves Pereira Jr.</author>
+<author pid="277/2182">Marcos R. O. A. M&#225;ximo</author>
+<author pid="173/5861">Vitor Venceslau Curtis</author>
+<title>Autonomous and Collective Intelligence for UAV Swarm in Target Search Scenario.</title>
+<pages>72-77</pages>
+<year>2021</year>
+<booktitle>LARS/SBR/WRE</booktitle>
+<ee>https://doi.org/10.1109/LARS/SBR/WRE54079.2021.9605450</ee>
+<crossref>conf/larc/2021</crossref>
+<url>db/conf/larc/lars2021.html#GiacomossiSCCFM21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2110-13655" mdate="2025-02-25">
+<author pid="298/2263">Gustavo de Carvalho Bertoli</author>
+<author pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author pid="85/7266">Aldri Luiz dos Santos</author>
+<author pid="70/2216">Osamu Saotome</author>
+<title>Bridging the gap to real-world for network intrusion detection systems with data-centric approach.</title>
+<year>2021</year>
+<volume>abs/2110.13655</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2110.13655</ee>
+<url>db/journals/corr/corr2110.html#abs-2110-13655</url>
+</article>
+</r>
+<r><article key="journals/access/VerriMLSMJMC20" mdate="2021-04-20">
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-1574-0362" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</author>
+<author orcid="0000-0003-1595-3448" pid="84/3548">Denis Silva Loubach</author>
+<author orcid="0000-0003-0457-0310" pid="220/8910">Elton Felipe Sbruzzi</author>
+<author orcid="0000-0002-1551-435X" pid="128/9841">Johnny Cardoso Marques</author>
+<author orcid="0000-0002-9682-0075" pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</author>
+<author orcid="0000-0003-2944-4476" pid="277/2182">Marcos Ricardo Omena de Albuquerque M&#225;ximo</author>
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<title>An Analysis on Tradable Permit Models for Last-Mile Delivery Drones.</title>
+<pages>186279-186290</pages>
+<year>2020</year>
+<volume>8</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2020.3030612</ee>
+<url>db/journals/access/access8.html#VerriMLSMJMC20</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/GengoV20" mdate="2025-02-25">
+<author pid="276/4913">Pedro Gengo</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe A. N. Verri</author>
+<title>Semi-Supervised Sentiment Analysis of Portuguese Tweets with Random Walk in Feature Sample Networks.</title>
+<pages>595-605</pages>
+<year>2020</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-61377-8_42</ee>
+<crossref>conf/bracis/2020</crossref>
+<url>db/conf/bracis/bracis2020.html#GengoV20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/bracis/PellicerVC19" mdate="2020-12-29">
+<author pid="256/0052">Lucas Francisco Amaral Orosco Pellicer</author>
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-4462-3907" pid="173/5861">Vitor Venceslau Curtis</author>
+<title>Enhancement on the Labeled Component Unfolding System for Parallel Implementations.</title>
+<pages>794-799</pages>
+<year>2019</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2019.00142</ee>
+<crossref>conf/bracis/2019</crossref>
+<url>db/conf/bracis/bracis2019.html#PellicerVC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icmlc2/GaoZVR019" mdate="2025-02-25">
+<author pid="273/0462">Xubo Gao</author>
+<author pid="62/7943">Qiusheng Zheng</author>
+<author pid="174/2784">Filipe A. N. Verri</author>
+<author orcid="0000-0001-7433-1951" pid="221/8661">Rafael D. Rodrigues</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Particle Competition for Multilayer Network Community Detection.</title>
+<pages>75-80</pages>
+<year>2019</year>
+<booktitle>ICMLC</booktitle>
+<ee>https://doi.org/10.1145/3318299.3318320</ee>
+<crossref>conf/icmlc2/2019</crossref>
+<url>db/conf/icmlc2/icmlc2019.html#GaoZVR019</url>
+</inproceedings>
+</r>
+<r><article key="journals/tnn/VerriUZ18" mdate="2020-03-09">
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0002-6983-4017" pid="132/7160">Paulo Roberto Urio</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Network Unfolding Map by Vertex-Edge Dynamics Modeling.</title>
+<pages>405-418</pages>
+<year>2018</year>
+<volume>29</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNNLS.2016.2626341</ee>
+<ee>https://www.wikidata.org/entity/Q39134945</ee>
+<url>db/journals/tnn/tnn29.html#VerriUZ18</url>
+</article>
+</r>
+<r><inproceedings key="conf/cec/VerriT018" mdate="2021-10-14">
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0003-4027-8851" pid="86/3910">Renato Tin&#243;s</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Feature Learning in Feature-Sample Networks Using Multi-Objective Optimization.</title>
+<pages>1-6</pages>
+<year>2018</year>
+<booktitle>CEC</booktitle>
+<ee>https://doi.org/10.1109/CEC.2018.8477891</ee>
+<crossref>conf/cec/2018</crossref>
+<url>db/conf/cec/cec2018.html#VerriT018</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1802-04186" mdate="2018-08-13">
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="122/9555">Roberto Alves Gueleri</author>
+<author pid="62/7943">Qiusheng Zheng</author>
+<author pid="91/11276">Junbao Zhang</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Network community detection via iterative edge removal in a flocking-like system.</title>
+<year>2018</year>
+<volume>abs/1802.04186</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1802.04186</ee>
+<url>db/journals/corr/corr1802.html#abs-1802-04186</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-1710-09300" mdate="2018-08-13">
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="86/3910">Renato Tin&#243;s</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Feature learning in feature-sample networks using multi-objective optimization.</title>
+<year>2017</year>
+<volume>abs/1710.09300</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1710.09300</ee>
+<url>db/journals/corr/corr1710.html#abs-1710-09300</url>
+</article>
+</r>
+<r><article key="journals/ijprai/UrioVZ16" mdate="2020-12-29">
+<author orcid="0000-0002-6983-4017" pid="132/7160">Paulo Roberto Urio</author>
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Semi-Supervised Classification by Particle Competition in Complex Network's Edges.</title>
+<pages>1660006:1-1660006:19</pages>
+<year>2016</year>
+<volume>30</volume>
+<journal>Int. J. Pattern Recognit. Artif. Intell.</journal>
+<number>9</number>
+<ee>https://doi.org/10.1142/S0218001416600065</ee>
+<url>db/journals/ijprai/ijprai30.html#UrioVZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/bracis/VerriZ16" mdate="2023-03-24">
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Random Walk in Feature-Sample Networks for Semi-supervised Classification.</title>
+<pages>235-240</pages>
+<year>2016</year>
+<booktitle>BRACIS</booktitle>
+<ee>https://doi.org/10.1109/BRACIS.2016.051</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/BRACIS.2016.051</ee>
+<crossref>conf/bracis/2016</crossref>
+<url>db/conf/bracis/bracis2016.html#VerriZ16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/VerriUZ16" mdate="2018-08-13">
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author pid="132/7160">Paulo Roberto Urio</author>
+<author pid="63/5422-1">Liang Zhao 0001</author>
+<title>Network Unfolding Map by Edge Dynamics Modeling.</title>
+<year>2016</year>
+<volume>abs/1603.01182</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.01182</ee>
+<url>db/journals/corr/corr1603.html#VerriUZ16</url>
+</article>
+</r>
+<r><inproceedings key="conf/icnc/UrioVZ15" mdate="2020-09-05">
+<author pid="132/7160">Paulo Roberto Urio</author>
+<author pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>Semi-supervised learning by edge domination in complex networks.</title>
+<pages>514-519</pages>
+<year>2015</year>
+<booktitle>ICNC</booktitle>
+<ee>https://doi.org/10.1109/ICNC.2015.7378041</ee>
+<crossref>conf/icnc/2015</crossref>
+<url>db/conf/icnc/icnc2015.html#UrioVZ15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ijcnn/NetoZ13" mdate="2025-02-06">
+<author orcid="0000-0002-8240-5129" pid="174/2784">Filipe Alves Neto Verri</author>
+<author orcid="0000-0002-1502-6604" pid="63/5422-1">Liang Zhao 0001</author>
+<title>High level data classification based on network entropy.</title>
+<pages>1-5</pages>
+<year>2013</year>
+<booktitle>IJCNN</booktitle>
+<ee>https://doi.org/10.1109/IJCNN.2013.6707042</ee>
+<crossref>conf/ijcnn/2013</crossref>
+<url>db/conf/ijcnn/ijcnn2013.html#NetoZ13</url>
+</inproceedings>
+</r>
+<coauthors n="77" nc="4">
+<co c="0"><na f="a/Amancio:Diego_R=" pid="72/10670">Diego R. Amancio</na></co>
+<co c="0"><na f="a/Aquino:Roberto_Douglas_Guimar=atilde=es_de" pid="358/3331">Roberto Douglas Guimar&#227;es de Aquino</na></co>
+<co c="3"><na f="b/Balestrassi:Pedro_Paulo" pid="29/11108">Pedro Paulo Balestrassi</na></co>
+<co c="0"><na f="b/Barbieri:Sidnei" pid="298/9254">Sidnei Barbieri</na></co>
+<co c="0"><na f="b/Barreto:Joniel_Bastos" pid="354/6718">Joniel Bastos Barreto</na></co>
+<co c="0"><na f="b/Barros:Mateus_Rodrigues_de" pid="343/6829">Mateus Rodrigues de Barros</na></co>
+<co c="0"><na f="b/Bernardo:Guilherme_T=_T=" pid="337/9128">Guilherme T. T. Bernardo</na></co>
+<co c="0"><na f="b/Bertoli:Gustavo_de_Carvalho" pid="298/2263">Gustavo de Carvalho Bertoli</na></co>
+<co c="0"><na f="c/Col:Alcebiades_Dal" pid="205/6184">Alcebiades Dal Col</na></co>
+<co c="2"><na f="c/Colussi:Leonardo" pid="421/5097">Leonardo Colussi</na></co>
+<co c="0"><na f="c/Cortes:Raphael_Gomes" pid="311/0350">Raphael Gomes Cortes</na></co>
+<co c="0"><na f="c/Cortez:Huascar_Mirko_Montecinos" pid="356/4762">Huascar Mirko Montecinos Cortez</na></co>
+<co c="0"><na f="c/Cunha:Adilson_Marques_da" pid="11/1271">Adilson Marques da Cunha</na></co>
+<co c="0"><na f="c/Curtis:Vitor_Venceslau" pid="173/5861">Vitor Venceslau Curtis</na></co>
+<co c="2"><na f="d/Duek:Carlos" pid="421/4247">Carlos Duek</na></co>
+<co c="0"><na f="f/Fai=ccedil=al:Bruno_S=" pid="76/10286">Bruno S. Fai&#231;al</na></co>
+<co c="0"><na f="f/Ferreira:Carlos_Henrique_Gomes" pid="191/5948">Carlos Henrique Gomes Ferreira</na></co>
+<co c="0"><na f="f/Ferreira:Caue" pid="356/4309">Caue Ferreira</na></co>
+<co c="0" n="2"><na f="f/Forster:Carlos_H=_Q=" pid="70/2969">Carlos H. Q. Forster</na><na>Carlos Henrique Quartucci Forster</na></co>
+<co c="0"><na f="f/Franco:Jorge_Luiz" pid="381/2895">Jorge Luiz Franco</na></co>
+<co c="0"><na f="f/Freitas:Guilherme_Corr=ecirc=a_de" pid="337/9024">Guilherme Corr&#234;a de Freitas</na></co>
+<co c="1"><na f="g/Gao:Xubo" pid="273/0462">Xubo Gao</na></co>
+<co c="-1"><na f="g/Gengo:Pedro" pid="276/4913">Pedro Gengo</na></co>
+<co c="0"><na f="g/Giacomossi:Luiz" pid="337/9336">Luiz Giacomossi</na></co>
+<co c="1"><na f="g/Gueleri:Roberto_Alves" pid="122/9555">Roberto Alves Gueleri</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Louren=ccedil=o_Alves_Pereira" pid="277/2443">Louren&#231;o Alves Pereira J&#250;nior</na><na>Louren&#231;o Alves Pereira Jr.</na></co>
+<co c="0"><na f="k/Kamoi:Roger_Nobuyuki" pid="290/3720">Roger Nobuyuki Kamoi</na></co>
+<co c="0"><na f="l/Lelis:Claudio_A=_S=" pid="387/4346">Claudio A. S. Lelis</na></co>
+<co c="0"><na f="l/Lopes:Paulo_Victor" pid="369/4368">Paulo Victor Lopes</na></co>
+<co c="0"><na f="l/Lopes:Thiago_G=_G=" pid="337/9033">Thiago G. G. Lopes</na></co>
+<co c="0"><na f="l/Lorena:Ana_C=" pid="441/9147">Ana C. Lorena</na></co>
+<co c="0"><na f="l/Loubach:Denis_Silva" pid="84/3548">Denis Silva Loubach</na></co>
+<co c="0"><na f="l/Lugaresi:Giovanni" pid="235/4320">Giovanni Lugaresi</na></co>
+<co c="3"><na f="m/Maciel:Nat=aacute=lia_Vilas_Boas_Pappi" pid="437/1151">Nat&#225;lia Vilas Boas Pappi Maciel</na></co>
+<co c="0" n="2"><na f="m/Marcondes:Cesar_Augusto_Cavalheiro" pid="82/9870">Cesar Augusto Cavalheiro Marcondes</na><na>Cesar Marcondes</na></co>
+<co c="0"><na f="m/Marques:Johnny_Cardoso" pid="128/9841">Johnny Cardoso Marques</na></co>
+<co c="0" n="3"><na f="m/M=aacute=ximo:Marcos_Ricardo_Omena_de_Albuquerque" pid="277/2182">Marcos Ricardo Omena de Albuquerque M&#225;ximo</na><na>Marcos R. O. de A. M&#225;ximo</na><na>Marcos R. O. A. M&#225;ximo</na></co>
+<co c="2"><na f="m/Mello:Alexandre_Reeberg_de" pid="231/9220">Alexandre Reeberg de Mello</na></co>
+<co c="0" n="2"><na f="m/Meneguette:Rodolfo_I=" pid="123/3499">Rodolfo I. Meneguette</na><na>Rodolfo Ipolito Meneguette</na></co>
+<co c="2"><na f="m/Mingoti:Bruno" pid="421/5609">Bruno Mingoti</na></co>
+<co c="0"><na f="m/Moreira:Filipe_Rodrigues_De_Souza" pid="312/4146">Filipe Rodrigues De Souza Moreira</na></co>
+<co c="0"><na f="n/Neto:Manoel_V=_Machado" pid="399/8557">Manoel V. Machado Neto</na></co>
+<co c="0"><na f="n/Nishiura:Juliano_Yoshiro" pid="381/5316">Juliano Yoshiro Nishiura</na></co>
+<co c="0"><na f="n/Nonato:Luiz_Gustavo" pid="431/0056">Luiz Gustavo Nonato</na></co>
+<co c="0" n="2"><na f="o/Oliveira:Jos=eacute=_Maria_Parente_de" pid="50/4449">Jos&#233; Maria Parente de Oliveira</na><na>Jos&#233; M. Parente de Oliveira</na></co>
+<co c="2"><na f="o/Ozol:Murilo_M=" pid="399/4135">Murilo M. Ozol</na></co>
+<co c="0"><na f="p/Paes:Aline" pid="95/4928">Aline Paes</na></co>
+<co c="0" n="2"><na f="p/Pellicer:Lucas_F=_A=_O=" pid="256/0052">Lucas F. A. O. Pellicer</na><na>Lucas Francisco Amaral Orosco Pellicer</na></co>
+<co c="0"><na f="p/Peron:Thomas" pid="430/8720">Thomas Peron</na></co>
+<co c="0"><na f="p/Petronetto:Fabiano" pid="71/6208">Fabiano Petronetto</na></co>
+<co c="0"><na f="r/Ribeiro:Carlos_Henrique" pid="387/7601">Carlos Henrique Ribeiro</na></co>
+<co c="0"><na f="r/Rodrigues:Aline_Do_Nascimento" pid="368/8153">Aline Do Nascimento Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Moises_S=" pid="298/9197">Moises S. Rodrigues</na></co>
+<co c="1"><na f="r/Rodrigues:Rafael_D=" pid="221/8661">Rafael D. Rodrigues</na></co>
+<co c="0"><na f="r/Rodrigues:Sargon_D=_S=" pid="337/9209">Sargon D. S. Rodrigues</na></co>
+<co c="0"><na f="r/Roncal:Julio_J=" pid="387/4342">Julio J. Roncal</na></co>
+<co c="0"><na f="r/Rosset:Val=eacute=rio" pid="86/2383">Val&#233;rio Rosset</na></co>
+<co c="0" n="2"><na f="s/Santos:Aldri_Luiz_dos" pid="85/7266">Aldri Luiz dos Santos</na><na>Aldri L. dos Santos</na></co>
+<co c="0"><na f="s/Saotome:Osamu" pid="70/2216">Osamu Saotome</na></co>
+<co c="0"><na f="s/Sbruzzi:Elton_Felipe" pid="220/8910">Elton Felipe Sbruzzi</na></co>
+<co c="0"><na f="s/Senne:Edson_Luiz_Fran=ccedil=a" pid="49/1464">Edson Luiz Fran&#231;a Senne</na></co>
+<co c="0"><na f="s/Silva:Alexandre_S=_Quirino_da" pid="337/9253">Alexandre S. Quirino da Silva</na></co>
+<co c="0"><na f="s/Silveira:Leonardo" pid="227/0625">Leonardo Silveira</na></co>
+<co c="0"><na f="s/Skoogh:Anders" pid="85/6516">Anders Skoogh</na></co>
+<co c="3"><na f="s/Souza:Alex_Fernandes_de" pid="437/1440">Alex Fernandes de Souza</na></co>
+<co c="0"><na f="s/Souza:Diego_G=_De" pid="387/5971">Diego G. De Souza</na></co>
+<co c="0"><na f="s/Souza:Flavio" pid="356/5541">Flavio Souza</na></co>
+<co c="2"><na f="s/Souza:Kaique_V=_C=" pid="421/5026">Kaique V. C. Souza</na></co>
+<co c="2"><na f="s/Storer:Jo=atilde=o_P=_R=" pid="421/4300">Jo&#227;o P. R. Storer</na></co>
+<co c="1"><na f="t/Tin=oacute=s:Renato" pid="86/3910">Renato Tin&#243;s</na></co>
+<co c="0"><na f="t/Tokuda:Eric_K=" pid="224/4768">Eric K. Tokuda</na></co>
+<co c="1"><na f="u/Urio:Paulo_Roberto" pid="132/7160">Paulo Roberto Urio</na></co>
+<co c="0"><na f="v/Vog=aacute=s:Luan_Mateus_Bocalan" pid="378/0877">Luan Mateus Bocalan Vog&#225;s</na></co>
+<co c="0"><na f="y/Yoneyama:Takashi" pid="38/1181">Takashi Yoneyama</na></co>
+<co c="1"><na f="z/Zhang:Junbao" pid="91/11276">Junbao Zhang</na></co>
+<co c="1"><na f="z/Zhao_0001:Liang" pid="63/5422-1">Liang Zhao 0001</na></co>
+<co c="1"><na f="z/Zheng:Qiusheng" pid="62/7943">Qiusheng Zheng</na></co>
+</coauthors>
+</dblpperson>
+

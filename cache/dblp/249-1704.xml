@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<dblpperson name="Patr&#237;cia Matsubara" pid="249/1704" n="28">
+<person key="homepages/249/1704" mdate="2025-01-10">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes</author>
+<note type="affiliation">Federal University of Mato Grosso do Sul, Campo Grande, Brazil</note>
+<url>https://scholar.google.com/citations?user=qCzUwjAAAAAJ</url>
+<url>https://orcid.org/0000-0001-9230-3620</url>
+<url>https://www.wikidata.org/entity/Q130828701</url>
+</person>
+<r><article key="journals/ese/MatsubaraC26" mdate="2026-01-01">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>The unfinished business of evidence strength in software engineering: Current practices and future directions.</title>
+<pages>4</pages>
+<year>2026</year>
+<month>February</month>
+<volume>31</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10664-025-10728-9</ee>
+<url>db/journals/ese/ese31.html#MatsubaraC26</url>
+<stream>streams/journals/ese</stream>
+</article>
+</r>
+<r><inproceedings key="conf/icse-seet/GoncalvesSSTVM26" mdate="2026-07-21">
+<author orcid="0009-0003-7387-880X" pid="440/7784">Vinicius F. Gon&#231;alves</author>
+<author pid="440/7862">Jo&#227;o Pedro T. E. Santo</author>
+<author orcid="0009-0005-3761-1600" pid="440/7731">Guilherme F. Silva</author>
+<author orcid="0009-0004-0238-8827" pid="440/7778">Caio F. A. Tome</author>
+<author orcid="0000-0003-3369-1533" pid="78/10539">Jucele F. A. Vasconcellos</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<title>Examining Productivity in Educational Environments: Perspectives of Professors and Students on a Capstone Project.</title>
+<pages>301-311</pages>
+<year>2026</year>
+<booktitle>SEET@ICSE</booktitle>
+<ee type="oa">https://doi.org/10.1145/3786580.3786993</ee>
+<crossref>conf/icse-seet/2026</crossref>
+<url>db/conf/icse-seet/seet2026.html#GoncalvesSSTVM26</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2602-08015" mdate="2026-03-25">
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Bridging the Gap: Adapting Evidence to Decision Frameworks to support the link between Software Engineering academia and industry.</title>
+<year>2026</year>
+<month>February</month>
+<volume>abs/2602.08015</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2602.08015</ee>
+<url>db/journals/corr/corr2602.html#abs-2602-08015</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2606-17588" mdate="2026-07-08">
+<author pid="m/MikaMantyla">Mika M&#228;ntyl&#228;</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="53/8384">K&#225;tia Romero Felizardo</author>
+<author pid="185/5232">Miikka Kuutila</author>
+<author pid="68/5072">Marco Aur&#233;lio Gerosa</author>
+<author pid="394/3479">Savio Sousa Sampaio</author>
+<author pid="48/5">Tayana Conte</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<title>Understanding LLMs in Title-Abstract Screening: From Disagreements to Recommendations.</title>
+<year>2026</year>
+<month>June</month>
+<volume>abs/2606.17588</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2606.17588</ee>
+<url>db/journals/corr/corr2606.html#abs-2606-17588</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/AyachLLFSBMF25" mdate="2025-11-04">
+<author pid="388/4278">Fernando Ayach</author>
+<author pid="388/3943">Vitor Lameir&#227;o</author>
+<author pid="388/4337">Raul Le&#227;o</author>
+<author pid="412/8574">Jerfferson Felizardo</author>
+<author pid="412/8406">Rafael Sobrinho</author>
+<author pid="358/6777">Vanessa Borges</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="168/6211">Awdren L. Font&#227;o</author>
+<title>Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy.</title>
+<pages>126-137</pages>
+<year>2025</year>
+<booktitle>SBES</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbes.2025.9835</ee>
+<crossref>conf/sbes/2025</crossref>
+<url>db/conf/sbes/sbes2025.html#AyachLLFSBMF25</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sbqs/2025" mdate="2025-12-18">
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="05/2483">Sheila S. Reinehr</editor>
+<editor pid="00/7316">Ivaldir de Farias J&#250;nior</editor>
+<editor pid="77/7361">Bruno Gadelha</editor>
+<editor pid="97/7540">Monalessa Barcellos</editor>
+<editor pid="117/6111">S&#225;vio Freire</editor>
+<editor pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</editor>
+<editor pid="118/8796">Edna Dias Canedo</editor>
+<editor pid="172/1825">Ana Carolina Oran</editor>
+<editor pid="249/1704">Patr&#237;cia Matsubara</editor>
+<editor pid="237/7202">Rafael Parizi 0001</editor>
+<title>Proceedings of the 24th Brazilian Symposium on Software Quality, SBQS 2025, S&#227;o Jos&#233; dos Campos, SP, Brazil, November 4-7, 2025</title>
+<booktitle>SBQS</booktitle>
+<publisher>SBC</publisher>
+<year>2025</year>
+<ee type="oa">https://doi.org/10.5753/sbqs.2025</ee>
+<url>db/conf/sbqs/sbqs2025.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2507-08594" mdate="2025-08-12">
+<author pid="388/4278">Fernando Ayach</author>
+<author pid="388/3943">Vitor Lameir&#227;o</author>
+<author pid="388/4337">Raul Le&#227;o</author>
+<author pid="412/8574">Jerfferson Felizardo</author>
+<author pid="412/8406">Rafael Sobrinho</author>
+<author pid="358/6777">Vanessa Borges</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="168/6211">Awdren de Lima Font&#227;o</author>
+<title>Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy.</title>
+<year>2025</year>
+<month>July</month>
+<volume>abs/2507.08594</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2507.08594</ee>
+<url>db/journals/corr/corr2507.html#abs-2507-08594</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r><proceedings key="conf/sbqs/2024" mdate="2025-01-13">
+<editor pid="33/9369">Ivan Machado 0001</editor>
+<editor pid="28/2292">Jos&#233; Carlos Maldonado</editor>
+<editor pid="48/5">Tayana Conte</editor>
+<editor pid="118/8796">Edna Dias Canedo</editor>
+<editor pid="381/7558">Johnny Marques</editor>
+<editor pid="122/4837">Breno Bernard Nicolau de Fran&#231;a</editor>
+<editor pid="249/1704">Patr&#237;cia Matsubara</editor>
+<editor pid="117/5583">Davi Viana</editor>
+<editor pid="58/232">S&#233;rgio Soares</editor>
+<editor pid="78/2800">Gleison Santos</editor>
+<editor pid="391/1439">Larissa Rocha 0002</editor>
+<editor pid="77/7361">Bruno Gadelha</editor>
+<editor pid="57/7989">Rodrigo Pereira dos Santos</editor>
+<editor pid="172/1825">Ana Carolina Oran</editor>
+<editor pid="84/2417">Adolfo Gustavo Serra Seca Neto</editor>
+<title>Proceedings of the XXIII Brazilian Symposium on Software Quality, SBQS 2024, Salvador, Bahia, Brazil, November 5-8, 2024</title>
+<booktitle>SBQS</booktitle>
+<publisher>ACM</publisher>
+<year>2024</year>
+<isbn>979-8-4007-1777-2</isbn>
+<ee>https://doi.org/10.1145/3701625</ee>
+<url>db/conf/sbqs/sbqs2024.html</url>
+</proceedings>
+</r>
+<r><article key="journals/ese/MatsubaraSGC23" mdate="2023-07-21">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Much more than a prediction: Expert-based software effort estimation as a behavioral act.</title>
+<pages>98</pages>
+<year>2023</year>
+<month>July</month>
+<volume>28</volume>
+<journal>Empir. Softw. Eng.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10664-023-10332-9</ee>
+<url>db/journals/ese/ese28.html#MatsubaraSGC23</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC23" mdate="2025-01-19">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates.</title>
+<pages>703-715</pages>
+<year>2023</year>
+<booktitle>ICSE</booktitle>
+<ee>https://doi.org/10.1109/ICSE48619.2023.00068</ee>
+<ee>https://www.wikidata.org/entity/Q130824984</ee>
+<crossref>conf/icse/2023</crossref>
+<url>db/conf/icse/icse2023.html#MatsubaraSGC23</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MatsubaraSGC23" mdate="2025-01-19">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author orcid="0000-0002-0612-5790" pid="70/3474">Igor Steinmacher</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno Gadelha</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>SwEDeL: Software Estimates' Defense Lenses Designed from Negotiation Methods.</title>
+<pages>352-354</pages>
+<year>2023</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3629479.3629498</ee>
+<ee>https://www.wikidata.org/entity/Q130828704</ee>
+<crossref>conf/sbqs/2023</crossref>
+<url>db/conf/sbqs/sbqs2023.html#MatsubaraSGC23</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/sast/2023" mdate="2023-10-20">
+<editor pid="168/6211">Awdren L. Font&#227;o</editor>
+<editor pid="11/6879">D&#233;bora M. B. Paiva</editor>
+<editor pid="119/0140">Hudson Borges</editor>
+<editor pid="22/4238">Maria Istela Cagnin</editor>
+<editor pid="249/1704">Patr&#237;cia Gomes Fernandes</editor>
+<editor pid="358/6777">Vanessa Borges</editor>
+<editor pid="117/5522">Silvana M. Melo</editor>
+<editor pid="128/3287">Vinicius H. S. Durelli</editor>
+<editor pid="118/8796">Edna Dias Canedo</editor>
+<title>8th Brazilian Symposium on Systematic and Automated Software Testing, SAST 2023, Campo Grande, MS, Brazil, September 25-29, 2023</title>
+<booktitle>SAST</booktitle>
+<publisher>ACM</publisher>
+<year>2023</year>
+<ee>https://doi.org/10.1145/3624032</ee>
+<url>db/conf/sast/sast2023.html</url>
+</proceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2302-07229" mdate="2023-02-20">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Moving on from the software engineers' gambit: an approach to support the defense of software effort estimates.</title>
+<year>2023</year>
+<volume>abs/2302.07229</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2302.07229</ee>
+<url>db/journals/corr/corr2302.html#abs-2302-07229</url>
+</article>
+</r>
+<r><article key="journals/jss/MatsubaraGSC22" mdate="2022-04-06">
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="77/7361">Bruno F. Gadelha</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>SEXTAMT: A systematic map to navigate the wide seas of factors affecting expert judgment software estimates.</title>
+<pages>111148</pages>
+<year>2022</year>
+<volume>185</volume>
+<journal>J. Syst. Softw.</journal>
+<ee>https://doi.org/10.1016/j.jss.2021.111148</ee>
+<url>db/journals/jss/jss185.html#MatsubaraGSC22</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC22" mdate="2022-11-11">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>The best defense is a good defense: adapting negotiation methods for tackling pressure over software project estimates.</title>
+<pages>91-95</pages>
+<year>2022</year>
+<booktitle>ICSE (NIER)</booktitle>
+<ee>https://doi.org/10.1109/ICSE-NIER55298.2022.9793529</ee>
+<ee>https://doi.org/10.1145/3510455.3512775</ee>
+<crossref>conf/icse/2022nier</crossref>
+<url>db/conf/icse/nier2022.html#MatsubaraSGC22</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/BarcellosSCTM22" mdate="2023-02-10">
+<author orcid="0000-0002-6225-9478" pid="97/7540">Monalessa Barcellos</author>
+<author orcid="0000-0003-0279-0440" pid="78/2800">Gleison Santos</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<author orcid="0000-0001-7302-6082" pid="166/2138">Bianca Trinkenreich</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Matsubara</author>
+<title>Organizing Empirical Studies as Learning Iterations in Design Science Research Projects.</title>
+<pages>17:1-17:10</pages>
+<year>2022</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3571473.3571474</ee>
+<crossref>conf/sbqs/2022</crossref>
+<url>db/conf/sbqs/sbqs2022.html#BarcellosSCTM22</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2203-13623" mdate="2022-03-29">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>The best defense is a good defense: adapting negotiation methods for tackling pressure over software project estimates.</title>
+<year>2022</year>
+<volume>abs/2203.13623</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2203.13623</ee>
+<url>db/journals/corr/corr2203.html#abs-2203-13623</url>
+</article>
+</r>
+<r><article key="journals/sensors/MarquesMNFWGZRC21" mdate="2023-08-28">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author orcid="0000-0001-9230-3620" pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author orcid="0000-0001-5451-3109" pid="201/2424">Walter Takashi Nakamura</author>
+<author orcid="0000-0003-2895-1054" pid="135/0908">Bruna Moraes Ferreira</author>
+<author orcid="0000-0001-9943-5570" pid="06/10439">Igor Scaliante Wiese</author>
+<author orcid="0000-0001-7007-5209" pid="77/7361">Bruno F. Gadelha</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana Martinez Zaina</author>
+<author orcid="0000-0002-1370-7123" pid="84/6534">David F. Redmiles</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Understanding UX Better: A New Technique to Go beyond Emotion Assessment.</title>
+<pages>7183</pages>
+<year>2021</year>
+<volume>21</volume>
+<journal>Sensors</journal>
+<number>21</number>
+<ee type="oa">https://doi.org/10.3390/s21217183</ee>
+<ee>https://www.wikidata.org/entity/Q114026672</ee>
+<url>db/journals/sensors/sensors21.html#MarquesMNFWGZRC21</url>
+</article>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraSGC21" mdate="2021-07-05">
+<author pid="249/1704">Patr&#237;cia G. F. Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Uch&#244;a Conte</author>
+<title>Buying time in software development: how estimates become commitments?</title>
+<pages>61-70</pages>
+<year>2021</year>
+<booktitle>CHASE@ICSE</booktitle>
+<ee>https://doi.org/10.1109/CHASE52884.2021.00015</ee>
+<crossref>conf/icse/2021chase</crossref>
+<url>db/conf/icse/chase2021.html#MatsubaraSGC21</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbes/MatsubaraSMGC21" mdate="2022-08-18">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="28/2292">Jos&#233; Carlos Maldonado</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Trust yourself! Or maybe not: factors related to overconfidence and uncertainty assessments of software effort estimates.</title>
+<pages>452-461</pages>
+<year>2021</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3474624.3474643</ee>
+<crossref>conf/sbes/2021</crossref>
+<url>db/conf/sbes/sbes2021.html#MatsubaraSMGC21</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-2105-08018" mdate="2021-05-18">
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="70/3474">Igor Steinmacher</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Buying time in software development: how estimates become commitments?</title>
+<year>2021</year>
+<volume>abs/2105.08018</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2105.08018</ee>
+<url>db/journals/corr/corr2105.html#abs-2105-08018</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbqs/MarquesMFGGC20" mdate="2022-03-29">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="201/9881">Jos&#233; Cezar de Souza Filho</author>
+<author pid="283/4200">Genildo Gomes</author>
+<author pid="77/7361">Bruno Gadelha</author>
+<author pid="48/5">Tayana Conte</author>
+<title>Challenges and Learning from Remote Teaching of Usability and UX: An Experience Report.</title>
+<pages>42</pages>
+<year>2020</year>
+<booktitle>SBQS</booktitle>
+<ee>https://doi.org/10.1145/3439961.3440003</ee>
+<ee type="oa">https://sol.sbc.org.br/index.php/sbqs/article/view/14237</ee>
+<crossref>conf/sbqs/2020</crossref>
+<url>db/conf/sbqs/sbqs2020.html#MarquesMFGGC20</url>
+</inproceedings>
+</r>
+<r><article key="journals/sigsoft/Matsubara19" mdate="2025-01-19">
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<title>Dealing with software estimates distortions from the perspective of negotiation theories.</title>
+<pages>22</pages>
+<year>2019</year>
+<volume>44</volume>
+<journal>ACM SIGSOFT Softw. Eng. Notes</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/3356773.3356794</ee>
+<ee>https://www.wikidata.org/entity/Q126797178</ee>
+<url>db/journals/sigsoft/sigsoft44.html#Matsubara19</url>
+</article>
+</r>
+<r><inproceedings key="conf/sbes/MarquesMNWZC19" mdate="2025-04-01">
+<author orcid="0000-0002-3645-7606" pid="229/5358">Leonardo C. Marques</author>
+<author pid="249/1704">Patr&#237;cia Matsubara</author>
+<author pid="201/2424">Walter Takashi Nakamura</author>
+<author pid="06/10439">Igor Wiese</author>
+<author orcid="0000-0002-1736-544X" pid="71/8694">Luciana A. M. Zaina</author>
+<author orcid="0000-0001-6436-3773" pid="48/5">Tayana Conte</author>
+<title>UX-Tips: A UX evaluation technique to support the identification of software application problems.</title>
+<pages>224-233</pages>
+<year>2019</year>
+<booktitle>SBES</booktitle>
+<ee>https://doi.org/10.1145/3350768.3350783</ee>
+<crossref>conf/sbes/2019</crossref>
+<url>db/conf/sbes/sbes2019.html#MarquesMNWZC19</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icse/MatsubaraS17" mdate="2023-03-23">
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="202/8411">Caroline Lima Correa Da Silva</author>
+<title>Game Elements in a Software Engineering Study Group: A Case Study.</title>
+<pages>160-169</pages>
+<year>2017</year>
+<booktitle>ICSE-SEET</booktitle>
+<ee>https://doi.org/10.1109/ICSE-SEET.2017.8</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/ICSE-SEET.2017.8</ee>
+<crossref>conf/icse/2017seet</crossref>
+<url>db/conf/icse/icse2017seet.html#MatsubaraS17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbsi/SilvaAMG15" mdate="2022-05-04">
+<author pid="266/2512">Gerson Correia da Silva</author>
+<author pid="266/2525">Joao Paulo Amaral</author>
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes Matsubara</author>
+<author pid="151/3182">Valdemar Vicente Graciano Neto</author>
+<title>Influences of Organizational Culture in the Adoption of Agile Methodologies in Information Systems Development A Systematic Mapping [Influences of Organizational Culture in the Adoption of Agile Methodologies in Information Systems Development: A Systematic Mapping].</title>
+<pages>227-234</pages>
+<year>2015</year>
+<booktitle>SBSI</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbsi.2015.5821</ee>
+<ee>https://dl.acm.org/doi/10.5555/2814058.2814096</ee>
+<crossref>conf/sbsi/2015</crossref>
+<url>db/conf/sbsi/sbsi2015.html#SilvaAMG15</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MendesFMNM11" mdate="2022-04-20">
+<author pid="127/9811">Fabiana Freitas Mendes</author>
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes</author>
+<author pid="318/3023">Caroline da Cunha Mota</author>
+<author pid="318/3048">Ros&#226;ngela da Silva Nunes</author>
+<author pid="318/3083">Maria Dalva S. Martins</author>
+<title>Institucionaliza&#231;&#227;o de Processos no Setor de Produ&#231;&#227;o de Software de uma Universidade Federal.</title>
+<pages>369-376</pages>
+<year>2011</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2011.15408</ee>
+<crossref>conf/sbqs/2011</crossref>
+<url>db/conf/sbqs/sbqs2011.html#MendesFMNM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sbqs/MendesNFNM10" mdate="2022-04-20">
+<author pid="127/9811">Fabiana Freitas Mendes</author>
+<author pid="22/1056">Hugo Alexandre Dantas do Nascimento</author>
+<author pid="249/1704">Patr&#237;cia Gomes Fernandes</author>
+<author pid="318/3048">Ros&#226;ngela da Silva Nunes</author>
+<author pid="318/3023">Caroline da Cunha Mota</author>
+<title>Implanta&#231;&#227;o de Melhoria de Processos em um Setor de Produ&#231;&#227;o de Software de uma Universidade Federal.</title>
+<pages>359-365</pages>
+<year>2010</year>
+<booktitle>SBQS</booktitle>
+<ee type="oa">https://doi.org/10.5753/sbqs.2010.15445</ee>
+<crossref>conf/sbqs/2010</crossref>
+<url>db/conf/sbqs/sbqs2010.html#MendesNFNM10</url>
+</inproceedings>
+</r>
+<coauthors n="60" nc="1">
+<co c="0"><na f="a/Amaral:Joao_Paulo" pid="266/2525">Joao Paulo Amaral</na></co>
+<co c="0"><na f="a/Ayach:Fernando" pid="388/4278">Fernando Ayach</na></co>
+<co c="0" n="2"><na f="b/Barcellos:Monalessa_Perini" pid="97/7540">Monalessa Perini Barcellos</na><na>Monalessa Barcellos</na></co>
+<co c="0"><na f="b/Borges:Hudson" pid="119/0140">Hudson Borges</na></co>
+<co c="0"><na f="b/Borges:Vanessa" pid="358/6777">Vanessa Borges</na></co>
+<co c="0"><na f="c/Cagnin:Maria_Istela" pid="22/4238">Maria Istela Cagnin</na></co>
+<co c="0"><na f="c/Canedo:Edna_Dias" pid="118/8796">Edna Dias Canedo</na></co>
+<co c="0" n="2"><na f="c/Conte:Tayana" pid="48/5">Tayana Conte</na><na>Tayana Uch&#244;a Conte</na></co>
+<co c="0"><na f="d/Durelli:Vinicius_H=_S=" pid="128/3287">Vinicius H. S. Durelli</na></co>
+<co c="0"><na f="f/Felizardo:Jerfferson" pid="412/8574">Jerfferson Felizardo</na></co>
+<co c="0"><na f="f/Felizardo:K=aacute=tia_Romero" pid="53/8384">K&#225;tia Romero Felizardo</na></co>
+<co c="0" n="2"><na f="f/Ferreira:Bruna" pid="135/0908">Bruna Ferreira</na><na>Bruna Moraes Ferreira</na></co>
+<co c="0"><na f="f/Filho:Jos=eacute=_Cezar_de_Souza" pid="201/9881">Jos&#233; Cezar de Souza Filho</na></co>
+<co c="0" n="2"><na f="f/Font=atilde=o:Awdren_de_Lima" pid="168/6211">Awdren de Lima Font&#227;o</na><na>Awdren L. Font&#227;o</na></co>
+<co c="0" n="2"><na f="f/Fran=ccedil=a:Breno_B=_N=_de" pid="122/4837">Breno B. N. de Fran&#231;a</na><na>Breno Bernard Nicolau de Fran&#231;a</na></co>
+<co c="0"><na f="f/Freire:S=aacute=vio" pid="117/6111">S&#225;vio Freire</na></co>
+<co c="0" n="2"><na f="g/Gadelha:Bruno" pid="77/7361">Bruno Gadelha</na><na>Bruno F. Gadelha</na></co>
+<co c="0"><na f="g/Gerosa:Marco_Aur=eacute=lio" pid="68/5072">Marco Aur&#233;lio Gerosa</na></co>
+<co c="0"><na f="g/Gomes:Genildo" pid="283/4200">Genildo Gomes</na></co>
+<co c="0"><na f="g/Gon=ccedil=alves:Vinicius_F=" pid="440/7784">Vinicius F. Gon&#231;alves</na></co>
+<co c="0" n="2"><na f="j/J=uacute=nior:Ivaldir_H=_de_Farias" pid="00/7316">Ivaldir H. de Farias J&#250;nior</na><na>Ivaldir de Farias J&#250;nior</na></co>
+<co c="0"><na f="k/Kuutila:Miikka" pid="185/5232">Miikka Kuutila</na></co>
+<co c="0"><na f="l/Lameir=atilde=o:Vitor" pid="388/3943">Vitor Lameir&#227;o</na></co>
+<co c="0"><na f="l/Le=atilde=o:Raul" pid="388/4337">Raul Le&#227;o</na></co>
+<co c="0" n="2"><na f="m/Machado:Ivan_do_Carmo" pid="33/9369">Ivan do Carmo Machado</na><na>Ivan Machado 0001</na></co>
+<co c="0"><na f="m/Maldonado:Jos=eacute=_Carlos" pid="28/2292">Jos&#233; Carlos Maldonado</na></co>
+<co c="0"><na f="m/M=auml=ntyl=auml=:Mika" pid="m/MikaMantyla">Mika M&#228;ntyl&#228;</na></co>
+<co c="0"><na f="m/Marques:Johnny" pid="381/7558">Johnny Marques</na></co>
+<co c="0"><na f="m/Marques:Leonardo_C=" pid="229/5358">Leonardo C. Marques</na></co>
+<co c="0"><na f="m/Martins:Maria_Dalva_S=" pid="318/3083">Maria Dalva S. Martins</na></co>
+<co c="0"><na f="m/Melo:Silvana_M=" pid="117/5522">Silvana M. Melo</na></co>
+<co c="0"><na f="m/Mendes:Fabiana_Freitas" pid="127/9811">Fabiana Freitas Mendes</na></co>
+<co c="0"><na f="m/Mota:Caroline_da_Cunha" pid="318/3023">Caroline da Cunha Mota</na></co>
+<co c="0"><na f="n/Nakamura:Walter_Takashi" pid="201/2424">Walter Takashi Nakamura</na></co>
+<co c="0" n="2"><na f="n/Nascimento:Hugo_A=_D=_do" pid="22/1056">Hugo A. D. do Nascimento</na><na>Hugo Alexandre Dantas do Nascimento</na></co>
+<co c="0"><na f="n/Neto:Adolfo_Gustavo_Serra_Seca" pid="84/2417">Adolfo Gustavo Serra Seca Neto</na></co>
+<co c="0"><na f="n/Neto:Valdemar_Vicente_Graciano" pid="151/3182">Valdemar Vicente Graciano Neto</na></co>
+<co c="0"><na f="n/Nunes:Ros=acirc=ngela_da_Silva" pid="318/3048">Ros&#226;ngela da Silva Nunes</na></co>
+<co c="0"><na f="o/Oran:Ana_Carolina" pid="172/1825">Ana Carolina Oran</na></co>
+<co c="0"><na f="p/Paiva:D=eacute=bora_M=_B=" pid="11/6879">D&#233;bora M. B. Paiva</na></co>
+<co c="0"><na f="p/Parizi_0001:Rafael" pid="237/7202">Rafael Parizi 0001</na></co>
+<co c="0"><na f="r/Redmiles:David_F=" pid="84/6534">David F. Redmiles</na></co>
+<co c="0"><na f="r/Reinehr:Sheila_S=" pid="05/2483">Sheila S. Reinehr</na></co>
+<co c="0"><na f="r/Rocha_0002:Larissa" pid="391/1439">Larissa Rocha 0002</na></co>
+<co c="0"><na f="s/Sampaio:Savio_Sousa" pid="394/3479">Savio Sousa Sampaio</na></co>
+<co c="0"><na f="s/Santo:Jo=atilde=o_Pedro_T=_E=" pid="440/7862">Jo&#227;o Pedro T. E. Santo</na></co>
+<co c="0"><na f="s/Santos:Gleison" pid="78/2800">Gleison Santos</na></co>
+<co c="0"><na f="s/Santos:Rodrigo_Pereira_dos" pid="57/7989">Rodrigo Pereira dos Santos</na></co>
+<co c="-1"><na f="s/Silva:Caroline_Lima_Correa_Da" pid="202/8411">Caroline Lima Correa Da Silva</na></co>
+<co c="0"><na f="s/Silva:Gerson_Correia_da" pid="266/2512">Gerson Correia da Silva</na></co>
+<co c="0"><na f="s/Silva:Guilherme_F=" pid="440/7731">Guilherme F. Silva</na></co>
+<co c="0"><na f="s/Soares:S=eacute=rgio" pid="58/232">S&#233;rgio Soares</na></co>
+<co c="0"><na f="s/Sobrinho:Rafael" pid="412/8406">Rafael Sobrinho</na></co>
+<co c="0"><na f="s/Steinmacher:Igor" pid="70/3474">Igor Steinmacher</na></co>
+<co c="0"><na f="t/Tome:Caio_F=_A=" pid="440/7778">Caio F. A. Tome</na></co>
+<co c="0"><na f="t/Trinkenreich:Bianca" pid="166/2138">Bianca Trinkenreich</na></co>
+<co c="0"><na f="v/Vasconcellos:Jucele_F=_A=" pid="78/10539">Jucele F. A. Vasconcellos</na></co>
+<co c="0"><na f="v/Viana:Davi" pid="117/5583">Davi Viana</na></co>
+<co c="0" n="2"><na f="w/Wiese:Igor_Scaliante" pid="06/10439">Igor Scaliante Wiese</na><na>Igor Wiese</na></co>
+<co c="0" n="2"><na f="z/Zaina:Luciana_A=_M=" pid="71/8694">Luciana A. M. Zaina</na><na>Luciana Martinez Zaina</na></co>
+</coauthors>
+</dblpperson>
+

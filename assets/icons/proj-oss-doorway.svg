@@ -1,0 +1,11 @@
+<svg viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A Learning Environment for an Open-Source Contribution Model">
+<title>A Learning Environment for an Open-Source Contribution Model</title>
+<rect x="2" y="2" width="92" height="92" rx="16" fill="#fafbfc" stroke="#d8dee4" stroke-width="2"/>
+
+<rect x="20" y="26" width="26" height="42" rx="3" fill="#fafbfc" stroke="#1d3329" stroke-width="3"/>
+<circle cx="40" cy="48" r="2" fill="#1d3329"/>
+<rect x="54" y="60" width="8" height="8" rx="1.5" fill="#9be9a8"/>
+<rect x="64" y="50" width="8" height="8" rx="1.5" fill="#40c463"/>
+<rect x="74" y="40" width="8" height="8" rx="1.5" fill="#30a14e"/>
+
+</svg>
